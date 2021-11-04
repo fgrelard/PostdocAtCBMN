@@ -82,8 +82,13 @@ We use the ~pyqtgraph~ library.
 
 _TODOs:_
 **** DONE Display and navigate through ion images
-CLOSED: [2021-11-04 Thu 16:14]
-**** 
+CLOSED: [2021-09-22 Wed 16:14]
+**** DONE Interact with the mean spectrum to select ion images
+CLOSED: [2021-10-19 Tue 16:15]
+**** DONE Interaction with ~TextEdit~ to select the appropriate m/z value with tolerance
+CLOSED: [2021-10-19 Tue 16:22]
+**** DONE Hover on image to display pixel information
+CLOSED: [2021-10-24 Sun 16:24]
 *** Displaying spectra
 *** Region-of-Interest management
 
@@ -104,7 +109,7 @@ _Approach:_
 3) Export the image with the information from those coordinates
 
 _Bug fixes:_
-**** Removing lines induces undesirable offset of data
+**** TODO Removing lines induces undesirable offset of data
 :LOGBOOK:
 CLOCK: [2021-11-04 Thu 15:27]
 :END:
