@@ -9,7 +9,7 @@
 *** [[file:meetings/meeting2021_11_19.org][Meeting November]] <2021-11-19 Fri>
 *** Meeting December
 ** Scientific days
-*** Scientific day CBMN <2021-11-05 Fri>
+*** Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN) <2021-11-05 Fri>
 Presentations of Michael and Florent.
 Introduction to the department.
 Poster presentations.
@@ -17,7 +17,7 @@ Poster presentations.
 **  Trainings
 * Research
 ** Data structures
-*** Sparse matrices.
+*** Sparse matrices
 Large centroided MS images cannot fit in memory. The majority of the values in the MS images are zeroes. One approach is to use /sparse matrices/, where only nonzero datapoints are stored.
 
 Approach:
