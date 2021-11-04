@@ -48,7 +48,6 @@ Operations on both the spectra and the image
           self.spectra = spectra
 
       #redefine various operations working on both spectra and images
-
 #+end_src
 **** DONE Transparent integration
 CLOSED: <2021-10-29 Fri 12:05>
@@ -99,6 +98,7 @@ _Use-cases:_
 CLOSED: [2021-10-25 Mon 16:29]
 **** DONE Compute the average pixel intensity inside the ROI
 CLOSED: [2021-10-26 Tue 16:30]
+
 *** Functionality frames
 
 ** Registration
