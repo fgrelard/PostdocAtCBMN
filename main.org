@@ -1,6 +1,6 @@
 #+TITLE: Postdoc at CBMN
 
-#+attr_html: :width 500px :align right
+#+attr_html: :width 500px :align left
 [[file:fig/rate.png]]
 
 * Meetings
@@ -69,6 +69,7 @@ We need to read the images *on the fly*, in a time-efficient manner.
 
 Approach:
 **** TODO Integration in  ~MSImageImplementation~
+**** TODO Display on the fly.
 ** Registration
 *** Fiducial landmarks
 
