@@ -99,7 +99,6 @@ _Use-cases:_
 CLOSED: [2021-10-25 Mon 16:29]
 **** DONE Compute the average pixel intensity inside the ROI
 CLOSED: [2021-10-26 Tue 16:30]
-
 *** Functionality frames
 
 ** Registration
