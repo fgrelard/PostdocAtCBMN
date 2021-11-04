@@ -80,5 +80,13 @@ Approach:
 *** Fiducial landmarks
 
 ** Correlation
+Joint statistical analysis
+** Miscellaneous
+*** Crop MS images
+Some data might be missing from MS images, /i.e./ abnormal artefacts where no data is recorded. The image should be cropped to retain only the *valuable information*.
 
+Approach:
+**** Specify a list ~L~ of values where data is missing
+**** Use ~get_spectra~ with indices where data is not missing
+**** 
 * Teaching
