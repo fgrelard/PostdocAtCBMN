@@ -9,6 +9,11 @@
 *** [[file:meetings/meeting2021_11_19.org][Meeting November]] <2021-11-19 Fri>
 *** Meeting December
 ** Scientific days
+*** Scientific day CBMN <2021-11-05 Fri>
+Presentations of Michael and Florent.
+Introduction to the department.
+Poster presentations.
+
 **  Trainings
 * Research
 ** Data structures
@@ -70,6 +75,7 @@ We need to read the images *on the fly*, in a time-efficient manner.
 Approach:
 **** TODO Integration in  ~MSImageImplementation~
 **** TODO Display on the fly.
+** Graphical User Interface
 ** Registration
 *** Fiducial landmarks
 
