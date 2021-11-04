@@ -1,0 +1,26 @@
+#+TITLE: Postdoc at CBMN
+
+#+attr_html: :width 500px :align right
+[[file:fig/rate.png]]
+
+* Meetings
+** Conferences
+** Group meetings
+*** [[file:meetings/meeting2021_11_19.org][Meeting November]] <2021-11-19 Fri>
+*** Meeting December
+** Scientific days
+**  Trainings
+* Research
+** Data structures
+*** DONE Sparse matrices.
+CLOSED: [2021-11-03 Wed 15:03]
+1. [X] New data structure
+2. [X] Factory
+   
+*** TODO Efficient data structure.
+** Registration
+*** Fiducial landmarks
+
+** Correlation
+
+* Teaching

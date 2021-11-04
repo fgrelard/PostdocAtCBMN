@@ -1,0 +1,5132 @@
+* Bilan COO
+:PROPERTIES:
+:ID:       006b70f2-eba8-4c0a-86b8-973aa5cb70be
+:END:
+<2017-05-09 Tue 10:00-11:30>
+* TAI
+:PROPERTIES:
+:ID:       0131f1f8-4217-44a0-9b24-a6eae57cc9d3
+:END:
+<2017-02-16 Thu 13:00-14:00>
+* Acupuncture
+:PROPERTIES:
+:ID:       021A2BE0-9103-4999-9ED3-870337D9C19B
+:END:
+<2019-02-05 Tue 18:30-19:30>
+* OurCon
+:PROPERTIES:
+:ID:       02b5524c-f576-4b2b-a42e-8218e9a0c110
+:END:
+<2019-10-28 Mon 09:00>--<2019-10-31 Thu 18:00>
+* Anniversaire Clément
+:PROPERTIES:
+:ID:       03C66102-7C29-4E7A-854B-353547007C60
+:END:
+<2019-02-04 Mon 08:00-09:00>
+* [REUNION BIBS] Jeudi 30/4, 10h
+:PROPERTIES:
+:ID:       040000008200E00074C5B7101A82E00800000000102DEA62581DD6010000000000000000100000002BC69D2BBF7FB0419C7A78F01FC50AF4
+:LOCATION: Réunion Skype
+:END:
+<2020-04-30 Thu 10:00-12:00>
+  
+ .........................................................................................................................................
+ Participer à une Réunion Skype <https://meet.inrae.fr/helene.rogniaux/TR7IIQXA>
+ Vous n’arrivez pas à rejoindre cette réunion ? Essayer l’app web Skype <https://meet.inrae.fr/helene.rogniaux/TR7IIQXA?sl=1>
+ Participer par téléphone
+ +33561285707<tel:+33561285707> (FRANCE)                              Français (France)
+ +33134652086<tel:+33134652086> (FRANCE)                              Français (France)
+ +33247427676<tel:+33247427676> (FRANCE)                              Français (France)
+ +33432722140<tel:+33432722140> (FRANCE)                              Français (France)
+ Rechercher un numéro local <https://dialin.inrae.fr>
+ 
+ ID de conférence : 455138
+  Vous avez oublié votre code confidentiel de connexion ? <https://dialin.inrae.fr>  |Aide <https://ariane.inrae.fr>
+ 
+ 
+ Mercure - Partageons Simplement
+ [!OC([040c])!]
+ .........................................................................................................................................
+ 
+ 
+* Repetition soutenance Thang
+:PROPERTIES:
+:ID:       040000008200E00074C5B7101A82E008000000001041E8D74DBED60100000000000000001000000015DE01C70E59154892557E5D3A20DC1D
+:LOCATION: Réunion Skype
+:END:
+<2020-11-23 Mon 14:00-16:00>
+  Bonjour à tous, ci-dessous le lien pour la répétition de la soutenance de thèse de Thang.
+ Bonne journée,
+ Anne-Laure
+ .........................................................................................................................................
+ --> Participer à une Réunion Skype <https://meet.inrae.fr/anne-laure.chateigner-boutin/YW4LX7NB>
+ Vous n’arrivez pas à rejoindre cette réunion ? Essayer l’App web Skype <https://meet.inrae.fr/anne-laure.chateigner-boutin/YW4LX7NB?sl=1>
+ Participer par téléphone
+  +33561285707,,42805# (FRANCE)               Français (France)
+  +33134652086,,42805# (FRANCE)               Français (France)
+  +33247427676,,42805# (FRANCE)               Français (France)
+  +33432722140,,42805# (FRANCE)               Français (France)
+ Rechercher un numéro local <https://dialin.inrae.fr?id=42805>
+ 
+ ID de conférence : 42805
+  Vous avez oublié votre code confidentiel de connexion ? <https://dialin.inrae.fr>  |Aide <https://ariane.inrae.fr>
+ 
+ 
+ Mercure - Partageons Simplement
+ [!OC([040c])!]
+ .........................................................................................................................................
+ 
+ 
+* présentation ACP + application données spectres (VL + DL)
+:PROPERTIES:
+:ID:       040000008200E00074C5B7101A82E0080000000010ECF15D7D03D7010000000000000000100000008C0CF146F7EA044FAFE2B381D8466353
+:LOCATION: Réunion Skype
+:END:
+<2021-03-11 Thu 14:00-16:00>
+  
+ .........................................................................................................................................
+ Participer à une Réunion Skype <https://meet.inrae.fr/david.legland/LGVSDH2D>
+ Vous n’arrivez pas à rejoindre cette réunion ? Essayer l’app web Skype <https://meet.inrae.fr/david.legland/LGVSDH2D?sl=1>
+ Participer par téléphone
+ +33561285707<tel:+33561285707> (FRANCE)                               Français (France)
+ +33134652086<tel:+33134652086> (FRANCE)                               Français (France)
+ +33247427676<tel:+33247427676> (FRANCE)                               Français (France)
+ +33432722140<tel:+33432722140> (FRANCE)                               Français (France)
+ Rechercher un numéro local <https://dialin.inrae.fr>
+ 
+ ID de conférence : 9786916
+  Vous avez oublié votre code confidentiel de connexion ? <https://dialin.inrae.fr>  |Aide <https://ariane.inrae.fr>
+ 
+ 
+ Mercure - Partageons Simplement
+ [!OC([040c])!]
+ .........................................................................................................................................
+ 
+ 
+* Café Skype, nouvel horaire ! :-)
+:PROPERTIES:
+:ID:       040000008200E00074C5B7101A82E00800000000202EA6ADD140D60100000000000000001000000038DF058BB8EC0F47820B230F4462B273
+:LOCATION: Réunion Skype
+:END:
+<2020-06-15 Mon 13:30-14:00>
+  
+ .........................................................................................................................................
+ Participer à une Réunion Skype <https://meet.inrae.fr/helene.rogniaux/TR7IIQXA>
+ Vous n’arrivez pas à rejoindre cette réunion ? Essayer l’app web Skype <https://meet.inrae.fr/helene.rogniaux/TR7IIQXA?sl=1>
+ Participer par téléphone
+ +33561285707<tel:+33561285707> (FRANCE)                              Français (France)
+ +33134652086<tel:+33134652086> (FRANCE)                              Français (France)
+ +33247427676<tel:+33247427676> (FRANCE)                              Français (France)
+ +33432722140<tel:+33432722140> (FRANCE)                              Français (France)
+ Rechercher un numéro local <https://dialin.inrae.fr>
+ 
+ ID de conférence : 455138
+  Vous avez oublié votre code confidentiel de connexion ? <https://dialin.inrae.fr>  |Aide <https://ariane.inrae.fr>
+ 
+ 
+ Mercure - Partageons Simplement
+ [!OC([040c])!]
+ .........................................................................................................................................
+ 
+ 
+* Reunion Bioinfo
+:PROPERTIES:
+:ID:       040000008200E00074C5B7101A82E00800000000205EC706EE14D7010000000000000000100000005D6E4362EB2AEC42B9E5D4B6CC67D08F
+:LOCATION: Réunion Skype
+:END:
+<2021-03-12 Fri 14:00-15:30>
+  Merci à tous pour vos réponses rapides : il me semble que vendredi aprem à 14H doit satisfaire tout le monde !
+ 
+ Bonne fin d’aprem,
+ Dominique
+ .........................................................................................................................................
+ Participer à une Réunion Skype <https://meet.inrae.fr/dominique.tessier/KGDY97RC>
+ Vous n’arrivez pas à rejoindre cette réunion ? Essayer l’app web Skype <https://meet.inrae.fr/dominique.tessier/KGDY97RC?sl=1>
+ Participer par téléphone
+ +33561285707<tel:+33561285707> (FRANCE)                            Français (France)
+ +33134652086<tel:+33134652086> (FRANCE)                            Français (France)
+ +33247427676<tel:+33247427676> (FRANCE)                            Français (France)
+ +33432722140<tel:+33432722140> (FRANCE)                            Français (France)
+ Rechercher un numéro local <https://dialin.inrae.fr>
+ 
+ ID de conférence : 545027
+  Vous avez oublié votre code confidentiel de connexion ? <https://dialin.inrae.fr>  |Aide <https://ariane.inrae.fr>
+ 
+ 
+ Mercure - Partageons Simplement
+ [!OC([040c])!]
+ .........................................................................................................................................
+ 
+ 
+* Séminaire scientifique BIBS
+:PROPERTIES:
+:ID:       040000008200E00074C5B7101A82E00800000000209CFB6DDAFED60100000000000000001000000083BDBA9635F9674288D78293E843005A
+:LOCATION: Réunion Skype
+:END:
+<2021-05-25 Tue 11:00-12:00>
+  Hello,
+ merci de noter dans vos agendas la date du 25/05/2021 à 11h qui sera consacrée à 2 nouveaux projets récemment acceptés et en démarrage sur la plateforme courant 2021 :
+ 
+ -          présentation du projet Marie-Curie Europe Mecastarch (Angelina, recrutement post-doc prévu)
+ 
+ -          Présentation du projet ANR Evagrain (Sophie, recrutement PhD prévu)
+ bonne journée !
+ sophie
+ .........................................................................................................................................
+ Participer à une Réunion Skype <https://meet.inrae.fr/sophie.le-gall/76V87VFZ>
+ Vous n’arrivez pas à rejoindre cette réunion ? Essayer l’app web Skype <https://meet.inrae.fr/sophie.le-gall/76V87VFZ?sl=1>
+ Participer par téléphone
+ +33561285707<tel:+33561285707> (FRANCE)                              Français (France)
+ +33134652086<tel:+33134652086> (FRANCE)                              Français (France)
+ +33247427676<tel:+33247427676> (FRANCE)                              Français (France)
+ +33432722140<tel:+33432722140> (FRANCE)                              Français (France)
+ Rechercher un numéro local <https://dialin.inrae.fr>
+ 
+ ID de conférence : 5788911
+  Vous avez oublié votre code confidentiel de connexion ? <https://dialin.inrae.fr>  |Aide <https://ariane.inrae.fr>
+ 
+ 
+ Mercure - Partageons Simplement
+ [!OC([040c])!]
+ .........................................................................................................................................
+ 
+ 
+* réunion bioinfo
+:PROPERTIES:
+:ID:       040000008200E00074C5B7101A82E00800000000217BCFA0561DD601000000000000000010000000EE43E6AF128253478096229FB5A44BB1
+:LOCATION: Réunion en ligne
+:END:
+<2020-05-13 Wed 10:30-12:00>
+  
+ 
+ 
+ .........................................................................................................................................
+ Participer à une réunion en ligne<https://meet.inrae.fr/dominique.tessier/KGDY97RC>
+ 
+ Participer par téléphone
+ +33561285707 (FRANCE)            français (France)
+ 
+ 
+ +33134652086 (FRANCE)            français (France)
+ 
+ 
+ +33247427676 (FRANCE)            français (France)
+ 
+ 
+ +33432722140 (FRANCE)            français (France)
+ 
+ Rechercher un numéro local<https://dialin.inrae.fr>
+ 
+ ID de conférence : 545027
+ 
+ Vous avez oublié votre code confidentiel de connexion ?<https://dialin.inrae.fr>  | Aide<https://ariane.inrae.fr>
+ 
+ 
+ 
+ Mercure - Partageons Simplement
+ 
+ 
+ .........................................................................................................................................
+ 
+* Réunion Bioinfo
+:PROPERTIES:
+:ID:       040000008200E00074C5B7101A82E00800000000380135EC561DD601000000000000000010000000F591E5C043717A45BEFE608244CA51E8
+:LOCATION: Réunion en ligne
+:END:
+<2020-05-27 Wed 10:30-12:00>
+  
+ 
+ 
+ .........................................................................................................................................
+ Participer à une réunion en ligne<https://meet.inrae.fr/dominique.tessier/KGDY97RC>
+ 
+ Participer par téléphone
+ +33561285707 (FRANCE)            français (France)
+ 
+ 
+ +33134652086 (FRANCE)            français (France)
+ 
+ 
+ +33247427676 (FRANCE)            français (France)
+ 
+ 
+ +33432722140 (FRANCE)            français (France)
+ 
+ Rechercher un numéro local<https://dialin.inrae.fr>
+ 
+ ID de conférence : 545027
+ 
+ Vous avez oublié votre code confidentiel de connexion ?<https://dialin.inrae.fr>  | Aide<https://ariane.inrae.fr>
+ 
+ 
+ 
+ Mercure - Partageons Simplement
+ 
+ 
+ .........................................................................................................................................
+ 
+* [REUNION BIBS] Vendredi à 13h30
+:PROPERTIES:
+:ID:       040000008200E00074C5B7101A82E0080000000040B47905A933D60100000000000000001000000077958434EB2BA14E881086936A4FADFC
+:LOCATION: Réunion Skype
+:END:
+<2020-05-29 Fri 13:30-15:30>
+  Hello les BIBS
+ 
+ Petit rappel de notre réunion d’équipe ce vendredi à 13h30.
+ En visio, évidemment (lien skype ci-dessous).
+ 
+ Je vous rappelle aussi la liste des Todo de la précédente réunion : j’ai rayé ce qui me semblait avoir été fait… et je vous laisse voir pour le reste ! ☺
+ 
+ A+ !
+ Hélène
+ 
+ 
+ 
+ QUOI ?
+ 
+ 
+ QUI ?
+ 
+ 
+ QUAND ?
+ 
+ 
+ Faire une réponse à la demande reçue sur contacts-bibs le 28/4.
+ 
+ 
+ DR
+ 
+ 
+ Av. 5/5
+ 
+ 
+ HCERES, bilan de l’équipe : finaliser les contributions (à partir de la V2 du document – créer V3)
+ 
+ 
+ Resp. composantes
+ 
+ 
+ Av. 7/5
+ 
+ 
+ Re-planifier dans PA, si besoin, les actions prioritaires :
+ 
+ -         Intégrer la gestion des données dans le périmètre du PS8
+ 
+ -         Identification des savoir-faires organisationnels (PS6)
+ 
+ -         Définir une méthodologie/critères pour le démarrage des DM
+ 
+ -         Définir une méthodologie/critères de décision pour la formation d'un utilisateur autonome
+ 
+ 
+ XF, DT, DL, DR
+ 
+ 
+ Av. 7/5
+ 
+ 
+ Planifier audit de contrôle du PS6
+ 
+ 
+ SB, DT
+ 
+ 
+ Av. 7/5
+ 
+ 
+ Organisation documentaire des PS : archiver l’année 2019
+ 
+ 
+ Pilotes
+ 
+ 
+ Av. 7/5
+ 
+ 
+ Réaliser audit spot du PS3
+ 
+ 
+ HR
+ 
+ 
+ Av 15/5
+ 
+ 
+ Finaliser travail sur les trames de DA (supprimer anciennes trames)
+ 
+ 
+ MF
+ 
+ 
+ Av 15/5
+ 
+ 
+ Animation scient. projet G Pilate : planifier vers juin
+ 
+ 
+ MF, SLG
+ 
+ 
+ Av. 15/05
+ 
+ HCERES, projet de l’équipe : mettre en place la méthode et programmer les 1ères étapes
+ 
+ SLG
+ 
+ Av. 15/5
+ 
+ 
+ Analyse R&O par processus
+ 
+ 
+ Pilotes
+ 
+ 
+ Av. 19/5
+ 
+ Lire le compte-rendu audit spot PS6 du 11/03 (corriger les documents manquants)
+ 
+ Resp. composante
+ 
+ Av. 29/5
+ 
+ Organiser avec BV l’audit en visio du 10/6
+ 
+ XF
+ 
+ Av. 29/5
+ 
+ 
+ Finir l’organisation documentaire par année pour PS3, PS4, PS7
+ 
+ 
+ LF, DR, BN (XF)
+ 
+ 
+ Av. 29/5
+ 
+ 
+ Rédiger une synthèse des actions prises pour se réorganiser pendant le déconfinement
+ 
+ 
+ HR
+ 
+ 
+ Av. 29/5
+ 
+ Simplification documentaire : synthèse des propositions du groupe à présenter en réunion d’équipe
+ 
+ SB
+ 
+ Av. 30/6
+ 
+ 
+ Réaliser les entretiens bisannuels des titulaires
+ 
+ 
+ Resp. N+1
+ 
+ 
+ Av. Sept
+ 
+ Sonder l’équipe sur une nouvelle session de formation MBTI
+ 
+ HR
+ 
+ Sept.
+ 
+ 
+ Actions reportées à la levée du confinement
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Porter les anomalies mentionnées lors de la réunion sur les feuilles de relevé (cf n° porté dans le tableau de bord)
+ 
+ 
+ SLG, MF, DT, XF
+ 
+ 
+ ?
+ 
+ 
+ Signaler à E Doublen le démontage de l’urinoir / Cens
+ 
+ 
+ Laurence
+ 
+ 
+ ?
+ 
+ 
+ 
+ 
+ .........................................................................................................................................
+ Participer à une Réunion Skype <https://meet.inrae.fr/helene.rogniaux/TR7IIQXA>
+ Vous n’arrivez pas à rejoindre cette réunion ? Essayer l’app web Skype <https://meet.inrae.fr/helene.rogniaux/TR7IIQXA?sl=1>
+ Participer par téléphone
+ +33561285707<tel:+33561285707> (FRANCE)                              Français (France)
+ +33134652086<tel:+33134652086> (FRANCE)                              Français (France)
+ +33247427676<tel:+33247427676> (FRANCE)                              Français (France)
+ +33432722140<tel:+33432722140> (FRANCE)                              Français (France)
+ Rechercher un numéro local <https://dialin.inrae.fr>
+ 
+ ID de conférence : 455138
+  Vous avez oublié votre code confidentiel de connexion ? <https://dialin.inrae.fr>  |Aide <https://ariane.inrae.fr>
+ 
+ 
+ Mercure - Partageons Simplement
+ [!OC([040c])!]
+ .........................................................................................................................................
+ 
+ 
+* Audit de suivi 2 plate-forme BiBS
+:PROPERTIES:
+:ID:       040000008200E00074C5B7101A82E00800000000505C25ECFD34D601000000000000000010000000FFFDA1EC5F179442A03F13B2F370F358
+:LOCATION: Réunion Skype
+:END:
+<2020-06-10 Wed 09:00-17:00>
+  Bonjour,
+ Voici le lien qui sera à utiliser pour l’audit de suivi du 10 juin prochain.
+ Le déroulé et les différents participants sont identifiés dans le plan d’audit en pièce jointe de ce mail.
+ Bien cordialement
+ Xavier Falourd
+ .........................................................................................................................................
+ Participer à une Réunion Skype <https://meet.inrae.fr/xavier.falourd/FC4SLN80>
+ Vous n’arrivez pas à rejoindre cette réunion ? Essayer l’app web Skype <https://meet.inrae.fr/xavier.falourd/FC4SLN80?sl=1>
+ Participer par téléphone
+ +33561285707<tel:+33561285707> (FRANCE)                            Français (France)
+ +33134652086<tel:+33134652086> (FRANCE)                            Français (France)
+ +33247427676<tel:+33247427676> (FRANCE)                            Français (France)
+ +33432722140<tel:+33432722140> (FRANCE)                            Français (France)
+ Rechercher un numéro local <https://dialin.inrae.fr>
+ 
+ ID de conférence : 2428916
+  Vous avez oublié votre code confidentiel de connexion ? <https://dialin.inrae.fr>  |Aide <https://ariane.inrae.fr>
+ 
+ 
+ Mercure - Partageons Simplement
+ [!OC([040c])!]
+ .........................................................................................................................................
+ 
+ 
+* Planification réunion scientifique BIBS
+:PROPERTIES:
+:ID:       040000008200E00074C5B7101A82E0080000000050A012AD5234D601000000000000000010000000BECDEAEF8D67044682E1A2D95201BD96
+:LOCATION: Réunion Skype
+:END:
+<2020-06-24 Wed 10:30-11:30>
+  Bonjour à tous,
+ 
+ D’après le Doodle, la meilleure date est le 24 juin de 10h30 à 11h30. Plus bas le lien de la réunion.
+ 
+ Désolé David, tu es le seul à ne pas pouvoir. Mais avec un peu de chance, à cause du coronavirus, tes vacances seront annulées. Tu pourras ainsi te joindre à nous ☺.
+ 
+ Bonne soirée
+ 
+ Mathieu
+ 
+ .........................................................................................................................................
+ Participer à une Réunion Skype <https://meet.inrae.fr/mathieu.fanuel/M9GYGP23>
+ Vous n’arrivez pas à rejoindre cette réunion ? Essayer l’app web Skype <https://meet.inrae.fr/mathieu.fanuel/M9GYGP23?sl=1>
+ Participer par téléphone
+ +33561285707<tel:+33561285707> (FRANCE)                              Français (France)
+ +33134652086<tel:+33134652086> (FRANCE)                              Français (France)
+ +33247427676<tel:+33247427676> (FRANCE)                              Français (France)
+ +33432722140<tel:+33432722140> (FRANCE)                              Français (France)
+ Rechercher un numéro local <https://dialin.inrae.fr>
+ 
+ ID de conférence : 6933450
+  Vous avez oublié votre code confidentiel de connexion ? <https://dialin.inrae.fr>  |Aide <https://ariane.inrae.fr>
+ 
+ 
+ Mercure - Partageons Simplement
+ [!OC([040c])!]
+ .........................................................................................................................................
+ 
+ 
+* Reunion Bioinfo
+:PROPERTIES:
+:ID:       040000008200E00074C5B7101A82E0080000000069F28931B618D601000000000000000010000000C5A2DF42EDB3484383A153C710B01009
+:LOCATION: Réunion en ligne
+:END:
+<2020-04-24 Fri 14:00-15:30>
+  Objectif:
+ 
+ 1. Donnez vos souhaits sur vos conditions de reprise après déconfinement
+ 
+ 2. Préparer la prochaine réunion bioinfo
+ 
+ 
+ .........................................................................................................................................
+ Participer à une réunion en ligne<https://meet.inrae.fr/dominique.tessier/KGDY97RC>
+ 
+ Participer par téléphone
+ +33561285707 (FRANCE)            français (France)
+ 
+ 
+ +33134652086 (FRANCE)            français (France)
+ 
+ 
+ +33247427676 (FRANCE)            français (France)
+ 
+ 
+ +33432722140 (FRANCE)            français (France)
+ 
+ Rechercher un numéro local<https://dialin.inrae.fr>
+ 
+ ID de conférence : 545027
+ 
+ Vous avez oublié votre code confidentiel de connexion ?<https://dialin.inrae.fr>  | Aide<https://ariane.inrae.fr>
+ 
+ 
+ 
+ Mercure - Partageons Simplement
+ 
+ 
+ .........................................................................................................................................
+ 
+* Présentation CUB
+:PROPERTIES:
+:ID:       040000008200E00074C5B7101A82E00800000000700DE63A752CD701000000000000000010000000EF640D83DAD73F4EB42AF38CE2765310
+:LOCATION: Réunion Skype
+:END:
+<2021-05-07 Fri 09:00-11:30>
+  Bonjour à tous,
+ merci de noter la nouvelle date pour le CUB : 07/05 de 9h à 11h30,
+ en espérant vous y retrouver !
+ bonne journée à  tous et à bientôt !
+ 
+ les « BIBS »s !
+ 
+ .........................................................................................................................................
+ Participer à une Réunion Skype <https://meet.inrae.fr/sophie.le-gall/76V87VFZ>
+ Vous n’arrivez pas à rejoindre cette réunion ? Essayer l’app web Skype <https://meet.inrae.fr/sophie.le-gall/76V87VFZ?sl=1>
+ Participer par téléphone
+ +33561285707<tel:+33561285707> (FRANCE)                              Français (France)
+ +33134652086<tel:+33134652086> (FRANCE)                              Français (France)
+ +33247427676<tel:+33247427676> (FRANCE)                              Français (France)
+ +33432722140<tel:+33432722140> (FRANCE)                              Français (France)
+ Rechercher un numéro local <https://dialin.inrae.fr>
+ 
+ ID de conférence : 5788911
+  Vous avez oublié votre code confidentiel de connexion ? <https://dialin.inrae.fr>  |Aide <https://ariane.inrae.fr>
+ 
+ 
+ Mercure - Partageons Simplement
+ [!OC([040c])!]
+ .........................................................................................................................................
+ 
+ 
+ _____________________________________________
+ De : Sophie Le-Gall
+ Envoyé : jeudi 1 avril 2021 18:04
+ À : 'bia@nantes.inra.fr' <bia@nantes.inra.fr<mailto:bia@nantes.inra.fr>>
+ Objet : Annulation Comité des utilisateurs de BIBS du 20/04
+ 
+ Bonjour,
+ ce mail pour vous informer que le CUB initialement prévu le 20/04 prochain est annulé,
+ nous vous ferons parvenir bientôt une nouvelle date (hors vacances scolaires ! ☺),
+ pour rappel, voici le programme :
+ 
+ 9h-9h20          Présentation générale (Sophie) (brève)
+ 
+ Opérations TRADER tranches 4-5 (BioAFM, SQD2..), futur CPER, PROBE/CALIS, qqs actualités
+ 
+ 9h20-11h30    Nouveaux développements et/ou nouvelles technologies
+ 
+ -      Microscopie corrélative (BioAFM, développements méthodo associés) (Angelina) 20 min + 10 min
+ 
+ -      Oligator (Virginie) : 15 min + 10 min
+ 
+ -      Fusion d’informations IRM/MSI : blé en développement (Florent Grelard, post-doc) : 15 min + 10 min
+ 
+ -      UPLC-MS(MS)-Fluo : applications oligosaccharides lait (Sophie) 15 min + 10 min
+ 
+ -      Perspective de développement en IMS : vers le séquençage des oligosaccharides ? (David R)
+ 
+ bonne fin de journée à tous et à bientôt !
+ 
+ 
+ 
+ [Logo-INRAE_Quadri-[HD]]
+ 
+ Dr Sophie LE GALL
+ Plateforme BIBS (Bioressources : Imagerie, Biochimie & Structure)
+ 
+ sophie.le-gall@inrae.fr<mailto:sophie.le-gall@inrae.fr>
+ 
+ Unité Biopolymères - Interactions - Assemblages (BIA)
+ 
+ Tél. : +33 2 40 67 50 98
+ 
+ INRAE Unité BIA - Plateforme BIBS
+ La géraudière BP71627
+ F-44316 Nantes Cedex 3, France
+ www.bibs.inrae.fr<http://www.bibs.inrae.fr/>
+ 
+ 
+* Petit point Skype ce mercredi ?
+:PROPERTIES:
+:ID:       040000008200E00074C5B7101A82E0080000000070772BEC2BB1D6010000000000000000100000001F287BA1EF1A2F42A369F638E66C2AFC
+:LOCATION: Réunion Skype
+:END:
+<2020-11-04 Wed 11:30-12:00>
+  Hello les BIBS !
+ 
+ Je vous propose un petit Skype d’équipe ce mercredi, pour celles/ceux qui sont dispos : aucune obligation d’y participer, venez si vous pouvez !
+ C’est juste que notre prochaine réunion étant encore loin (le 20/11), peut-être certains/certaines auraient besoin d’échanger avant cela à propos de notre organisation pour les semaines à venir ? (les consignes, j’en suis consciente, n’étant pas d’une clarté absolue !!)
+ 
+ Restez prudents ! ☺
+ Hélène
+ 
+ 
+ 
+ 
+ .........................................................................................................................................
+ Participer à une Réunion Skype <https://meet.inrae.fr/helene.rogniaux/TR7IIQXA>
+ Vous n’arrivez pas à rejoindre cette réunion ? Essayer l’app web Skype <https://meet.inrae.fr/helene.rogniaux/TR7IIQXA?sl=1>
+ Participer par téléphone
+ +33561285707<tel:+33561285707> (FRANCE)                              Français (France)
+ +33134652086<tel:+33134652086> (FRANCE)                              Français (France)
+ +33247427676<tel:+33247427676> (FRANCE)                              Français (France)
+ +33432722140<tel:+33432722140> (FRANCE)                              Français (France)
+ Rechercher un numéro local <https://dialin.inrae.fr>
+ 
+ ID de conférence : 455138
+  Vous avez oublié votre code confidentiel de connexion ? <https://dialin.inrae.fr>  |Aide <https://ariane.inrae.fr>
+ 
+ 
+ Mercure - Partageons Simplement
+ [!OC([040c])!]
+ .........................................................................................................................................
+ 
+ 
+* séminaire probe - Galaxy
+:PROPERTIES:
+:ID:       040000008200E00074C5B7101A82E00800000000A7A404D47467D701000000000000000010000000D61F3E18560BB846885103E2C2881892
+:LOCATION: Réunion en ligne
+:END:
+<2021-06-29 Tue 10:00-13:00>
+  Bonjour à toutes et tous.
+ 
+ 
+ L'invitation pour le séminaire Probe consacré à Galaxy.
+ 
+ 
+ Veuillez noter l'heure de début: 10h, le mardi 29 juin.
+ 
+ 
+ 
+ Cordialement.
+ 
+ 
+ 
+ JC
+ 
+ 
+ .........................................................................................................................................
+ Participer à une réunion en ligne<https://meet.inrae.fr/jean-claude.boulet/K92SF9Y0>
+ 
+ Participer par téléphone
+ +33561285707 (FRANCE)            français (France)
+ 
+ 
+ +33134652086 (FRANCE)            français (France)
+ 
+ 
+ +33247427676 (FRANCE)            français (France)
+ 
+ 
+ +33432722140 (FRANCE)            français (France)
+ 
+ Rechercher un numéro local<https://dialin.inrae.fr>
+ 
+ ID de conférence : 9043450
+ 
+ Vous avez oublié votre code confidentiel de connexion ?<https://dialin.inrae.fr>  | Aide<https://ariane.inrae.fr>
+ 
+ 
+ 
+ Mercure - Partageons Simplement
+ 
+ 
+ .........................................................................................................................................
+ 
+* [AGENDA] Réunion d'équipe en SKYPE
+:PROPERTIES:
+:ID:       040000008200E00074C5B7101A82E00800000000D07F2745B709D6010000000000000000100000001F7E68963D75394B97D1A50609CF73F8
+:LOCATION: Réunion Skype
+:END:
+<2020-04-10 Fri 10:00-11:30>
+  
+ .........................................................................................................................................
+ Participer à une Réunion Skype <https://meet.inrae.fr/helene.rogniaux/TR7IIQXA>
+ Vous n’arrivez pas à rejoindre cette réunion ? Essayer l’app web Skype <https://meet.inrae.fr/helene.rogniaux/TR7IIQXA?sl=1>
+ Participer par téléphone
+ +33134652174<tel:+33134652174> (FRANCE)                              Anglais (Royaume-Uni)
+ +33134652086<tel:+33134652086> (FRANCE)                              Français (France)
+ +33561285707<tel:+33561285707> (FRANCE)                              Français (France)
+ +33561285737<tel:+33561285737> (FRANCE)                              Anglais (Royaume-Uni)
+ Rechercher un numéro local <https://dialin.inrae.fr>
+ 
+ ID de conférence : 455138
+  Vous avez oublié votre code confidentiel de connexion ? <https://dialin.inrae.fr>  |Aide <https://ariane.inrae.fr>
+ 
+ 
+ Mercure - Partageons Simplement
+ [!OC([040c])!]
+ .........................................................................................................................................
+ 
+ 
+* Réunion bioinfo (suite réunion 14/04)
+:PROPERTIES:
+:ID:       040000008200E00074C5B7101A82E00800000000D08110263631D701000000000000000010000000EB4659F92C0C654887C35DF15DCA92DA
+:LOCATION: Visio skype
+:END:
+<2021-06-09 Wed 10:30-12:00>
+  
+ .........................................................................................................................................
+ Participer à une Réunion Skype <https://meet.inrae.fr/dominique.tessier/KGDY97RC>
+ Vous n’arrivez pas à rejoindre cette réunion ? Essayer l’app web Skype <https://meet.inrae.fr/dominique.tessier/KGDY97RC?sl=1>
+ Participer par téléphone
+ +33561285707<tel:+33561285707> (FRANCE)                            Français (France)
+ +33134652086<tel:+33134652086> (FRANCE)                            Français (France)
+ +33247427676<tel:+33247427676> (FRANCE)                            Français (France)
+ +33432722140<tel:+33432722140> (FRANCE)                            Français (France)
+ Rechercher un numéro local <https://dialin.inrae.fr>
+ 
+ ID de conférence : 545027
+  Vous avez oublié votre code confidentiel de connexion ? <https://dialin.inrae.fr>  |Aide <https://ariane.inrae.fr>
+ 
+ 
+ Mercure - Partageons Simplement
+ [!OC([040c])!]
+ .........................................................................................................................................
+ 
+ 
+* Rdv plafond 
+:PROPERTIES:
+:ID:       040D1D86-7060-4477-8284-50B23130D373
+:END:
+<2020-10-02 Fri 08:00-09:00>
+* Paire roller
+:PROPERTIES:
+:ID:       04ACCDE5-5AC7-4E58-B41B-69AE62428A67
+:LOCATION: 17 rue Guilloud 69003 Lyon
+:END:
+<2018-10-09 Tue 18:00-19:00>
+* Réunion Helene Mathieu
+:PROPERTIES:
+:ID:       04ed1928-19ea-40de-9c14-079790fba87d
+:END:
+<2021-03-02 Tue 14:00-17:00>
+* Crémaillère Barbara
+:PROPERTIES:
+:ID:       0687388F-C391-4404-8082-1C9CBD2F08B4
+:END:
+<2019-08-03 Sat 17:00-18:00>
+* Réunion PI
+:PROPERTIES:
+:ID:       0794d7e8-473d-43ff-9679-d015a527346d
+:LOCATION: L174
+:END:
+<2018-09-03 Mon 17:30-19:00>
+* Audit interne
+:PROPERTIES:
+:ID:       0994d301-e3c1-4107-98d7-d58755dd482a
+:END:
+<2019-11-14 Thu 09:00-17:00>
+  Bonjour à toutes et à tous,
+ Veuillez noter que le prochain audit interne se déroulera le 14 novembre prochain de 9h à 17h.
+ Bonne semaine
+ 
+ Xavier Falourd
+ 
+ xavier.falourd@inra.fr<https://messagerie1.inra.fr/ecp/Customize/xavier.falourd@inra.fr>
+   Plate-forme BIBS-RMN
+   INRA - Site de Nantes
+   Rue de la Géraudière B.P  71627
+   44316 Nantes cedex 3
+   Tél : 02 40 67 50 55
+ ------------------------------------------------------
+* Imagerie Fonctionnelle préclinique
+:PROPERTIES:
+:ID:       09990dad-73bc-47e1-939d-bd81b189d9d2
+:END:
+<2019-06-24 Mon 09:00-17:00>
+  Pour info : une journée « Imagerie fonctionnelle preclinique » fin juin à Rennes. Je ne pourrai pas y être, mais ca peut valoir le coup d’y aller.
+ 
+  
+ 
+ BioGenouest est le réseau des plateformes du grand ouest (Bretagne + payse de la loire) ;
+ 
+  
+ 
+ A++
+ 
+ David
+ 
+  
+ 
+  
+ 
+  
+ 
+ De : Biogenouest <communication@biogenouest.org>
+ Envoyé : jeudi 23 mai 2019 09:32
+ À : David Legland <david.legland@inra.fr>
+ Objet : INSCRIPTION : Imagerie Fonctionnelle préclinique //// Ecole de Bioinfo AVIESAN-IFB
+ 
+  
+ 
+ Inscrivez-vous !
+ \t
+ 
+ Voir la version en ligne
+ 
+  
+ 
+ FOCUS ON
+ 
+  
+ 
+  
+ 
+ 3-8/11 Ecole de Bioinformatique Aviesan-IFB - Inserm (EBAI19)
+ \t
+ 
+ Inscription avant le 31 mai
+ 
+ Pour des biologistes impliqués dans des projets “Next Generation Sequencing” (NGS)
+ 
+ 3 ateliers thématiques
+ 
+ RNA-seq, ChIP-seq/ATAC-seq, variants DNA-seq.
+ 
+ > Introduction à l’intégration des données, ouverture aux approches “single-cell” et aux technologies “long reads”.
+ 
+  
+ 
+ [+]
+ 
+  
+ 
+  
+ 
+  
+ 
+ 24/06 Imagerie fonctionnelle pré-clinique
+ \t
+ 
+ 24/06 - Inscription avant le 19 juin
+ 
+ Journée scientifique
+ 
+ Imagerie fonctionnelle préclinique
+ 
+ OUVERTE A TOUS
+ 
+  
+ 
+ [+]
+ 
+  
+ 
+ Biogenouest.org
+ 
+ Cet email a été envoyé à david.legland@inra.fr, cliquez ici pour vous désabonner.
+ 
+ Biogenouest - 16 le Clos (UMR Pégase) 35590 St Gilles FR
+* Cours rattrapage
+:PROPERTIES:
+:ID:       09cf5b56-fbe1-49ea-8e63-62c33a128482
+:END:
+<2017-12-14 Thu 14:00-15:30>
+* Anniv Maman
+:PROPERTIES:
+:ID:       0a4aee9b-a66a-4f62-90a6-df0c15487357
+:END:
+<2016-12-08 Thu 09:00-13:00>
+* Réunion David
+:PROPERTIES:
+:ID:       0c248d95-e92e-4bc9-b477-ce58a6aca1cd
+:END:
+<2021-01-07 Thu 09:30-11:30>
+* Réunion rentrée Bioinfo
+:PROPERTIES:
+:ID:       0d1e8391-effa-431c-8b34-09923ab0257a
+:END:
+<2017-09-05 Tue 10:00-11:30>
+* Entretien bilan David
+:PROPERTIES:
+:ID:       0ebe58a4-e3b0-4d5f-b790-6f4811d334c8
+:END:
+<2021-07-06 Tue 10:00-11:00>
+  Hello,
+ 
+  
+ 
+ Oui, j’avais regardé, mais pas trouvé de document plus spécifique. Pas sût qu’ils en aient produit u n!
+ 
+ Bonne idée de demander à Sophie, je lui en parle si je la croise.
+ 
+  
+ 
+ Il te faudra peut etre prendre le temps de remplir le doc (même si tu peux en reprendre pas mal de celui de l’an passé). Et je devrais être un peu plus dispo la semaine prochaine… Mardi matin de 10h a 11h ?
+ 
+  
+ 
+ A+
+ 
+ David
+ 
+  
+ 
+ De : Florent Grelard
+ Envoyé : mardi 29 juin 2021 09:14
+ À : David Legland <david.legland@inrae.fr>
+ Objet : Re: TR: IMPORTANT - Entretiens dématérialisés CDD
+ 
+  
+ 
+ Salut David,
+ 
+ Effectivement, on avait fait l'entretien via le logiciel  et en distanciel. La feuille à remplir n'a pas l'air d'avoir beaucoup changé par rapport à ce qu'on a rempli en décembre! Je trouve étrange qu'il faille remettre les mêmes éléments de présentation du projet à la fin de mon contrat... Sur le site de l'INRAE, ils décrivent les entretiens à passer en fonction du stade d'avancement. Ils parlent d'entretien bilan à la fin, il y a peut-être un document plus adapté? Je demanderai à Sophie comment ils ont fait avec Lucie.
+ 
+ On peut le faire ce mercredi en présentiel, si tu as des dispos. Sinon, la semaine prochaine je viens un peu plus sur site (mardi-mercredi-jeudi).
+ 
+ A+
+ Florent
+ 
+ Le 28/06/2021 à 18:38, David Legland a écrit :
+ 
+     Salut Florent,
+ 
+      
+ 
+     Bon, la fin rapproche… par conséquent il va falloir finaliser un peu d’administratif avant que tu partes !
+ 
+     Il y a en particulier les entretiens annuels. Pour l’an dernier on avait utilisé le logiciel je crois ? Cette année ca sera papier. C’est aussi l’occasion de faire un petit bilan…
+ 
+      
+ 
+     Il faudra trouver un créneau pour l’entretien, et faire la passation du projet.
+ 
+      
+ 
+     On peut en reparler demain ou mercredi, je serai sur site.
+ 
+      
+ 
+     A+
+ 
+     David
+ 
+      
+ 
+     De : Sophie Le-Gall <sophie.le-gall@inrae.fr>
+     Envoyé : mercredi 12 mai 2021 06:53
+     À : David Ropartz <david.ropartz@inrae.fr>; Helene Rogniaux <helene.rogniaux@inrae.fr>; Dominique Tessier <dominique.tessier@inrae.fr>; David Legland <david.legland@inrae.fr>
+     Objet : TR: IMPORTANT - Entretiens dématérialisés CDD
+ 
+      
+ 
+     Hello,
+ 
+     pour info !
+ 
+     bonne journée,
+ 
+     sophie
+ 
+      
+ 
+     De : Florence Le-Bihan <florence.le-bihan@inrae.fr>
+     Envoyé : mardi 11 mai 2021 17:05
+     À : Alain Riaublanc <alain.riaublanc@inrae.fr>; Anne-Laure Chateigner-Boutin <anne-laure.chateigner-boutin@inrae.fr>; Benedicte Bakan <benedicte.bakan@inrae.fr>; Denis Lourdin <denis.lourdin@inrae.fr>; Estelle Bonnin <estelle.bonnin@inrae.fr>; Fabienne Guillon <fabienne.guillon@inrae.fr>; Isabelle Capron <isabelle.capron@inrae.fr>; Marie Bodinier <marie.bodinier@inrae.fr>; Sophie Le-Gall <sophie.le-gall@inrae.fr>; Sylvain Guyot <sylvain.guyot@inrae.fr>
+     Cc : Marc Anton <marc.anton@inrae.fr>; Angelique Boissiere <angelique.boissiere@inrae.fr>; Gina Carlitos <gina.carlitos@inrae.fr>; Isabelle Serventon <isabelle.serventon@inrae.fr>; Maryse Owen <maryse.owen@inrae.fr>; Sylvaine Bizon <sylvaine.bizon@inrae.fr>
+     Objet : TR: IMPORTANT - Entretiens dématérialisés CDD
+ 
+      
+ 
+     Attn : resp équipes
+ 
+     -------------------------
+ 
+      
+ 
+     Bonjour
+ 
+      
+ 
+     Pour information.
+ 
+     Ceci concerne les entretiens des CDD recrutés sur une durée supérieure à un an. La dématérialisation du support d’entretien est suspendue. Les entretiens doivent toujours être effectués mais en utilisant comme support le fichier ci-joint.
+ 
+      
+ 
+     Bonne journée
+ 
+      
+ 
+     Florence
+ 
+      
+ 
+      
+ 
+      
+ 
+     Logo-Signature-INRAE
+ 
+      
+ 
+     Florence Le Bihan
+ 
+     Assistante de Direction
+ 
+     Florence.le-bihan@inrae.fr
+ 
+     Unité BIA
+ 
+     Centre de Recherches Pays de la Loire
+ 
+     Tél. +33 2 40 67 50 31
+ 
+     La Géraudière
+ 
+     CS 71627
+ 
+     44316 Nantes Cedex 03
+ 
+     https://www6.angers-nantes.inrae.fr/bia
+ 
+      
+ 
+     De : Anne-Lise Kouditey <anne-lise.kouditey@inrae.fr>
+     Envoyé : mercredi 5 mai 2021 16:46
+     À : Alice Deliveyne <Alice.Deliveyne@inrae.fr>; Angelique Boissiere <angelique.boissiere@inrae.fr>; Anne Degoulet <Anne.Degoulet@inrae.fr>; Benjamin Buisson-ext <benjamin.buisson@geves.fr>; Benjamin Marchand <benjamin.marchand@inrae.fr>; Candy Hunlede <candy.hunlede@inrae.fr>; Caroline Lefebvre <caroline.lefebvre@inrae.fr>; Catherine Vassy <catherine.vassy@inrae.fr>; celine bouhier-ext <Celine.bouhier@geves.fr>; Claire Pineau <claire.pineau@inrae.fr>; Clemence Jacob <Clemence.Jacob@Geves.Fr>; Dominique Bellon <dominique.bellon@inrae.fr>; dorothee ducelliez-ext <dorothee.ducelliez@oniris-nantes.fr>; Estelle BERTEL-ext <estelle.bertel@geves.fr>; Florence Le-Bihan <florence.le-bihan@inrae.fr>; Florence Ramdin <Florence.Ramdin@Oniris-Nantes.Fr>; Florianne Le-Tanter <florianne.le-tanter@inrae.fr>; Geraldine Beaudoin-ext <Geraldine.Beaudoin@Geves.Fr>; Gina Carlitos <gina.carlitos@inrae.fr>; Isabelle Clouet <Isabelle.Clouet@Oniris-Nantes.Fr>; Isabelle Raye <Isabelle.Raye@Geves.Fr>; Isabelle Serventon <isabelle.serventon@inrae.fr>; Isabelle Tournadre <isabelle.tournadre@inrae.fr>; Juliette Bordot <Juliette.Bordot@Oniris-Nantes.Fr>; Kaat Hellyn <Kaat.Hellyn@Geves.Fr>; Maryse Owen <maryse.owen@inrae.fr>; Mathilde Fiot <mathilde.fiot@inrae.fr>; Patricia Besnard <Patricia.Besnard@Geves.Fr>; Rachel Tessier <Rachel.Tessier@Geves.Fr>; rh-irhs <rh-irhs@inrae.fr>; Sandrine Aury <sandrine.aury@inrae.fr>; Sylvaine Bizon <sylvaine.bizon@inrae.fr>; Sylviane Hameline <sylviane.hameline@inrae.fr>; Sylvie Alonso <Sylvie.Alonso@Oniris-Nantes.Fr>
+     Cc : blp-pays-de-la-loire <blp-pays-de-la-loire@inrae.fr>
+     Objet : IMPORTANT - Entretiens dématérialisés CDD
+ 
+      
+ 
+     Bonjour à tous,
+ 
+      
+ 
+     Nous vous transmettons ci-dessous une information importante concernant les entretiens des CDD et le support à utiliser.
+ 
+      
+ 
+     Cordialement,
+ 
+      
+ 
+     Pour l’équipe RH du centre,
+ 
+      
+ 
+         Bloc-Logo-Signature-INRAE
+ 
+               Anne-Lise KOUDITEY
+ 
+               Gestionnaire Administrative et Ressources Humaines
+ 
+               INRAE Pays de la Loire
+ 
+               SDAR – Service Ressources Humaines
+ 
+      
+ 
+      
+ 
+     Bonjour,
+ 
+      
+ 
+     Dans l’objectif d’accompagner et d’améliorer les droits à évaluation des agents contractuels dans leurs parcours au sein de la fonction publique, les entretiens professionnels annuels pour les agents en CDI et en CDD recrutés par contrat d’une durée supérieure à un an ont été rendus obligatoires.
+ 
+     Afin de faciliter la gestion de ces entretiens, l’Institut proposait depuis mars 2019 la dématérialisation par le biais d’un outil : PeopleSoft RH.
+ 
+      
+ 
+     A l’occasion d’un bilan très complet réalisé début 2021, il s’avère que l’outil développé ne répond finalement pas totalement aux attentes de tous les acteurs impliqués par les entretiens.
+ 
+      
+ 
+     Dans un souci d’amélioration continue de nos processus de gestion, la DRHDD a donc souhaité suspendre l’utilisation de cet outil. Une étude préalable est en cours, avec un premier recensement des besoins.  Le but est de proposer un tout nouvel outil courant 2022.
+ 
+      
+ 
+     Cette décision ne modifie en rien l’obligation de réaliser ces entretiens annuels courant 2021, avec les agents remplissant les conditions d’éligibilité.
+ 
+      
+ 
+     Dans l’attente de la mise à disposition d’un nouvel outil, cette formalité devra, dès à présent, être réalisée via le support papier mis à disposition sur l’intranet RH et devra ensuite être transmis au service RH de centre pour dépôt dans le dossier de l’agent.
+ 
+      
+ 
+     Pour rappel, un guide est également à disposition sur l’intranet RH : https://intranet.inrae.fr/ressources-humaines/Vous-etes/Agent-contractuel/Votre-integration-et-votre-suivi.
+ 
+      
+ 
+      
+ 
+     Nous vous remercions de relayer cette information auprès de vos directeurs-trices d’unité et nous restons à votre disposition pour tout complément d’information.
+ 
+      
+ 
+     Bien cordialement,
+ 
+     L’équipe CDD-Entretiens (cdd-entretiens@inrae.fr)
+* Réunion Luc
+:PROPERTIES:
+:ID:       1357f044-f3b5-444b-8899-9b83692b7b8d
+:END:
+<2021-03-09 Tue 09:00-10:00>
+* Controle tech
+:PROPERTIES:
+:ID:       1388991f-a811-402b-bb53-9e911a2058cc
+:END:
+<2021-05-28 Fri 16:20-17:20>
+  
+ 
+* IMS Zoom
+:PROPERTIES:
+:ID:       1455fa46-c1f9-4678-a953-e6fdc3643a08
+:END:
+<2021-05-05 Wed 17:00-18:00>
+  You have received this ZOOM meeting invitation as you have previously registered for the MSIS/IMSS Virtual Seminar Series.
+  
+ MASS SPECTROMETRY IMAGING SOCIETY
+ IMAGING MASS SPECTROMETRY SOCIETY
+  
+ WEDNESDAY 5th MAY 2021 16:00 BST
+ 
+  
+ 
+ PROGRAMME:
+ 
+ 16:00  Opening Remarks
+ 
+ 16:05  Professor Amanda Hummon, Ohio State University, Columbus, OH 43210, USA. “Mass Spectrometry Imaging of 3D Cell Cultures and 
+ 
+ Organoids”.
+ 
+ 16:40  Dr Theodore Alexandrov, EMBL, 69117 Heidelberg, Germany.
+ 
+  “Computational Challenges in Spatial and Single-Cell Metabolomics”.
+ 
+ 15:15 Closing Remarks
+ 
+  
+ 
+ EVENT DETAILS:
+ 
+ https://www.bmss.org.uk/virtual-msis-ourcon-ms-imaging-seminars-2020/next-event-5th-may-2021/
+ 
+  
+ 
+ JOIN ZOOM MEETING:
+ 
+ https://vbmss.zoom.us/j/96325931967?pwd=cGFZU0dKS2ZlRGtKRHJqTjV4YVNtQT09
+ 
+ Meeting ID: 963 2593 1967
+ 
+ Passcode: 269386
+ 
+  
+ 
+ HOW DO YOU WISH TO IDENTIFY YOUR SELF IN THIS EVENT:
+ 
+ The ZOOM on-line platform will display your ZOOM account name by default. If you do not consent to having your account name visible to the participants of the meeting please edit your displayed name to an anonymous format
+ (e.g. MEMBER Oxford, GUEST Cambridge).
+ 
+  
+ 
+ GLOBAL EVENT TIME COORDINATES:
+ 
+ New Delhi, India                                              Wed, 5 May 2021 at 20:30 IST    
+ 
+ Tel Aviv, Israel                                                 Wed, 5 May 2021 at 18:00 IDT    
+ 
+ Athens, Greece                                               Wed, 5 May 2021 at 18:00 EEST   
+ 
+ Brussels, Belgium                                          Wed, 5 May 2021 at 17:00 CEST   
+ 
+ Pretoria, South Africa                                    Wed, 5 May 2021 at 17:00 SAST    
+ 
+ London, United Kingdom                              Wed, 5 May 2021 at 16:00 BST    
+ 
+ New York, USA                                               Wed, 5 May 2021 at 11:00 EDT    
+ 
+ Chicago, USA                                                 Wed, 5 May 2021 at 10:00 CDT     
+ 
+ Los Angeles, USA                                          Wed, 5 May 2021 at 08:00 PDT
+* Permanence compost
+:PROPERTIES:
+:ID:       1537c9c6-ab98-4f6b-8d70-5b9d81aef9ed
+:END:
+<2019-12-03 Tue 19:30-20:30>
+* Réunion scientifique
+:PROPERTIES:
+:ID:       15e1b942-49da-4460-9a6e-807cf681ab77
+:LOCATION: Ampère
+:END:
+<2019-10-11 Fri 09:30-10:30>
+* Présentation PVPP
+:PROPERTIES:
+:ID:       1651af41-a422-480e-927f-f98c9110563b
+:END:
+<2020-10-22 Thu 10:00-11:00>
+* Réunion BIBS
+:PROPERTIES:
+:ID:       168d60fa-94e1-4825-9249-d4eefee6a5a4
+:END:
+<2021-05-28 Fri 13:30-16:30>
+* Revue de direction
+:PROPERTIES:
+:ID:       16e26754-e008-4584-b925-e1dff4951fe0
+:END:
+<2021-12-10 Fri 09:30-12:00>
+  Bonjour, \r
+ \r
+ La revue de direction est planifiée le vendredi 10 décembre à 9h30 en salle sud. \r
+ La réunion prévue l'après-midi du même jour est annulée. \r
+ Le revue de direction pourrait être suivie d'un repas de groupe si les conditions sanitaires le permettent. \r
+ \r
+ A vos agendas \r
+ \r
+ Stéphane \r
+ \r
+ Hello, \r
+ \r
+ The "Revue de Dierction" is scheduled for Friday December 10 at 9:30 am in the south room. \r
+ The meeting scheduled for the afternoon of the same day is canceled. \r
+ The management review could be followed by a group lunch if sanitary conditions allows it. \r
+ \r
+ To your agendas \r
+ \r
+ Stephane \r
+ \r
+ [ http://www.u-bordeaux.fr/ ] [ mailto:stephane.claverol@u-bordeaux.fr ] \r
+ [ mailto:stephane.claverol@u-bordeaux.fr | Stéphane Claverol ] \r
+ \r
+ Plateforme Protéome \r
+ Bâtiment Génomique Fonctionnelle Bordeaux \r
+ 146 rue Leo Saignat 33076 Bordeaux Cedex \r
+ France \r
+ NEW Tel. 05 57 57 46 15 \r
+ Port 06 81 20 44 65 \r
+ [ http://proteome.cgfb.u-bordeaux.fr/fr | proteome.cgfb.u-bordeaux.fr/fr ]
+* Réunion BIBS
+:PROPERTIES:
+:ID:       18fd61d8-1898-4a4e-a6bf-1dc66d24dbf9
+:END:
+<2020-12-17 Thu 09:30-11:30>
+* Réunion plateforme
+:PROPERTIES:
+:ID:       1944a621-037c-43fe-bd6a-29bd921a4025
+:END:
+<2019-04-26 Fri 13:30-14:30>
+* Réunion BIBS
+:PROPERTIES:
+:ID:       19f59c2c-fc1b-4a1c-bf74-65902542e535
+:END:
+<2020-01-31 Fri 13:30-16:30>
+* Réunion Point IRM-MALDI
+:PROPERTIES:
+:ID:       1b0f01a2-f045-4d0d-8d04-ea80483dd955
+:END:
+<2020-01-09 Thu 14:00-15:00>
+* [SAVE the DATE ! ] 5 mars 2020 - Réunion du CUB (comité des utilisateurs de BIBS)
+:PROPERTIES:
+:ID:       1c5fba0d-aa84-48cc-85df-8ab736245940
+:END:
+<2020-03-05 Thu 09:00-12:00>
+  Cher-e-s collègues
+ 
+ Avant tout, nous vous adressons nos meilleurs vœux pour 2020 !
+ 
+ Comme en chaque début d’année, nous vous proposons une matinée d’échanges avec la plate-forme BIBS : le jeudi 5 mars, de 9h à midi, en salle Pascal.
+ 
+ La matinée démarrera par une présentation rapide des actualités de BIBS. Suivra un moment d’échanges sous la forme de ‘tables rondes’ avec les différentes composantes de la plate-forme (un ordre du jour plus précis sera transmis dans les prochaines semaines).
+ 
+ Hélène, p/o BIBS
+ 
+ 
+ [Logo-Signature-INRAE]
+ 
+ Hélène ROGNIAUX
+ INRAE. Unité BIA, plate-forme BIBS.
+ Spectrométrie de masse.
+ La Géraudière, F-44316 NANTES.
+ Tel : +33 (0)2 40 67 50 34
+ helene.rogniaux@inrae.fr<mailto:helene.rogniaux@inrae.fr>
+ https://www.bibs.inrae.fr
+* TR: [GDR ImaBio] webinars du RT mfm:
+:PROPERTIES:
+:ID:       1ddf01bb-ce39-4692-9bb1-5e6c56172246
+:END:
+<2020-05-29 Fri 11:00-12:00>
+  Bonjour,
+ 
+  
+ 
+ Pour information, un webinar sur les workflows d’analyse d’image aura lieu vendredi prochain à 11h.
+ 
+  
+ 
+ Bonne fin de journée,
+ 
+  
+ 
+ David Legland
+ 
+  
+ 
+ De : imabio-request@services.cnrs.fr <imabio-request@services.cnrs.fr> De la part de christian rouvière
+ Envoyé : mercredi 27 mai 2020 15:53
+ À : mfm@services.cnrs.fr; imabio@services.cnrs.fr; cbi.ext-seminars@univ-tlse3.fr
+ Objet : [GDR ImaBio] webinars du RT mfm: vendredi 11h Nicolas Goudin
+ 
+  
+ 
+ Bonjour,
+ 
+ Ce vendredi 29 mai, le RT mfm vous présente un webinar toujours à 11H :  le 15 ième de la saison 1 : "construire votre workflow en analyse d'image" par Nicolas Goudin de la SFR Necker, Paris.
+ 
+ le lien : https://youtu.be/SYur0EDGWJE
+ 
+ Nicolas Goudin : «Construire votre workflow en analyse d’image»
+ 
+  
+ 
+ -- 
+ 
+ Christian Rouviere, phd
+ 
+ Centre de Biologie Integrative FR3743
+ 
+ Service CBI Image Processing/ LITC/CBD Bât 4R3
+ 
+ 118 route de Narbonne
+ 
+ 31062 Toulouse cedex 09
+* Traiter donnees Mathieu
+:PROPERTIES:
+:ID:       1e222620-ff5e-419b-a97d-17741eaf4e69
+:END:
+<2021-09-24 Fri 12:00-13:00>
+* Soutenance Cynthia
+:PROPERTIES:
+:ID:       1e272bd8-8238-480e-a43f-7ae7b8846f3b
+:END:
+<2019-11-14 Thu 14:00-15:00>
+* Hamac Vincent
+:PROPERTIES:
+:ID:       1F8B3337-4792-4906-96F9-F69107E21CF5
+:END:
+<2021-03-28 Sun 11:00-12:00>
+* Orientation recherche
+:PROPERTIES:
+:ID:       20103a9a-064d-4fc6-af7e-471324199f38
+:END:
+<2019-04-24 Wed 11:30-12:30>
+* TAI
+:PROPERTIES:
+:ID:       20a9c3ba-5e0b-4238-801f-905ac0274645
+:END:
+<2017-01-12 Thu 13:00-13:30>
+* IR 2016
+:PROPERTIES:
+:ID:       20f1d8ab-8d5d-413e-bc1f-96789bc16291
+:END:
+<2016-11-29 Tue 16:00-17:00>
+  Bonjour,
+ 
+ C'est d'accord pour mardi 16h.
+ 
+ Bon week-end,
+ Florent
+ 
+ Le 24/11/2016 à 14:29, Andriamparany Ralambomahay a écrit :
+ >
+ > Bonjour Mr,
+ >
+ > On s'excuse parce qu'on n'a pas pu finir le document.
+ >
+ > Peut on se rencontrer ce mardi prochain à partir 16h.
+ >
+ > Cordialement.
+ > Andriamparany et Pierre
+* Anniversaire Cynthia
+:PROPERTIES:
+:ID:       21159B4C-3AC5-4CB6-843C-7606BBDEC2B3
+:END:
+<2020-10-03 Sat 12:00-13:00>
+* Réunion Mathieu
+:PROPERTIES:
+:ID:       2309ae08-212f-49d9-a7db-c43d49f2c7aa
+:END:
+<2020-02-13 Thu 14:00-15:00>
+* Sp
+:PROPERTIES:
+:ID:       237BD27B-C707-4A27-8208-8C08F165DA7F
+:END:
+<2018-10-02 Tue 19:00-20:00>
+* GT
+:PROPERTIES:
+:ID:       241a947a-d4f0-4e1e-8a4e-71750454e1b8
+:END:
+<2019-01-28 Mon 16:00-17:00>
+* Réunion recalage
+:PROPERTIES:
+:ID:       24d63135-f474-4c58-ab79-f6fb8241cacf
+:END:
+<2020-09-21 Mon 09:00-10:00>
+* Bapteme Élouann
+:PROPERTIES:
+:ID:       270B85E0-C0C2-4912-88A3-C31FF85B6059
+:END:
+<2021-10-17 Sun 12:15-13:15>
+* Ménage chez Rémi (c'est dégueu)
+:PROPERTIES:
+:ID:       2a094b16-962a-470b-986f-d3b4dbc9cbd8
+:END:
+<2017-12-22 Fri 08:00-12:15>
+* Travaux depannouest 
+:PROPERTIES:
+:ID:       2AE5120F-4D61-4A9E-B391-C2F72B8E6F21
+:END:
+<2021-04-12 Mon 08:00-09:00>
+* Sp
+:PROPERTIES:
+:ID:       2B2850B8-66BE-4B66-906E-87574171B4C4
+:END:
+<2018-09-19 Wed 19:00-20:00>
+* Coiffure 
+:PROPERTIES:
+:ID:       2C239623-A60C-45EE-AA0E-D43D23E9C988
+:END:
+<2021-08-06 Fri 16:00-17:00>
+* Raclette
+:PROPERTIES:
+:ID:       2e37dd18-c5db-4855-a992-86568fe270f8
+:END:
+<2018-11-26 Mon 12:30-13:30>
+* Lucile
+:PROPERTIES:
+:ID:       2fafdc1e-c647-4e0b-891e-b42062cd2150
+:END:
+<2019-10-12 Sat 10:00-11:00>
+* Réunion David
+:PROPERTIES:
+:ID:       2fd51996-80ad-42cd-9024-7933daa03c07
+:END:
+<2020-06-02 Tue 14:00-15:00>
+* Entreprise couverture
+:PROPERTIES:
+:ID:       30352144-0e9b-4c52-bbac-e28a6c571fff
+:END:
+<2020-10-28 Wed 09:00-10:00>
+* Anniv Lucile
+:PROPERTIES:
+:ID:       326C32D9-4224-48EB-B7D1-3057154BA9CA
+:END:
+<2019-10-18 Fri>
+* Algorithmique
+:PROPERTIES:
+:ID:       335fcf8b-6d2c-4173-beb0-14b8295231f0
+:LOCATION: 205
+:END:
+<2017-11-30 Thu 14:00-17:00>
+* Réunion MALDI IRM
+:PROPERTIES:
+:ID:       3383f82d-7f57-46c0-bc82-bd23da33d7a2
+:END:
+<2020-10-15 Thu 14:00-15:00>
+* Réunion BIBS
+:PROPERTIES:
+:ID:       338dcb42-0a8a-4d49-bdf7-609221387f72
+:END:
+<2021-06-25 Fri 13:30-14:30>
+* Coiffure
+:PROPERTIES:
+:ID:       3477E8D9-8E49-4E79-AEDB-0D41DC1515EA
+:END:
+<2020-05-19 Tue 16:30-17:30>
+* Discussion traitement données MALDI
+:PROPERTIES:
+:ID:       348ce4e6-6b69-42d6-81ce-25599c9dd3b9
+:END:
+<2020-01-16 Thu 14:00-15:00>
+* BBQ BIA
+:PROPERTIES:
+:ID:       34a0d960-e3db-4337-a03e-a65292e2982c
+:END:
+<2021-06-22 Tue 12:00-14:00>
+  
+ 
+* IR
+:PROPERTIES:
+:ID:       37f6a9eb-db6b-4297-aa6a-8f7fc26518a6
+:END:
+<2017-01-20 Fri 14:00-15:00>
+* Fwd: [chemom2021] Confirmation d'inscription
+:PROPERTIES:
+:ID:       38d6873a-54c8-4b75-909d-7a13561982f1
+:END:
+<2021-02-02 Tue 09:40-10:20>
+  09:40 - 10:00 Mohamad AHMAD
+ Università di Modena e
+ Reggio Emilia, Italy
+ Isolation of distinct spatial components in convoluted
+ hyperspectral images
+ 10:00 - 10:20
+ Oumauma
+ BOUKRIA
+ Université Sidi Mohamed
+ Ben Abdellah, Maroc
+ Monitoring of molecular structure modifications during
+ coagulation of mixed camel and cow milk by MIR and
+ PARAFAC
+ 
+ 14:20 - 14:40 Laureen COIC
+ Université de Liège CIRM,
+ Belgium
+ Pixel-based identification of Raman hyperspectral data:
+ Application to pharmaceutical tablets impurities
+ detection
+ Prix de thèse du GFC / GFC Award
+ Chairman : L. DUPONCHEL
+ 
+ 14:40 - 15:00
+ Daniel PALACILOPEZ
+ Universitat Politècnica de
+ València, Spain
+ Product design based on Latent Variable Model
+ Inversion: new tools for process exploration and
+ Optimization
+ 15:40 - 16:00 Andrea CAPPOZZO
+ University of Milano-
+ Bicocca,
+ Italy
+ Robust variable selection in the framework of
+ classification with label noise and outliers: applications to
+ spectroscopic data in agri-food
+ 
+ 16:00 - 16:20 Pause / Break
+ 16:20 - 16:40
+ Ludovic
+ DUPONCHEL
+ Université de Lille,
+ France
+ Saturated signals in spectroscopic imaging: Why and
+ How should we deal this regurlaly observed
+ phenomenon?
+ 
+ 3 février 
+ 09:00 - 9:40
+ José Manuel
+ AMIGO
+ University of the Basque
+ country, Spain
+ The Needle in the Haystack, or Microplastics in Natural
+ Samples. What is More Complex to Find? Analytical
+ Strategies using Raman and Mid-Infrared Imaging
+ Session "Méthodes" Part. 2 / Methods Part. 2
+ Chairmen : C. RUCKEBUSCH and B. JAILLAIS
+ 
+ 09:40 - 10:00
+ Alessandro
+ NARDECCHIA
+ Université de Lille,
+ France
+ Spectral and spatial fusion: An interesting approach for
+ classification in hyperspectral imaging
+ 
+* Réunion recalage
+:PROPERTIES:
+:ID:       39b2636d-a444-4780-bbd3-826a0de90f0f
+:END:
+<2020-10-20 Tue 09:30-12:00>
+* Contrôle technique 
+:PROPERTIES:
+:ID:       39D2D21C-20D3-4D48-AA1A-9ADB00AACC8F
+:END:
+<2021-05-20 Thu 14:00-15:00>
+* Présentation réunion recalage
+:PROPERTIES:
+:ID:       3a4bf8ac-45f1-4948-b93e-a49eb085d352
+:END:
+<2021-06-22 Tue 09:30-12:00>
+* Soutenance Amandine
+:PROPERTIES:
+:ID:       3b56872b-4386-40e3-817e-2a40105f2e18
+:END:
+<2021-04-16 Fri 14:00-15:00>
+  Bonjour à tous,
+ 
+  
+ 
+ Ma soutenance de thèse aura lieu le 16 avril à 14h en visioconférence. Je vous transmet ci-dessous l’invitation contenant le lien (ZOOM et skype entreprise plus bas), l’I.D et le mdp pour accéder à la réunion.
+ 
+  
+ 
+ Bonne journée,
+ 
+ Amandine Selle
+ 
+ ---
+ 
+  
+ 
+ Sujet : Soutenance de thèse
+ 
+ Heure : 16 avr. 2021 01:30 PM Paris
+ 
+  
+ 
+ Participer à la réunion Zoom
+ 
+ https://inrae-fr.zoom.us/j/4611859949?pwd=V2kzSHhxUlQzaytiQXFtekZoMTlXQT09
+ 
+  
+ 
+ ID de réunion : 461 185 9949
+ 
+ Code secret : Opal4ever*
+ 
+ Une seule touche sur l’appareil mobile
+ 
+ +33170379729,,4611859949#,,,,*5555907995# France
+ 
+ +33170950103,,4611859949#,,,,*5555907995# France
+ 
+  
+ 
+ Composez un numéro en fonction de votre emplacement
+ 
+         +33 1 7037 9729 France
+ 
+         +33 1 7095 0103 France
+ 
+         +33 1 7095 0350 France
+ 
+         +33 1 8699 5831 France
+ 
+         +33 1 7037 2246 France
+ 
+ ID de réunion : 461 185 9949
+ 
+ Code secret : 5555907995
+ 
+ Trouvez votre numéro local : https://inrae-fr.zoom.us/u/aexZ1sNIQF
+ 
+  
+ 
+ Participer à l’aide d’un protocole SIP
+ 
+ 4611859949@zoomcrc.com
+ 
+  
+ 
+ Participer à l’aide d’un protocole H.323
+ 
+ 162.255.37.11 (États-Unis (Ouest))
+ 
+ 162.255.36.11 (États-Unis (Est))
+ 
+ 213.19.144.110 (Amsterdam Pays-Bas)
+ 
+ 213.244.140.110 (Allemagne)
+ 
+ Code secret : 5555907995
+ 
+ ID de réunion : 461 185 9949
+ 
+  
+ 
+ Participer via Skype Entreprise
+ 
+ https://inrae-fr.zoom.us/skype/4611859949
+ 
+  
+ 
+ Si vous avez choisi d’enregistrer la réunion : assurez-vous de rentrer dans le cadre décrit sur https://intranet.inrae.fr/donnees-personnelles/Avant-de-collecter-ou-de-re-utiliser-des-donnees/Bonnes-pratiques-et-situations-frequentes-FAQ/Vous-souhaitez-enregistrer-une-visioconference-ou-un-webinaire .
+ 
+ Prévenez-vos participants à l’avance et de nouveau lors du lancement de l’enregistrement. Soyez attentif aux conditions de réutilisation de la vidéo de votre réunion.
+ 
+  
+ 
+  
+ 
+ Logo-Signature-INRAE
+ 
+ Amandine Selle
+ 
+ Doctorante 4ème année
+ 
+ UR-1268 BIA équipe ALLergie
+ 
+ INRA centre Angers-Nantes
+ 
+ Impasse Thérèse Bertrand-Fontaine
+ 
+ 44000 Nantes, France
+ 
+ Tel : +33(0)2 40 67 52 59
+* Réunion MALDI
+:PROPERTIES:
+:ID:       3bedfebf-e51d-451e-b6dc-c4c9c5f45dac
+:END:
+<2020-03-17 Tue 14:00-15:00>
+* Anniversaire Serge
+:PROPERTIES:
+:ID:       3DAF9553-6F0A-4FEE-985C-92A716CE423C
+:END:
+<2019-01-12 Sat 09:00-10:00>
+* animation scientifique - sciences des données
+:PROPERTIES:
+:ID:       3e07b4dc-02e0-40c5-a1dd-ca0e3a1cf036
+:END:
+<2019-06-06 Thu 14:00-17:00>
+  Hello,
+ 
+ Je suis tombé sur cette annonce de séminaire scientifique sur la science des données a Nantes :
+ https://www.ls2n.fr/event/seminaire-inter-etablissements-de-sciences-des-donnees-invite-jean-gabriel-ganascia/
+ 
+ L'intervenant est assez connu je crois.
+ 
+ A+
+ David
+ 
+ 
+ ----
+ David Legland
+ INRA Nantes, Unité BIA-BIBS
+ rue de la Géraudière, BP 71627
+ 44316 NANTES CEDEX 3
+ Tél : +33(0)2 40 67 52 43
+ http://www.bibs.inra.fr<http://www.bibs.inra.fr/> http://www.pfl-cepia.inra.fr<http://www.pfl-cepia.inra.fr/>
+* Pcr
+:PROPERTIES:
+:ID:       3EA64483-47DA-4719-B67C-5689C5ACA05B
+:END:
+<2021-06-10 Thu 08:40-09:40>
+* Soutenance Joachim
+:PROPERTIES:
+:ID:       3ef66655-3cd1-4a22-8e9b-b1addb1aee28
+:END:
+<2017-11-21 Tue 12:00-20:00>
+* Point Loïc
+:PROPERTIES:
+:ID:       41b73d47-2b79-49e6-b57e-57ed39293ffa
+:END:
+<2020-01-15 Wed 09:30-10:30>
+* Présentation réunion bioinfo
+:PROPERTIES:
+:ID:       41cdfbda-d741-48ff-82cd-60382bbde120
+:END:
+<2021-07-07 Wed 10:30-11:30>
+* [QVT-BIA] Présentation du projet Jardin Partagé BIA
+:PROPERTIES:
+:ID:       4436208d-ea5b-44f7-b9a8-d18a172701b3
+:END:
+<2019-07-12 Fri 13:00-14:00>
+  Bonjour à tous !
+ 
+ Si vous n'avez pas la pêche, marre de prendre des râteaux, ou de vous faire presser le citron, stop !
+ Venez découvrir autour d'un café la présentation du prochain team-building organisé par le groupe QVT-BIA :
+ 
+ 
+         [cid:image001.png@01D5204D.CEDAE400]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ð  Rendez-vous le vendredi 12 juillet de 13h30 à 14h (salle Pascal)
+ 
+ On ne vous racontera pas de salades, ça ne vous coûtera pas un radis et vous aurez la patate en sortant !!!
+ Et vous pourrez bien sûr, ramener votre fraise, toutes les bonnes intentions sont les bienvenues !
+ 
+ Notez bien cette date dans votre agenda,
+ 
+ A très vite !
+ 
+ 
+ Le groupe QVT-BIA
+ [cid:image003.jpg@01D5204C.ECE4AB30]
+* JeanPhi
+:PROPERTIES:
+:ID:       444e41ca-a74b-47ea-98d3-01b844e4c185
+:END:
+<2016-12-08 Thu 09:00-11:30>
+* Réunion recalage image
+:PROPERTIES:
+:ID:       44747425-563f-430c-80aa-8c72d563deec
+:END:
+<2021-04-13 Tue 09:00-10:00>
+* Alarme Gesvres
+:PROPERTIES:
+:ID:       452d011f-b977-4899-bad1-b11f68483e7e
+:END:
+<2021-07-08 Thu 14:00-15:00>
+* Paillote
+:PROPERTIES:
+:ID:       45d81a86-6c52-4829-8036-619681705814
+:END:
+<2018-09-10 Mon 12:15-13:45>
+* CBMN scientific day
+:PROPERTIES:
+:ID:       4736d7de-9b3b-4c1d-986c-b7e5ae02b40e
+:END:
+<2021-10-19 Tue 09:00-18:00>
+* Hem
+:PROPERTIES:
+:ID:       4736E9D7-4CA2-4CBF-AE07-7ABF3F0D1870
+:END:
+<2021-05-31 Mon 16:00-17:00>
+* Présentations TAI
+:PROPERTIES:
+:ID:       4746967d-d747-4709-ba0f-808f3bd31dca
+:END:
+<2016-12-01 Thu 13:00-14:00>
+  Bonjour à tous,
+ 
+ 
+ Avec un peu de retard à l’allumage, la saison 2 des présentations TAI recommencent le 1er décembre à 13H00 en salle en 076.
+ 
+ Merci à Souad et Karim de s’être proposés (cf résumés ci-dessous).
+ 
+ Souad, Karim ? Pouvez-vous gérer le vidéo-proj (aller le chercher un peu avant 13H00) Je risque d’arriver juste à l’heure.
+ 
+ Amicalement
+ 
+ nicholas
+ 
+ 
+ 
+ Souad
+ ——————
+ TITRE : Prediction de la saillance dans la vidéo naturelle avec l’apprentissage des CNN profonds.
+ 
+ Auteurs : Souad chaabouni (LABRI/ Université Bordeaux), Jenny benois-pineau (LABRI/
+ Université Bordeaux), Chokri ben amar ( REGIM-Lab/ Université de Sfax).
+ 
+ Résumé : Depuis peu la prédiction de la saillance visuelle dans les images et dans les vidéos est
+ effectuée à l'aide des outils d'apprentissage tel que les réseaux de neurones profonds, cette
+ prédiction prend en compte les deux composantes de l’attention visuelle bottom-up et top-down,
+ pour être fiable, la difficulté majeure en déploiement de ces techniques d'apprentissage pour la
+ prédiction de la saillance réside dans le fait qu'elles demandent beaucoup de données
+ d'apprentissage.
+ Nous proposons notre stratégie de l'apprentissage dans la prédiction des patches
+ saillant dans la vidéo. Une attention particulière sera accordée à l'information de données d’entrée
+ du réseau profond.
+ Les cartes de saillances pixellique sont ensuite construites à partir de la prédiction des régions, et
+ comparées avec les modèles de saillances de références : subjective « Wooding », le modèle de
+ Harel, le modèle de Seo,... Les résultats sont prometteurs et montrent une amélioration dans le cas
+ d'apprentissage par transfert
+ 
+ 
+ 
+ Karim
+ —————
+ intitulé : la classification des images IRM, application au diagnostic de la maladie d’Alzheimer
+ 
+ <<  l'idée est d'utiliser les réseaux de neurones approfondis (Deep learning) pour classifier les sujets (personnes) en trois classes différentes ( AD : Al'zheimer disease, NC : Normal Control, MCI :  Mild Cognitive Impairment), nous nous concentrons sur la morphologie de l'hippocampus qui est connue pour être affectée en relation avec le progrès de la maladie.
+ 
+ nous avons proposé l'approche 2D+ε, où une quantité limité de tranches (slice) consécutives qui comprennent l'hippocampus est utilisée pour alimenté notre réseaux de neurones convolutionnel, cet approche est réalisée par l'utilisation de la projection sagittal, qui nous a donné des bons précision.
+ 
+ maintenant, nous travaillons sur la technique de fusion, ou l’objectif est de fusionner trois réseaux en parallèle pour les trois projetions (Sagittal, coronal et axial).
+* Réunion recalage
+:PROPERTIES:
+:ID:       47649b2d-762c-456f-adf3-13adf910a2ff
+:END:
+<2021-05-20 Thu 09:30-12:00>
+* Réunion Optimum
+:PROPERTIES:
+:ID:       47db52e5-249c-476e-ae8f-d850f032c397
+:END:
+<2018-09-27 Thu 14:00-18:00>
+* TD TIC Pierre
+:PROPERTIES:
+:ID:       49205d63-7f68-4fc4-8b9f-cde58afe5e9a
+:LOCATION: i302
+:END:
+<2018-10-01 Mon 12:00-14:00>
+* Réunion BIBS
+:PROPERTIES:
+:ID:       498bfb30-d067-48f8-b1d0-c2c58de57dce
+:END:
+<2021-04-30 Fri 13:30-14:30>
+* Réunion bioinfo
+:PROPERTIES:
+:ID:       4a12c937-eaf6-4ba5-b228-b2bfa384c146
+:END:
+<2020-07-01 Wed 10:30-12:00>
+* Meeting
+:PROPERTIES:
+:ID:       4a296407-fef6-4abd-90c0-a5ec781b4a39
+:END:
+<2022-02-11 Fri 14:00-15:00>
+* Journée microscopistes
+:PROPERTIES:
+:ID:       4a4ec445-f40f-49e5-9d2a-7c42bf356044
+:END:
+<2019-11-27 Wed 12:00>--<2019-11-29 Fri 13:00>
+* Hem
+:PROPERTIES:
+:ID:       4A641E11-DB8D-4986-AEEA-9EAD16AB6E55
+:END:
+<2021-06-21 Mon 15:00-16:00>
+* IR
+:PROPERTIES:
+:ID:       4c4d8296-724d-4780-a9a1-0dbfc7e1681e
+:END:
+<2016-12-07 Wed 10:00-11:00>
+  Bonsoir, 
+ 
+ Ci joint le document pour l'introduction du rapport. 
+ On est disponible ce mercredi 07/12/2016 à 10h si possible. 
+ 
+ Cordialement. 
+ Andriamparany & Pierre
+* Réunion David
+:PROPERTIES:
+:ID:       4e5abce5-df00-4e6f-a3fe-73428492ef9a
+:END:
+<2019-07-10 Wed 15:00-16:00>
+* CATI
+:PROPERTIES:
+:ID:       4f415507-1e9e-49ff-8e65-2a89f821ee9b
+:END:
+<2021-11-23 Tue 13:30-14:30>
+* Répétition
+:PROPERTIES:
+:ID:       5004541a-c227-45e0-b67d-57257c186dfb
+:END:
+<2017-11-16 Thu 09:00-11:00>
+* Réunion BIBS
+:PROPERTIES:
+:ID:       50a6319d-31bc-42a4-9b42-96a20de09179
+:END:
+<2021-03-26 Fri 13:30-16:00>
+* Reunion ACP
+:PROPERTIES:
+:ID:       5285f593-a291-42d2-93f9-e6323c3dd55d
+:END:
+<2021-03-11 Thu 14:00-15:00>
+* Ann Cynthia 
+:PROPERTIES:
+:ID:       52B8E06A-9BFB-4070-83A9-3CC22E4C4157
+:END:
+<2021-10-03 Sun 09:00-10:00>
+* audit LRQA 31/01/2022
+:PROPERTIES:
+:ID:       54af1f1f-5638-4fb1-b23e-c3a5c77bed80
+:END:
+<2022-01-31 Mon>
+  Bonjour, \r
+ \r
+ Le prochain audit LRQA aura lieu le 31 janvier 2022. C'est un lundi. \r
+ \r
+ A plus tard \r
+ \r
+ Stephane \r
+ \r
+ \r
+ Hello, \r
+ \r
+ The next LRQA audit will take place on January 31, 2022. It is a Monday. \r
+ \r
+ See you later \r
+ \r
+ Stephane \r
+ \r
+ [ http://www.u-bordeaux.fr/ ] [ mailto:stephane.claverol@u-bordeaux.fr ] \r
+ [ mailto:stephane.claverol@u-bordeaux.fr | Stéphane Claverol ] \r
+ \r
+ Plateforme Protéome \r
+ Bâtiment Génomique Fonctionnelle Bordeaux \r
+ 146 rue Leo Saignat 33076 Bordeaux Cedex \r
+ France \r
+ NEW Tel. 05 57 57 46 15 \r
+ Port 06 81 20 44 65 \r
+ [ http://proteome.cgfb.u-bordeaux.fr/fr | proteome.cgfb.u-bordeaux.fr/fr ]
+* Séminaire i2k
+:PROPERTIES:
+:ID:       55A2AB05-35E5-4BFD-AAC9-B47BE20502F6
+:END:
+<2020-12-02 Wed 16:00-20:00>
+* Réunion MALDI
+:PROPERTIES:
+:ID:       56162808-c153-4798-ac76-dd7e6e38c941
+:END:
+<2021-03-25 Thu 16:30-17:30>
+* Journée accueil doctorants
+:PROPERTIES:
+:ID:       566bc3fb-24b3-45b4-9c7f-a47e79f16738
+:LOCATION: IMB, bat A33, salle de conf
+:END:
+<2016-12-08 Thu 14:00-16:00>
+* Inscription clascub
+:PROPERTIES:
+:ID:       571D3117-1CB0-43F7-B3E3-7013E8E5E8EF
+:END:
+<2021-10-25 Mon 12:00-13:00>
+* Prog even A2
+:PROPERTIES:
+:ID:       572d5e01-7df1-4284-a18e-25342d47a5ee
+:END:
+<2017-12-01 Fri 14:00-17:00>
+* Répétition OurCon
+:PROPERTIES:
+:ID:       5810579c-c74d-4504-a908-4ca08eb4c236
+:END:
+<2021-10-08 Fri 14:30-15:30>
+* Reunion Anne/Fabien
+:PROPERTIES:
+:ID:       59a8e703-9388-4a62-b357-8c1bbc2ebf51
+:END:
+<2016-11-29 Tue 17:15-18:30>
+* Réunion bioinfo
+:PROPERTIES:
+:ID:       5aa045e5-eff2-45f7-98be-3e0f6706fb51
+:END:
+<2020-06-11 Thu 10:30-11:30>
+* Pot Bastien
+:PROPERTIES:
+:ID:       5ab46885-044d-43d5-99b1-b20c36ede0ca
+:END:
+<2020-07-06 Mon 18:00-19:00>
+* Crémaillère Clem
+:PROPERTIES:
+:ID:       5B2099AC-7294-4FFD-9B30-6E00BB699476
+:END:
+<2019-07-06 Sat 09:00-10:00>
+* Présentation pôle CBMN
+:PROPERTIES:
+:ID:       5ba4cca7-408d-46e0-8b6a-f0bc23ab593c
+:END:
+<2021-11-05 Fri 10:00-11:00>
+* Repas Fabien Anne
+:PROPERTIES:
+:ID:       5c6cb975-1291-454c-b46b-ed54d3e1a4ef
+:END:
+<2021-10-11 Mon 12:00-13:00>
+* Réunion Skype Fabien
+:PROPERTIES:
+:ID:       60157c94-37a3-478a-846a-0472f22b4f73
+:END:
+<2017-01-19 Thu 09:00-10:00>
+* Animation scientifique BIBS stagiaires 2021
+:PROPERTIES:
+:ID:       6139c9d8-071b-4cc4-b92b-22d242042ada
+:END:
+<2021-06-18 Fri 13:00-14:00>
+  Hello à tous !
+ 
+ Rappel de la prochaine animation scientifique dans l'équipe : jeudi 18 juin, 13-14H.
+ Lien ZOOM ci-dessous.
+ 
+ Mohamed et Fanny, encadrés respectivement par David et Angélina, nous présenteront leur projet de stage.
+ 
+ Mohamed MOUALFI : Développement d'une bibliothèque Matlab pour le traitement d'images hyper-spectrales
+ Fanny VINTER : Développement d'une méthode de fonctionnalisation de pointes AFM pour l'étude des interactions biomoléculaires de protéines végétales et polysaccharides
+ 
+ Créneau de 25-30 min max pour chacun (15-20 min max de présentation + discussion).
+ 
+ Bienvenue à Marie-Françoise, Fabienne et Richard s'ils veulent assister à l'un et/ou l'autre topo !
+ 
+ Bonne journée !
+ Hélène
+ 
+ -----
+ 
+ Helene ROGNIAUX vous invite à une réunion Zoom planifiée.
+ 
+ Sujet : Animation scientifique BIBS : topos stagiaires 2021
+ Heure : 18 juin 2021 01:00 PM Paris
+ 
+ Participer à la réunion Zoom
+ https://inrae-fr.zoom.us/j/8162489121
+ 
+ ID de réunion : 816 248 9121
+ Une seule touche sur l'appareil mobile
+ +33186995831,,8162489121# France
+ +33170372246,,8162489121# France
+ 
+ Composez un numéro en fonction de votre emplacement
+         +33 1 8699 5831 France
+         +33 1 7037 2246 France
+         +33 1 7037 9729 France
+         +33 1 7095 0103 France
+         +33 1 7095 0350 France
+ ID de réunion : 816 248 9121
+ Trouvez votre numéro local : https://inrae-fr.zoom.us/u/a5aCgcrgh
+ 
+ Participer via Skype Entreprise
+ https://inrae-fr.zoom.us/skype/8162489121
+ 
+ Si vous avez choisi d'enregistrer la réunion : assurez-vous de rentrer dans le cadre décrit sur https://intranet.inrae.fr/donnees-personnelles/Avant-de-collecter-ou-de-re-utiliser-des-donnees/Bonnes-pratiques-et-situations-frequentes-FAQ/Vous-souhaitez-enregistrer-une-visioconference-ou-un-webinaire .
+ Prévenez-vos participants à l'avance et de nouveau lors du lancement de l'enregistrement. Soyez attentif aux conditions de réutilisation de la vidéo de votre réunion.
+ 
+ [Logo-Signature-INRAE]
+ 
+ Hélène ROGNIAUX
+ INRAE. Unité BIA, plate-forme BIBS.
+ Spectrométrie de masse.
+ La Géraudière, F-44316 NANTES.
+ Tel : +33 (0)2 40 67 50 34
+ helene.rogniaux@inrae.fr<mailto:helene.rogniaux@inrae.fr>
+ https://www.bibs.inrae.fr<https://www.bibs.inrae.fr/>
+* Café Skype
+:PROPERTIES:
+:ID:       626f96a4-f14b-4b16-9642-20e936bb3f43
+:END:
+<2020-03-30 Mon 10:30-11:30>
+* Journée jeunes chercheurs BIA
+:PROPERTIES:
+:ID:       6351c189-6a0b-4099-9fa7-9b7507fb3513
+:END:
+<2021-06-03 Thu 09:00-18:00>
+* Meeting
+:PROPERTIES:
+:ID:       6363268c-e07c-4145-92ec-4e5d8fb10036
+:END:
+<2021-10-15 Fri 14:00-15:00>
+* Appeler Laurence
+:PROPERTIES:
+:ID:       63d481df-51f2-429d-a84e-07d7205290b6
+:END:
+<2021-09-20 Mon 17:00-18:00>
+* Réunion scientifique
+:PROPERTIES:
+:ID:       63eb8ddf-3990-4a39-9e84-57200f4a68c2
+:END:
+<2019-12-13 Fri 09:30-10:30>
+* Séminaire Fusion d'informations
+:PROPERTIES:
+:ID:       641c9807-8506-4621-92e1-12b9c655f832
+:END:
+<2021-02-01 Mon 14:00-16:15>
+  Mail d'inscription au seminaire de fusion d'informations
+ Nom
+ Florent Grélard
+ Affiliation
+ INRAE
+ E-mail
+ florent.grelard@inrae.fr
+ Je pense participer :
+ Les deux jours
+ Envoyé depuis REVERSAAL
+* Anniv Adrien
+:PROPERTIES:
+:ID:       6557366f-3133-42d2-bab1-80e91b728a77
+:END:
+<2017-03-10 Fri 09:00-21:00>
+* Réunion MSI/IRM
+:PROPERTIES:
+:ID:       65960237-379d-4028-8fb6-6e9a6f58a0b1
+:END:
+<2019-09-03 Tue 10:00-12:00>
+* État lieux Barboche
+:PROPERTIES:
+:ID:       66C57D8E-493E-4301-BB8E-372D4EF8A913
+:END:
+<2019-02-11 Mon 08:30-09:30>
+* Journée VISU 2021
+:PROPERTIES:
+:ID:       6776cdfe-f66b-486e-a169-4559c681af04
+:END:
+<2021-06-08 Tue 08:45-09:45>
+  Bonjour, 
+ 
+ Vous vous êtes inscrit pour assister à la journée VISU 2021 qui a lieu mardi 8 Juin à partir de 9h . Voici les informations pour y accéder : 
+ 
+ -------------------- -------------------- -------------------- 
+ Jonathan SARTON is inviting you to a scheduled Zoom meeting. 
+ 
+ Topic: Journée VISU 2021 
+ Time: Jun 8, 2021 08:45 Paris 
+ 
+ Join Zoom Meeting 
+ https://cnrs.zoom.us/j/95131206621?pwd=LzFWM2c0SkR2a01kNW15UWNlMlRydz09 
+ 
+ Meeting ID: 951 3120 6621 
+ Passcode: Visu2021 
+ -------------------- -------------------- -------------------- 
+ 
+ 
+ Jonathan Sarton et Mar ía-Jesús Lobo , 
+ Organisateurs de la journée Visu 2021
+* Premiere mouture article
+:PROPERTIES:
+:ID:       6791f11f-aa72-479e-9680-e43fdd4e6637
+:END:
+<2020-04-16 Thu 13:00-14:00>
+* Init recherche Rodolphe
+:PROPERTIES:
+:ID:       6aef22c7-9400-4195-9cb5-f0046510b7b3
+:END:
+<2017-11-08 Wed 10:00-12:00>
+* Anniv Fabien
+:PROPERTIES:
+:ID:       6af77e74-a1e1-40ad-9ffa-c2dc43da5d3b
+:END:
+<2016-12-04 Sun 03:30-23:30>
+* TR: Ouvertures inscriptions - Journée Fouille de Données - 25 Novembre
+:PROPERTIES:
+:ID:       6bbceebb-a769-47a4-b183-2aa5b36320c8
+:END:
+<2019-11-25 Mon 09:45-18:00>
+  Hello,
+ 
+  
+ 
+ Voici le programme de la journée « Fouille de données » dont je t’avais parlé.
+ 
+  
+ 
+ Ca a l’air plutôt orienté méthodes chimiométriques et fouille de texte au final.
+ 
+  
+ 
+ A+
+ 
+ David
+ 
+  
+ 
+ De : Rallou Thomopoulos <rallou.thomopoulos@inra.fr>
+ Envoyé : mardi 24 septembre 2019 10:55
+ À : Alain KONDJOYAN <alain.kondjoyan@inra.fr>; Amadou Ndiaye <amandiay@u-bordeaux.fr>; Amadou Ndiaye <amadou.ndiaye@inra.fr>; Kamal Kansou <kamal.kansou@inra.fr>; Rallou Thomopoulos <rallou.thomopoulos@inra.fr>; Evelyne Lutton <evelyne.lutton@inra.fr>; Jean-Roch Mouret <jean-roch.mouret@inra.fr>; Benoit Le Blanc <benoit.leblanc@ensc.fr>; Alberto Tonda <alberto.tonda@inra.fr>; Cristian.Trelea@grignon.inra.fr; franck.taillandier@u-bordeaux.fr; Jean-Yves Delenne <jean-yves.delenne@inra.fr>; Sophie Barbe <Sophie.Barbe@Insa-Toulouse.Fr>; Laurent Bouvier <laurent.bouvier@inra.fr>; Alexandre Leca <Alexandre.Leca@inra.fr>; Pierre Bisquert <pierre.bisquert@inra.fr>; Nathalie Perrot <nathalie.mejean@inra.fr>; Xavier Frank <xavier.frank@inra.fr>; David Legland <david.legland@inra.fr>; Olivier Vitrac <Olivier.Vitrac@Agroparistech.Fr>; Cedric Baudrit <Cedric.Baudrit@U-Bordeaux.Fr>; Sofiane Guessasma <sofiane.guessasma@inra.fr>; Bertrand Broyart <Bertrand.Broyart@Agroparistech.Fr>; Jérôme Fortin <jerome.fortin@lirmm.fr>; Guillaume Delaplace <guillaume.delaplace@inra.fr>; Patrice Buche <patrice.buche@inra.fr>; nicolas.perry@ensam.eu; Philippe Abbal <philippe.abbal@inra.fr>; Sebastien Gaucel <sebastien.gaucel@inra.fr>; Genevieve Gesan-Guiziou <genevieve.gesan-guiziou@inra.fr>; Steven Le-Feunteun <steven.le-feunteun@inra.fr>; Guy Della-Valle <guy.della-valle@inra.fr>; Raphael Plasson <Raphael.Plasson@Univ-Avignon.Fr>; mrakotoson@grignon.inra.fr; Gilles Trystram <Gilles.Trystram@Agroparistech.Fr>; Ludovic Montastruc <Ludovic.Montastruc@Ensiacet.Fr>; Adelin Barbacci <adelin.barbacci@inra.fr>; Bruno Perret <bruno.perret@inra.fr>; Madalina Croitoru <Madalina.Croitoru@Lirmm.Fr>; Denis Flick <Denis.Flick@Agroparistech.Fr>; Daniel Goujot <Daniel.Goujot@Agroparistech.Fr>; Cesar.Aceves <cesar.aceves@insa-toulouse.fr>; Olivier Martin <olivier.martin@agroparistech.fr>; Virginie Hugouvieux <virginie.hugouvieux@inra.fr>; Nadia Boukhelifa <nadia.boukhelifa@inra.fr>; Julien Cufi <julien.cufi@inra.fr>
+ Cc : Claire Bourlieu-Lacanal <claire.bourlieu-lacanal@inra.fr>; Gabriel Paes <gabriel.paes@inra.fr>
+ Objet : Fwd: Ouvertures inscriptions - Journée Fouille de Données - 25 Novembre
+ 
+  
+ 
+ Bonjour à tous,
+ 
+ Veuillez trouver ci-joint le programme actualisé de la prochaine journée INCOM ainsi que le lien d'inscription.
+ 
+ Bien à vous,
+ 
+ Rallou
+ 
+ 
+ 
+ -------- Message transféré --------
+ 
+ Sujet :
+ \t
+ 
+ RE: Ouvertures inscriptions - Journée Fouille de Données - 25 Novembre
+ 
+ Date :
+ \t
+ 
+ Thu, 5 Sep 2019 19:08:13 +0200
+ 
+ De :
+ \t
+ 
+ Laurence Prevosto <laurence.prevosto@inra.fr>
+ 
+ 
+ 
+ 
+ Bonjour à tous,
+ 
+ Voici le rappel de la rentrée pour cette journée d’animation :
+ 
+ Fouille de données . Qu’est-ce que c’est ? Quel intérêt ? Quelles méthodes ? Et plus encore !
+ 25 novembre 2019 de 10h00 à 17h00 à l’ISC PIF 113 rue National Paris (30 places disponibles)
+ 
+ Pensez à vous inscrire au lien suivant : https://enquetes.inra.fr/index.php/546243?lang=fr
+ 
+ Programme prévisionnel :
+ 
+ 9h45 Café d’accueil
+ 
+ 10h00-10h30 – Pourquoi cette journée, quels enjeux ?
+ 
+ Focus sur la définition du terme « fouille de données »
+ 
+ Présentation de l’IRIT et du partenariat noué avec l’institut
+ 
+ 10h30 – 11h30 – Panorama de méthodes de fouille et démonstration d’une des méthodes avec un cas d’étude. IRIT Toulouse
+ 
+ 11h30-13h00 - Ateliers tournants de démonstration de méthodes ; présentation d’équipes INRA CEPIA et MIA, IRSTEA, LBE, IRIT.
+ 
+ 13h00 – 14h00 : repas sur place
+ 
+ 14h00 – 15h00 : retour des ateliers en format « mini-table-ronde ». Quelles questions ont été posées, ce qu’il faut retenir des points d’intérêt et préoccupation des participants
+ 
+ 15h00-16h00 : Faire tourner des méthodes de fouille, oui mais, avec quel jeu de données ?
+ A.Tonda : Exemple de travaux préparatoires ; difficultés et recommandations
+ 
+ 16h00-17h00 : Quelle suite à donner pour Transform ?
+ 
+  
+ 
+ Cette journée est organisée dans le cadre des défis du département CEPIA et plus particulièrement par les animateurs « Intégration des connaissances et des modèles » Cesar Aceves-Lara et Rallou Thomopoulos, avec l’aide de : Catherine Renard, Claire Bourlieu-Lacanal, Gabriel Paës, Rachel Boutrou
+ 
+ Merci de votre intérêt pour cette initiative, n’hésitez pas à faire suivre cette information aux personnes les plus concernées de vos unités. Nous vous accueillerons avec plaisir à l’ISC le 25 Novembre.
+ 
+ Pour Rallou et Cesar
+ 
+ Laurence Prévosto
+ 
+  
+ 
+ mailbox:///C:/Users/Rallou/AppData/Roaming/Thunderbird/Profiles/dr3cvpd4.default/Mail/pop.supagro.inra.fr/INCOM?number=152528637&part=1.2&filename=image001.png
+ 
+ Pour les besoins de traitement, vos messages sont susceptibles d’être diffusés à d’autres collègues du département CEPIA. Si vous ne souhaitez pas que votre message soit lu par d’autres, merci d’inclure la mention CONFIDENTIEL dans le sujet.
+ Your messages are likely to be transferred to other members of the CEPIA management team or Colleagues of the CEPIA Division. If you do not wish your message to be read by others, please include the word CONFIDENTIAL in the subject of your message.
+ 
+         Laurence Prévosto
+            Ingénieur projet/Project manager
+            Consultant-Formateur interne en animations participatives et créativité
+ 
+            Consulting and training for participatory meetings and creativity
+            -----------------------------------
+            Département CEPIA
+            Caractérisation et Elaboration des Produits Issus de l’Agriculture
+            Division for Science and Process Engineering of Agricultural Products
+            -----------------------------------
+            +33 (0)4 32 72 25 39
+            +33 (0)6 71 92 94 18
+            -----------------------------------
+            www.cepia.inra.fr
+ 
+             Creativity is contagious. Pass it on. A.Einstein
+* Meeting
+:PROPERTIES:
+:ID:       6d1e0ae4-8227-4429-bf8f-4332a9fda7f2
+:END:
+<2022-05-13 Fri 14:00-15:00>
+* Réunion Loïc
+:PROPERTIES:
+:ID:       6e7de166-e219-4fbc-9a8c-8c3f59d731da
+:END:
+<2020-09-30 Wed 14:00-15:00>
+* Apéro Carlos
+:PROPERTIES:
+:ID:       7037a701-6d0f-4768-ad81-4aaebdc595dc
+:END:
+<2019-02-04 Mon 19:00-20:00>
+* Visite visio appart
+:PROPERTIES:
+:ID:       706bea1d-d6ed-4f65-8752-055aba706523
+:END:
+<2021-06-29 Tue 17:30-18:30>
+* Résultats fusion MSI-IRM stades 250DJ et 650DJ
+:PROPERTIES:
+:ID:       707a89c2-dccf-454b-96fe-c533c9d97d82
+:END:
+<2019-09-30 Mon 10:30-12:00>
+  Hello Florent
+ 
+  
+ 
+ Serais-tu dispo lundi 30/9 vers 10h30-11h pour que tu nous expliques avec Mathieu ce que tu nous as envoyé ?
+ 
+ Tu viens vers chez nous ?
+ 
+ Merci, bonne journée !
+ 
+  
+ 
+ Hélène
+ 
+  
+ 
+ De : Florent Grelard <florent.grelard@inra.fr>
+ Envoyé : vendredi 20 septembre 2019 16:19
+ À : Mathieu Fanuel <mathieu.fanuel@inra.fr>; Helene Rogniaux <helene.rogniaux@inra.fr>
+ Objet : Résultats fusion MSI-IRM stades 250DJ et 650DJ
+ 
+  
+ 
+ Bonjour à tous les deux,
+ 
+ Je vous envoie les résultats de la fusion d'images IRM-MSI pour les stades 250DJ et 650DJ (cf. archive jointe).
+ 
+ J'ai apporté quelques modifications à la chaîne de traitement par rapport à ce que je vous ai montré au début du mois:
+ 1 - Réalignement après la sélection spatiale des pics
+ 2 - Deisotoping par déconvolution : utilisation de la bibliothèque ms_deisotope
+ 3 - Calcul des rapports entre les molécules. Je calcule tous les rapports possibles à condition que le numérateur ait un ratio m/z plus élevé que le dénominateur.
+ 4 - La réduction par ACP est suivie d'une réduction par t-SNE, algorithme qui regroupe davantage les images qui se ressemblent.
+ 
+ Pour chaque stade (dossiers "250" et "650"), vous trouverez la corrélation avec les images IRM en T2* et en densité. Les rapports entre les images MALDI sont calculés pour les fichiers dont le nom est suffixé par "_ratio". Les images IRM sont présentes dans le sous-dossier "irm". L'image "t2_contrast.png" correspond à l'image "t2.png" avec un contraste réhaussé, pour faciliter la mise en correspondance.
+ 
+ Pour chaque mise en correspondance, il y a deux fichiers :
+ - un fichier .csv qui contient deux colonnes: la première correspond aux ratios m/z (ou au rapport de ratios m/z) ordonnés de façon croissante par leur proximité à l'image IRM. La première ligne correspond donc à l'image qui corrèle le plus avec l'image IRM. La seconde colonne correspond à la distance entre les images MALDI et IRM réduites par l'ACP+t-SNE. Ca permet de sélectionner les molécules pertinentes, en particulier lorsque l'on a énormément d'échantillons (cas des rapports entre molécules). Par exemple, on peut choisir d'étudier les images MALDI dont la distance à l'image IRM est inférieure à 10% de la distance maximale (dernière ligne dans le fichier).
+ - une image au format .tif contenant les 10 premières images MALDI 2D qui corrèlent avec l'image IRM. Le visualisateur de Windows ne permet de voir que la première de ces 10 images 2D. La totalité de l'image peut être ouverte avec ImageJ, je ne sais pas si vous avez l'habitude de l'utiliser... Je peux vous aider au besoin.
+ 
+ Quelques éléments pour l'interprétation:
+ - L'image T2* au stade 250 DJ ne correspond pas à ce que Loïc a l'habitude de voir,  puisqu'il est difficile d'ajuster des fonctions exponentielles sur un faible nombre d'échos. Les  résultats de la mise en correspondance sont à prendre avec des pincettes.
+ - L'image T2* au stade 650 DJ a bien une zone de forte intensité à proximité du sillon. On ne retrouve cet aspect dans aucune image MALDI, issue d'un rapport entre deux images ou non... La coupe que j'ai considérée (40) paraît cependant déformée au niveau du sillon; j'essaierai avec une autre.
+ - Pour les rapports, le numérateur peut être une image relativement homogène, ou de faible intensité. Le résultat de la division des deux images sera donc une image sensiblement similaire à celle du numérateur.
+ 
+ A bientôt,
+ Florent
+* Permanence compost
+:PROPERTIES:
+:ID:       72ab3690-587f-4b00-b22e-475794266e86
+:END:
+<2019-06-25 Tue 19:00-20:00>
+* BMI
+:PROPERTIES:
+:ID:       72c0d992-bd41-4bdb-bbef-0e38cba4d744
+:END:
+<2017-12-11 Mon 10:30-11:45>
+* Fibre
+:PROPERTIES:
+:ID:       73667f24-5927-4f86-a99d-b768bb8111e8
+:END:
+<2021-10-15 Fri 08:00-12:00>
+* Sécurité Labo
+:PROPERTIES:
+:ID:       7682f674-eb69-4f54-8edc-af56c730555f
+:END:
+<2019-04-25 Thu 14:00-15:00>
+* Entretien mi-parcours
+:PROPERTIES:
+:ID:       779e13e3-3349-4e00-9a0f-1b0cb066cc8a
+:END:
+<2020-03-18 Wed 14:00-15:00>
+* AG de BIA
+:PROPERTIES:
+:ID:       79a9c883-d8c3-40ea-8511-f468a372a93f
+:END:
+<2019-12-06 Fri 09:00-10:00>
+* Réunion SIGO BIBS
+:PROPERTIES:
+:ID:       7b0cbc87-d4bf-40bb-acc1-94b32bc398ca
+:LOCATION: Salle Poiseuille
+:END:
+<2020-01-08 Wed 14:00-15:30>
+* Soutenance IR
+:PROPERTIES:
+:ID:       7b3a324f-4eb4-40db-b569-a61298f5d9f4
+:LOCATION: Salle 4
+:END:
+<2017-01-30 Mon 14:30-18:30>
+  Bonjour,
+ Vous trouverez en pièce jointe une proposition de planning pour les 
+ soutenances d'initiation à la recherche. Pour rappel les soutenances 
+ sont prévues le Lundi 30/01 entre 13h et 18h au LaBRI. Chaque 
+ présentation durera 10 min + 5 min de questions. Il vous est demandé 
+ d'assister à au moins la soutenance des étudiants que vous encadrez. Les 
+ personnes dont le nom apparaît à coté de la session sont les présidents 
+ du mini jury et devront si possible assister à l'intégralité des 
+ soutenances de la session (1h15 en tout).
+ J'ai essayé autant que possible de faire des sessions cohérentes en 
+ terme de contenu (mais ce n'est peut être pas optimal).
+ Merci de me signaler les éventuelles incompatibilités d'emploi du temps 
+ ou tout autre commentaire avant la fin de la semaine (je compte publier 
+ le planning en début de semaine prochaine).
+ Merci aussi à ceux qui ne peuvent pas être présents de prévoir une 
+ personne pour les remplacer.
+ Amicalement,
+ Abdou
+* GT
+:PROPERTIES:
+:ID:       7bf8cd77-a578-4a45-a22b-c88f367c9263
+:END:
+<2019-03-04 Mon 16:00-17:00>
+* Seminaire recherche David?
+:PROPERTIES:
+:ID:       7c768684-84d2-4905-bbaa-98598e1c1201
+:END:
+<2019-06-13 Thu 13:30-14:30>
+* Orientation professionnelle
+:PROPERTIES:
+:ID:       7ccc91f3-5dc8-435f-a4c1-3876332f3db6
+:END:
+<2020-09-29 Tue 13:30-14:30>
+* Etat des lieux JBQ
+:PROPERTIES:
+:ID:       7da3b916-77a8-452c-b863-f2b63bdef3bc
+:END:
+<2017-12-16 Sat 10:00-12:00>
+* Réunion plateforme
+:PROPERTIES:
+:ID:       80716c36-afac-4b0e-82a4-0de4dc5d3b64
+:END:
+<2019-06-28 Fri 13:30-14:30>
+* Soutenance Rémi
+:PROPERTIES:
+:ID:       817f2361-230a-49cb-8cef-9c35a1939af4
+:END:
+<2017-11-29 Wed 10:00-22:15>
+* Séminaire Spectro Raman
+:PROPERTIES:
+:ID:       8200ce7a-8a1f-4c5c-9e13-0bce49d56ec2
+:END:
+<2021-11-25 Thu 09:00-12:00>
+  Merci pour votre inscription !\r\r
+ \r\r
+  \r\r
+ \r\r
+ Imagerie et Spectroscopie Vibrationnelle - 25 Novembre matin\r\r
+ \r\r
+ Imagerie et Spectroscopie Vibrationnelle - 25 Novembre matin\r\r
+ \r\r
+ jeudi 25 novembre 2021 à 09h30 (CET)\r\r
+ \r\r
+ Bonjour Florent,\r\r
+ Merci de vous être enregistré(e) à notre événement. Vous pourrez\r\r
+ vous connecter à l'événement en cliquant sur le bouton\r\r
+ ci-dessous. Nous vous enverrons ce lien à nouveau dès que\r\r
+ l'événement démarrera.\r\r
+ À très bientôt.\r\r
+ \r\r
+ Marc Dussauze\r\r
+ \r\r
+ Accéder à l'événement \r\r
+ ( https://app.livestorm.co/p/4d8c26e7-5a19-439f-aab0-9c5072e1a460/live?email=florent.grelard@u-bordeaux.fr&key=f2b8957f85b9e68501283d&s=096203d9-86a2-41ae-b74b-aced681db14e )\r\r
+ \r\r
+ \r\r
+ Ne transférez pas cet email et ne partagez pas ce lien. Il\r\r
+ contient votre code personnel pour accéder à l'événement.\r\r
+ \r\r
+ Ajouter l'événement au calendrier :\r\r
+ \r\r
+ iCalendar \r\r
+ ( https://app.livestorm.co/p/4d8c26e7-5a19-439f-aab0-9c5072e1a460/096203d9-86a2-41ae-b74b-aced681db14e/ics?key=f2b8957f85b9e68501283d&participant=ae2ef5ca-376b-435c-b8d2-494e9f96cb31 )\r\r
+ \r\r
+ Google \r\r
+ ( https://app.livestorm.co/google_calendar/4d8c26e7-5a19-439f-aab0-9c5072e1a460?participant_id=ae2ef5ca-376b-435c-b8d2-494e9f96cb31&period_id=096203d9-86a2-41ae-b74b-aced681db14e )\r\r
+ \r\r
+ Outlook \r\r
+ ( https://app.livestorm.co/p/4d8c26e7-5a19-439f-aab0-9c5072e1a460/096203d9-86a2-41ae-b74b-aced681db14e/ics?key=f2b8957f85b9e68501283d&participant=ae2ef5ca-376b-435c-b8d2-494e9f96cb31 )\r\r
+ \r\r
+ Yahoo \r\r
+ ( https://app.livestorm.co/p/4d8c26e7-5a19-439f-aab0-9c5072e1a460/096203d9-86a2-41ae-b74b-aced681db14e/ics?key=f2b8957f85b9e68501283d&participant=ae2ef5ca-376b-435c-b8d2-494e9f96cb31 )\r\r
+ \r\r
+ \r\r
+ Cet email a été envoyé à florent.grelard@u-bordeaux.fr par\r\r
+ Livestorm \r\r
+ ( https://livestorm.co/fr/powered-by-livestorm?utm_source=powered-by-livestorm&utm_medium=email&utm_campaign=gfsv&utm_content=Imagerie%20et%20Spectroscopie%20Vibrationnelle%20-%2025%20Novembre%20matin&attendee_source=gfsv&attendee_first_name=Florent )\r\r
+ \r\r
+ \r\r
+ Copyright © 2021 Livestorm SAS - 24 rue Rodier 75009, Paris\r\r
+ Powered by Livestorm \r\r
+ ( https://livestorm.co/fr/powered-by-livestorm?utm_source=powered-by-livestorm&utm_medium=email&utm_campaign=gfsv&utm_content=Imagerie%20et%20Spectroscopie%20Vibrationnelle%20-%2025%20Novembre%20matin&attendee_source=gfsv&attendee_first_name=Florent )\r\r
+ \r\r
+ Gérer mes préférences email ( https://u2309175.ct.sendgrid.net/asm/?user_id=2309175&data=5VfDE4_2ADyML578XEdt-6UTSAN20xYPdAQLi5cBkk6Cw4RAD_DCTCL8gijIJanJFSsFY1_TMJMAnVeKTYFXAXQqDWkWhxbg-iiDMhsfZwnv8mbNDdIGjym28wug6BEC2XuTScmfitCDYTN13IcXro9kdkFSeQgJngvceMvH2mI6W1wux51z1m_GS9Hpo-DQDLF4ayg7u7iLmM1A8Q-nhOS9pghzRdKvlU2CerGDnlfNyQWH_sG99zu2kiEmcMwXF5qhhWD3OtyKVw-SpUwwX2PI_6V6cEYf1phi7yCdQTqPONk9ixGyzwC2IJivoettEEpk_1NJPVmlG2WGbBixGwaW8Z8ATzDx9m67qflBs1v_Msrn-uPcUzqfNq6JmKsWr7eK5OLl-MTnWsw7De50wbND-d31VnEEHHMNuEnT6z6M5v0Tqugy8S0dNQaOiZhGl8TBrqYMZKgSnhNHyVErio8EfnaueYk9YKMhg2ouNM1736Tbspf0XNNndSE-1R0JQwR_6tToXuyZ6mBI-PBLzXZ7ZrKSgJreyvs5ihmaEA0N6tpljv2xZnsEWehN0XLahdNmSGRlOve-_BFrqbMCSSGjEaXzVLsnAdVllmEaRVqEF0N_AphlKfasmYRTlFL5uYifdPN8sQfAN2GqsU_oi03tRpbQ3hvR2sfcSOnLUgAyMlkgZ-9GnqTyLQ02eBJMgyzSLU75BhdByNeiMmJd9D1SUiZAeQJs9uxt_5V14rleTY_WdA52I2DwxgtmZ0nTonf8Koan8Z-BFVmKMidybvA27S930NpG4_5X_kVjH6I3c5812LkysC4qzU67GJ2xPOSnOAk9ll40-KZfUjyhQgVoj1LkjpANlowtQ22obRxDGOGmbdSaMYkLp2hhRdhigUy0k36_-M_HD70bpw5MGjiKq2SEZi9ZH_qXrBOzAM8= )
+* Chambéry
+:PROPERTIES:
+:ID:       82b75506-e5bb-43a8-b4c5-7ed4d9536605
+:END:
+<2017-03-22 Wed 07:00>--<2017-03-24 Fri 18:00>
+* Présentation Thang
+:PROPERTIES:
+:ID:       83730953-48a0-4d05-9fad-e04ba9e25fcf
+:END:
+<2019-09-16 Mon 14:00-15:00>
+* [Conseil scientifique de BIBS] 8 octobre 2019
+:PROPERTIES:
+:ID:       83a359c5-7c6b-4a4c-9009-abca292cca0f
+:END:
+<2019-10-08 Tue 10:00-16:00>
+  Bonjour à vous
+ 
+  
+ 
+ Pour info, le conseil scientifique de la plate-forme BIBS se tiendra le mardi 8 octobre 2019 (approximativement 10h-16h30). A bloquer dans vos agendas, donc ! (ça se passera en salle Pascal)
+ 
+  
+ 
+ Bonne fin de journée !
+ 
+ Hélène
+ 
+  
+ 
+ De : Helene Rogniaux <helene.rogniaux@inra.fr>
+ Envoyé : lundi 29 avril 2019 11:13
+ À : Gregory Mouille <gregory.mouille@inra.fr>; Emmanuelle Leize <leize@chimie.u-strasbg.fr>; Frederic Jamme <Frederic.Jamme@Synchrotron-Soleil.Fr>; Jocelyne LE SEYEC <jocelyne.leseyec@univ-rennes1.fr>; Agata ZYKWINSKA <agata.zykwinska@ifremer.fr>; Christelle Lopez <christelle.lopez@inra.fr>; Laurent LINOSSIER <laurent.linossier@limagrain.com>; Veronique Monnet <veronique.monnet@inra.fr>; Corinne Rondeau-ext <corinne.rondeau@irstea.fr>; Cyril Pommier <cyril.pommier@inra.fr>; Catherine Leblanc <catherine.leblanc@sb-roscoff.fr>
+ Cc : Loic Foucat <loic.foucat@inra.fr>; Sophie Le-Gall <sophie.le-gall@inra.fr>; Dominique Tessier <dominique.tessier@inra.fr>; David Ropartz <david.ropartz@inra.fr>; Bruno Novales <bruno.novales@inra.fr>; Helene Rogniaux <helene.rogniaux@inra.fr>
+ Objet : [Conseil scientifique de BIBS] Doodle, semaine du 7 octobre 2019
+ 
+  
+ 
+ Chers/chères collègues,
+ 
+  
+ 
+ Le temps passe vite !
+ 
+ Nous avions envisagé de tenir notre conseil scientifique 2019 avant l’été mais voilà… ça défile et l’agenda est déjà bien chargé ! (chez vous aussi, sans doute !!)
+ 
+  
+ 
+ Nous vous proposons donc un doodle sur la semaine du 7 octobre :
+ 
+ https://doodle.com/poll/93ifuttt3katn72y
+ 
+ Si vous êtes partants pour « rempiler » dans cette instance, merci de le compléter si possible rapidement.
+ 
+  
+ 
+ Nous vous ferons parvenir comme habituellement un résumé d’activité de la plate-forme quelques semaines avant la réunion, ainsi que les contacts pour préparer votre déplacement.
+ 
+ Et aussi : nous ajusterons les horaires pour tenir compte des trajets des uns et des autres ; approximativement : 10h-16h.
+ 
+  
+ 
+ Bonne fête du 1er mai ! J
+ 
+ Amicalement,
+ 
+  
+ 
+ Hélène
+ 
+  
+ 
+ SignatureINRA_Rogniaux_2016
+* Prochain p'tit dej Bioinfo
+:PROPERTIES:
+:ID:       83d9cc55-5496-48da-83dc-c17dbe2f7d3f
+:END:
+<2019-06-04 Tue 09:00-10:00>
+  Hello Florent,
+ 
+  
+ 
+ Pour info : les petits-dej de la bio-info sont un rendez-vous assez informel des « bio-informaticiens » de Nantes. Il s’agit surtout des bioinfos de l’IRS (institut de recherche en santé).
+ 
+ Les sujets sont très « omiques », mais c’est une occasion de voir ce qui se fait dans d’autres labos.
+ 
+  
+ 
+ David
+ 
+  
+ 
+ De : Audrey Bihouée <audrey.bihouee@univ-nantes.fr>
+ Envoyé : lundi 13 mai 2019 14:14
+ À : ptits-dejs-bioinfo@univ-nantes.fr
+ Objet : [ptits-dejs-bioinfo] Prochain p'tit dej Bioinfo le Mardi 4 Juin à 9h30
+ 
+  
+ 
+ Bonjour à tous,
+ 
+ Le prochain ptit-dej bioinfo aura lieu le Mardi 4 Juin à 9h30 dans la salle 4 (RDC IRS UN). Adrien Foucal et Victor Gaborit nous parleront d'analyse de données d'ATAC-Seq (et Chip-Seq).
+ Pour des raisons d'organisation, merci de me signifier votre présence par retour de mail.
+ 
+ A bientôt
+ Audrey
+ 
+ -- 
+ 
+  
+ 
+ 
+ Université de Nantes
+ 
+ Audrey BIHOUEE
+ Plateforme Bioinformatique BiRD
+ UMR_S 1087 / UMR_C 6291 L'UNITE DE RECHERCHE DE L'INSTITUT DU THORAX
+ 
+ 
+ Tél : 02-28-08-00-55 (320055)
+ mail: Audrey.Bihouee@univ-nantes.fr
+ 
+ IRS UN
+ 8 quai Moncousu - BP 70721
+ 44007 Nantes Cedex 1
+ Bureau : 218
+ www.pf-bird.univ-nantes.fr
+ 
+ 
+ Adoptez l'éco-attitude: N'imprimez ce mail que si cela est vraiment nécessaire
+* Programmation événementielle (A2)
+:PROPERTIES:
+:ID:       84a0c897-8e2c-4f4e-af34-4a9fdd3ad878
+:LOCATION: 000
+:END:
+<2017-11-23 Thu 09:00-12:00>
+* Diner
+:PROPERTIES:
+:ID:       84eb6b9a-c941-47f2-89a7-7dfefa74eded
+:END:
+<2018-12-04 Tue 19:30-20:30>
+  Bonjour à toutes et à tous, 
+ 
+ 
+ Le laboratoire LIRIS Lyon2 vous  donne rendez vous  :
+ 
+ 
+ Mardi 04/12/2018 à 19h30  :
+ 
+ 
+ "Restaurant  Marguerite"
+ 
+ 57 avenue des Frères Lumière
+ 
+ 69008 Lyon
+ 
+ 
+ Prière de confirmer  (à Catherine) votre présence impérativement avant le 23/11/2018
+ 
+ 
+ 
+ Amicalement
+ 
+ 
+ 
+ Laure et Catherine
+ 
+ 
+ 
+ 
+ 
+              1530625946456_PastedImage
+* Audits spots
+:PROPERTIES:
+:ID:       86a90531-e45e-4796-87c7-4e6ba947e17d
+:END:
+<2019-06-12 Wed 09:30-10:30>
+  Ok alors mercredi matin 9h30 si ça te conviens.
+ 
+ -----Message d'origine-----
+ De : Florent Grelard <florent.grelard@inra.fr> 
+ Envoyé : mardi 4 juin 2019 11:51
+ À : Xavier Falourd <xavier.falourd@inra.fr>
+ Objet : Re: Audits spots
+ 
+ Salut Xavier,
+ 
+ Je suis dispo tous les jours sauf le jeudi la semaine prochaine.
+ 
+ A bientôt,
+ Florent
+ 
+ Le 03/06/2019 à 18:42, Xavier Falourd a écrit :
+ > Salut Florent,
+ > Je suis en déplacement cette semaine, donc dis-moi quand tu es dispo à partir de la semaine prochaine.
+ > Bonne soirée
+ > Xavier
+ >
+ > -----Message d'origine-----
+ > De : Florent Grelard <florent.grelard@inra.fr> Envoyé : lundi 3 juin 
+ > 2019 09:08 À : Brigitte Laillet <brigitte.laillet@inra.fr>; Xavier 
+ > Falourd <xavier.falourd@inra.fr> Objet : Audits spots
+ >
+ > Bonjour à tous les deux,
+ >
+ > Lors de la dernière réunion BIBS, on a convenu que je passerai faire un audit spot des pipettes.
+ > Je voulais planifier un peu ça : quand seriez-vous disponibles? Si c'est possible pour vous, autant le faire rapidement!
+ >
+ > Bonne journée,
+ > Florent Grélard
+ >
+* INRA site Nantes-La Géraudière - Coupure électrique mercredi 16 octobre 2019 de 7h à 13h
+:PROPERTIES:
+:ID:       873f747d-ba5d-4954-b19e-4857ab6d2622
+:END:
+<2019-10-16 Wed 07:00-13:00>
+  Bonjour,
+ 
+ Vous trouverez ci-après une information sur le fonctionnement du site de la Géraudière :
+ 
+ Utilisateurs ou services concernés par le dérangement :
+ ________________________________
+ La coupure concerne tous les équipements électriques, informatiques téléphoniques et techniques du site de la Géraudière
+ 
+ Description du dérangement :
+ ________________________________
+ 
+ L'entreprise VINCI interviendra avec ERDF sur les cellules Haute Tension. Il s'agit de la maintenance annuelle de notre approvisionnement électrique du site de la Géraudière.
+ 
+ Cette intervention entrainera une coupure :
+ - des installations électriques,
+ - du réseau informatique,
+ - de la téléphonie interne externe,
+ - des installations techniques.
+ 
+ 
+ A noter :
+ 
+ - Un accès réseau sera maintenu en salle Ampère et Kelvin. Les services informatiques de la salle serveur du bâtiment Erdre seront maintenus sous tension (serveurs de fichiers, serveurs web, accès messagerie, réservation de salle) et ainsi que la liaison externe du site.
+ - L'accès à la boite à clés véhicule de service sera  possible.
+ 
+ Durée prévue de l'interruption : 6h00
+ ________________________________
+ Début : mercredi 16 octobre à 7h00
+ Fin (estimation) :  mercredi 16 octobre  à 13h00
+ 
+ 
+ 
+ Bien cordialement,
+ 
+ 
+ [INRA]<http://www.inra.fr/>
+ David Moisan
+ Directeur des Services d'Appui
+ dsa-Pays-de-la-Loire@inra.fr<mailto:dsa-Pays-de-la-Loire@inra.fr>
+ Centre de recherche Pays de la Loire
+ Services Déconcentrés d'Appui à la Recherche
+ Tél. : 02 40 67 51 61
+ Fax : 02 40 67 50 05
+ 
+ Rue de la Géraudière BP 71627
+ 44 316 Nantes Cedex 3
+ France
+ http://www.Angers-Nantes.inra.fr/<http://www.angers-nantes.inra.fr/>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [logo                               INRA - Science & Impact]<http://www.inra.fr/>
+ 
+ Patrick Busson
+ 
+ Équipe Travaux
+ Attention mon adresse mail a changé
+ 
+ Patrick.Busson@inra.fr<mailto:Patrick.Busson@inra.fr>
+ 
+ Centre de recherche Angers-Nantes
+ Services Déconcentrés d'Appui à la Recherche
+ 
+ Tél. : +33 (0)2 40 67 51 57
+ 
+ Fax : +33  (0)2 40 67 50 05
+ 
+ 
+ Rue de la Géraudière - BP 71627
+ 
+ 44316 Nantes Cedex 3
+ 
+ France
+ 
+ wwww.inra.fr<http://www.inra.fr/>
+* Meeting
+:PROPERTIES:
+:ID:       8932332b-0a43-463f-94b7-17876bf47dca
+:END:
+<2022-01-14 Fri 14:00-15:00>
+* Réunion DAWIN
+:PROPERTIES:
+:ID:       89357d45-6675-4ea2-b5d6-438fd09f485a
+:END:
+<2017-06-29 Thu 17:00-18:30>
+* AG de BIA
+:PROPERTIES:
+:ID:       8a143d69-b57c-4185-8557-5d87b24ffeb8
+:END:
+<2020-12-11 Fri 09:00-10:00>
+* Répétition OurCon
+:PROPERTIES:
+:ID:       8bf29932-a4ba-49ca-bde7-94298ce3e0be
+:END:
+<2021-10-06 Wed 10:30-11:30>
+  Bonjour,\r
+ \r
+ Mathieu et Hélène ne sont pas dispos aux créneaux que tu as sélectionnés \r
+ David. Je fais une répétition avec eux le 6 octobre à 10h30. Loïc, tu \r
+ peux nous rejoindre à ce moment-là si tu es dispo.\r
+ \r
+ L'invitation Zoom est ci-dessous. David, on pourra en refaire une autre \r
+ tous les deux si tu veux!\r
+ \r
+ Bonne journée à vous!\r
+ Florent\r
+ \r
+     Sujet : Zoom meeting invitation - Réunion Zoom de Florent Grélard\r
+     Heure : 6 oct. 2021 10:30 AM Paris\r
+ \r
+     Participer à la réunion Zoom\r
+     https://u-bordeaux-fr.zoom.us/j/89726326565?pwd=UTErenJxWmRrR1hQbDM4SldVUWZNUT09\r
+ \r
+     ID de réunion : 897 2632 6565\r
+     Code secret : 585880\r
+ \r
+     Trouvez votre numéro local : https://u-bordeaux-fr.zoom.us/u/kcML0KMwOW\r
+ \r
+ \r
+ \r
+ \r
+ Le 29/09/2021 à 17:51, Florent Grélard a écrit :\r
+ > Salut à vous,\r
+ >\r
+ > J'ai fini de préparer mes diapos pour OurCon. J'aurais bien aimé faire \r
+ > une répétition avec vous pour qu'on en discute et que je sois certain \r
+ > que je ne raconte pas trop de bêtises sur les aspects chimie.\r
+ >\r
+ > La présentation dure 15 min, on peut tabler sur une réunion d'1h-1h30.\r
+ >\r
+ > Je vous mets des dates, je n'ai pas tellement de contrainte de mon \r
+ > côté si ce n'est avant le 13 octobre :)\r
+ > https://evento.renater.fr/survey/repetition-ourcon-1sa7ugm5\r
+ >\r
+ > A bientôt,\r
+ > Florent
+* Séminaire BIA
+:PROPERTIES:
+:ID:       8c86930f-0dd0-443b-8e58-321da91dd050
+:END:
+<2020-05-12 Tue 10:00-11:00>
+* Coiffure
+:PROPERTIES:
+:ID:       8d39a768-c42c-4813-b5e4-5d01aaab1d95
+:END:
+<2019-12-20 Fri 17:30-18:30>
+* Réunion BIBS
+:PROPERTIES:
+:ID:       8ed00f6f-cb6e-4705-874b-8661da67a1e2
+:END:
+<2019-11-08 Fri 13:30-14:30>
+* TAI
+:PROPERTIES:
+:ID:       8f9f8ab5-c6ea-43d5-baeb-8837dcd3f75f
+:END:
+<2017-12-14 Thu 13:00-14:00>
+* Réunion Mathieu
+:PROPERTIES:
+:ID:       8fc6f272-f625-40ea-8e11-d865d40bb4c7
+:END:
+<2021-09-28 Tue 16:00-17:00>
+* Presentation CATI
+:PROPERTIES:
+:ID:       90b786cf-0ac2-4ca2-8183-8f6d4bca8d83
+:END:
+<2021-06-29 Tue 13:30-15:30>
+  Bonjour à toutes et à tous,
+ 
+ Je vous fais parvenir le programme de la prochaine animation du CATI EMPREINTE qui aura lieu le 29 juin 2021 de 13h30 à 15h
+ Lien GOTO meeting :
+ 
+ Please join my meeting from your computer, tablet or smartphone.
+ https://www.gotomeet.me/cati-empreinte/anim-scientifique
+ 
+ Access Code: 396-792-109
+ 
+ Session « Présentation des jeunes » avec :
+ 
+   *   MetExploreViz : visualisation de flux dans les réseaux métaboliques - Jean-Clément (Toulouse) - 20 min
+   *   Développement d’une bibliothèque Matlab pour le traitement d’images hyperspectrales - Mohamed (Nantes) - 20 min
+ 
+ Cette session sera ouverte au CATI SYSMICS et aux membres de l’infrastructure national en métabolomique, MetaboHUB.
+ 
+ Nous reprendrons les AS à la rentrée avec une session dédiée aux approches multiblocs.
+ 
+ A très bientôt,
+ Franck
+ 
+ 
+ 
+ 
+ 
+ [signature_1968234267]
+ 
+ 
+ Franck GIACOMONI
+ franck.giacomoni@inrae.fr<mailto:franck.giacomoni@inrae.fr>
+ 
+ Biological computing & Metabolomics
+ 
+ 
+ INRAE - UMR 1019 Human Nutrition Unit – Metabolism Exploration Platform MetaboHUB – Clermont
+ 
+ 
+ [signature_104311874]
+ 
+ Tel. : +33 (0)4 73 62 47 72
+ 
+ Fax : +33 (0)4 73 62 46 88
+ Centre de recherche de Clermont-Ferrand / Theix
+ F-63122 Saint Genès Champanelle.
+ France
+ 
+ 
+ 
+ 
+ 
+ INRAE PFEM portal<https://www6.clermont.inrae.fr/plateforme_exploration_metabolisme>
+ MetaboHUB consortium website<http://www.metabohub.fr/metabohub.html>
+ MetaboHUB Open Metabolic e-resources (OMeR)<https://informatique-mia.inra.fr/omer/>
+ 
+ Workflow4Metabolomics.org portal<http://workflow4metabolomics.org/>
+ 
+ PhytoHub Database website<http://phytohub.eu/>
+* Pot Lucie
+:PROPERTIES:
+:ID:       916603c7-de58-488b-bee0-9c27d1819e31
+:END:
+<2021-06-23 Wed 11:00-12:00>
+* Optimum
+:PROPERTIES:
+:ID:       92c305a1-8c71-447c-9d1e-088d972a43b0
+:END:
+<2019-01-30 Wed 14:00-17:00>
+* Programmation créative
+:PROPERTIES:
+:ID:       9399ea39-d167-485d-b30e-2a6e10d63044
+:LOCATION: ICOM
+:END:
+<2018-12-12 Wed 09:00-16:00>
+* Rendez vous passeport
+:PROPERTIES:
+:ID:       96b6e3e9-4d2e-45cf-9d0e-3bd9f3fa17ff
+:END:
+<2020-07-06 Mon 15:00-16:00>
+* Réunion Serge Mihaela
+:PROPERTIES:
+:ID:       98ac5c0d-f6d7-4f65-8e9e-ed223d7354c6
+:END:
+<2018-10-10 Wed 13:00-14:00>
+* Date limite inscription ISS 2021
+:PROPERTIES:
+:ID:       9c335cc0-9632-4394-9379-0b626d9f5b96
+:END:
+<2021-01-20 Wed 09:00-18:00>
+  Pour info, une journée de séminaire à Paris 
+ (traditionnellement très orientée morpho-maths)
+ 
+ David
+ 
+ -----Message d'origine-----
+ De : iss-request@groupes.mines-paristech.fr <iss-request@groupes.mines-paristech.fr> De la part de Bruno Figliuzzi
+ Envoyé : vendredi 6 novembre 2020 09:01
+ À : iss@groupes.mines-paristech.fr
+ Objet : [iss] Journée ISS 2021
+ 
+ 1er APPEL A CONTRIBUTION pour la journée ISS 2021
+ 
+ Chères et chers collègues,
+ 
+ J'ai le plaisir de vous informer que l'appel à communications pour la 44ème Journée d'Etude ISS France est désormais ouvert. La journée ISS aura lieu le
+ 
+ *jeudi 4 février 2021*
+ 
+ très probablement à distance compte-tenu de la situation sanitaire, sous la forme de sessions Zoom.
+ 
+ La date limite pour l'envoi des communications est le 22 janvier 2021. Les propositions sont à envoyer sous la forme d'un court résumé (une demi-page) par mail à la présente adresse.
+ 
+ Pour ceux qui ne les connaissent pas encore, les journées d’étude de l’ISS sont l’occasion de rassembler les différents acteurs de l’analyse des images numériques, de la stéréologie et de leurs applications. La volonté a été affirmée depuis de nombreuses années de faire des journées d’étude de l’ISS France un lieu de rencontre, d’échange et d’expérimentation réellement pluridisciplinaire qui puise ses forces dans l’ensemble du patrimoine intellectuel actuel.
+ 
+ Les programmes des dernières éditions sont disponible à cette adresse:
+ http://cmm.mines-paristech.fr/~figliuzzi/iss.html
+ 
+ La participation est gratuite mais l'inscription est obligatoire. N'hésitez pas à diffuser l'annonce de la journée au sein de vos laboratoires respectifs.
+ Dans l'attente de vos propositions, je reste à votre disposition pour toute information complémentaire,
+ 
+ pour ISS France,
+ 
+ 
+ Bruno Figliuzzi
+ Mines ParisTech, CMM
+ 35, rue Saint-Honoré
+ 77305 Fontainebleau
+ bruno.figliuzzi@mines-paristech.fr
+* Sémidoc
+:PROPERTIES:
+:ID:       9e32df1f-1cb3-4eb6-ac13-e1bc25a5e9c2
+:END:
+<2016-11-25 Fri 13:30-14:30>
+* Anniv Gaby
+:PROPERTIES:
+:ID:       9eb5876f-1e76-403d-bf7d-afd4c9f391d9
+:END:
+<2016-12-01 Thu 08:15-23:15>
+* Galette
+:PROPERTIES:
+:ID:       9edcb4b1-ea37-4577-a4f9-689c91f320d9
+:END:
+<2020-01-08 Wed 13:00-14:00>
+* Cours rattrapage Fabien (Algo 21/11)
+:PROPERTIES:
+:ID:       a04d2433-fc22-471a-bf96-90c1e3341074
+:END:
+<2017-11-10 Fri 09:00-12:00>
+* Entretien Nicolas Desbenoit
+:PROPERTIES:
+:ID:       a0741cfe-d1ba-4376-abaf-0d01c075be12
+:END:
+<2021-05-27 Thu 11:00-12:00>
+* Réunion BIBS
+:PROPERTIES:
+:ID:       a1e65da7-8b6b-46c4-9be3-54b654520edd
+:END:
+<2019-10-04 Fri 13:30-14:30>
+* Réunion BIBS-bioinfo
+:PROPERTIES:
+:ID:       a22e2bca-7d40-4304-bc32-c62346b39f56
+:END:
+<2019-04-24 Wed 10:00-11:00>
+* Tournage
+:PROPERTIES:
+:ID:       a2e9b109-9645-4e5b-9fbc-11820a3b3481
+:END:
+<2019-05-28 Tue 09:00-10:00>
+* Fwd: [diffusion.bureau.accueil.chercheurs.internationaux] WELCOME COCKTAIL for international researchers / COCKTAIL DE BIENVENUE pour les chercheurs internationaux - INVITATION
+:PROPERTIES:
+:ID:       a314272c-f3e8-4731-a3eb-04b95d3ddb50
+:END:
+<2021-10-21 Thu 18:00-21:00>
+  From: "accueil chercheurs" <accueil.chercheurs@u-bordeaux.fr> \r
+ To: "diffusion bureau accueil chercheurs internationaux" <diffusion.bureau.accueil.chercheurs.internationaux@diff.u-bordeaux.fr> \r
+ Sent: Friday, October 1, 2021 10:44:16 AM \r
+ Subject: [diffusion.bureau.accueil.chercheurs.internationaux] WELCOME COCKTAIL for international researchers / COCKTAIL DE BIENVENUE pour les chercheurs internationaux - INVITATION \r
+ \r
+ \r
+ Welcome cocktail for international researchers - Cocktail de bienvenue pour les chercheurs internationaux \r
+ [ https://forms.gle/yER41f28LQDbMXY88 |    ] [ https://forms.gle/yER41f28LQDbMXY88 |    ] Invitation \r
+ [ https://forms.gle/yER41f28LQDbMXY88 |    ] [ https://forms.gle/yER41f28LQDbMXY88 |    ] \r
+ The Vice-Presidency for External Affairs and the International Office of the University of Bordeaux are delighted to invite you to a moment of conviviality, organized in honor of international researchers from the University of Bordeaux. \r
+ \r
+ On the occasion of the start of the academic year and of the " international week ", this event is the opportunity to bring together our doctoral students, post-doctoral fellows, lecturers and researchers who have come to Bordeaux from all over the world. This festive moment will take place on Thursday , October 21st, 2021 from 6 p.m. \r
+ to 8 p.m. in the Atrium of the Victoire site. \r
+ \r
+ Please register before October 7th and don’t forget to note the conditions for gaining access to the cocktail: \r
+ \r
+ \r
+     * Registration required \r
+     * Obligatory presentation of a health pass \r
+     * Obligatory wearing of a mask during the event \r
+ La Vice-présidence aux affaires extérieures et la Direction des Relations Internationales de l’université de Bordeaux ont le plaisir de vous convier à un moment de convivialité, organisé en l'honneur des chercheurs internationaux de l’université de Bordeaux. \r
+ \r
+ A l'occasion de la rentrée universitaire et de la " semaine internationale ", cet événement est l'opportunité de réunir de manière conviviale les doctorants, post-doctorants, enseignants et chercheurs venus du monde entier. Ce moment festif aura lieu le jeudi 21 octobre 2021 de 18h00 à 20h00 dans l’Atrium du site de la Victoire. \r
+ \r
+ Merci de bien vouloir vous inscrire avant le 7 octobre et de prendre en considération les conditions d’accès au cocktail : \r
+ \r
+ \r
+     * Inscription obligatoire \r
+     * Présentation d’un pass sanitaire obligatoire \r
+     * Port du masque obligatoire durant l'évènement \r
+ [ https://forms.gle/yER41f28LQDbMXY88 | R.S.V.P. ] \r
+ Before October 7th - Avant le 7 octobre \r
+ [ https://www.facebook.com/Bureau-daccueil-chercheurs-internationaux-Universit%C3%A9-de-Bordeaux-209574642813025/ ] [ https://twitter.com/BACI_U_Bordeaux ] [ https://www.u-bordeaux.com/Research/Join-us/Welcome-Center ] [ https://www.u-bordeaux.com/ ] \r
+ Copyright © *2021* *University of Bordeaux - Welcome Center for International Researchers* All rights reserved. \r
+ \r
+ Contact us : \r
+ Email: [ mailto:*accueil.chercheurs@u-bordeaux.fr | accueil.chercheurs@u-bordeaux.fr ] \r
+ Phone number: 05.40.00.68.73 \r
+ \r
+ Welcome Center for International Researchers \r
+ University of Bordeaux \r
+ 166 cours de l’Argonne - Ground floor \r
+ 33000 Bordeaux \r
+ Tram B - Bergonié
+* Journée axe ASM
+:PROPERTIES:
+:ID:       a3844d04-2d39-4a30-9934-432a6f2b47b0
+:END:
+<2020-10-06 Tue 09:00-18:00>
+* Présentation scientifique Stéphane
+:PROPERTIES:
+:ID:       a3bd4a25-f0ab-4a75-a7df-d534700eb208
+:END:
+<2020-11-24 Tue 11:00-12:00>
+* Discussion Vincent Rampon
+:PROPERTIES:
+:ID:       A413DBC6-5975-4F3D-A482-B5F1D4646F28
+:END:
+<2019-07-11 Thu 10:00-11:00>
+* Réunion SCiLabs Bastien
+:PROPERTIES:
+:ID:       a693eba5-44d4-487b-987f-bfb4cf263f8e
+:END:
+<2019-10-07 Mon 09:00-12:00>
+* Réunion Jean-Phi
+:PROPERTIES:
+:ID:       a9c069c2-bd02-4448-b5f2-5a5c6389fb57
+:END:
+<2017-01-19 Thu 11:00-12:00>
+* FL
+:PROPERTIES:
+:ID:       aa7e6205-9330-40dc-92af-2e64bc61b902
+:END:
+<2016-12-06 Tue 09:00-10:15>
+* Réunion Imagine
+:PROPERTIES:
+:ID:       ac61d92a-6367-4dd4-8dd5-580e6bb5d5a0
+:END:
+<2018-10-17 Wed 13:00-15:00>
+  Bonjour,
+ 
+ La *prochaine réunion d'équipe* aura lieu *le 17 octobre de 13h à 15h* 
+ dans la salle de réunion Fourier (ex-algécos) à la Doua et sera précédée 
+ d'un pique nique où chacun pourra apporter des petites choses à boire et 
+ à manger *à partir de midi*.
+ 
+ *- 12:00-13:00 *==>**Déjeuner*
+ - 13:00 - 14:15* ==> une partie commune avec toute l'équipe : nous 
+ ferons le tour de table des nouveaux doctorants, leurs sujets, le 
+ contexte de leur travail dans les thèmes de l'équipe. Nous en 
+ profiterons ensuite pour aborder le fonctionnement de l'année à venir, 
+ l'organisation de nos réunions/séminaires, des discussions sur la 
+ formation de groupes de lectures...
+ 
+ *- 14:15-15:00 *==> une partie réservée aux permanents où nous ferons le 
+ point ensemble sur l'HCERES: premières briques déposées pour le bilan, 
+ rebalayage des consignes issues du CS de vendredi dernier, premières 
+ pistes pour le projet (partant du modèle SWOT)
+ 
+ *RAPPEL    : *Pour ceux qui ne se sont pas manifestés, pensez à 
+ renseigner le sondage concernant l'organisation du séminaire de François 
+ Brémond le vendredi 12 octobre à 16h. Merci.
+ 
+ Bonne semaine
+ 
+ Véronique
+ 
+ 
+ 
+ Le 17/09/2018 à 14:00, Véronique Eglin a écrit :
+ >
+ > Dans la série des rajouts ou des corrections: il ne s'agit pas du 
+ > séminaire de Nicolas Thome (également membre du jury de la thèse de 
+ > Yiqiang) mais de *François Brémond* 
+ > (http://www-sop.inria.fr/members/Francois.Bremond/), merci Atilla!!
+ >
+ > Bonne après midi
+ >
+ > Véronique
+ >
+ >
+ > Le 17/09/2018 à 11:24, Véronique Eglin a écrit :
+ >>
+ >> J'ai oublié de vous préciser les lieux, tous deux à l'INSA Lyon
+ >> - réunion d'équipe: salle de réunion Imagine,  Joseph Fourier 
+ >> (ex-algécos)
+ >> - séminaire invité Nicolas Thome: salle de réunion LIRIS, Blaise Pascal
+ >>
+ >> Bonne journée
+ >> Véro
+ >>
+ >> Le 17/09/2018 à 11:21, Véronique Eglin a écrit :
+ >>>
+ >>> Bonjour à tous,
+ >>>
+ >>> Petit rappel : pensez à bien renseigner le doodle de notre prochaine 
+ >>> réunion d'équipe.*La date du 17 octobre semble de dégager pour le 
+ >>> moment.*
+ >>>
+ >>> Autre information: Yiqiang Chen (thèse co-encadrée par Stefan et 
+ >>> Atilla) soutient sa thèse vendredi 12 octobre à 10h. Parmi les 
+ >>> membres de son jury, nous accueillerons Nicolas Thome, professeur au 
+ >>> CNAM (http://cedric.cnam.fr/~thomen/) que vous connaissez sans doute.
+ >>>
+ >>> Atilla propose d'organiser un séminaire l'après midi en l'invitant à 
+ >>> présenter ses travaux, le *vendredi 12 octobre à 16h*. Je vous 
+ >>> demande de bien vouloir me confirmer votre disponibilité ce jour là 
+ >>> (sur le créneau 16-18) avant d'envoyer l'information plus largement.
+ >>>
+ >>> https://doodle.com/poll/nrfynfwn3zdvzft3
+ >>>
+ >>> En vous remerciant,
+ >>>
+ >>> Bonne journée
+ >>>
+ >>> Véronique
+ >>>
+ >>>
+ >>> Le 11/09/2018 à 13:54, Véronique Eglin a écrit :
+ >>>>
+ >>>> Bonjour à tous,
+ >>>>
+ >>>> Je vous écris pour vous rappeler quelques points suite à la réunion 
+ >>>> de la semaine dernière:
+ >>>>
+ >>>> Chaque thème de l'équipe a désormais un responsable "éditorial" 
+ >>>> (pour compilation et relecture) afin de faciliter la rédaction du 
+ >>>> bilan de l'équipe et du projet, ce qui donne pour nous:
+ >>>>
+ >>>> 1. Document et transformation numérique
+ >>>> (ou transformation digitale, on parle de la différenciation des 
+ >>>> termes ici: 
+ >>>> https://www.lesechos.fr/idees-debats/cercle/cercle-168726-transformation-digitale-ou-numerique-qui-dit-vrai-2079046.php)
+ >>>> Resp.: Frank L.
+ >>>>
+ >>>> 2. Biométrie, visage et émotion
+ >>>> Resp.: Liming C.
+ >>>>
+ >>>> 3. Vision et activités
+ >>>> ( titre à affiner peut-être)
+ >>>> Resp.:Stefan D.
+ >>>>
+ >>>> 4.Mobilité embarquée
+ >>>> Resp.: Laure T. et Serge M.
+ >>>>
+ >>>> 4.Compréhension d'images et de scènes
+ >>>> Resp.: Emmanuel D.
+ >>>>
+ >>>> Une même personne peut émarger dans plusieurs thèmes (mais tout le 
+ >>>> monde doit émarger quelque part), il convient dans un premier temps 
+ >>>> de recenser les publications liées à chaque thème, et de voir leurs 
+ >>>> répartitions.
+ >>>>
+ >>>> J'ai également commencé à créer une trame dans un Google Doc 
+ >>>> permettant de commencer à renseigner la partie Bilan de l'équipe. 
+ >>>> Elle est suivie d'une section "Projet scientifique à 5 ans" où je 
+ >>>> vous invite, pour le moment, à renseigner dans cette dernière 
+ >>>> partie les idées "en vrac". Nous aurons l'occasion de refaire le 
+ >>>> point sur cette partie durant l'automne en partant des propositions 
+ >>>> déposées.
+ >>>>
+ >>>> *https://docs.google.com/document/d/12LaqvhQ7-PKupGe70rYv2DGDLgywyOY5iHATCEyXxb4/edit?usp=sharing**
+ >>>> *
+ >>>>
+ >>>> Pour chaque thème on demande de valoriser *les faits essentiels et 
+ >>>> marquants*, on ne demande pas une liste exhaustive des productions 
+ >>>> mais les avancées et contributions majeures: tout ce qui contribue 
+ >>>> à juger  de la qualité (excellence) scientifique des travaux sur la 
+ >>>> période 1er janvier 2014 - 30 juin 2019. Il faut également bien 
+ >>>> veiller à avoir des *faits tangibles et vérifiables* (à resituer 
+ >>>> par rapport aux publications majeures, aux plateformes, brevets 
+ >>>> éventuels, codes open-source déposés et accessibles, collaborations 
+ >>>> industrielles et relations partenariales...).
+ >>>> Il convient également avant d'engager la rédaction de relire le 
+ >>>> projet que nous avions rédigé en 2014 (je vous l'ai envoyé la 
+ >>>> semaine dernière). J'ai joint ici à titre d'info les documents de 
+ >>>> l'HCERES sur les critères d'évaluation
+ >>>>
+ >>>> La prochaine réunion que nous visons est envisagée pour la 
+ >>>> mi-octobre, voici quelques dates à choisir. Elle se passera en 
+ >>>> salle de réunion Joseph Fourier (ex-algécos), et sera suivie d'une 
+ >>>> pique-nique, chacun pourra apporter un petit quelque chose à manger.
+ >>>>
+ >>>> *https://doodle.com/poll/qad7yu765dp4k9d9*
+ >>>>
+ >>>> Pour cette prochaine réunion, nous envisageons deux temps:
+ >>>>
+ >>>> - une partie commune avec toute l'équipe : nous ferons le tour de 
+ >>>> table des nouveaux doctorants et présenterons leurs sujets, le 
+ >>>> contexte de leur travail dans les thèmes de l'équipe
+ >>>> Nous en profiterons ensuite pour aborder le fonctionnement de 
+ >>>> l'année à venir, l'organisation de nos réunions/séminaires, des 
+ >>>> discussions sur la formation de groupes de lectures...
+ >>>>
+ >>>> - une partie réservée aux permanents où nous ferons le point 
+ >>>> ensemble sur l'HCERES: premières briques déposées pour le bilan, 
+ >>>> balayage des consignes issues du prochain CS dédié à ce sujet.
+ >>>>
+ >>>> *Merci encore de votre aide!!*
+ >>>>
+ >>>> Pour rappel, n'oubliez pas de mettre à jour l'onglet *doctorant (si 
+ >>>> pas déjà fait) *pour Fati dans le _Google Sheet_ ainsi que l'onglet 
+ >>>> réservé aux *contrats et projets***pour Catherine.
+ >>>>
+ >>>> A bientôt
+ >>>>
+ >>>> Véronique
+ >>>>
+ >>>> -- 
+ >>>> Véronique Eglin
+ >>>> Responsable Equipe IMAGINE
+ >>>> LIRIS, UMR CNRS 5205
+ >>>> Directrice adjointe Premier Cycle
+ >>>> INSA de Lyon
+ >>>> Tél: +33 4 72 43 60 54
+ >>>
+ >>> -- 
+ >>> Véronique Eglin
+ >>> Responsable Equipe IMAGINE
+ >>> LIRIS, UMR CNRS 5205
+ >>> Directrice adjointe Premier Cycle
+ >>> INSA de Lyon
+ >>> Tél: +33 4 72 43 60 54
+ >>
+ >> -- 
+ >> Véronique Eglin
+ >> Responsable Equipe IMAGINE
+ >> LIRIS, UMR CNRS 5205
+ >> Directrice adjointe Premier Cycle
+ >> INSA de Lyon
+ >> Tél: +33 4 72 43 60 54
+ >
+ > -- 
+ > Véronique Eglin
+ > Responsable Equipe IMAGINE
+ > LIRIS, UMR CNRS 5205
+ > Directrice adjointe Premier Cycle
+ > INSA de Lyon
+ > Tél: +33 4 72 43 60 54
+ 
+ -- 
+ Véronique Eglin
+ Responsable Equipe IMAGINE - LIRIS, UMR CNRS 5205
+ Directrice adjointe département FIMI, INSA Lyon
+ Tél: +33 4 72 43 60 54
+* Médecin 
+:PROPERTIES:
+:ID:       AD10D9CF-FDF0-4862-B2BD-CF619810E3B4
+:LOCATION: 161 bis boulevard pinel bron
+:END:
+<2019-03-15 Fri 15:40-16:40>
+* Réunion Mathieu
+:PROPERTIES:
+:ID:       AE6AD658-E749-4825-98C6-557E6FF4F8DB
+:END:
+<2021-09-20 Mon 10:30-11:30>
+* [labri.talks-is] Séminaire Christian Frisson
+:PROPERTIES:
+:ID:       b0e2fb7e-3dfa-4b0d-b0e0-0bf81747b243
+:END:
+<2017-10-09 Mon 10:30-11:30>
+  Séminaire de Christian Frisson - salle Hémicyclia LaBRI
+ Lundi 9 octobre 10h30
+ 
+ --
+ 
+ Titre: Rétroactions son↔interaction
+ 
+ Résumé:
+ Mon parcours a été influencé par un rapport étroit entre son 
+ (musical ou non) et interaction (humain-machine), marqué par les 
+ rétroactions entre chacun de ces deux domaines de recherche. En outre 
+ de la définition de rétroaction qui caractérise les boucles 
+ tactilo-proprio-kinésthésiques mises en application lors de 
+ l'interaction à retour d'effort, ici rétroaction caractérise 
+ également le processus de mon parcours: des méthodes de la recherche 
+ sur l'interaction ont pu contribuer à la créativité des praticiens du 
+ son, et vice-versa. Ceci c'est souvent révélé rétrospectivement: des 
+ travaux séparés d'une décennie se connectant de manière 
+ insoupçonnée. J'illustre ce rapport son↔interaction par rétroactions 
+ par trois exemples:
+ 1) Design sonore ↔ navigation de son
+ 2) Interaction à retour d'effort ↔ instrumentalité musicale
+ 3) Analyse/synthèse modale sonore↔vibrotactile
+ 
+ Porfolio: http://frisson.re
+ Publications: http://frisson.re/PubViz
+* Webinar David
+:PROPERTIES:
+:ID:       b1402e26-b12f-4883-b335-ee70f1ae9b6f
+:END:
+<2020-04-30 Thu 15:30-16:30>
+  Google Forms
+ 
+ 
+ Merci d'avoir rempli le formulaire Event registration - Live Webinar:  
+ Advanced Image Processing with MorphoLibJ - NEUBIAS Academy @Home
+ Voici ce que vous nous avez envoyé :
+ 
+ Modifier la réponse
+ 
+ 
+ Event registration - Live Webinar: Advanced Image Processing with  
+ MorphoLibJ - NEUBIAS Academy @Home
+ 
+ Event Timing: April 30th, 2020,
+ 15h30 CET (Brussels time) until 17h00
+ Event Address: Zoom Webinar, link will be sent upon filling this form 1 day  
+ before the event.
+ Main Speaker: David Legland, Angers, France.
+ Moderators: Ignacio Arganda-Carreras, San Sebastian, Spain.
+ 
+ Registration will be on 1st-come 1st served, with a limit of up to 500  
+ participants,
+ Participants affiliations will be checked upon, please use your work email  
+ if possible,
+ Contact the main organizer at david.legland[at]inrae.fr
+ 
+ A recommendation:
+ - Please connect on time, the meeting may be locked for new connections  
+ 10-15 minutes after start
+ 
+ 
+ Adresse e-mail *
+ 
+ florent.grelard@inrae.fr
+ 
+ 
+ First Name *
+ 
+ 
+ Florent
+ 
+ 
+ Family Name *
+ 
+ 
+ Grélard
+ 
+ 
+ Organization
+ 
+ 
+ INRAE
+ 
+ 
+ Country where you work (in English please) *
+ 
+ 
+ France
+ 
+ 
+ About you (work profile), click as many as relevant *
+ 
+ 
+ Phd student
+ Postdoc
+ Research staff (Lab member, PI, ...)
+ Industry staff
+ Imaging Facility staff
+ Life Scientist
+ Bioimage Analyst (compatible with previous two, not exclusive)
+ I attended previous NEUBIAS training schools
+ Autre :
+ 
+ 
+ Personal data protection and NEUBIAS news: Do you agree to let NEUBIAS  
+ include you in NEUBIAS mailing list to receive further announcements  
+ related to NEUBIAS activities and NEUBIAS Academy, and/or to process your  
+ information anonymously (country, profile) to build statistics of  
+ attendance for the NEUBIAS Academy events? NEUBIAS does not share personal  
+ information with any other entity/company/association. You can withdraw  
+ your agreement at any time by writing us at wg3.neubias@gmail.com or  
+ contacting us through www.neubias.org *
+ 
+ 
+ Yes, I consent the use of my info (country, profile) to build anonymous  
+ statistics
+ Yes, I want to receive email news from NEUBIAS and NEUBIAS Academy
+ No, I do not consent the use of my info (country, profile) to build  
+ anonymous statistics
+ No, I do not want to receive emails from NEUBIAS and NEUBIAS Academy
+ 
+ 
+ Créer votre propre formulaire Google
+* HCERES
+:PROPERTIES:
+:ID:       b146536f-6374-47c8-a7b4-a8a1d6d56bc7
+:END:
+<2021-05-18 Tue 08:30>--<2021-05-19 Wed 19:00>
+* Audit qualité
+:PROPERTIES:
+:ID:       b1a001a8-13c7-45cf-be3b-5b2e872717ee
+:END:
+<2021-04-08 Thu 10:00>--<2021-04-09 Fri 18:00>
+* Appeler coiffeuse
+:PROPERTIES:
+:ID:       b1a1afe2-d9d5-4246-904d-405eae9a3a18
+:END:
+<2021-07-05 Mon 17:00-18:00>
+* Réunion Mathieu
+:PROPERTIES:
+:ID:       b1b070b2-1cae-4fef-aed3-c5aa7ad61352
+:END:
+<2020-02-20 Thu 10:00-11:00>
+* Acupuncture
+:PROPERTIES:
+:ID:       B1DF9CD5-79A9-4566-80C9-1822AF803776
+:END:
+<2019-02-19 Tue 18:30-19:30>
+* Helene reunion
+:PROPERTIES:
+:ID:       b25e4260-59d0-4c88-8d14-94b7b9fd36b3
+:END:
+<2021-01-13 Wed 11:00-12:00>
+* CATI Spectre
+:PROPERTIES:
+:ID:       b331efbb-2f55-4393-805e-04f6e06abda6
+:END:
+<2020-12-15 Tue 13:30-15:30>
+  Bonjour à tous et à toutes,
+ 
+ Je vous fais parvenir le programme de la prochaine animation du CATI qui aura lieu le 15 décembre 2020 de 13h30 à 15h
+ (Je vous enverrai le lien skype qques jours auparavant)
+ 
+ Session « Transformations de spectres » avec :
+ -          Présentation « Transformation des spectres de masse en protéomique  » - Dominique et David (20 min)
+ -          Présentation « gestion de spectres en métabolomique » - Mélanie/Jean-François et Yann (20 min)
+ -          Questions, discussion et « comment aller plus loin ? »
+ 
+ Je vous joins également les autres rendez-vous prévisionnels de 2021 :
+ -          Session le 23/02/2021, 13h30 - 15h, autour de « Illustration des outils du Web sémantique » Olivier/Clément
+ 
+ A très bientôt,
+ Franck
+ 
+ 
+ 
+ 
+ [signature_1934525614]
+ 
+ 
+ Franck GIACOMONI
+ franck.giacomoni@inrae.fr<mailto:franck.giacomoni@inrae.fr>
+ 
+ Biological computing & Metabolomics
+ 
+ 
+ INRAE - UMR 1019 Human Nutrition Unit – Metabolism Exploration Platform MetaboHUB – Clermont
+ 
+ 
+ [signature_590103591]
+ 
+ Tel. : +33 (0)4 73 62 47 72
+ 
+ Fax : +33 (0)4 73 62 46 88
+ Centre de recherche de Clermont-Ferrand / Theix
+ F-63122 Saint Genès Champanelle.
+ France
+ 
+ 
+ 
+ 
+ 
+ INRAE PFEM portal<https://www6.clermont.inrae.fr/plateforme_exploration_metabolisme>
+ MetaboHUB consortium website<http://www.metabohub.fr/metabohub.html>
+ MetaboHUB Open Metabolic e-resources (OMeR)<https://informatique-mia.inra.fr/omer/>
+ 
+ Workflow4Metabolomics.org portal<http://workflow4metabolomics.org/>
+ 
+ PhytoHub Database website<http://phytohub.eu/>
+* Meeting
+:PROPERTIES:
+:ID:       b34759b2-9cab-41f7-aebd-f68b8b1037a3
+:END:
+<2021-12-10 Fri 14:00-15:00>
+* Meeting Theodore team
+:PROPERTIES:
+:ID:       b3521a9c-d49a-4b97-bfab-a53d9d180e1b
+:END:
+<2021-10-22 Fri 14:00-16:00>
+  Landry,\r
+ \r
+ This would work well for us as well!\r
+ \r
+ *@ALL*: We can use this zoom link to connect:\r
+ https://embl-org.zoom.us/j/95753173305?pwd=bTdNb2ZwTWJEYzV0M0xtc0ZuYU4rUT09\r
+ \r
+ \r
+ Looking forward,\r
+ Theodore\r
+ \r
+ On Thu, Oct 14, 2021 at 5:53 PM Landry BLANC <landry.blanc@u-bordeaux.fr>\r
+ wrote:\r
+ \r
+ > Friday 22nd at 2pm is good for us.\r
+ >\r
+ >\r
+ >\r
+ > *De :* Theodore Alexandrov [mailto:theodore.alexandrov@embl.de]\r
+ > *Envoyé :* jeudi 14 octobre 2021 16:38\r
+ > *À :* Landry BLANC <landry.blanc@u-bordeaux.fr>\r
+ > *Cc :* Nicolas Desbenoit <nicolas.desbenoit@u-bordeaux.fr>;\r
+ > florent.grelard@u-bordeaux.fr; Michael Tuck <michael.tuck@u-bordeaux.fr>;\r
+ > Elena Buglakova <elena.buglakova@embl.de>; Mans Olof Ekelof <\r
+ > mans.ekelof@embl.de>; Martijn Molenaar <maarten.molenaar@embl.de>;\r
+ > Lachlan Stuart <lachlan.stuart@embl.de>\r
+ > *Objet :* Re: Kendrick mass defect analysis for SILed metabolites\r
+ >\r
+ >\r
+ >\r
+ > Hi Landry,\r
+ >\r
+ >\r
+ >\r
+ > Thank you for reaching out and congratulations once again on very exciting\r
+ > work presented and the results!\r
+ >\r
+ >\r
+ >\r
+ > I'm Cc'ing a few more people from our team who are/might be interested.\r
+ >\r
+ >\r
+ >\r
+ > Would *Friday 22nd at 1pm or 2pm* CEST work for you all?\r
+ >\r
+ >\r
+ >\r
+ > Cheers, looking forward,\r
+ >\r
+ > Theodore\r
+ >\r
+ >\r
+ >\r
+ >\r
+ >\r
+ >\r
+ >\r
+ > On Thu, Oct 14, 2021 at 3:48 PM Landry BLANC <landry.blanc@u-bordeaux.fr>\r
+ > wrote:\r
+ >\r
+ > Good afternoon Theodore,\r
+ >\r
+ >\r
+ >\r
+ > Concerning our discussion on gather.town chat.\r
+ >\r
+ > I will be very happy to discuss with you about our in review work on KMD\r
+ > analysis / SILed lipids.\r
+ >\r
+ >\r
+ >\r
+ > I checked with the people from my team in Bordeaux, we will be available\r
+ > next week, Wednesday morning and Friday the whole day.\r
+ >\r
+ >\r
+ >\r
+ > Please tell me if one of this day will be convenient for you?\r
+ >\r
+ >\r
+ >\r
+ > Sincerely\r
+ >\r
+ >\r
+ >\r
+ > Landry BLANC, PhD\r
+ >\r
+ > Chercheur Post-Doctorant\r
+ >\r
+ > CNRS – CBMN, Bordeaux, France\r
+ >\r
+ > Plateforme Protéome - Equipe Tokarski\r
+ >\r
+ >\r
+ >\r
+ >
+* Webinaire Réalité virtuelle et perception
+:PROPERTIES:
+:ID:       b536036c-398a-4b72-9df9-1f13f8929321
+:END:
+<2020-06-12 Fri 14:00-15:00>
+  Votre inscription a été approuvée pour l’événement Webex suivant.
+  
+ Organisateur : Lionel Simonot (lionel.simonot@univ-poitiers.fr)
+ Numéro de l’événement (code d’accès) : 840 254 326
+ Identifiant d'inscription : aucun identifiant d'inscription n'est nécessaire pour cet événement.
+ Mot de passe de l'événement : ScM4jwHkQ42
+  
+ vendredi 12 juin 2020 14:00, Heure d'été de l'Europe (Paris, GMT+02:00)
+  
+ Rejoindre l’événement
+  
+ Rejoindre la conférence audio uniquement
+ +44-20-3478-5289 United Kingdom Toll
+ Numéros d'appel internationaux
+  
+ Besoin d’aide ? Allez à l'adresse http://help.webex.com
+* Réunion avancement fusion
+:PROPERTIES:
+:ID:       b5b5aa03-bd87-4110-87ed-c5e85f90e090
+:END:
+<2021-02-10 Wed 14:00-15:00>
+* Réunion direction
+:PROPERTIES:
+:ID:       b624b14c-53ff-4766-b49d-2dc38a86c612
+:END:
+<2019-09-04 Wed 09:30-10:30>
+* Algorithmique
+:PROPERTIES:
+:ID:       b6423052-cf29-422f-a905-fbe8ed3d7426
+:LOCATION: 204
+:END:
+<2017-11-07 Tue 14:00-17:00>
+* Acupuncture 
+:PROPERTIES:
+:ID:       B718B44F-D23D-411E-ABC1-F0F0F7184A46
+:END:
+<2019-01-17 Thu 18:30-19:30>
+* Réunion BIBS
+:PROPERTIES:
+:ID:       b79ef0a0-3075-4000-92c1-d61d0274f423
+:LOCATION: Poiseuille
+:END:
+<2019-12-19 Thu 13:30-14:30>
+* Cours de piano 
+:PROPERTIES:
+:ID:       B7FD22B5-C4DF-42B7-B0F8-FE952BB6AF82
+:LOCATION: Manue Facchineri
+:END:
+<2018-09-11 Tue 20:00-21:00>
+* Point David
+:PROPERTIES:
+:ID:       bbad7c4b-df65-4186-9495-338733ff1df0
+:END:
+<2019-05-09 Thu 14:00-15:00>
+* Anniversaire Joachim
+:PROPERTIES:
+:ID:       BC18704E-8847-4A48-827D-D03B9B5D454F
+:END:
+<2019-02-07 Thu 09:00-10:00>
+* Cours PI
+:PROPERTIES:
+:ID:       bcf6ddff-1af1-4b9b-a251-4aac660e33ee
+:LOCATION: D006
+:END:
+<2018-09-12 Wed 14:00-18:00>
+* Prog even
+:PROPERTIES:
+:ID:       bdcbfcc9-f593-4240-b90b-00e7f9e4367a
+:LOCATION: info c
+:END:
+<2017-12-01 Fri 09:00-12:00>
+* Médecine travail
+:PROPERTIES:
+:ID:       BF85C54C-D2F8-4533-A7B9-9F9A067791CA
+:END:
+<2021-09-30 Thu 09:00-10:00>
+* Soutenance Christian El Hajj
+:PROPERTIES:
+:ID:       bf938665-68e9-4b4a-9683-4254daecd035
+:END:
+<2019-12-16 Mon 11:00-12:00>
+  Bonjour,
+ 
+ 
+ 
+ Je vous transmets l’invitation à la soutenance de thèse de Christian El
+ Hajj que j’ai co-encadrée avec Maja Musse et Saïd Moussaoui du LS2N
+ (directeur de thèse)
+ 
+ On ne connait pas encore la salle, je vous l’indiquerai dès que possible
+ 
+ 
+ 
+ Merci de m’avoir invitée hier et merci pour tous ces échanges
+ 
+ L’atelier analyse d’image était vraiment très intéressant !
+ 
+ J’espère que nous aurons l’occasion dans le cadre d’INRAe d’échanger sur
+ le traitement d’image, et encore mieux de collaborer
+ 
+ 
+ 
+ Bonne journée
+ 
+ 
+ 
+ Guylaine
+ 
+ 
+ 
+ 
+ 
+ Bonjour à tous,
+ 
+ J’ai le plaisir de vous inviter à ma soutenance de thèse intitulée:
+ 
+ 
+ 
+ 
+ 
+ «Estimation et classification des temps de relaxation multi-exponentiels
+ en IRM. Application aux tissus végétaux. »
+ 
+ 
+ 
+ La soutenance se déroulera le lundi 16 Décembre à 11h, au laboratoire LS2N
+ à l'école centrale de Nantes.
+ 
+ Vous trouverez ci-dessous un résumé de la thèse.
+ 
+ Cordialement;
+ Christian EL HAJJ
+ 
+ 
+ 
+   _____
+ 
+ Résumé : L’acquisition de données de relaxation en imagerie de résonance
+ magnétique permet une analyse très fine de la composition des tissus.
+ L’analyse est classiquement réalisée à l’aide de modèles mono-exponentiels
+ au sein de chaque voxel de l’image, mais des informations plus riches
+ peuvent être obtenues à l’aide d’un modèle de décroissance
+ multi-exponentielle. Cependant, l’obtention puis l’exploitation des
+ cartographies des temps de relaxation multiexponentielles à l’échelle
+ d’une image entière, à partir des données IRM de module, nécessitent la
+ résolution d’un problème inverse de grande taille. Ce travail de thèse
+ propose des algorithmes de reconstruction des cartographies des temps de
+ relaxation multi-exponentielles et des intensités relatives associées à
+ l’échelle du voxel. Ces algorithmes de reconstruction sont fondés sur
+ l’estimateur du maximum de vraisemblance exploitant l’hypothèse d’un bruit
+ de Rice, inhérent aux images de module, et une régularisation spatiale
+ favorisant la régularité des cartographies. Le problème d’optimisation en
+ grande dimension qui en résulte est résolu en utilisant une approche de
+ descente itérative par majoration-minimisation couplée à un algorithme de
+ Levenberg-Marquardt avec recherche de pas. Enfin, nous proposons une
+ méthode de caractérisation de la composition des images à partir des
+ paramètres estimés en utilisant des algorithmes de classification. Les
+ développements de la thèse font l’objet d’application à l’analyse de
+ tissus végétaux.
+ 
+   _____
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Guylaine Collewet
+ 
+ Irstea
+ 
+ UR OPAALE (Optimisation des procédés
+ 
+ en agriculture, agroalimentaire et environnement)
+ 
+ 17, avenue de Cucillé
+ 
+ CS 64427
+ 
+ 35044 RENNES Cédex
+ 
+ 02 23 48 21 67
+ 
+  <http://www.irstea.fr/> www.irstea.fr
+* TR: Déploiement #temps - Rappel Réunions d'information
+:PROPERTIES:
+:ID:       c0987194-0636-4ecf-abd2-895e99123d92
+:END:
+<2021-02-09 Tue 13:30-14:30>
+  Bonjour
+ 
+ Pour rappel, les réunions d'information en vue du déploiement #temps auront lieu :
+ 
+   *   Vendredi 5 février, de 13h30 à 14h30 : Participer à une Réunion Skype <https://meet.inrae.fr/veronique.cadic/RT2P9MIH>
+   *   Mardi 9 février, de 13h30 à 14h30 :  Participer à une Réunion Skype <https://meet.inrae.fr/veronique.cadic/RT2P9MIH>
+ 
+ Déploiement #temps sur les unités du Centre (Hors SDAR et GEVES) :
+ Durant la journée du Lundi 15 février 2021
+ 
+ 
+ 
+                 Je viens de découvrir que l'adresse d'envoi des mails initiaux d'informations relatifs au déploiement de l'outil #temps était erronée.
+ Vous n'avez donc pas reçu les informations via ce circuit. J'en suis désolée. Vous les trouverez ci-dessous. Certains d'entre vous ont pu en avoir connaissance par d'autres circuit, comme les « Actualités du Centre ».
+ 
+ 
+ Restant à votre disposition pour toute information complémentaire.
+ 
+ Bien cordialement.
+ 
+ 
+ De : Veronique Cadic
+ Envoyé : lundi 1 février 2021 12:47
+ À : 'agents-centre@nantes.inrae.fr' <agents-centre@nantes.inrae.fr<mailto:agents-centre@nantes.inrae.fr>>
+ Cc : projet-temps-pays-de-la-loire <projet-temps-pays-de-la-loire@inrae.fr<mailto:projet-temps-pays-de-la-loire@inrae.fr>>; dsa-Pays-de-la-Loire <dsa-Pays-de-la-Loire@inrae.fr<mailto:dsa-Pays-de-la-Loire@inrae.fr>>; Emmanuelle Chevassus-Lozza <emmanuelle.chevassus@inrae.fr<mailto:emmanuelle.chevassus@inrae.fr>>
+ Objet : TR: Déploiement #temps - Rappel Réunions d'informations
+ 
+ Bonjour
+ 
+ Pour rappel, les réunions d'information en vue du déploiement #temps auront lieu :
+ 
+   *   Vendredi 5 février, de 13h30 à 14h30 : Participer à une Réunion Skype <https://meet.inrae.fr/veronique.cadic/RT2P9MIH>
+   *   Mardi 9 février, de 13h30 à 14h30 :  Participer à une Réunion Skype <https://meet.inrae.fr/veronique.cadic/RT2P9MIH>
+ 
+ Déploiement #temps sur les unités du Centre (Hors SDAR et GEVES) :
+ Lundi 15 février 2021
+ 
+ 
+ Bonne semaine.
+ 
+ 
+ Véronique CADIC
+ veronique.cadic@inrae.fr<mailto:veronique.cadic@inrae.fr>
+ 
+ Directrice Adjointe des Services d'Appui
+ Centre INRAE Pays de la Loire - SDAR
+ 
+ Tél. :   +33 2 41 22 56 07
+ Mob. : +33 6 85 13 73 73
+ inrae.fr
+ 
+ De : dsa-Pays-de-la-Loire <dsa-Pays-de-la-Loire@inrae.fr<mailto:dsa-Pays-de-la-Loire@inrae.fr>>
+ Envoyé : lundi 4 janvier 2021 11:13
+ À : agents-centre@nantes.inrae.fr<mailto:agents-centre@nantes.inrae.fr>
+ Cc : projet-temps-pays-de-la-loire <projet-temps-pays-de-la-loire@inrae.fr<mailto:projet-temps-pays-de-la-loire@inrae.fr>>
+ Objet : Déploiement #temps
+ 
+ Bonjour,
+ 
+ « #temps » est présenté depuis quelques semaines au sein de diverses réunions sur le Centre.
+ Il s'agit d'un nouvel outil pour gérer les congés et les horaires variables des agents, ainsi que les feuilles de temps liées à des contrats de recherche.
+ L'objectif de ce projet est de doter les unités d'un outil national, unique et ergonomique de gestion du temps.
+ 
+ Une page intranet https://intranet.angers-nantes.inrae.fr/Angers-Nantes-pratique/Temps pourra compléter ces informations.
+ 
+ Le déploiement prévisionnel est le suivant :
+ 
+   *   Unité SDAR : lundi 18 janvier 2021
+   *   Autres unités du Centre : lundi 15 février 2021
+ 
+ 3 réunions d'information sont proposées :
+ 
+   *   Jeudi 14 janvier 2021, de 13h30 à 14h30 : à destination principalement des agents SDAR
+   *   Vendredi 5 février, de 13h30 à 14h30
+   *   Mardi 9 février, de 13h30 à 14h30
+ Je vous invite d'ores et déjà à noter sur votre agenda  le créneau qui vous convient le mieux.
+ Des informations complémentaires vous seront transmises dans les prochaines semaines.
+                 Bien cordialement.
+ 
+ 
+ 
+ 
+ François Jemain
+ Directeur des Services d'Appui
+ Centre INRAE Pays de la Loire - SDAR
+ 
+ inrae.fr
+* Audit
+:PROPERTIES:
+:ID:       c0ff64d6-3476-4d8d-ab6d-6c8ede72f232
+:END:
+<2021-06-11 Fri 09:00-18:00>
+* Hem
+:PROPERTIES:
+:ID:       C1D8D9C7-3AA6-467F-B5E4-8665DF0C9CF9
+:END:
+<2021-06-07 Mon 15:00-16:00>
+* Coupure électrique
+:PROPERTIES:
+:ID:       c2d49e18-9c3b-44df-b175-77b281f5beff
+:END:
+<2020-10-28 Wed 07:00-13:00>
+  Bonjour,
+ 
+ Je vous remercie de prendre connaissance du message ci-dessous concernant une coupure électrique dans le cadre d'une maintenance programmée sur le site de Nantes la Géraudière.
+ 
+ Description : Comme chaque année, une opération de maintenance des transformateurs électriques et des cellules Haute Tension nécessitera une coupure électrique le mercredi 28 octobre 2020.
+ 
+ Cette coupure impactera tous les bâtiments du site de Nantes la Géraudière.
+ 
+ Durée prévue de l'interruption : 6h
+ Début :                     mercredi 28 octobre à 7h00
+ Fin (estimation) :      mercredi 28 octobre  à 13h00
+ 
+ Cette intervention entrainera une coupure :
+ - des installations électriques,
+ - du réseau informatique,
+ - de la téléphonie interne et externe,
+ - les installations techniques.
+ 
+ A noter :
+ 
+ 
+   *   l'opération peut être annulée à tout moment et sans préavis par ENEDIS
+   *   Un accès réseau sera maintenu en salle Ampère et Kelvin. Les services informatiques de la salle serveur du bâtiment Erdre seront maintenus sous tension (serveurs de fichiers, serveurs web, accès messagerie, réservation de salle), ainsi que la liaison externe du site.
+ 
+ 
+   *   La boite à clés pour les véhicules de service sera  utilisable.
+ 
+ 
+   *   La coupure n'impactera pas le restaurant ARIOMA
+ 
+ Je vous remercie de votre compréhension.
+ 
+ Bien cordialement,
+ 
+ 
+ François JEMAIN
+ francois.jemain@inrae.fr<mailto:francois.jemain@inrae.fr>
+ 
+ Directeur des Services d'Appui
+ Centre Pays de la Loire - SDAR
+ 
+ Tél. :   +33 2 40 67 51 50
+ Mob. : +33 6 62 82 63 88
+ [cid:image001.png@01D69AF9.855B84B0]
+* Présentation scientifique
+:PROPERTIES:
+:ID:       c2lwOmZsb3JlbnQuZ3JlbGFyZEBpbnJhZS5mcg!!C0KZDCXC
+:LOCATION: Appel Skype
+:END:
+<2020-04-02 Thu 10:30-11:30>
+  
+    Quand : jeudi 2 avril 2020 10:30 ((UTC+01:00) Bruxelles, Copenhague, Madrid, Paris)
+    Où : Appel Skype
+    
+    ......................................................................................................
+    
+    Rejoindre une réunion Skype <https://meet.inrae.fr/florent.grelard/C0KZDCXC>
+    https://meet.inrae.fr/florent.grelard/C0KZDCXC
+    
+    Participer par téléphone
+    +33134652174
+    +33134652086
+    +33561285707
+    +33561285737
+    
+    Rechercher un numéro local <https://dialin.inrae.fr>
+    
+    ID de conférence : 5913577
+    
+    Code confidentiel de numéro de connexion oublié ? <https://dialin.inrae.fr> | Première réunion Skype ? <https://support.office.com/client/results.aspx?Shownav=true&lcid=1036&ns=SKFBWA&version=15&ver=15&HelpID=SfBWebSched1002>
+    ......................................................................................................
+    
+ 
+* Stagiaire Thomas
+:PROPERTIES:
+:ID:       c4cde95a-f08b-4101-9e74-133a3f581e23
+:END:
+<2019-12-11 Wed 14:00-16:30>
+* Piano
+:PROPERTIES:
+:ID:       C54BDD3D-08B1-4FA9-83E5-D9532BB54E37
+:END:
+<2021-11-09 Tue 19:00-20:00>
+* Réunion Serge/Mihaela
+:PROPERTIES:
+:ID:       c5550b6b-f116-4973-8166-73832b8f3906
+:END:
+<2018-11-14 Wed 15:30-16:30>
+* Réunion BIBS
+:PROPERTIES:
+:ID:       c594297a-bf61-421a-80d7-08f33b4c1836
+:END:
+<2020-11-20 Fri 13:30-14:30>
+* IRM Loïc
+:PROPERTIES:
+:ID:       c649c679-9a40-46bd-8d50-bf0bf8e6be10
+:END:
+<2019-11-25 Mon 09:30-10:30>
+* Répétition Amandine
+:PROPERTIES:
+:ID:       c676dccc-b876-43d9-8e4d-3c9aec067f53
+:END:
+<2021-04-07 Wed 14:00-15:00>
+* Webseminaire COMULIS.
+:PROPERTIES:
+:ID:       c788200b-66c1-4966-8bb2-2c379c106787
+:END:
+<2020-10-19 Mon 09:00-18:00>
+  De : Walter,Andreas <andreas.walter@vbcf.ac.at>
+ Envoyé : jeudi 27 août 2020 15:37
+ À : Walter,Andreas <andreas.walter@vbcf.ac.at>; Perrine.Paul-Gilloteaux@univ-nantes.fr
+ Cc : Thoss,Michaela <michaela.thoss@vbcf.ac.at>; Fialova,Lada <lada.fialova@vbcf.ac.at>
+ Objet : Updates on COMULIS.
+ 
+  
+ 
+  Dear COMULIS members,
+ 
+  
+ 
+ I hope you are all safe and sound. I would like to briefly update you on COMULIS and our activities during this pandemic:
+ 
+     We had compiled a neat Work-and-Budget-Plan (of about 160k Euros) for this Grant Period. Unfortunately, we will not be able to carry out almost any activity - since they all involve physical meetings and hands-on activities in labs and with imaging equipment. Almost all training schools, WG meetings & conferences had to be cancelled, ITC conference grants are not needed, and we have no application for STSMs currently since Europe is still facing travel warnings and uncertainty. Unfortunately, it seems our budget might be lost, and COST cannot commit to extending our COST Action beyond 2022 to compensate this lost year. I am in contact with COST and will keep you posted (and try to find a solution).
+ 
+     There are a few online events and dissemination efforts/publications though: 
+ 
+         Our training school on image processing for multimodality imaging will take place on October 19th as a one-day online lecture. A hands-on course will follow next year. The training school is organized by the VIB in Ghent. Further information will be sent out soon.
+ 
+         Currently, the European Molecular Imaging Meeting takes place virtually where COMULIS has organized 2 sessions on multimodality imaging and advanced microscopy. Lectures will be availabe till September 6th for registered participants.
+ 
+         We have postponed our yearly COMULIS Conference to April 7th - 9th, 2021, in Goethenburg, Sweden. Please save the date!
+ 
+         We have published a review on Correlated Multimodality Imaging Across Scales.
+ 
+         We have submitted our textbook with IoP-IPEM ebook Series in Physics and Engineering in Medicine and Biology. This is a unique compendium of (all) available imaging technologies in biological and preclinical research and gives an introduction about 80 imaging modalities and their physical principles, application range, biomedical relevance, sample preparation protocols, strengths and limitations.
+ 
+         We want to draw your attention again to our comulis website forum (which is hardly used). In addition, we have set up a comulis mailing list (comulis@lists.vbcf.ac.at), where you can post everything related to multimodality imaging: events, jobs, practical aspects, protocols, problems faced or project collaborations. I'll post this update also in the mailing list - feel free to react, use it or withdraw from the mailing list.
+ 
+         Our Grant Manager, Lada Fialova, will leave Vienna BioCenter and will not be available to administer the grant any more. This is a big loss for the Action (specifically for me) since she did a great job, proactively supported us and simply knew how to handle a COST Action even in difficult times. Thanks, Lada, and success in your new challenges! Temporarily, Lada will be replaced by Michaela Thoss (in Cc), until we will find a Grant Manager specifically for COMULIS. Welcome, Michaela!
+ 
+ Take care and looking forward to meeting you in person one fine day and growing COMULIS again!
+ 
+  
+ 
+ Andreas & Perrine
+ 
+  
+ 
+ -------------------------------------------
+ 
+ Dr. Andreas Walter
+ Director BioImaging Austria (CMI)
+ 
+ phone | +43 179 62324 7040
+ mobile | +43 664 80847 7040
+ mail | andreas.walter@vbcf.ac.at
+ web | www.bioimaging-austria.at
+ 
+  
+ 
+ Chair of COST Action CA17121 - COMULIS
+ 
+ Correlated Multimodal Imaging in Life Sciences
+ 
+ web | www.comulis.eu
+* Dentiste
+:PROPERTIES:
+:ID:       c7b860cc-b27e-4f45-af41-13f0c020200e
+:END:
+<2021-07-05 Mon 09:30-10:30>
+* Cours bioinfo
+:PROPERTIES:
+:ID:       c83757ab-49f5-4b46-975f-015becc4a458
+:END:
+<2017-09-11 Mon 14:00-16:00>
+* Séminaire "statistics with missing values"
+:PROPERTIES:
+:ID:       c9ef1e66-aab1-4a95-879b-7f91d5b2a4f6
+:END:
+<2021-12-07 Tue>
+  A l'attention de : Florent Gr�lard - florent.grelard@u-bordeaux.fr
+ 
+ Inscription une réunion du GdR ISIS
+ 
+ Votre inscription à la réunion suivante a été enregistrée :
+ 
+ Titre : Statistical learning with missing values
+ Date : 2021-12-07
+ Lieu : Zoom
+ 
+ Les administrateurs du site gdr-isis
+* Réunion David
+:PROPERTIES:
+:ID:       cb3a64eb-a552-4647-9150-1ba6f8eb75c1
+:END:
+<2021-01-26 Tue 09:30-11:00>
+* Meeting
+:PROPERTIES:
+:ID:       cb5cb80a-3b12-4e61-8061-658bcbcdda99
+:END:
+<2022-04-08 Fri 14:00-15:00>
+* [M2104] information
+:PROPERTIES:
+:ID:       cc34dfde-2e19-451c-b9ee-871fbec744cb
+:END:
+<2017-01-17 Tue 14:00-16:00>
+  Bonjour
+ 
+ je fixe la réunion au 17 janvier à 14h.
+ 
+ Cordialement
+ Colette
+ 
+ 
+ 
+ Le 03/01/2017 17:08, Colette Johnen a écrit :
+ > Bonjour,
+ >
+ > Bonne année et mes meilleurs voeux : la santé, beaucoup de réussite 
+ > dans vos projets, et beaucoup de bonheur.
+ >
+ > Le cours COO - S2 [M2104] débute la semaine du 6 février 2017
+ > Je vous envoie le planning prévisionnel du cours et les feuilles de TD 
+ > avec les corrigés. Le deuxième exercice de la feuille de TD1 n'est pas 
+ > corrigé, je suis disponible pour donner des informations complémentaires.
+ >
+ > *Remarque* les corrigés ne doivent pas être distribués aux étudiants 
+ > *quelles que soient les circonstances* !!! J'y tiens (établir une 
+ > feuille de TD demande beaucoup de travail).
+ >
+ > A vous de vous occuper des photocopies des sujets pour vos étudiants 
+ > (les sujets de TD sont dans le répertoire TD).
+ >
+ > Je vous propose de nous réunir (2h) en vu de nous répartir les tâches, 
+ > et de fixer les modalités pour la notation.
+ > Je vous propose les créneaux suivants :
+ >   *mardi 17 janvier 2017 à 14h
+ >   *vendredi 20 janvier 2017 à 16h
+ >   *mardi 31 janvier à 10h10
+ >   * mardi 31 janvier à 14h.
+ >
+ > Cordialement
+ > Colette Johnen
+ >
+* Ecole recherche transport optimal
+:PROPERTIES:
+:ID:       cdfb4175-26d7-4c06-b36d-bee76cd0188e
+:END:
+<2020-11-02 Mon 09:30-12:00>
+*  "Webinaire - Interfaces entre intelligence artificielle et écologie" 
+:PROPERTIES:
+:ID:       ce80d4a9-1d7a-4313-9387-226e4d4a5104
+:END:
+<2020-11-16 Mon 09:00>--<2020-11-17 Tue 17:00>
+  Bonjour Monsieur Grelard,
+ 
+ J’ai reçu cette info et je me permets de vous la partager dans le cas où cela vous intéresse.
+ 
+ Bien cordialement
+ 
+ Carine Lethu
+ 
+  
+ 
+ De : communication-bretagne-normandie@inrae.fr <communication-bretagne-normandie@inrae.fr>
+ Envoyé : jeudi 1 octobre 2020 22:08
+ À : Carine Lethu <carine.lethu@inrae.fr>
+ Objet : [Intranet Bretagne-Normandie] "Webinaire - Interfaces entre intelligence artificielle et écologie" a été publié [https://intranet.rennes.inrae.fr - Flash info "Actualités"]
+ 
+  
+ 
+ Une nouvelle actualité vient d'être publiée sur le site https://intranet.rennes.inrae.fr.
+ 
+ Webinaire - Interfaces entre intelligence artificielle et écologie
+ L'UMR ESE co-organise, avec le GdR EcoStat, un workshop en ligne intitulé "imaginecology" sur le thème du Deep Learning pour le traitement et l'analyse d'image et de son en écologie. L'objectif de cet événement est de créer et renforcer les interactions entre les scientifiques qui travaillent aux interfaces entre intelligence artificielle et écologie. L'inscription est gratuite mais obligatoire pour le 1er novembre 2020.
+ http://intranet.rennes.inrae.fr/Actualites2/Webinaire-Interfaces-entre-intelligence-artificielle-et-ecologie
+ 
+  
+ 
+ Flashinfo
+ 
+  
+ 
+ communication-bretagne-normandie@inrae.fr
+ 
+  
+ 
+ Si vous ne souhaitez plus recevoir ces avis, vous pouvez vous désabonner à l'adresse :
+ https://intranet.rennes.inrae.fr/flash_subscription/unsubscribe/132/0232898b491d118eb85536dcf0395be1
+* Garderie enfants AL
+:PROPERTIES:
+:ID:       d07bd3cd-b9ea-408c-aaba-5a729140ab00
+:END:
+<2020-09-26 Sat 09:00-14:00>
+* CS de BIBS
+:PROPERTIES:
+:ID:       d167b9f8-7b62-4092-a69e-0fa7d3239290
+:END:
+<2020-12-07 Mon 13:30-18:30>
+  Hello les BIBS !
+ 
+ Pour info, mail et documents transmis à notre conseil scientifique.
+ Bien entendu, la réunion se tiendra cette année en visio. C'est le 7 décembre, de 13h30 à 17h15.
+ 
+ Nous avons choisi l'outil GoToMeeting, qui nous paraît plus adapté/agréable pour ce genre de réunion.
+ 
+ Les codes de connexion sont ci-dessous, également copié à la date du 7/12 dans l'agenda sous SP.
+ 
+ Bonne soirée !
+ Hélène
+ 
+ 
+ De : Helene Rogniaux
+ Envoyé : mardi 3 novembre 2020 18:09
+ À : Gregory Mouille <gregory.mouille@inrae.fr>; 'Emmanuelle Leize' <leize@chimie.u-strasbg.fr>; Frederic Jamme <Frederic.Jamme@Synchrotron-Soleil.Fr>; 'Jocelyne LE SEYEC' <jocelyne.leseyec@univ-rennes1.fr>; 'Agata ZYKWINSKA' <agata.zykwinska@ifremer.fr>; Christelle Lopez <christelle.lopez@inrae.fr>; 'Laurent LINOSSIER' <laurent.linossier@limagrain.com>; Veronique Monnet <veronique.monnet@inrae.fr>; 'Corinne Rondeau-ext' <corinne.rondeau@irstea.fr>; Cyril Pommier <cyril.pommier@inrae.fr>; 'Catherine Leblanc' <catherine.leblanc@sb-roscoff.fr>; Etienne Belin <Etienne.Belin@Univ-Angers.Fr>
+ Cc : Loic Foucat <loic.foucat@inrae.fr>; Sophie Le-Gall <sophie.le-gall@inrae.fr>; Dominique Tessier <dominique.tessier@inrae.fr>; David Ropartz <david.ropartz@inrae.fr>; Bruno Novales <bruno.novales@inrae.fr>; Marc Anton <marc.anton@inrae.fr>
+ Objet : [CS de BIBS] 7 DEC. 2020 - Ordre du jour, bilan et CODES POUR LA VISIO
+ 
+ Chers tous
+ 
+ Nous espérons que vous allez bien, ainsi que vos entourages et vos collègues.
+ 
+ Nous en sommes bien malheureux mais naturellement, la réunion du CS de BIBS se tiendra cette année en visio. Nous essaierons d'en faire malgré tout un moment d'échanges aussi productif et amical qu'habituellement !
+ Nous vous rappelons la date : 7 décembre, de 13h30 à 17h.
+ 
+ Ci-contre une proposition d'ordre du jour ainsi qu'un bilan de nos activités 2019 (produit à la demande de la Région) précédé d'une courte page de nos dernières actualités.
+ Nous reviendrons sur l'ensemble de ces éléments au cours de la réunion du 7/12.
+ 
+ Voici les codes de connexion ; nous avons opté pour l'outil GoToMeeting. Vous ne devriez avoir qu'à suivre le lien ci-dessous. En cas de problème, un N° d'appel est fourni. Nous ouvrirons l'espace de réunion ½ h à l'avance, soit à partir de 13h.
+ 
+ Conseil scientifique BIBS
+ lun. 7 déc. 2020 13:00 - 18:00 (CET)
+ Participez à ma réunion depuis votre ordinateur, tablette ou smartphone.
+ https://www.gotomeet.me/GIS-BGO/cs-bibs
+ Vous pouvez aussi appeler à l'aide de votre téléphone.
+ France: +33 170 950 594<tel:+33170950594,,219308749>
+ Code d'accès: 219-308-749
+ Vous n'utilisez pas encore GoToMeeting ? Téléchargez l'application dès maintenant et soyez prêt pour votre première réunion : https://global.gotomeeting.com/install/219308749
+ 
+ Bonne soirée et à bientôt !
+ Hélène et les BIBS
+ 
+ [Logo-Signature-INRAE]
+ 
+ Hélène ROGNIAUX
+ INRAE. Unité BIA, plate-forme BIBS.
+ Spectrométrie de masse.
+ La Géraudière, F-44316 NANTES.
+ Tel : +33 (0)2 40 67 50 34
+ helene.rogniaux@inrae.fr<mailto:helene.rogniaux@inrae.fr>
+ https://www.bibs.inrae.fr<https://www.bibs.inrae.fr/>
+* Réunion ADCIS
+:PROPERTIES:
+:ID:       d2a8e4b0-6443-4a76-810f-7fb6dfa45b2e
+:END:
+<2020-02-18 Tue 15:30-16:30>
+* Meeting
+:PROPERTIES:
+:ID:       d4b4c438-ed10-4eb7-8124-5c7bcb20abbe
+:END:
+<2022-03-11 Fri 10:30-12:00>
+* Accueil élèves de 2nde
+:PROPERTIES:
+:ID:       d4e20648-8f7d-4d3b-a535-e7fe4ec74a1e
+:END:
+<2019-06-13 Thu 09:00-10:00>
+  Bonjour Estelle
+ 
+  
+ 
+ Mes collègues – en Cc – se sont proposés pour accueillir les deux élèves de seconde que tu reçois le mercredi 12 juin : je pense qu’ils pourront les occuper 4 x 1h.
+ 
+ Puis-je te laisser voir avec eux pour préciser les horaires ?
+ 
+  
+ 
+ Bon WE !
+ 
+ Hélène
+ 
+  
+ 
+ NB : pour info : Florent est postdoc en analyse d’images (avec David Legland) ; je pense que tu connais les autres ?
+ 
+  
+ 
+ SignatureINRA_Rogniaux_2016
+* Rendez vous électricité 
+:PROPERTIES:
+:ID:       D699765E-CAE5-4A3A-A304-3E99E461DDED
+:END:
+<2021-10-21 Thu 09:00-10:00>
+* Soutenance Thang
+:PROPERTIES:
+:ID:       d6bb14b7-cfa3-4bbb-825b-d66345c04d84
+:END:
+<2020-12-04 Fri 09:00-10:00>
+* TD TIC
+:PROPERTIES:
+:ID:       d6cabab9-771e-482a-9e82-aa817d68a770
+:LOCATION: i302
+:END:
+<2018-09-20 Thu 10:00-11:45>
+* Fibre
+:PROPERTIES:
+:ID:       D7398260-0827-4950-B3A8-47F803DE2C29
+:END:
+<2021-09-27 Mon 16:00-17:00>
+* Plouf
+:PROPERTIES:
+:ID:       d80363f7-4e05-431e-bbcb-f0fe95b065e8
+:END:
+<2017-12-04 Mon 08:00-22:30>
+* OurCon2021
+:PROPERTIES:
+:ID:       DA24B536-39B5-480C-8E90-F7C03C0236B1
+:END:
+<2021-10-12 Tue>--<2021-10-13 Wed>
+* Réunion BIBS
+:PROPERTIES:
+:ID:       da7340e8-3b76-44ca-88b4-eb9ab47eed6d
+:END:
+<2019-09-06 Fri 13:30-14:30>
+* DS COO
+:PROPERTIES:
+:ID:       daa132aa-65e0-49e7-8c14-24952152ff48
+:END:
+<2017-04-14 Fri 14:00-16:00>
+* Séminaire Saint Brévin
+:PROPERTIES:
+:ID:       dc4026ed-31f0-4689-a3d1-9fd1cd85e973
+:END:
+<2020-10-12 Mon 10:00>--<2020-10-13 Tue 17:00>
+* Audit spot
+:PROPERTIES:
+:ID:       dcfb817e-ec30-498a-b5b6-086b5697563e
+:END:
+<2019-10-09 Wed 14:00-15:00>
+* Réunion Mathieu traitement MALDI
+:PROPERTIES:
+:ID:       dd227cc0-cd0a-4389-95b1-0a3d534e0945
+:END:
+<2020-03-11 Wed 14:00-15:00>
+* Présentation scientifique Xavier
+:PROPERTIES:
+:ID:       df14199c-6014-4d01-96f7-30b927226ef6
+:END:
+<2020-09-18 Fri 10:00-11:00>
+  Bonjour à toutes et à tous,
+ Après discussion avec mes encadrants de thèse et avec l'aval d'Hélène, la présentation de mon sujet de thèse sera ouverte à tout BIA (le sujet a été construit en interactions avec plusieurs équipes).
+ Pour permettre à Corinne d'être présente, la date sera le vendredi 18 septembre à 10h en salle Pascal.
+ Bonne fin de journée
+ Xavier
+* Présentation CATI
+:PROPERTIES:
+:ID:       df19c734-1ce9-4977-a377-e207eb0cbd2b
+:END:
+<2020-10-27 Tue 13:30-15:30>
+  Bonjour à tou.te.s,
+ 
+ J’espère que malgré la situation sanitaire tout va bien pour vous et vos laboratoires.
+ L’AG 2020 du CATI est pour le moment suspendu du fait de la situation complexe actuelle avec peu de visibilité pour 2021 également.
+ 
+ Avec David, nous souhaitons tout de même lancer un nouveau cycle d’animations scientifiques et techniques du CATI pour 2020-2021.
+ 
+ Notre premier rendez-vous sera le Mardi 27 octobre 2020 de 13h30 à 15h avec :
+ "Fusion d’images IRM et MALDI, application au grain de blé" - Florent Grelard, post doctorant à BIA - Nantes
+ 
+ Nous vous enverrons les coordonnées de connexion (skype pro ou renater rendez vous) un peu avant la date.
+ 
+ Les autres dates retenues sont pour 2020 et 2021 :
+ - Mardi 15/12/2020, 13h30 - 15h
+ - Mardi 15/12/2020, 13h30 - 15h
+ - Mardi 23/02/2021, 13h30 - 15h
+ - Mardi 27/04/2021, 13h30 - 15h
+ - Mardi 29/06/2021, 13h30 - 15h
+ 
+ Vous pouvez réserver d’ores et déjà ces créneaux sur vos agendas.
+ Nous reviendrons vers vous pour vous annoncer les différents thèmes planifiés sur ces créneaux.
+ 
+ Bonne reprise à tou.te.s
+ 
+ Franck
+ 
+ 
+ 
+ 
+ 
+ [signature_393403571]
+ 
+ 
+ Franck GIACOMONI
+ franck.giacomoni@inrae.fr<mailto:franck.giacomoni@inrae.fr>
+ 
+ Biological computing & Metabolomics
+ 
+ 
+ INRAE - UMR 1019 Human Nutrition Unit – Metabolism Exploration Platform MetaboHUB – Clermont
+ 
+ 
+ [signature_157407928]
+ 
+ Tel. : +33 (0)4 73 62 47 72
+ 
+ Fax : +33 (0)4 73 62 46 88
+ Centre de recherche de Clermont-Ferrand / Theix
+ F-63122 Saint Genès Champanelle.
+ France
+ 
+ 
+ 
+ 
+ 
+ INRAE PFEM portal<https://www6.clermont.inrae.fr/plateforme_exploration_metabolisme>
+ MetaboHUB consortium website<http://www.metabohub.fr/metabohub.html>
+ MetaboHUB Open Metabolic e-resources (OMeR)<https://informatique-mia.inra.fr/omer/>
+ 
+ Workflow4Metabolomics.org portal<http://workflow4metabolomics.org/>
+ 
+ PhytoHub Database website<http://phytohub.eu/>
+* Réunion scientifique
+:PROPERTIES:
+:ID:       df4447e3-71dc-4d6d-8f36-e981868b1f14
+:END:
+<2020-03-20 Fri 09:30-11:30>
+* Meeting
+:PROPERTIES:
+:ID:       e0618aa0-5b0b-4d7a-b42f-a0f95e9e2e37
+:END:
+<2022-07-01 Fri 14:00-15:00>
+* ImaBiotech Webinar
+:PROPERTIES:
+:ID:       e366ba8b-f965-4376-b689-5dd1b4c46db1
+:END:
+<2020-04-30 Thu 14:00-15:00>
+  Hello Florent,
+ 
+  
+ 
+ Ça va ?
+ 
+ Ci-dessous pour info et si ça te dit ! Malheureusement, j’ai déjà une réunion à l’horaire prévu mais je vais essayer de décaler.
+ 
+ A + !
+ 
+  
+ 
+  
+ 
+ Logo-Signature-INRAE
+ 
+  
+ 
+ Hélène ROGNIAUX
+ 
+ INRAE. Unité BIA, plate-forme BIBS.
+ 
+ Spectrométrie de masse.
+ 
+ La Géraudière, F-44316 NANTES.
+ 
+ Tel : +33 (0)2 40 67 50 34
+ 
+ helene.rogniaux@inrae.fr
+ 
+ https://www.bibs.inrae.fr
+ 
+  
+ 
+ De : ImaBiotech <contact@imabiotech.com>
+ Envoyé : mardi 21 avril 2020 16:30
+ À : Helene Rogniaux <helene.rogniaux@inrae.fr>
+ Objet : ImaBiotech Webinar: Introduction to Multimaging, a Mass Spectrometry Imaging software package
+ 
+  
+ 
+ Donnez un résumé de cet email à vos destinataires
+ \t
+ 
+ Voir la version en ligne
+ 
+  
+ 
+ Image supprimée par l'expéditeur.
+ 
+  
+ 
+ Introduction to Multimaging, a Mass Spectrometry Imaging software package
+ 
+ Abstract: Multimaging is a software developed for newcomers and advanced MSI users alike, allowing straight-forward access for simple image displays through to very advanced data analysis options. Fully compatible with major vendor data formats, Multimaging allows direct loading of MSI data with no data reduction and no loss of mass accuracy. In this webinar, we highlight the advanced modules that facilitate the discovery of new biomarkers with innovative statistical tools or quantify molecules with unique quality control monitoring. We will show innovative biomarker discovery workflows using intensity-based analysis as well as morphometry-based analysis to identify novel biomarkers within an unlimited size of datasets and in a very fast manner.
+  
+ 
+ Key words: Advanced data analysis, Unlimited size of datasets, quantification, digital pathology, morphometry image analysis, biomarker discovery and identification.
+ 
+ When? 
+ 
+     Thursday, April 30th - 2 p.m. CET
+ 
+ .
+ 
+  
+ 
+  
+ 
+ Image supprimée par l'expéditeur.
+ \t
+ 
+ Webinar given by 
+ Jonathan Stauber, PhD.
+ 
+ Founder of ImaBiotech 
+ 
+  
+ 
+ Register HERE
+ 
+  
+ 
+ Image supprimée par l'expéditeur.
+ 
+  
+ 
+ Cet email a été envoyé à helene.rogniaux@inra.fr, cliquez ici pour vous désabonner.
+ 
+ 152 Rue Dr Yersin 59120 Loos FR
+ 
+ 
+ Image supprimée par l'expéditeur.
+* Soutenance Thang
+:PROPERTIES:
+:ID:       e3b1932c-86b5-4b3d-af30-6ac9612102fd
+:END:
+<2020-11-23 Mon 14:00-15:00>
+* Apéro c.
+:PROPERTIES:
+:ID:       e531a0a6-5f86-4633-994b-54051b62e339
+:END:
+<2020-01-07 Tue 19:30-20:30>
+* Entreprise couverture
+:PROPERTIES:
+:ID:       e9417d05-ad8e-48c2-aec3-68f2b998d7a8
+:END:
+<2020-05-19 Tue 10:30-11:30>
+* Dossier QUALIFICATION
+:PROPERTIES:
+:ID:       e9688b10-fdb5-4859-abb0-9f35cd1b6b30
+:END:
+<2017-12-19 Tue 17:00-23:45>
+* TD TIC
+:PROPERTIES:
+:ID:       eda03482-1aff-4925-8750-e0cbce862f6b
+:LOCATION: H117
+:END:
+<2018-09-20 Thu 14:00-15:45>
+* Lucile
+:PROPERTIES:
+:ID:       EDD64B2D-97CE-4DD5-8E68-C15BCDF0FD92
+:END:
+<2020-12-16 Wed 18:00-19:00>
+* Réunion BIBS
+:PROPERTIES:
+:ID:       ef5a1a04-91e6-4a57-be99-0effc3d7c204
+:END:
+<2021-02-05 Fri 13:30-16:00>
+* Fete de la Science
+:PROPERTIES:
+:ID:       f03ceb16-e7a0-405b-9b42-920a907c03b6
+:END:
+<2019-10-04 Fri 10:00-11:00>
+* Permanence compost
+:PROPERTIES:
+:ID:       F0AE758C-46A8-4925-B505-157E048D3E3A
+:END:
+<2019-08-13 Tue 19:00-20:00>
+* Acquisition IRM
+:PROPERTIES:
+:ID:       f0c0b584-67fa-41ab-9871-ebd8488decf7
+:END:
+<2019-04-16 Tue 13:30-14:30>
+* [labri.is] Talk by Dr. Michael Tangermann, "Can a Brain-Computer Interface Be useful for Language Training after Stroke?", Friday December 9th, 10am, Inria Bordeaux Sud-Ouest, Room Alan Turing 2
+:PROPERTIES:
+:ID:       f1520521-ac0a-483d-947f-ffb46c74562c
+:LOCATION: INRIA Alan Turing 2
+:END:
+<2016-12-09 Fri 10:00-11:00>
+  Dear colleagues,
+ 
+ 
+ On December 9th (Friday), we will have the pleasure to welcome in 
+ Bordeaux Dr. Michael Tangerman, who is group leader of the "Brain State 
+ Decoding Lab" at Freiburg University in germany (http://www.we-are.de/, 
+ http://www.bsdlab.uni-freiburg.de/).
+ He will deliver a talk entitled "Can a Brain-Computer Interface Be 
+ useful for Language Training after Stroke?", the abstract of which is below.
+ You are most welcome to come and attend his talk! It will be at 10am, in 
+ room Alan Turing 2, Inria Bordeaux Sud-Ouest.
+ 
+ 
+ Best regards,
+ 
+ Fabien
+ 
+ 
+ Abstract:
+ "While Brain-Computer Interface (BCI) systems have originally been 
+ developed to provide communication and control for severely 
+ motor-impaired patients, these systems nowadays expand to novel use 
+ scenarios. One of them is the support of rehabilitation training after 
+ stroke. What renders a BCI interesting for the research on such 
+ applications, is its ability to decode aspects of the ongoing brain 
+ state. While non-invasive EEG-based systems are far from able to perform 
+ "mind-reading", they at least deliver estimates e.g. of the attentive 
+ state of a user with regards to external stimuli, of imagined movement 
+ tasks performed by the user, mental calculation tasks, the user's 
+ workload etc.
+ 
+ My talk will provide an introduction into auditory BCIs as a special 
+ class of attention-driven BCI paradigms, and I will show recent progress 
+ on a BCI-based training protocol for stroke patients with language 
+ production deficits."
+ 
+ 
+ -- 
+ ------------------------------------------------
+ Fabien LOTTE, PhD
+ Inria Research Scientist
+ Inria Bordeaux Sud-Ouest/LaBRI, France
+ team Potioc - http://team.inria.fr/potioc
+ Phone: +33524574126, office B333
+ e-mail: fabien.lotte@inria.fr
+ Web: http://sites.google.com/site/fabienlotte
+ ------------------------------------------------
+ 
+ 
+ ---
+ L'absence de virus dans ce courrier électronique a été vérifiée par le logiciel antivirus Avast.
+ https://www.avast.com/antivirus
+* Séminaire Spectro Raman
+:PROPERTIES:
+:ID:       f2661ffe-4e74-44b9-ba13-49c8e7b1d623
+:END:
+<2021-11-24 Wed 09:00-12:00>
+  Merci pour votre inscription !\r\r
+ \r\r
+  \r\r
+ \r\r
+ Imagerie et Spectroscopie Vibrationnelle - 24 Novembre matin\r\r
+ \r\r
+ Imagerie et Spectroscopie Vibrationnelle - 24 Novembre matin\r\r
+ \r\r
+ mercredi 24 novembre 2021 à 09h30 (CET)\r\r
+ \r\r
+ Bonjour Florent,\r\r
+ Merci de vous être enregistré(e) à notre événement. Vous pourrez\r\r
+ vous connecter à l'événement en cliquant sur le bouton\r\r
+ ci-dessous. Nous vous enverrons ce lien à nouveau dès que\r\r
+ l'événement démarrera.\r\r
+ À très bientôt.\r\r
+ \r\r
+ Marc Dussauze\r\r
+ \r\r
+ Accéder à l'événement \r\r
+ ( https://app.livestorm.co/p/30483c8a-913f-4f22-9275-fd115bb4ca75/live?email=florent.grelard@u-bordeaux.fr&key=f2b8957f85b9e68501283d&s=7578bde8-ac94-42e0-a603-0122aa273d03 )\r\r
+ \r\r
+ \r\r
+ Ne transférez pas cet email et ne partagez pas ce lien. Il\r\r
+ contient votre code personnel pour accéder à l'événement.\r\r
+ \r\r
+ Ajouter l'événement au calendrier :\r\r
+ \r\r
+ iCalendar \r\r
+ ( https://app.livestorm.co/p/30483c8a-913f-4f22-9275-fd115bb4ca75/7578bde8-ac94-42e0-a603-0122aa273d03/ics?key=f2b8957f85b9e68501283d&participant=ae2ef5ca-376b-435c-b8d2-494e9f96cb31 )\r\r
+ \r\r
+ Google \r\r
+ ( https://app.livestorm.co/google_calendar/30483c8a-913f-4f22-9275-fd115bb4ca75?participant_id=ae2ef5ca-376b-435c-b8d2-494e9f96cb31&period_id=7578bde8-ac94-42e0-a603-0122aa273d03 )\r\r
+ \r\r
+ Outlook \r\r
+ ( https://app.livestorm.co/p/30483c8a-913f-4f22-9275-fd115bb4ca75/7578bde8-ac94-42e0-a603-0122aa273d03/ics?key=f2b8957f85b9e68501283d&participant=ae2ef5ca-376b-435c-b8d2-494e9f96cb31 )\r\r
+ \r\r
+ Yahoo \r\r
+ ( https://app.livestorm.co/p/30483c8a-913f-4f22-9275-fd115bb4ca75/7578bde8-ac94-42e0-a603-0122aa273d03/ics?key=f2b8957f85b9e68501283d&participant=ae2ef5ca-376b-435c-b8d2-494e9f96cb31 )\r\r
+ \r\r
+ \r\r
+ Cet email a été envoyé à florent.grelard@u-bordeaux.fr par\r\r
+ Livestorm \r\r
+ ( https://livestorm.co/fr/powered-by-livestorm?utm_source=powered-by-livestorm&utm_medium=email&utm_campaign=gfsv&utm_content=Imagerie%20et%20Spectroscopie%20Vibrationnelle%20-%2024%20Novembre%20matin&attendee_source=gfsv&attendee_first_name=Florent )\r\r
+ \r\r
+ \r\r
+ Copyright © 2021 Livestorm SAS - 24 rue Rodier 75009, Paris\r\r
+ Powered by Livestorm \r\r
+ ( https://livestorm.co/fr/powered-by-livestorm?utm_source=powered-by-livestorm&utm_medium=email&utm_campaign=gfsv&utm_content=Imagerie%20et%20Spectroscopie%20Vibrationnelle%20-%2024%20Novembre%20matin&attendee_source=gfsv&attendee_first_name=Florent )\r\r
+ \r\r
+ Gérer mes préférences email ( https://u2309175.ct.sendgrid.net/asm/?user_id=2309175&data=p3cFy9LArV8_guYDc47lNSYT6cxQVTEeD-tN2Q1jerldXSY1x8cLqHABtFhHXjUGnwG9zSNahFxihSZOr91eSWOrgydhNLi29Uwkvy2IHsP-4XfjVA_7HcP6_nWuv22RmyDrBZYlsmDDadZSjEIDyARFXfh0M3czEnXwnakSMkeeznzTJgex8g8198fTZQXmiPQyHQRc-ytX3ouAOTJWxafuuG4fiRvUEOnu4rrCNSnIvQSgKhFLviAVL4kQ3vAYL3zwtrbTqU00NrWMibFE4QvK2aIFTCSBK0U-fvL6EjBIabZU0IfvdNonMpMlwblLmBAOhna_mXC8b6U0_Tr737Vgtzk2lvFOWB26Iw7EBmpd9HJlg-oJMgj1APAg7nbUYWcebdxkCbcftOqcsdFO1jZbtcbXIZDePjzCYbczrMl42ud5NMaOjNndnMbjsuXYgJBAlQtS4XOSwrNWY0shWZIftXmYGcd4vuCnUz3622B0rEH6iC3JVKCj3On2eNT2kIbt3tToxroKl1yGAKhLtdh7GmaRRomt7pifE-4pZgnRny4CkybtxqV3OA-4l2KiNmiBAH3L0ReeRA0c4SiIZcfhU43juWM2MFOL37BQQnio8fG6D6_co0JQtojYcnmKpydhluKzzlmgEBeX_1XOQWgBzvXY9fXQNAt5E3KORu6S_Hm-8bQnb6xxPN3NdSi8sCoD72_g2fmoKeiwfVgJTX3g1DF95lX-mgR_s0MDs80glXYPpIUMCtQsgJ9ckKQ1C9N0BLzdUqgVwRPAQiYurq3OG0_5j1Ks6b1ZBjib1sPCnbttdB2-PBSTD_xKsJj4lrhj8NrFiG6d0cu0yrvf8sqx3OYdkeNTWDdZRpldJl4Bn9FEgVgnfAjJGlPHGHKPqqCVXW5LYoUKEumsyHVMhKLFfH9eFeiR2ptQwfcP7EE= )
+* Réunion plateforme
+:PROPERTIES:
+:ID:       f3a52eed-c12d-471d-a012-873c6762cbb1
+:END:
+<2019-05-28 Tue 13:30-14:30>
+* Réunion TIC - 15.01.2019
+:PROPERTIES:
+:ID:       f4338dbe-ed65-4b90-8272-7b7bbc34995f
+:LOCATION: L174
+:END:
+<2019-01-15 Tue 17:30-18:30>
+  Bonjour à tous,
+ 
+ Je commence par vous souhaiter une excellente année 2019 !
+ 
+ Comme annoncé par Carlos dans son message du 18.12.2018, une réunion TIC sera organisée mardi prochain, le 15.01.2019 à partir de 17h30, dans la salle L174 (bâtiment L, campus Porte des Alpes).
+ 
+ L’objectif de la réunion est de :
+ 
+   *   dresser le bilan du 1er semestre,
+   *   vous communiquer les informations nécessaires pour le 2ème semestre qui commencera le 21 janvier et
+   *   discuter des points divers autour d’un verre.
+ Si vous avez des questions précises à intégrer dans l’ordre du jour, n’hésitez pas à me les faire remonter avant la fin de la semaine.
+ 
+ Pour des raisons d’organisation, nous vous remercions de confirmer votre présence à cette réunion auprès de Cloé (Cloe.Quinet@univ-lyon2.fr).
+ 
+ Juste un rappel pour l’inscription à la formation Moodle et pour la saisie des notes (date limite : demain, 10.01.2019 – pour pouvoir calculer des statistiques et préparer notre réunion de mardi). Vous trouverez ci-joint un document qui rappelle quelques éléments importants concernant la saisie des notes sur ELO.
+ 
+ Merci à tous, en espérant vous voir nombreux la semaine prochaine.
+ 
+ Bien cordialement,
+ Mihaela Scuturici
+* Repas parents
+:PROPERTIES:
+:ID:       F4692FA3-6283-4DF4-8858-F1F1A214D6CA
+:END:
+<2021-08-20 Fri 09:00-10:00>
+* Hem
+:PROPERTIES:
+:ID:       F4F058E0-38F3-4A1C-ACC8-219D426327AF
+:END:
+<2021-06-15 Tue 14:00-15:00>
+* Programmation événementielle
+:PROPERTIES:
+:ID:       f63cb5d3-9cb1-4cf0-ac1c-5bb405120746
+:LOCATION: 000
+:END:
+<2017-11-22 Wed 08:00-11:00>
+* Réunion Fabien/Anne
+:PROPERTIES:
+:ID:       f66a7205-e635-4cfc-bb71-4dc8c2ee5910
+:END:
+<2016-12-08 Thu 15:00-17:00>
+* Vacances
+:PROPERTIES:
+:ID:       f75f38bf-d4ef-40ef-bab7-8c29c1fafc92
+:END:
+<2019-11-08 Fri 11:00>--<2019-11-15 Fri 12:00>
+* Enregistreur
+:PROPERTIES:
+:ID:       F79C8754-03B7-403D-9758-BBD7769DC2C8
+:END:
+<2020-02-17 Mon 18:30-19:30>
+* Cours de piano
+:PROPERTIES:
+:ID:       f8ab8b3e-1f4b-43e9-83e7-30999511fe61
+:END:
+<2021-10-26 Tue 18:00-19:00>
+  38 rue de segur
+ 
+* CATI
+:PROPERTIES:
+:ID:       f925e750-886e-43f1-b150-d61f2b7e4e58
+:END:
+<2021-06-29 Tue 13:30-15:00>
+* Retour à Reims 
+:PROPERTIES:
+:ID:       F93F5A23-092E-461C-9BA7-C66596AF182E
+:LOCATION: Lu
+:END:
+<2019-10-23 Wed 19:00-20:00>
+* Séminaire Optimum
+:PROPERTIES:
+:ID:       f994773d-1ba2-42a4-8bfb-0f66b13fa6a8
+:LOCATION: St Etienne CIERREC
+:END:
+<2018-10-23 Tue 16:00-17:00>
+* Programmation créative
+:PROPERTIES:
+:ID:       f9ab1725-2221-4f0b-b9b8-b64a4aa76854
+:END:
+<2018-12-19 Wed 09:00-16:00>
+* INVITATION conférence sur la Protection des Données - 8 juillet 2019
+:PROPERTIES:
+:ID:       fb6a4e11-003b-4192-98b4-b96f13c60242
+:END:
+<2019-07-08 Mon 10:00-12:00>
+  [cid:image003.png@01D5124A.BC3C0E70]
+ 
+ 
+ Emmanuelle Chevassus-Lozza, Présidente du centre INRA Pays de la Loire,
+ 
+ a le plaisir de vous inviter à la conférence sur le Règlement Général sur la Protection des Données :
+ 
+ le 8 juillet de 10h à 12h
+ à Nantes en présentiel en Salle PASCAL
+ à Angers en visioconférence en Salle AUTHION
+ 
+ La loi impose aujourd'hui un certain nombre de règles dans le traitement des données personnelles, cette conférence-débat sera l'occasion de mieux les connaître et d'identifier ensemble de meilleures pratiques.
+ Cette conférence est ouverte, sans réservation, à l'ensemble des agents du Centre. Elle sera suivie d'un temps de questions/réponses avec Nathalie GANDON et Sylvie NUGIER autour de cas pratiques que vous pourrez soumettre.
+ 
+ Pour les personnes qui souhaiteraient s'entretenir individuellement avec Nathalie Gandon sur des cas concrets, elle pourra y répondra de 15h à 17h en salle Coulomb.
+ 
+ En savoir plus sur le RGPD : https://intranet.angers-nantes.inra.fr/Actualites/Reglement-General-sur-la-Protection-des-Donnees
+ 
+ 
+ [Logo                INRA-V2]
+ ------------------------------------------------------
+ Emmanuelle Chevassus-Lozza
+ Présidente du centre INRA Pays de la Loire
+ Rue de la Géraudière
+ 44316 Nantes Cedex 3
+ * 02 40 67 51 60 ; assistante Mme Degoulet : 02 40 67 51 61
+ * mobile 06 10 21 68 89
+ France
+ Emmanuelle.Chevassus-Lozza@inra.fr<mailto:Emmanuelle.Chevassus-Lozza@inra.fr>
+ 
+ www.inra.fr<http://www.inra.fr/>
+* Deadline Saint Malo
+:PROPERTIES:
+:ID:       fb874d36-cffa-407c-a1d8-1d229975e850
+:END:
+<2019-06-27 Thu 15:00-16:00>
+* Déménagement Barbara
+:PROPERTIES:
+:ID:       FBE93CCD-CD0A-4EF3-843C-906678C4A3B9
+:END:
+<2019-02-09 Sat 07:00-22:00>
+* Meeting
+:PROPERTIES:
+:ID:       fc171e31-cf34-4b77-84ed-8f4ba93a955f
+:END:
+<2021-11-19 Fri 14:00-15:00>
+* TAI
+:PROPERTIES:
+:ID:       fd82c7ff-1786-402f-8f4f-7d352c13068c
+:END:
+<2017-09-07 Thu 13:00-14:00>
+* Séminaire BIBS
+:PROPERTIES:
+:ID:       fe3ff763-cfca-4284-b10b-250a33301190
+:END:
+<2019-11-20 Wed 09:00-20:00>
+* Meeting
+:PROPERTIES:
+:ID:       ff043609-4e1d-4cbe-b800-8e4b715c5707
+:END:
+<2022-06-10 Fri 14:00-15:00>
+* Cours WebGL
+:PROPERTIES:
+:ID:       Nextcloud-0RV0SLXIWVVDICVYGBXWUSF
+:END:
+<2016-12-05 Mon 14:00-18:00>
+* Thèse Fabien Pierre
+:PROPERTIES:
+:ID:       Nextcloud-39N4A30LLOO4JTD1NULLNH
+:END:
+<2016-11-23 Wed 13:15-15:15>
+* Cours WebGL
+:PROPERTIES:
+:ID:       Nextcloud-AOY3RI9V9LLE079Y3EYO
+:END:
+<2016-11-28 Mon 14:00-18:00>
+* Réunion Fabien/Anne
+:PROPERTIES:
+:ID:       Nextcloud-FL25K5BC7J9Z48PJ0T7G6
+:END:
+<2016-11-25 Fri 15:45-17:45>
+* Lam.
+:PROPERTIES:
+:ID:       Nextcloud-HUBSY4YX1HKOVWQRGXIPLR
+:END:
+<2019-10-26 Sat>
+* Cours Processing
+:PROPERTIES:
+:ID:       Nextcloud-OWDG5BORV21550G5I8OZE
+:END:
+<2019-01-23 Wed>
+* AG AFODIB
+:PROPERTIES:
+:ID:       Nextcloud-QCFVAHKGV5AA912DFVGX6
+:END:
+<2016-11-24 Thu 10:30-12:30>
+* IPTA 2016
+:PROPERTIES:
+:ID:       Nextcloud-RJZ5JRSXX7EYKJBKCV1ET
+:END:
+<2016-12-12 Mon>--<2016-12-15 Thu>
+* Expérience MS
+:PROPERTIES:
+:ID:       Nextcloud-U9LJB5AG3YJED9JQH3CHUB
+:END:
+<2019-04-09 Tue 09:00-16:00>
+* Image MS
+:PROPERTIES:
+:ID:       Nextcloud-V0XVDDLW2DOS9XMFJMED
+:END:
+<2019-04-10 Wed>
