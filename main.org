@@ -76,11 +76,18 @@ _Approach:_
 **** TODO Integration in  ~MSImageImplementation~
 **** TODO Display on the fly.
 ** Graphical User Interface
-*** Showing images
+*** Displaying images
+We need an efficient viewer allowing to display image stacks.
+We use the ~pyqtgraph~ library.
 
+_TODOs:_
+**** DONE Display and navigate through ion images
+CLOSED: [2021-11-04 Thu 16:14]
+**** 
 *** Displaying spectra
 *** Region-of-Interest management
-*** Option frames
+
+*** Functionality frames
 
 ** Registration
 *** Fiducial landmarks
