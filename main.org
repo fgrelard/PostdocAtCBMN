@@ -20,7 +20,7 @@ Poster presentations.
 *** Sparse matrices
 Large centroided MS images cannot fit in memory. The majority of the values in the MS images are zeroes. One approach is to use /sparse matrices/, where only nonzero datapoints are stored.
 
-Approach:
+_Approach:_
 **** DONE Sparse matrices with same operations as numpy's ndarray
 CLOSED: <2021-10-01 Fri 12:05>
 
@@ -72,7 +72,7 @@ CLOSED: <2021-10-29 Fri 12:05>
 Centroided images with high spatial resolution still do not fit in memory.
 We need to read the images *on the fly*, in a time-efficient manner.
 
-Approach:
+_Approach:_
 **** TODO Integration in  ~MSImageImplementation~
 **** TODO Display on the fly.
 ** Graphical User Interface
@@ -85,8 +85,12 @@ Joint statistical analysis
 *** Crop MS images
 Some data might be missing from MS images, /i.e./ abnormal artefacts where no data is recorded. The image should be cropped to retain only the *valuable information*.
 
-Approach:
-**** Specify a list ~L~ of values where data is missing
-**** Use ~get_spectra~ with indices where data is not missing
-**** 
+_Approach:_
+1) Specify a list of values where data is missing
+2) Compute the complementary coordinates where data is present
+3) Export the image with the information from those coordinates
+
+_Bug fixes:_
+**** Removing lines induces undesirable offset of data
+
 * Teaching
