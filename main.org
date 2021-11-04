@@ -69,7 +69,7 @@ We need to read the images *on the fly*, in a time-efficient manner.
 
 Approach:
 **** TODO Integration in  ~MSImageImplementation~
-**** TODO Display on the fly
+**** TODO Display on the fly.
 ** Registration
 *** Fiducial landmarks
 
