@@ -93,7 +93,7 @@ CLOSED: [2021-10-24 Sun 16:24]
 *** Region-of-Interest management
 Regions of interest (ROI) are interesting to analyze an area of pixels. We use them in several use-cases.
 
-_Use-cases:_
+ _Use-cases:_
 **** DONE Compute the average spectrum of the pixels inside the ROI
 CLOSED: [2021-10-25 Mon 16:29]
 **** DONE Compute the average pixel intensity inside the ROI
@@ -103,7 +103,7 @@ CLOSED: [2021-10-26 Tue 16:30]
 
 ** Registration
 *** Fiducial landmarks
-
+*** Partial registration
 ** Correlation
 Joint statistical analysis
 ** Miscellaneous
@@ -114,7 +114,6 @@ _Approach:_
 1) Specify a list of values where data is missing
 2) Compute the complementary coordinates where data is present
 3) Export the image with the information from those coordinates
-
 
 _Bug fixes:_
 **** TODO Removing lines induces undesirable offset of data
