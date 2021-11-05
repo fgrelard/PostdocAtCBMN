@@ -115,6 +115,7 @@ _Approach:_
 2) Compute the complementary coordinates where data is present
 3) Export the image with the information from those coordinates
 
+
 _Bug fixes:_
 **** TODO Removing lines induces undesirable offset of data
 :LOGBOOK:
