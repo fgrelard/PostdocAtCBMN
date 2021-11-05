@@ -52,10 +52,10 @@ Operations on both the spectra and the image
 **** DONE Transparent integration
 CLOSED: <2021-10-29 Fri 12:05>
 
- Choose the appropriate type for the MS image depending on whether the data is centroided or profile.
+Choose the appropriate type for the MS image depending on whether the data is centroided or profile.
 #+begin_src python
   class MSImage:
-        "
+      "
         Allows to create an MS image type
         with the appropriate np.ndarray or
         sparse matrix type
@@ -123,5 +123,6 @@ CLOCK: [2021-11-04 Thu 15:27]--[2021-11-04 Thu 17:51] =>  2:24
 :END:
 1) Generating a simpler image with reduced spectral dimension
 2) Try on reduced image
+
 
 * Teaching
