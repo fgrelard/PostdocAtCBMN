@@ -98,6 +98,8 @@ Regions of interest (ROI) are interesting to analyze an area of pixels. We use t
 CLOSED: [2021-10-25 Mon 16:29]
 **** DONE Compute the average pixel intensity inside the ROI
 CLOSED: [2021-10-26 Tue 16:30]
+**** DONE Control intensity thresholds
+CLOSED: [2021-10-31 Sun 16:29]
 
 *** Functionality frames
 
