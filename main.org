@@ -94,7 +94,9 @@ CLOSED: [2021-10-19 Tue 16:22]
 **** DONE Hover on image to display pixel information
 CLOSED: [2021-10-24 Sun 16:24]
 **** TODO Fix ~Combobox~ selection
-**** TODO Open new image on the left view only, when 
+**** TODO Open new image on the left view only, when gridmode is activated
+**** TODO Link image views when the image sizes are the same
+
 *** Region-of-Interest management
 Regions of interest (ROI) are interesting to analyze an area of pixels. We use them in several use-cases.
 
