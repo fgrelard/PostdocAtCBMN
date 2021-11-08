@@ -111,9 +111,9 @@ CLOSED: [2021-10-31 Sun 16:29]
 *** Functionality frames
 
 ** Registration
-*** Fiducial landmarks :ATTACH:
+*** Fiducial landmarks
 :PROPERTIES:
-:ID:       bb088aa9-33fc-4d5a-b2d0-b00d9a4be769
+:ID:       f1948b11-4362-46bd-8a3c-3382e0ead120
 :END:
 
 _TODOs:_
@@ -122,9 +122,10 @@ CLOSED: [2021-11-08 Mon 16:11]
 :LOGBOOK:
 CLOCK: [2021-11-08 Mon 15:25]--[2021-11-08 Mon 16:11] =>  0:46
 :END:
-**** TODO Fix transformation issues with incorrect parameters (position, scale, ...) during partial registration
+**** DONE Fix transformation issues with incorrect parameters (position, scale, ...) during partial registration
+CLOSED: [2021-11-08 Mon 18:05]
 :LOGBOOK:
-CLOCK: [2021-11-08 Mon 16:50]
+CLOCK: [2021-11-08 Mon 16:50]--[2021-11-08 Mon 18:05] =>  1:15
 :END:
 
 *** Partial registration
