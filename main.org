@@ -17,7 +17,10 @@ Poster presentations.
 **  Trainings
 * Research
 ** Input/Output
-*** Sparse matrices
+*** Sparse matrices :ATTACH:
+:PROPERTIES:
+:ID:       24e88f70-b939-46b0-9c3a-1e59f9f7d26a
+:END:
 Large centroided MS images cannot fit in memory. The majority of the values in the MS images are zeroes. One approach is to use /sparse matrices/, where only nonzero datapoints are stored.
 
 _Approach:_
@@ -81,10 +84,7 @@ _Approach:_
 _TODOs_:
 **** TODO Fix input of ~unsigned_char(1)~ images, i.e. exported by ~GIMP~.
 ** Graphical User Interface
-*** Displaying images :ATTACH:
-:PROPERTIES:
-:ID:       8987387d-2e10-4be4-b977-9fda68bbfcf3
-:END:
+*** Displaying images
 We need an efficient viewer allowing to display image stacks.
 We use the ~pyqtgraph~ library. 
 
@@ -102,6 +102,9 @@ CLOSED: [2021-10-24 Sun 16:24]
 **** TODO Fix ~Combobox~ selection
 **** TODO Open new image on the left view only, when gridmode is activated
 **** TODO Link image views when the image sizes are the same
+:PROPERTIES:
+:ID:       4219d59d-f1a9-445c-b502-20caa9d8770c
+:END:
 
 *** Region-of-Interest management
 Regions of interest (ROI) are interesting to analyze an area of pixels. We use them in several use-cases.
