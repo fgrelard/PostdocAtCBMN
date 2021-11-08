@@ -105,6 +105,13 @@ CLOSED: [2021-10-31 Sun 16:29]
 
 ** Registration
 *** Fiducial landmarks
+
+_TODOs:_
+**** TODO Registration with RGB image
+:LOGBOOK:
+CLOCK: [2021-11-08 Mon 15:25]
+:END:
+
 *** Partial registration
 ** Correlation
 Joint statistical analysis
