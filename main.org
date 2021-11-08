@@ -75,9 +75,9 @@ _Approach:_
 **** TODO Integration in  ~MSImageImplementation~
 **** TODO Display on the fly.
 ** Input/Output
-
+*** ~imzML~ files
 _TODOs_:
-*** TODO Fix input of ~unsigned_char(1)~ images, i.e. exported by ~GIMP~.
+**** TODO Fix input of ~unsigned_char(1)~ images, i.e. exported by ~GIMP~.
 ** Graphical User Interface
 *** Displaying images
 We need an efficient viewer allowing to display image stacks.
@@ -112,9 +112,10 @@ CLOSED: [2021-10-31 Sun 16:29]
 *** Fiducial landmarks
 
 _TODOs:_
-**** TODO Registration with RGB images
+**** DONE Registration with RGB images
+CLOSED: [2021-11-08 Mon 16:11]
 :LOGBOOK:
-CLOCK: [2021-11-08 Mon 15:25]
+CLOCK: [2021-11-08 Mon 15:25]--[2021-11-08 Mon 16:11] =>  0:46
 :END:
 
 *** Partial registration
@@ -122,15 +123,19 @@ CLOCK: [2021-11-08 Mon 15:25]
 Joint statistical analysis
 ** Miscellaneous
 *** Crop MS images
-Some data might be missing from MS images, /i.e./ abnormal artefacts where no data is recorded. The image should be cropped to retain only the *valuable information*.
+Some data might be missing from MS images, /i.e./ there are abnormal artefacts where no data is recorded. The image should be cropped to retain only the *valuable information*.
 
 _Approach:_
 1) Specify a list of values where data is missing
 2) Compute the complementary coordinates where data is present
 3) Export the image with the information from those coordinates
 
+_Second approach:_
+Modify the ~imzML~ file directly, by removing unnecessary lines and updating the ~XML~ fields of the subsequent spectra.
+
 _Bug fixes:_
-**** TODO Removing lines induces undesirable offset of data
+**** DONE Removing lines induces undesirable offset of data
+CLOSED: [2021-11-08 Mon 16:07]
 :LOGBOOK:
 CLOCK: [2021-11-05 Fri 15:24]--[2021-11-05 Fri 17:15] =>  1:51
 CLOCK: [2021-11-04 Thu 15:27]--[2021-11-04 Thu 17:51] =>  2:24
