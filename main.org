@@ -110,7 +110,7 @@ CLOCK: [2021-11-09 Tue 11:32]--[2021-11-09 Tue 11:52] =>  0:20
 :PROPERTIES:
 :ID:       4219d59d-f1a9-445c-b502-20caa9d8770c
 :END:
-
+ 
 *** Region-of-Interest management
 Regions of interest (ROI) are interesting to analyze an area of pixels. We use them in several use-cases.
 
