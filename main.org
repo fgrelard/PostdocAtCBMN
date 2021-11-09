@@ -113,7 +113,7 @@ CLOCK: [2021-11-09 Tue 14:22]--[2021-11-09 Tue 14:24] =>  0:02
 :END:
 **** TODO Avoid duplicating images in views
 :LOGBOOK:
-CLOCK: [2021-11-09 Tue 14:25]
+CLOCK: [2021-11-09 Tue 14:25]--[2021-11-09 Tue 17:26] =>  3:01
 :END:
 **** TODO Link image views when the image sizes are the same
 :PROPERTIES:
