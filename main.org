@@ -6,11 +6,12 @@
 * Meetings
 ** Conferences
 ** Group meetings
-*** [[file:meetings/meeting2021_11_19.org][Meeting November]] <2021-11-19 Fri>
+*** Meeting November
+<2021-11-19 Fri>
 *** Meeting December
 ** Scientific days
-*** Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN) <2021-11-05 Fri>
-
+*** Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN)
+<2021-11-05 Fri>
 
 **  Trainings
 * Research
@@ -82,7 +83,7 @@ _Approach:_
 _TODOs_:
 **** TODO Fix input of ~unsigned_char(1)~ images, i.e. exported by ~GIMP~.
 :LOGBOOK:
-CLOCK: [2021-11-10 Wed 11:52]
+CLOCK: [2021-11-10 Wed 12:18]
 :END:
 ** Graphical User Interface
 *** Displaying images
