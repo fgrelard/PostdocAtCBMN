@@ -76,7 +76,7 @@ We need to read the images *on the fly*, in a time-efficient manner.
 _State-of-the-art:_
 1. ~Cardinal~
    [[https://cardinalmsi.org/][Website]]
-   Read images on the fly without loading the whole image in memory. Access for one ion image is done through the ~imzML~ file.
+   ~readMSIData~: Read images on the fly without loading the whole image in memory. Access for one ion image is done through the ~imzML~ file. [[http://bioconductor.org/packages/release/bioc/manuals/Cardinal/man/Cardinal.pdf][Manual.]]
    _Pros:_
    - Reduced memory usage
    _Cons:_
