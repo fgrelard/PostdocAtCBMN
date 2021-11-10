@@ -74,6 +74,10 @@ Centroided images with high spatial resolution still do not fit in memory.
 We need to read the images *on the fly*, in a time-efficient manner.
 
 _Approach:_
+**** TODO Find efficient methods in the literature or in alternative softwares
+:LOGBOOK:
+CLOCK: [2021-11-10 Wed 14:26]
+:END:
 **** TODO Integration in  ~MSImageImplementation~
 **** TODO Display on the fly.
 *** ~imzML~ files
