@@ -73,10 +73,18 @@ Choose the appropriate type for the MS image depending on whether the data is ce
 Centroided images with high spatial resolution still do not fit in memory.
 We need to read the images *on the fly*, in a time-efficient manner.
 
-_Approach:_
+1. ~Cardinal~
+   Read images on the fly without loading the whole image in memory. Access for one ion image is done through the ~imzML~ file.
+   _Pros:_
+   - Reduced memory usage
+   _Cons:_
+   - Slow access
+   - Not possible to process an entire dataset
+   
+_TODOs:_
 **** TODO Find efficient methods in the literature or in alternative softwares
 :LOGBOOK:
-CLOCK: [2021-11-10 Wed 14:26]
+CLOCK: <2021-11-10 Wed 14:00>
 :END:
 **** TODO Integration in  ~MSImageImplementation~
 **** TODO Display on the fly.
