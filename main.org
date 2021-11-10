@@ -81,9 +81,11 @@ _Approach:_
 **** TODO Display on the fly.
 *** ~imzML~ files
 _TODOs_:
-**** TODO Fix input of ~unsigned_char(1)~ images, i.e. exported by ~GIMP~.
+**** DONE Fix input of ~unsigned_char(1)~ images, i.e. exported by ~GIMP~.
+CLOSED: [2021-11-10 Wed 12:41]
+~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::0ef1e8c5e0ef7d41220c549ec0f6780fdba3e510][0ef1e8c Fix bug with three channel unsigned char images]]
 :LOGBOOK:
-CLOCK: [2021-11-10 Wed 12:18]
+CLOCK: [2021-11-10 Wed 12:18]--[2021-11-10 Wed 12:41] =>  0:23
 :END:
 ** Graphical User Interface
 *** Displaying images
