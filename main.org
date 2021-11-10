@@ -75,6 +75,7 @@ We need to read the images *on the fly*, in a time-efficient manner.
 
 _State-of-the-art:_
 1. ~Cardinal~
+   [[https://cardinalmsi.org/][Website]]
    Read images on the fly without loading the whole image in memory. Access for one ion image is done through the ~imzML~ file.
    _Pros:_
    - Reduced memory usage
@@ -82,10 +83,11 @@ _State-of-the-art:_
    - Slow access
    - Not possible to process an entire dataset
 
-     As of *version 2.0*, Cardinal uses the ~matter~ R package.
-     [[https://bioconductor.org/packages/release/bioc/vignettes/matter/inst/doc/matter.pdf][Official documentation]]
-     
+   As of *version 2.0*, Cardinal uses the ~matter~ R package.
+   [[https://bioconductor.org/packages/release/bioc/vignettes/matter/inst/doc/matter.pdf][Official documentation]]
+    
 2. ~MSiReader~
+   [[https://msireader.wordpress.ncsu.edu/][Website]]
    Creates a ~mat~ file (extension ~.ibh~) containing various information and allowing for faster reloading of data.
    
      #+begin_src octave
@@ -103,9 +105,6 @@ _State-of-the-art:_
    - ~tic~ (~width x height~): Total Ion Count for each spectrum
    - Various metadata information (number of columns, rows, scans, polarity, spacing, formats...)
 
-
-     
-   
 _TODOs:_
 **** TODO Find efficient methods in the literature or in alternative softwares
 :LOGBOOK:
