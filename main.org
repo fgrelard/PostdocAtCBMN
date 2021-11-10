@@ -76,20 +76,30 @@ We need to read the images *on the fly*, in a time-efficient manner.
 _State-of-the-art:_
 1. ~Cardinal~
    [[https://cardinalmsi.org/][Website]]
-   ~readMSIData~: Read images on the fly without loading the whole image in memory. Access for one ion image is done through the ~imzML~ file. [[http://bioconductor.org/packages/release/bioc/manuals/Cardinal/man/Cardinal.pdf][Manual]].
-   _Pros:_
-   - Reduced memory usage
-   _Cons:_
-   - Slow access
-   - Not possible to process an entire dataset
+   
+   - ~readMSIData~
+     Read images on the fly without loading the whole image in memory. Access for one ion image is done through the ~imzML~ file. [[http://bioconductor.org/packages/release/bioc/manuals/Cardinal/man/Cardinal.pdf][Manual]].
+    _Pros:_
+     - Reduced memory usage
+     _Cons:_
+     - Slow access
+     - Not possible to process an entire dataset
+   - ~matter~
+     As of *version 2.0*, Cardinal uses the ~matter~ R package.
+     [[https://bioconductor.org/packages/release/bioc/vignettes/matter/inst/doc/matter.pdf][Official documentation]].
 
-   As of *version 2.0*, Cardinal uses the ~matter~ R package.
-   [[https://bioconductor.org/packages/release/bioc/vignettes/matter/inst/doc/matter.pdf][Official documentation]].
+     #+begin_quote
+     /matter is designed for rapid prototyping of new statistical methods when working with larger-than-memory datasets on disk./
+     #+end_quote
 
-   #+begin_quote
-   /matter is designed for rapid prototyping of new statistical methods when working with larger-than-memory datasets on disk./
-   #+end_quote
-    
+     This package implements memory-mapped files for  ~imzML~ images.
+
+     _Pros:_
+     - Reduced memory usage
+     _Cons_:
+     - Disk usage
+     - First time image loading?
+       
 2. ~MSiReader~
    [[https://msireader.wordpress.ncsu.edu/][Website]]
    Creates a ~mat~ file (extension ~.ibh~) containing various information and allowing for faster reloading of data.
@@ -110,12 +120,13 @@ _State-of-the-art:_
    - Various metadata information (number of columns, rows, scans, polarity, spacing, formats...)
 
 _TODOs:_
-**** TODO Find efficient methods in the literature or in alternative softwares
+**** DONE Find efficient methods in the literature or in alternative softwares
+CLOSED: [2021-11-10 Wed 15:49]
 :LOGBOOK:
-CLOCK: <2021-11-10 Wed 14:00>
+CLOCK: <2021-11-10 Wed 14:00>--[2021-11-10 Wed 15:49] =>  1:49
 :END:
-**** TODO Integration in  ~MSImageImplementation~
-**** TODO Display on the fly.
+**** TODO Implementation of memory-mapped files for ~imzML~ enclosing sparse matrices (centroid)
+**** TODO Implementation of on-the-fly read in  ~MSImageImplementation~, similarly to ~MSiReader~.
 *** ~imzML~ files
 _TODOs_:
 **** DONE Fix input of ~unsigned_char(1)~ images, i.e. exported by ~GIMP~.
