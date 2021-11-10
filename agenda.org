@@ -1,4 +1,2 @@
 
 * Future
-** Meeting :meeting:
-<2021-11-10 Wed 09:00>
