@@ -125,7 +125,9 @@ CLOSED: [2021-11-10 Wed 15:49]
 :LOGBOOK:
 CLOCK: <2021-11-10 Wed 14:00>--[2021-11-10 Wed 15:49] =>  1:49
 :END:
-**** TODO Implementation of memory-mapped files for ~imzML~ enclosing sparse matrices (centroid)
+**** TODO Implementation of memory-mapped files for ~imzML~ enclosing sparse matrices (centroided data) [0/1]
+***** TODO 
+
 **** TODO Implementation of on-the-fly read in  ~MSImageImplementation~, similarly to ~MSiReader~.
 *** ~imzML~ files
 _TODOs_:
