@@ -82,7 +82,7 @@ _State-of-the-art:_
      Read images on the fly without loading the whole image in memory. Access for one ion image is done through the ~imzML~ file. [[http://bioconductor.org/packages/release/bioc/manuals/Cardinal/man/Cardinal.pdf][Manual]].
     _Pros:_
      - Reduced memory usage
-     _Cons:_
+    _Cons:_
      - Slow access
      - Not possible to process an entire dataset
    - ~matter~
@@ -102,7 +102,7 @@ _State-of-the-art:_
      - Long first-time image loading?
 2. ~MSiReader~
    [[https://msireader.wordpress.ncsu.edu/][Website]]
-   Creates a ~mat~ file (extension ~.ibh~) containing various information and allowing for faster reloading of data.
+   Creates a ~mat~ file (extension ~.ibh~) containing various information which allow for fast reloading of the data.
    
      #+begin_src octave
        load("myfile.ibh")
