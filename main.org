@@ -70,9 +70,6 @@ Choose the appropriate type for the MS image depending on whether the data is ce
 #+end_src
 
 *** Efficient input/output
-:PROPERTIES:
-:ID:       6d1c4a4a-1e62-4375-b77e-f2716544c39c
-:END:
 Centroided images with high spatial resolution still do not fit in memory.
 We need to read the images *on the fly*, in a time-efficient manner.
 
