@@ -125,10 +125,11 @@ CLOSED: [2021-11-10 Wed 15:49]
 :LOGBOOK:
 CLOCK: <2021-11-10 Wed 14:00>--[2021-11-10 Wed 15:49] =>  1:49
 :END:
-**** TODO Implementation of memory-mapped files for ~imzML~ enclosing sparse matrices (centroided data) [0/1]
-***** TODO 
+**** TODO Implementation of memory-mapped files for ~imzML~ [0/2]
+***** TODO Create index files with all relevant information from ~imzML~
+***** TODO Memory map ~ibd~ files
 
-**** TODO Implementation of on-the-fly read in  ~MSImageImplementation~, similarly to ~MSiReader~.
+**** TODO Implementation of on-the-fly read similarly to ~MSiReader~.
 *** ~imzML~ files
 _TODOs_:
 **** DONE Fix input of ~unsigned_char(1)~ images, i.e. exported by ~GIMP~.
