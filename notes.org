@@ -1,3 +1,6 @@
+#+STARTUP: content
+#+FILETAGS: notes
+
 * Note ([[file:~/org/main.org::*Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN)][Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN)]])
 /Entered on/ [2021-11-10 Wed 11:57]
 
