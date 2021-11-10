@@ -99,7 +99,7 @@ CLOSED: [2021-10-19 Tue 16:15]
 CLOSED: [2021-10-19 Tue 16:22]
 **** DONE Hover on image to display pixel information
 CLOSED: [2021-10-24 Sun 16:24]
-**** TODO Bug fixes [3/4]
+**** TODO Bug fixes [4/4]
 ***** DONE Fix ~Combobox~ selection
 CLOSED: [2021-11-09 Tue 11:52]
 ~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::417d0fac05187b46dd879af13d21e6b03a8bb2d7][417d0fa Fix combobox]]
@@ -119,10 +119,11 @@ CLOSED: [2021-11-10 Wed 10:59]
 CLOCK: [2021-11-10 Wed 10:03]--[2021-11-10 Wed 10:59] =>  0:56
 CLOCK: [2021-11-09 Tue 14:25]--[2021-11-09 Tue 17:26] =>  3:01
 :END:
-***** TODO Link image views when the image sizes are the same
-~COMMIT:~
+***** DONE Link image views when the image sizes are the same
+CLOSED: [2021-11-10 Wed 11:41]
+~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::5702a484a2862ba640cfcc70539f445db23115fb][5702a48 Add shortcut to link views]]
 :LOGBOOK:
-CLOCK: [2021-11-10 Wed 11:00]
+CLOCK: [2021-11-10 Wed 11:00]--[2021-11-10 Wed 11:41] =>  0:41
 :END:
  
 *** Region-of-Interest management
