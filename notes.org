@@ -1,5 +1,7 @@
+* Note ([[file:~/org/main.org::*Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN)][Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN)]])
+/Entered on/ [2021-11-10 Wed 11:57]
 
-* Note ([[file:~/org/main.org::*\[\[file:meetings/meeting2021_11_19.org\]\[Meeting November\]\] <2021-11-19 Fri>][Meeting November <2021-11-19 Fri>]])
-/Entered on/ [2021-11-10 Wed 09:59]
-
+Presentations of Michael and Florent.
+Introduction to the department.
+Poster presentations.
 
