@@ -76,7 +76,7 @@ We need to read the images *on the fly*, in a time-efficient manner.
 _State-of-the-art:_
 1. ~Cardinal~
    [[https://cardinalmsi.org/][Website]]
-   ~readMSIData~: Read images on the fly without loading the whole image in memory. Access for one ion image is done through the ~imzML~ file. [[http://bioconductor.org/packages/release/bioc/manuals/Cardinal/man/Cardinal.pdf][Manual.]]
+   ~readMSIData~: Read images on the fly without loading the whole image in memory. Access for one ion image is done through the ~imzML~ file. [[http://bioconductor.org/packages/release/bioc/manuals/Cardinal/man/Cardinal.pdf][Manual]].
    _Pros:_
    - Reduced memory usage
    _Cons:_
@@ -84,7 +84,11 @@ _State-of-the-art:_
    - Not possible to process an entire dataset
 
    As of *version 2.0*, Cardinal uses the ~matter~ R package.
-   [[https://bioconductor.org/packages/release/bioc/vignettes/matter/inst/doc/matter.pdf][Official documentation]]
+   [[https://bioconductor.org/packages/release/bioc/vignettes/matter/inst/doc/matter.pdf][Official documentation]].
+
+   #+begin_quote
+   /matter is designed for rapid prototyping of new statistical methods when working with larger-than-memory datasets on disk./
+   #+end_quote
     
 2. ~MSiReader~
    [[https://msireader.wordpress.ncsu.edu/][Website]]
