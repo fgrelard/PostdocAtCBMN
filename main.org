@@ -9,7 +9,7 @@
 *** [[file:meetings/meeting2021_11_19.org][Meeting November]] <2021-11-19 Fri>
 *** Meeting December
 ** Scientific days
-*** Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN) 
+*** Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN) <2021-11-05 Fri>
 
 
 **  Trainings
