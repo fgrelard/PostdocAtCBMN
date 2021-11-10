@@ -1,12 +1,6 @@
 #+STARTUP: content
 #+FILETAGS: notes
 
-* Note ([[file:~/org/main.org::*Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN)][Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN)]])
-/Entered on/ [2021-11-10 Wed 11:57]
-
-Presentations of Michael and Florent.
-Introduction to the department.
-Poster presentations.
 * Note ([[file:~/org/main.org::*Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN) <2021-11-05 Fri>][Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN) <2021-11-05 Fri>]])
 /Entered on/ [2021-11-05 Fri 12:05]
 
