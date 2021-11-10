@@ -127,6 +127,9 @@ CLOCK: <2021-11-10 Wed 14:00>--[2021-11-10 Wed 15:49] =>  1:49
 :END:
 **** TODO Implementation of memory-mapped files for ~imzML~ [0/2]
 ***** TODO Create index files with all relevant information from ~imzML~
+:LOGBOOK:
+CLOCK: [2021-11-10 Wed 16:27]
+:END:
 ***** TODO Memory map ~ibd~ files
 
 **** TODO Implementation of on-the-fly read similarly to ~MSiReader~.
