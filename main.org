@@ -83,10 +83,15 @@ _State-of-the-art:_
    - Slow access
    - Not possible to process an entire dataset
 2. ~MSiReader~
-   Creates a ~mat~ file containing various information:
-   - ~ibdptrs~: 2D array of indices (~n_spectral x 2~), begin  indices in the ~ibd~ file for each peak, for /m/z/ and intensity values
-   - ~index~: array of ones
-   - ~loc~: 2D array of indices (~width x height~), pixel positions to flattened indices
+   Creates a ~mat~ file containing various information and allowing for faster reloading of data:
+   - ~ibdptrs~ (~width x height, 2~): 2D array of indices , begin indices in the ~ibd~ file for each peak, for /m/z/ and intensity values
+   - ~index~ (~width x height~): array of ones
+   - ~loc~ (~width, height~): 2D array of indices, pixel positions to flattened indices
+   - ~numpts~ (~width x height~): number of spectra points for each pixel position
+   - ~posX~, ~posY~ (~width x height~): x and y positions associated to spectra
+   - ~tic~ (~width x height~): Total Ion Count for each spectrum
+   - Various metadata information (number of columns, rows, scans, polarity, spacing, formats...)
+     
    
 _TODOs:_
 **** TODO Find efficient methods in the literature or in alternative softwares
