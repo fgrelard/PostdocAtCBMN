@@ -99,24 +99,25 @@ CLOSED: [2021-10-19 Tue 16:15]
 CLOSED: [2021-10-19 Tue 16:22]
 **** DONE Hover on image to display pixel information
 CLOSED: [2021-10-24 Sun 16:24]
-**** DONE Fix ~Combobox~ selection
+**** TODO Bug fixes [2/4]
+***** DONE Fix ~Combobox~ selection
 CLOSED: [2021-11-09 Tue 11:52]
 ~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::417d0fac05187b46dd879af13d21e6b03a8bb2d7][417d0fa Fix combobox]]
 :LOGBOOK:
 CLOCK: [2021-11-09 Tue 11:32]--[2021-11-09 Tue 11:52] =>  0:20
 :END:
-**** DONE Open new image on the left view only, when gridmode is activated
+***** DONE Open new image on the left view only, when gridmode is activated
 CLOSED: [2021-11-09 Tue 14:24]
 ~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::eb501bfc50def363aca301772750a0e9891b4ffa][eb501bf GUI: Only open image in first view]]
 :LOGBOOK:
 CLOCK: [2021-11-09 Tue 14:22]--[2021-11-09 Tue 14:24] =>  0:02
 :END:
-**** TODO Avoid duplicating images in views
+***** TODO Avoid duplicating images in views
 :LOGBOOK:
-CLOCK: [2021-11-10 Wed 09:26]
+CLOCK: [2021-11-10 Wed 10:03]
 CLOCK: [2021-11-09 Tue 14:25]--[2021-11-09 Tue 17:26] =>  3:01
 :END:
-**** TODO Link image views when the image sizes are the same
+***** TODO Link image views when the image sizes are the same
 :PROPERTIES:
 :ID:       4219d59d-f1a9-445c-b502-20caa9d8770c
 :END:
