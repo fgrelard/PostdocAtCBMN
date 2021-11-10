@@ -84,7 +84,7 @@ _State-of-the-art:_
    - Not possible to process an entire dataset
 2. ~MSiReader~
    Creates a ~mat~ file containing various information:
-   - ~ibdptrs~: 2D array of indices (~n_spectral x 2~), begin and end indices for each peak
+   - ~ibdptrs~: 2D array of indices (~n_spectral x 2~), begin and end indices in the ~ibd~ file for each peak
    - ~index~: array of ones
    - ~loc~: 2D array of indices (~width x height~), pixel positions to flattened indices
    
