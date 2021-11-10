@@ -76,14 +76,25 @@ We need to read the images *on the fly*, in a time-efficient manner.
 _State-of-the-art:_
 1. ~Cardinal~
    Read images on the fly without loading the whole image in memory. Access for one ion image is done through the ~imzML~ file.
-   
    _Pros:_
    - Reduced memory usage
    _Cons:_
    - Slow access
    - Not possible to process an entire dataset
+
+     As of *version 2.0*, Cardinal uses the ~matter~ R package.
+     [[https://bioconductor.org/packages/release/bioc/vignettes/matter/inst/doc/matter.pdf][Official documentation]]
+     
 2. ~MSiReader~
-   Creates a ~mat~ file containing various information and allowing for faster reloading of data:
+   Creates a ~mat~ file (extension ~.ibh~) containing various information and allowing for faster reloading of data.
+   
+     #+begin_src octave
+       load("myfile.ibh")
+       size(scandat.ibdptrs)
+       scandat.ibdptrs
+       #+end_src
+
+   _Attributes:_
    - ~ibdptrs~ (~width x height, 2~): 2D array of indices , begin indices in the ~ibd~ file for each peak, for /m/z/ and intensity values
    - ~index~ (~width x height~): array of ones
    - ~loc~ (~width, height~): 2D array of indices, pixel positions to flattened indices
@@ -91,6 +102,8 @@ _State-of-the-art:_
    - ~posX~, ~posY~ (~width x height~): x and y positions associated to spectra
    - ~tic~ (~width x height~): Total Ion Count for each spectrum
    - Various metadata information (number of columns, rows, scans, polarity, spacing, formats...)
+
+
      
    
 _TODOs:_
