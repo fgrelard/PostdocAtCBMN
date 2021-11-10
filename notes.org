@@ -7,4 +7,10 @@
 Presentations of Michael and Florent.
 Introduction to the department.
 Poster presentations.
+* Note ([[file:~/org/main.org::*Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN) <2021-11-05 Fri>][Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN) <2021-11-05 Fri>]])
+/Entered on/ [2021-11-05 Fri 12:05]
+
+Presentations of Michael and Florent.
+Introduction to the department.
+Poster presentations.
 
