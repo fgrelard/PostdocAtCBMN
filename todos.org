@@ -18,3 +18,10 @@ The spatial resolution is defined as the minimum distance where the lines are di
 
 Other techniques try to estimate the noise level in the image, so as to predict the amount of signal overlap between pixels. The authors in [[doi:10.1039/C004323K][[2]​]] and  [[doi:10.1021/ac501228x][[3]​]] deduce a Modulation Transfer Function (MTF) which maps an object with known (usually constant) intensities to the associated image with contrast variations: $\text{MTF} = \dfrac{C_{\text{image}}(f)}{C_{\text{object}}(f)}$, where C denotes the contrast.
 
+These models consider that the beam is stationary. In this article, the authors propose a model to estimate the spatial resolution with a moving beam.
+They conclude that:
+- resolution and noise increase with decreasing pixel size
+- resolution  and noise increase with the intensity
+
+Value   ★★☆☆☆
+
