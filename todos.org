@@ -16,6 +16,5 @@ In previous works, the authors in [[doi:10.1002/rcm.7191][[1]​]] use a scaling
 
 The spatial resolution is defined as the minimum distance where the lines are distinguishable.
 
-Other techniques try to estimate the noise level in the image, so as to predict the amount of signal overlap between pixels. The authors in [[doi:10.1039/C004323K][[2]​]] deduce a Modulation Transfer Function (MTF) which maps an object with known (usually constant) intensities to the associated image with contrast variations: $\text{MTF} = \dfrac{C_{\text{image}}(f)}{C_{\text{object}}(f)}$.
-The method of [[doi:10.1021/ac501228x][[3]​]] consists in computing an MTF
+Other techniques try to estimate the noise level in the image, so as to predict the amount of signal overlap between pixels. The authors in [[doi:10.1039/C004323K][[2]​]] and  [[doi:10.1021/ac501228x][[3]​]] deduce a Modulation Transfer Function (MTF) which maps an object with known (usually constant) intensities to the associated image with contrast variations: $\text{MTF} = \dfrac{C_{\text{image}}(f)}{C_{\text{object}}(f)}$, where C denotes the contrast.
 
