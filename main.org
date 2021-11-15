@@ -134,8 +134,9 @@ CLOCK: [2021-11-10 Wed 16:00]--[2021-11-10 Wed 16:50] =>  0:50
 :END:
 ***** TODO Store MS image as a memory-mapped file
 :LOGBOOK:
-CLOCK: [2021-11-10 Wed 16:52]
+CLOCK: [2021-11-15 Mon 09:57]
 :END:
+
 ***** TODO Create index files with all relevant information from ~imzML~
 **** TODO Implementation of on-the-fly read function similarly to ~MSiReader~.
 *** General functionalities
