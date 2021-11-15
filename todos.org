@@ -1,1 +1,7 @@
 
+* TODO Read paper
+:LOGBOOK:
+CLOCK: [2021-11-15 Mon 11:47]
+:END:
+/Entered on/ [2021-11-15 Mon 11:44]
+Martin D. Metodiev, Rory T. Steven, Xavier Loizeau, Zoltan Takats, and Josephine Bunch, /Modality Agnostic Model for Spatial Resolution in Mass Spectrometry Imaging: Application to MALDI MSI Data/, Anal. Chem. 2021, [[doi:10.1021/acs.analchem.1c02470][doi]].
