@@ -9,12 +9,12 @@ Martin D. Metodiev, Rory T. Steven, Xavier Loizeau, Zoltan Takats, and Josephine
 _Aim:_ to determine spatial resolution of MS images.
 The spatial resolution is understood as something different than the pixel size, here. The matrix is consumed: the information can overlap between pixels. When the pixel size is lower than the laser crater diameter, the spatial resolution is greater than the pixel size. Lowering the pixel size comes with a signal loss, due to overlapping spectra. A number reflecting the actual measurable signal is necessary. It is called /spatial resolution/ in the following.
 
-In previous works, the authors [[doi:10.1002/rcm.7191][[1]​]] use a scaling distance bar to assess the spatial resolution.
+In previous works, the authors in [[doi:10.1002/rcm.7191][[1]​]] use a scaling distance bar to assess the spatial resolution.
 #+attr_html: :width 500px :align left
 [[file:fig/scalebar.png]]
-/The pixel size in this figure is 15 µm/.
+/The pixel size in this figure is 15 µm, but the spatial resolution is probably in the order of 50 µm./
 
 The spatial resolution is defined as the minimum distance where the lines are distinguishable.
 
-Other techniques try to estimate the noise level in the image, so as to predict the amount of signal overlap between pixels. 
+Other techniques try to estimate the noise level in the image, so as to predict the amount of signal overlap between pixels. Some methods in [[doi:10.1039/C004323K][[2]​]] deduce a function mapping a binary input image to the associated output with contrast variations. 
 
