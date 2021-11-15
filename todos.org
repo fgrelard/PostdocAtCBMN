@@ -7,7 +7,11 @@ CLOCK: [2021-11-15 Mon 11:47]
 Martin D. Metodiev, Rory T. Steven, Xavier Loizeau, Zoltan Takats, and Josephine Bunch, /Modality Agnostic Model for Spatial Resolution in Mass Spectrometry Imaging: Application to MALDI MSI Data/, Anal. Chem. 2021, [[doi:10.1021/acs.analchem.1c02470][doi]].
 
 _Aim:_ to determine spatial resolution of MS images.
-The spatial resolution is understood as something different than the pixel size, here. The matrix is consumed, where the information can overlap between pixels. When the pixel size is lower than the laser crater diameter, the spatial resolution is greater than the pixel size.
+The spatial resolution is understood as something different than the pixel size, here. The matrix is consumed: the information can overlap between pixels. When the pixel size is lower than the laser crater diameter, the spatial resolution is greater than the pixel size. Lowering the pixel size comes with a signal loss, due to overlapping spectra.
 
-In previous works, the authors use a scaled bar distance [[doi:10.1002/rcm.7191][[1]​]]. 
+In previous works, the authors use a scaling distance bar [[doi:10.1002/rcm.7191][[1]​]]
+#+attr_html: :width 500px :align left
+[[file:fig/scalebar.png]]
+
+The spatial resolution is defined as the minimum distance where the lines are distinguishable.
 
