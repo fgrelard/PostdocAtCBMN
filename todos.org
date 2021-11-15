@@ -12,8 +12,9 @@ The spatial resolution is understood as something different than the pixel size,
 In previous works, the authors [[doi:10.1002/rcm.7191][[1]​]] use a scaling distance bar to assess the spatial resolution.
 #+attr_html: :width 500px :align left
 [[file:fig/scalebar.png]]
+/The pixel size in this figure is 15 µm/.
 
 The spatial resolution is defined as the minimum distance where the lines are distinguishable.
 
-Other techniques try to estimate the noise level in the image. 
+Other techniques try to estimate the noise level in the image, so as to predict the amount of signal overlap between pixels. 
 
