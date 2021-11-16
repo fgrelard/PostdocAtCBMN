@@ -125,18 +125,17 @@ CLOSED: [2021-11-10 Wed 15:49]
 :LOGBOOK:
 CLOCK: [2021-11-10 Wed 14:00]--[2021-11-10 Wed 15:49] =>  1:49
 :END:
-**** DONE Implementation of memory-mapped files for ~imzML~ [2/2]
-CLOSED: [2021-11-16 Tue 11:31]
+**** TODO Implementation of memory-mapped files for ~imzML~ [1/2]
 ***** DONE Memory map ~ibd~ files
 CLOSED: [2021-11-10 Wed 16:51]
 ~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::81894f0d504709559aefb59e0b55d7dc1f8892de][81894f0 Memory mapped ibd parsing]]
 :LOGBOOK:
 CLOCK: [2021-11-10 Wed 16:00]--[2021-11-10 Wed 16:50] =>  0:50
 :END:
-***** DONE Store MS image as a memory-mapped file
-CLOSED: [2021-11-16 Tue 11:26]
+***** TODO Store MS image as a memory-mapped file
 ~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::ddb0c7a4f4d7ce4a9fefa32dc0bb22650b7a4400][ddb0c7a Store MS image as memmap file]]
 :LOGBOOK:
+CLOCK: [2021-11-16 Tue 13:55]
 CLOCK: [2021-11-16 Tue 09:28]--[2021-11-16 Tue 11:26] =>  1:58
 CLOCK: [2021-11-15 Mon 16:43]--[2021-11-15 Mon 17:30] =>  0:47
 CLOCK: [2021-11-15 Mon 09:57]--[2021-11-15 Mon 11:44] =>  1:47
