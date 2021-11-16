@@ -1,6 +1,9 @@
 
 * DONE Read paper
 CLOSED: [2021-11-15 Mon 16:02]
+:PROPERTIES:
+:DIR:      /home/fgrelard/org/fig/
+:END:
 :LOGBOOK:
 CLOCK: [2021-11-15 Mon 11:47]--[2021-11-15 Mon 15:35] =>  3:48
 :END:
