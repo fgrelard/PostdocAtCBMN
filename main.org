@@ -125,21 +125,23 @@ CLOSED: [2021-11-10 Wed 15:49]
 :LOGBOOK:
 CLOCK: [2021-11-10 Wed 14:00]--[2021-11-10 Wed 15:49] =>  1:49
 :END:
-**** TODO Implementation of memory-mapped files for ~imzML~ [1/3]
+**** DONE Implementation of memory-mapped files for ~imzML~ [2/2]
+CLOSED: [2021-11-16 Tue 11:31]
 ***** DONE Memory map ~ibd~ files
 CLOSED: [2021-11-10 Wed 16:51]
 ~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::81894f0d504709559aefb59e0b55d7dc1f8892de][81894f0 Memory mapped ibd parsing]]
 :LOGBOOK:
 CLOCK: [2021-11-10 Wed 16:00]--[2021-11-10 Wed 16:50] =>  0:50
 :END:
-***** TODO Store MS image as a memory-mapped file
+***** DONE Store MS image as a memory-mapped file
+CLOSED: [2021-11-16 Tue 11:26]
 :LOGBOOK:
-CLOCK: [2021-11-16 Tue 09:28]
+CLOCK: [2021-11-16 Tue 09:28]--[2021-11-16 Tue 11:26] =>  1:58
 CLOCK: [2021-11-15 Mon 16:43]--[2021-11-15 Mon 17:30] =>  0:47
 CLOCK: [2021-11-15 Mon 09:57]--[2021-11-15 Mon 11:44] =>  1:47
 :END:
-***** TODO Create index files with all relevant information from ~imzML~
 **** TODO Implementation of on-the-fly read function similarly to ~MSiReader~.
+Create index files with all relevant information from the ~imzML~.
 *** General functionalities
 _TODOs_:
 **** DONE Fix input of ~unsigned_char(1)~ images, i.e. exported by ~GIMP~.
