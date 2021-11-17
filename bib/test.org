@@ -3,7 +3,7 @@
 #+title: Test
 
 
-Here's a citation without a page reference: [[cite:Dreisewerd_2017]]
+Here's a citation : [[cite:Dreisewerd_2017]]
 
 
 * Bibliography                                                                :notignore:
