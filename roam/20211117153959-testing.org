@@ -4,3 +4,6 @@
 #+title: Testing
 
 Here are some great thoughts.
+[[id:a160001d-25ce-47e2-941c-83f019323cf7][Emacs Lisp]]
+[[id:93c0b05c-8145-4e9e-b449-bbfb6440f61b][Python]]
+* Test
