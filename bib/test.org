@@ -1,11 +1,20 @@
 #+options: toc:nil author:nil tags:nil
-#+bibliography: ~/org/bib/main.bib
+#+bibliography: main.bib
 #+title: Test
 
 
-Here's a citation : [[cite:Dreisewerd_2017]]
+Here's a citation : [[cite:&kitchin-2015-examp]]
 
+#+name: fig_data
+#+caption: What is there here
+#+attr_html: :width 500px
+[[file:~/org/fig/rate.png]]
 
-* Bibliography                                                                :notignore:
+#+BEGIN_SRC emacs-lisp
+(org-link-get-parameter "cite" :export)
+#+END_SRC
+
+See Fig cref:fig_data.
+* Bibliography :notignore:
 bibliographystyle:unsrt
-[[bibliography:~/org/bib/main.bib]]
+[[bibliography:main.bib]]
