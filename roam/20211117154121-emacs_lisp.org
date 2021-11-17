@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       a160001d-25ce-47e2-941c-83f019323cf7
+:END:
+#+title: Emacs Lisp
+
