@@ -135,7 +135,9 @@ CLOCK: [2021-11-10 Wed 16:00]--[2021-11-10 Wed 16:50] =>  0:50
 ***** TODO Store MS image as a memory-mapped file
 ~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::ddb0c7a4f4d7ce4a9fefa32dc0bb22650b7a4400][ddb0c7a Store MS image as memmap file]]
 :LOGBOOK:
-CLOCK: [2021-11-16 Tue 13:55]
+CLOCK: [2021-11-17 Wed 14:17]
+CLOCK: [2021-11-17 Wed 09:17]--[2021-11-17 Wed 13:00] =>  3:43
+CLOCK: [2021-11-16 Tue 13:55]--[2021-11-16 Tue 17:45] =>  3:50
 CLOCK: [2021-11-16 Tue 09:28]--[2021-11-16 Tue 11:26] =>  1:58
 CLOCK: [2021-11-15 Mon 16:43]--[2021-11-15 Mon 17:30] =>  0:47
 CLOCK: [2021-11-15 Mon 09:57]--[2021-11-15 Mon 11:44] =>  1:47
