@@ -5,16 +5,16 @@
 
 Here's a citation : [[cite:&kitchin-2015-examp]]
 
-#+name: fig_data
-#+caption: What is there here
+#+caption: What is there here label:test
 #+attr_html: :width 500px
+#+name: fig-data
 [[file:~/org/fig/rate.png]]
 
 #+BEGIN_SRC emacs-lisp
 (org-link-get-parameter "cite" :export)
 #+END_SRC
 
-See Fig cref:fig_data.
+See Fig ref:test
 * Bibliography :notignore:
 bibliographystyle:unsrt
 [[bibliography:main.bib]]
