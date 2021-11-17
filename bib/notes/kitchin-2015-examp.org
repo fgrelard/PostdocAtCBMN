@@ -1,0 +1,4 @@
+* Kitchin, J. R., Examples of effective data sharing in scientific publishing, ACS Catalysis, (2015) :article: 
+
+See [[cite:&kitchin-2015-examp]]
+
