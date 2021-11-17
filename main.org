@@ -6,13 +6,12 @@
 * Meetings
 ** Conferences
 ** Group meetings
-*** Meeting November
+*** [[id:b5d18fba-3604-41b1-8633-ea71161ed97b][Meeting November]]
 <2021-11-19 Fri>
 *** Meeting December
 ** Scientific days
-*** Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN)
+*** [[id:e844da5b-57a7-4888-b9ab-6bbeccc8dc9c][Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN)]]
 <2021-11-05 Fri>
-
 **  Trainings
 * Research
 ** Input/Output

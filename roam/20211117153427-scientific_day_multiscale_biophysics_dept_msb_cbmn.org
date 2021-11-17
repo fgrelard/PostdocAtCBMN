@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       306f53b1-b296-477d-af1b-8fe64f27430f
-:END:
-#+title: Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN)
-
-Here are some great notes

@@ -4,5 +4,3 @@
 #+title: Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN)
 
 Presentations by Florent and Michael.
-
-Yes I can.

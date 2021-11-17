@@ -14,7 +14,7 @@ Here's a citation : [[cite:&kitchin-2015-examp]]
 (org-link-get-parameter "cite" :export)
 #+END_SRC
 
-See Fig 
+See Fig
 
 
 * Bibliography :notignore:
