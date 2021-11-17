@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       032860f9-a38d-49e2-9112-4232c37c4cf9
+:ROAM_REFS: cite:kitchin-2015-examp
+:END:
+#+title: Examples of effective data sharing in scientific publishing
+
