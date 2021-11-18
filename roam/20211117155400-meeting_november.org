@@ -3,4 +3,4 @@
 :END:
 #+title: Meeting November
 
-[[id:2dff42d8-b57a-4c3a-8619-3bfde728f67e][meeting]] [[id:d41a4830-1e18-404e-8514-f50100975d30][Group meeting]]
+[[id:69538b05-8325-40ca-8365-f7fcd904ac41][Group meeting]]
