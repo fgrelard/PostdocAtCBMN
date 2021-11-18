@@ -25,5 +25,6 @@ They conclude that:
 - resolution and noise increase with decreasing pixel size
 - resolution  and noise increase with the intensity
 
+  
 Value   ★★☆☆☆
 
