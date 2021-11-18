@@ -3,6 +3,8 @@
 :END:
 #+title: Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN)
 
+[[id:2dff42d8-b57a-4c3a-8619-3bfde728f67e][meeting]]
+
 Presentations by Florent and Michael.
 
 
