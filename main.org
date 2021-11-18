@@ -1,7 +1,11 @@
+:PROPERTIES:
+:ID:       c1a28ecf-7ee3-4946-a9c0-6c483b7fece5
+:ROAM_ALIASES: "Main document"
+:END:
 #+bibliography: bib/main.bib
 #+TITLE: Postdoc at CBMN
 
-#+attr_html: :width 500px :align left
+#+attr_org: :width 500px :align left
 [[file:fig/rate.png]]
 
 * Meetings
