@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       05ade968-7385-486e-8ec0-fa92e7172ed9
-:END:
-#+title: Trying
-
-[[id:9c408ab3-933d-478d-9781-436d00fda142][Examples of effective data sharing in scientific publishing]]
