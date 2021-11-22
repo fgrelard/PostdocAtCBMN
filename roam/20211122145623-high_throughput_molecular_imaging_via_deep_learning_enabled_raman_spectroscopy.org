@@ -10,3 +10,15 @@ _DeepeR_:
 1. Denoising, reconstruction of low signal-to-noise ratio images
 2. Super-resolution (2-4 times better resolution)
 3. Transfer learning: from cell to tissue scaling
+
+_Intro:_
+Raman: prohibitive acquisition times for high spatial resolution.
+Previously, deep learning is used for segmentation of Raman images, identification of species in images.
+Complex spatial and spectral correlations in images justify the use of deep learning.
+
+⚠ How *general* can this workflow be?
+
+* Denoising
+Denoising was achieved with a 1D ResUNet.
+
+
