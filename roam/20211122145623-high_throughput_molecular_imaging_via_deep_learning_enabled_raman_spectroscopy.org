@@ -4,5 +4,9 @@
 :END:
 #+title: High-throughput molecular imaging via deep-learning-enabled raman spectroscopy
 
+[[id:e28dff04-92c1-46c1-9649-1215749d4542][literature]] [[id:25ea27df-6151-474f-814c-d1b3657282fa][deep learning]]
+
+_DeepeR_:
 1. Denoising, reconstruction of low signal-to-noise ratio images
 2. Super-resolution (2-4 times better resolution)
+3. Transfer learning: from cell to tissue scaling
