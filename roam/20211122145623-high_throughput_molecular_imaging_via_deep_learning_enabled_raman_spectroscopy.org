@@ -46,6 +46,8 @@ A few results:
 _Limitations:_
 - Cannot reconstruct very fine details
 - Cannot be applied to another Raman dataset with significant chemical discrepancies → need to expand training dataset
-- 
+- No extensive validation
+
+  
 
 
