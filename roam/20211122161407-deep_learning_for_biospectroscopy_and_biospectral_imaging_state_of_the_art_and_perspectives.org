@@ -4,4 +4,4 @@
 :END:
 #+title: Deep learning for biospectroscopy and biospectral imaging: state-of-the-art and perspectives
 
-[[id:e28dff04-92c1-46c1-9649-1215749d4542][literature]] [[id:25ea27df-6151-474f-814c-d1b3657282fa][deep learning]] [[id:e3a7eea4-ecbd-4426-a339-aa5f9bf2f565][raman]]
+[[id:e28dff04-92c1-46c1-9649-1215749d4542][literature]] [[id:25ea27df-6151-474f-814c-d1b3657282fa][deep learning]] [[id:e3a7eea4-ecbd-4426-a339-aa5f9bf2f565][raman]] [[id:202a6608-0e3d-4f6a-b8b2-1728861c2632][review]]
