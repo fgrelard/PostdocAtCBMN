@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       de0cac3c-d320-44ab-8b86-693a22307706
+:ROAM_REFS: cite:Horgan2021
+:END:
+#+title: High-throughput molecular imaging via deep-learning-enabled raman spectroscopy
+
+1. Denoising, reconstruction of low signal-to-noise ratio images
+2. Super-resolution (2-4 times better resolution)
