@@ -4,7 +4,7 @@
 :END:
 #+title: High-throughput molecular imaging via deep-learning-enabled raman spectroscopy
 
-[[id:e28dff04-92c1-46c1-9649-1215749d4542][literature]] [[id:25ea27df-6151-474f-814c-d1b3657282fa][deep learning]]
+[[id:e28dff04-92c1-46c1-9649-1215749d4542][literature]] [[id:25ea27df-6151-474f-814c-d1b3657282fa][deep learning]] [[id:e3a7eea4-ecbd-4426-a339-aa5f9bf2f565][raman]]
 
 _DeepeR_:
 1. Denoising, reconstruction of low signal-to-noise ratio images
@@ -26,8 +26,15 @@ Denoising was achieved with a 1D ResUNet.
 Super-resolution was achieved with a residual channel attention network.
 Evaluation by PSNR and SSIM (Structural Similarity Index).
 
+2x *spectral* downsampling early in the network, followed by 2x upsampling at the end.
+
+* Results
 #+ATTR_ORG: :width 500
 [[file:/home/fgrelard/org/fig/captures/yanked_2021-11-22T15_33_42.png]]
+
+#+ATTR_ORG: :width 500
+[[file:/home/fgrelard/org/fig/captures/yanked_2021-11-22T15_45_29.png]]
+
 
 
 
