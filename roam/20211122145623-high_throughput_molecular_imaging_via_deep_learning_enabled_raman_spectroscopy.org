@@ -28,9 +28,12 @@ Evaluation by PSNR and SSIM (Structural Similarity Index).
 
 2x *spectral* downsampling early in the network, followed by 2x upsampling at the end.
 
+Both the networks are applied sequentially.
+
 * Generalizability
 Transfer learning.
-
+Two previous networks applied to hyperspectral Raman images from different origins, with very different information.
+New training of the HySISR network achieves better results than state-of-the-art methods, as well as the application of the original network and weights directly.
 
 A few results:
 #+ATTR_ORG: :width 500
@@ -40,7 +43,9 @@ A few results:
 [[file:/home/fgrelard/org/fig/captures/yanked_2021-11-22T15_53_00.png]]
 
 
-
-
+_Limitations:_
+- Cannot reconstruct very fine details
+- Cannot be applied to another Raman dataset with significant chemical discrepancies → need to expand training dataset
+- 
 
 
