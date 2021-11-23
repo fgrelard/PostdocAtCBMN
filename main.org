@@ -19,8 +19,8 @@
 ** Trainings
 ** Research
 *** [[id:2ae9872a-5879-4c00-921c-aeffefd7e01d][Spectro et bioinfo]]
-**** TODO [[id:1de4915d-229e-420d-bf9a-a2901a191f07][<2021-11-23 Tue>]]
-Raman and MSI dataset for next meeting.
+**** [[id:1de4915d-229e-420d-bf9a-a2901a191f07][<2021-11-23 Tue>]]
+***** TODO Raman and MSI dataset
 * Research
 ** Input/Output
 *** Sparse matrices :ATTACH:
