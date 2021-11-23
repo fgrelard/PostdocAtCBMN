@@ -4,7 +4,7 @@
 #+title: CATI
 [[id:2dff42d8-b57a-4c3a-8619-3bfde728f67e][meeting]]
 
-* <2021-11-23 Tue> :statisticalanalysis:multiblock:
+* <2021-11-23 Tue> :multiblock:statisticalanalysis:
 :PROPERTIES:
 :ID:       5343a1a6-6c81-40b4-8828-1e863d25572a
 :ROAM_ALIASES: "CATI Novembre"
