@@ -2,7 +2,8 @@
 :ID:       2ae9872a-5879-4c00-921c-aeffefd7e01d
 :END:
 #+title: Spectro et bioinfo
-[[id:2dff42d8-b57a-4c3a-8619-3bfde728f67e][meeting]] [[id:e3a7eea4-ecbd-4426-a339-aa5f9bf2f565][raman]] [[id:69f67e89-6a6a-4cae-b60b-a0cd5a352128][MSI]] [[id:25ea27df-6151-474f-814c-d1b3657282fa][deep learning]] [[id:9e91390d-acd7-401b-994f-14a45419420c][image fusion]]
+#+filetags: :deeplearning:imagefusion:MSI:raman:
+[[id:2dff42d8-b57a-4c3a-8619-3bfde728f67e][meeting]]
 * <2021-11-23 Tue>
 :PROPERTIES:
 :ID:       1de4915d-229e-420d-bf9a-a2901a191f07
