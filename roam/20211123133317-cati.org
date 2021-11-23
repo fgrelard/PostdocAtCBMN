@@ -4,13 +4,11 @@
 #+title: CATI
 [[id:2dff42d8-b57a-4c3a-8619-3bfde728f67e][meeting]]
 
-* <2021-11-23 Tue>
+* <2021-11-23 Tue> :statisticalanalysis:multiblock:
 :PROPERTIES:
 :ID:       5343a1a6-6c81-40b4-8828-1e863d25572a
 :ROAM_ALIASES: "CATI Novembre"
 :END:
-
-[[id:24ef59cd-44ec-4f2c-90f6-f16d56dab7ac][multiblock]] [[id:99bf9725-eb93-4ec3-9c91-54eb9ad90686][statistical analysis]]
 
 ** Présentation de Marion Brandolini
 Présentation générale.
