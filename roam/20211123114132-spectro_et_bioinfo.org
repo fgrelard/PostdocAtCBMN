@@ -26,10 +26,9 @@ _Ramanomique_: corrélation entre résultats de transcriptomique et spectre Rama
 
 _Recalage_: des approches Deep Learning ont-elles été envisagées?
 
+
 _TODOs:_
-  - Développer deux approches complémentaires pour le traitement et l'interprétation Raman: (1) Deep Learning, et (2) fusion d'images avec imagerie par spectrométrie de masse
-    Pour le Deep Learning, les outils de visualisation et d'interprétation des réseaux de neurones semble pertinents (en particulier dans les cas de transfer learning).
-  - Jeu de données Raman + MSI
-  - PT, RU: plutôt aspect ramanomique → développement d'une collaboration LaBRI-CBMN.
-   
-    
+* TODO Développer deux approches complémentaires pour le traitement et l'interprétation Raman: (1) Deep Learning, et (2) fusion d'images avec imagerie par spectrométrie de masse
+Pour le Deep Learning, les outils de visualisation et d'interprétation des réseaux de neurones semble pertinents (en particulier dans les cas de transfer learning).
+* TODO Jeu de données Raman + MSI
+* PT, RU: plutôt aspect ramanomique → développement d'une collaboration LaBRI-CBMN.
