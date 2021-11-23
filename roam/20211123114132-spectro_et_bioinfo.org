@@ -7,7 +7,6 @@
 :PROPERTIES:
 :ID:       1de4915d-229e-420d-bf9a-a2901a191f07
 :END:
-
 _Participants_: Sophie Lecomte, Jean-Christophe Taveau, Nicolas Desbenoit, Raluca Uricaru, Patricia Thébault, Joris Sansen, Olivier Lambert.
 
 Tour de table de chaque intervenant.
@@ -16,18 +15,18 @@ Deux initiatives:
 - Sophie: ajouter du Machine Learning
 - Patricia: réunir la communauté bioinfo
 
- _Raman_: projet de stage → import/export fichiers, outils de pré-traitement Raman.
- L'objectif est d'ajouter du Machine Learning, plus précisément du Deep Learning. Détection d'Aluminium dans des cellules. Les données initiales ne donnent aucune certitude quant à la présence d'Aluminium (signature spectrale incertaine). Besoin de s'en assurer: recours à une autre modalité d'imagerie.
+_Raman_: projet de stage → import/export fichiers, outils de pré-traitement Raman.
+L'objectif est d'ajouter du Machine Learning, plus précisément du Deep Learning. Détection d'Aluminium dans des cellules. Les données initiales ne donnent aucune certitude quant à la présence d'Aluminium (signature spectrale incertaine). Besoin de s'en assurer: recours à une autre modalité d'imagerie.
 
- Autre blocage pour implémenter Deep Learning: quelle quantité de données? (SL insiste sur ce point)
- Pistes: utilisation de transfer learning (à partir d'autres réseaux tels que [[cite:&Horgan2021]].
+Autre blocage pour implémenter Deep Learning: quelle quantité de données? (SL insiste sur ce point)
+Pistes: utilisation de transfer learning (à partir d'autres réseaux tels que [[cite:&Horgan2021]].
 
- _Ramanomique_: corrélation entre résultats de transcriptomique et spectre Raman.
- ⚠ Il ne s'agit plus d'imagerie.
+_Ramanomique_: corrélation entre résultats de transcriptomique et spectre Raman.
+⚠ Il ne s'agit plus d'imagerie.
 
- _Recalage_: des approches Deep Learning ont-elles été envisagées?
+_Recalage_: des approches Deep Learning ont-elles été envisagées?
 
- _TODOs:_
+_TODOs:_
   - Développer deux approches complémentaires pour le traitement et l'interprétation Raman: (1) Deep Learning, et (2) fusion d'images avec imagerie par spectrométrie de masse
     Pour le Deep Learning, les outils de visualisation et d'interprétation des réseaux de neurones semble pertinents (en particulier dans les cas de transfer learning).
   - Jeu de données Raman + MSI
