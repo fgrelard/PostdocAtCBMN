@@ -7,6 +7,7 @@
 * <2021-11-23 Tue>
 :PROPERTIES:
 :ID:       5343a1a6-6c81-40b4-8828-1e863d25572a
+:ROAM_ALIASES: "CATI Novembre"
 :END:
 
 [[id:24ef59cd-44ec-4f2c-90f6-f16d56dab7ac][multiblock]] [[id:99bf9725-eb93-4ec3-9c91-54eb9ad90686][statistical analysis]]
@@ -88,6 +89,6 @@ Données de métabolomique et lipidomique
 _Problème_: variabilité biologique: expérimentale, physiologie, instrumentale
 → Suppression de la variabilité orthogonale (non corrélée).
 
-Méthode DIABLO
+Méthode DIABLO, extension de sGCCA à la classification.
 
 
