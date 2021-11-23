@@ -57,4 +57,6 @@ Analyse séparée des blocs
 Très grande importance prétraitement des blocs
 Optimisation de paramètres (nombre de composantes)
 
+Plusieurs packages R à disposition: mixOmics, RGCCA, multiblock... 
+
 
