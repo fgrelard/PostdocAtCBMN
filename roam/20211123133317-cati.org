@@ -79,5 +79,7 @@ RGCCA
 Donner le même poids à tous les blocs, pour éviter qu'un bloc avec beaucoup de variables ait plus de poids qu'un bloc avec peu de variables.
 
 Rechercher un axe par bloc sur lequel projeter pour maximiser un critère.
+
+Déflation pour obtenir plusieurs axes par bloc.
    
 
