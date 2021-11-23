@@ -16,7 +16,10 @@
 ** Scientific days
 *** [[id:e844da5b-57a7-4888-b9ab-6bbeccc8dc9c][Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN)]]
 <2021-11-05 Fri>
-**  Trainings
+** Trainings
+** Research
+*** Spectro et bioinfo
+<2021-11-23 Tue>
 * Research
 ** Input/Output
 *** Sparse matrices :ATTACH:
