@@ -23,5 +23,22 @@ Pré-traitement des données:
 1. Intrabloc: correction de dérive analytique, normalisation, standardisation des variables (ex: centrage-réduction)
 2. Interblocs: Standardisation des blocs: pour éviter leurs différences de taille.
 
-*** Multiblocs exploratoires
-Décomposition des données en variables latentes: /scores/ et /loadings/.
+*** Multiblocs exploratoire
+Décomposition des données en variables latentes: /scores/ et /loadings/. Prise en compte de l'information commune ou non.
+
+Méthodes prenant en compte l'info commune:
+- ACP multibloc, ou ACP consensus. Concaténation des blocs pré-traités et pondérés, puis ACP.
+- CSWA ou ComDim: extraction /séquentielle/ des composantes maximisant la variance de la somme pondérée des matrices de variance covariances des différents blocs
+- RGCSA: voir présentation suivante.
+  
+Méthodes prenant en compte l'info différente:
+- Orthogonal2 PLS (O2PLS) dans le cas de 2 blocs
+  espace de données dépourvu de l'espace en commun, uniquement l'information qui est propre aux blocs, puis commune.
+- JIVE (Joint and Individual variances explained): idem à plus haut, sauf que d'abord info commune, puis distincte.
+
+*** Multiblocs prédictif
+Extraire l'info commune ou complémentaire pour la prédiction
+
+- PLS multiblocs (MBPLS): régression PLS sur blocs prétraités pondérés concaténés
+- PLS consensus ou hiérarchique (HPLS): ACP consens, normalisation des composantes globales, puis PLS.
+
