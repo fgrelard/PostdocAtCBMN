@@ -59,4 +59,25 @@ Optimisation de paramètres (nombre de composantes)
 
 Plusieurs packages R à disposition: mixOmics, RGCCA, multiblock... 
 
+** Présentation Caroline Peltier
+
+Données de spectrométrie de masse, pour DMLA.
+
+_Données_: une observation commune à tous les blocs : données lipidomiques, concentration en ions.
+_Blocs_: rétine, zone de rétine (RPE), sang (plasma) et données cliniques.
+
+Coupler analyse sensorielle et analyse physico-chimique.
+
+1. Avoir des blocs de mesures "propres": pas de valeurs manquantes, retirer variables sans sens.
+2. Connaître ses blocs séparément (ACP) pour repérer outliers, groupes, retrait de variables individus non renseignés.
+3. Pré-traitement pour comparer les blocs de mesures entre eux: passage au log, gestion des valeurs manquantes
+4. Bien poser sa question de recherche: exploratoire ou prédictive?
+
+*** _Méthode_
+RGCCA
+
+Donner le même poids à tous les blocs, pour éviter qu'un bloc avec beaucoup de variables ait plus de poids qu'un bloc avec peu de variables.
+
+Rechercher un axe par bloc sur lequel projeter pour maximiser un critère.
+   
 
