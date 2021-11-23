@@ -83,10 +83,11 @@ Rechercher un axe par bloc sur lequel projeter pour maximiser un critère.
 Déflation pour obtenir plusieurs axes par bloc.
    
 ** Présentation Marie Tremblay-Franco
-Méthode DIABLO
-
 Données de métabolomique et lipidomique
 
+_Problème_: variabilité biologique: expérimentale, physiologie, instrumentale
+→ Suppression de la variabilité orthogonale (non corrélée).
 
+Méthode DIABLO
 
 
