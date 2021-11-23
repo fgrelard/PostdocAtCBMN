@@ -12,4 +12,16 @@
 [[id:24ef59cd-44ec-4f2c-90f6-f16d56dab7ac][multiblock]] [[id:99bf9725-eb93-4ec3-9c91-54eb9ad90686][statistical analysis]]
 
 ** Présentation de Marion Brandolini
+Présentation générale.
 
+Données multiblocs: données multivariées, multi-sources, souvent sur mêmes échantillons.
+Plusieurs matrices 2D, une seule matrice 2D (plusieurs conditions expérimentales...)
+
+_Principe:_ rechercher des variables latentes (combinaisons linéaires de variables initiales)
+
+Pré-traitement des données:
+1. Intrabloc: correction de dérive analytique, normalisation, standardisation des variables (ex: centrage-réduction)
+2. Interblocs: Standardisation des blocs: pour éviter leurs différences de taille.
+
+*** Multiblocs exploratoires
+Décomposition des données en variables latentes: /scores/ et /loadings/.
