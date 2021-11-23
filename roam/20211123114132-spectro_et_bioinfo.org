@@ -6,6 +6,7 @@
 * <2021-11-23 Tue>
 :PROPERTIES:
 :ID:       1de4915d-229e-420d-bf9a-a2901a191f07
+:ROAM_ALIASES: "Spectro bioinfo Novembre"
 :END:
 _Participants_: Sophie Lecomte, Jean-Christophe Taveau, Nicolas Desbenoit, Raluca Uricaru, Patricia Thébault, Joris Sansen, Olivier Lambert.
 
