@@ -2,11 +2,7 @@
 :ID:       2dff42d8-b57a-4c3a-8619-3bfde728f67e
 :END:
 #+title: meeting
-
-* Group meeting
-:PROPERTIES:
-:ID:       69538b05-8325-40ca-8365-f7fcd904ac41
-:END:
+[[id:5f630087-44a4-4ffb-a6d3-9b521b5e8c77][Group meeting]]
 * Conference
 :PROPERTIES:
 :ID:       34d764c4-4aad-4f1a-8194-fbceda6f6112
