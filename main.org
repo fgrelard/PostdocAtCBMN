@@ -10,7 +10,7 @@
 * Meetings
 ** Conferences
 ** Group meetings
-*** [[id:b5d18fba-3604-41b1-8633-ea71161ed97b][Meeting November]]
+*** [[id:f3954d31-5bca-4475-824a-343e02906519][Meeting November]]
 <2021-11-19 Fri>
 *** Meeting December
 ** Scientific days
@@ -21,6 +21,7 @@
 *** [[id:2ae9872a-5879-4c00-921c-aeffefd7e01d][Spectro et bioinfo]]
 **** [[id:1de4915d-229e-420d-bf9a-a2901a191f07][<2021-11-23 Tue>]]
 ***** TODO Raman and MSI dataset
+*** [[id:a0cf98b4-cd90-49fc-ba0a-60896e2770db][CATI Empreinte]]
 * Research
 ** Input/Output
 *** Sparse matrices :ATTACH:
