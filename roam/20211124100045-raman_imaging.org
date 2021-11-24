@@ -5,6 +5,12 @@
 #+filetags: :raman:
 
 Acquisition with a confocal microscope.
+The resulting image is the convolution of the original image with the [[id:6d4bc759-16e3-46f6-9629-efb4702cd47b][PSF]]. Possible to deconvolute image to obtain better spatial resolution.
+
+_Acquisition strategy_:
+- hyperspectral imaging
+- global imaging: select a band instrumentally
+  
 
 [[id:14c33ce6-5427-4900-ae3d-0e00e286385d][Raman]] image: pixelized image.
 - Pixel size depends on intrinsic limitations (e.g. diffraction limit). Can be improved by image processing.
