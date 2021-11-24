@@ -3,9 +3,9 @@
 :END:
 #+title: Imagerie et Spectroscopie Vibrationnelle
 #+filetags: :raman:
+[[id:34d764c4-4aad-4f1a-8194-fbceda6f6112][Conference]]
 
 * Introduction Imagerie Raman
+Effet [[id:14c33ce6-5427-4900-ae3d-0e00e286385d][Raman]].
 
 
-
-[[id:14c33ce6-5427-4900-ae3d-0e00e286385d][Raman]]
