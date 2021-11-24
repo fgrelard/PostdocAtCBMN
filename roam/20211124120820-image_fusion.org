@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       14805012-e9b8-491a-9b56-c4830c1d9685
+:END:
+#+title: image fusion
+
