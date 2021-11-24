@@ -1,16 +1,12 @@
 :PROPERTIES:
 :ID:       a0cf98b4-cd90-49fc-ba0a-60896e2770db
 :END:
-#+title: CATI
+#+title: CATI Novembre
 #+filetags: :meeting:
 
-* <2021-11-23 Tue> 
-:PROPERTIES:
-:ID:       5343a1a6-6c81-40b4-8828-1e863d25572a
-:ROAM_ALIASES: "CATI Novembre"
-:END:
 [[id:74e38001-568b-42ec-a8f2-bb8a4f39013a][Statistical analysis]] [[id:ac8d4e14-61f1-4b37-8829-186b6938f4ca][Multiblock]]
-** Présentation de Marion Brandolini
+
+* Présentation de Marion Brandolini
 Présentation générale.
 
 Données multiblocs: données multivariées, multi-sources, souvent sur mêmes échantillons.
@@ -58,7 +54,7 @@ Optimisation de paramètres (nombre de composantes)
 
 Plusieurs packages R à disposition: mixOmics, RGCCA, multiblock... 
 
-** Présentation Caroline Peltier
+* Présentation Caroline Peltier
 
 Données de spectrométrie de masse, pour DMLA.
 
@@ -81,7 +77,7 @@ Rechercher un axe par bloc sur lequel projeter pour maximiser un critère.
 
 Déflation pour obtenir plusieurs axes par bloc.
    
-** Présentation Marie Tremblay-Franco
+* Présentation Marie Tremblay-Franco
 Données de métabolomique et lipidomique
 
 _Problème_: variabilité biologique: expérimentale, physiologie, instrumentale
