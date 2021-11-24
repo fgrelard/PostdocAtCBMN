@@ -3,7 +3,7 @@
 :END:
 #+title: Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN)
 
-[[id:7cc690ab-ad4c-44ab-8e13-98f454fa8b2b][Scientific day]]
+[[id:7cc690ab-ad4c-44ab-8e13-98f454fa8b2b][Scientific day]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]]
 
 Presentations by Florent and Michael.
 
