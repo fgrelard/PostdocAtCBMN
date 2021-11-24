@@ -2,7 +2,7 @@
 :ID:       6d4bc759-16e3-46f6-9629-efb4702cd47b
 :END:
 #+title: Point Spread Function
-#+filetags: :raman:confocalmicroscopy:spatialresolution:
+#+filetags: :spatialresolution:
 
 Focalization point has a certain shape. The numerical aperture of the objective and the wavelength defines the lateral resolution.
 
