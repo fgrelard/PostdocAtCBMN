@@ -3,7 +3,7 @@
 :ROAM_REFS: cite:Metodiev_2021
 :END:
 #+title: Modality agnostic model for spatial resolution in mass spectrometry imaging: application to maldi msi data
-#+filetags: :★★☆☆☆:
+#+filetags: :literature:★★☆☆☆:
 
 [[id:e28dff04-92c1-46c1-9649-1215749d4542][literature]] [[id:55127251-aa8c-4efc-8462-ad9786f3f59b][Spatial resolution]]
 
