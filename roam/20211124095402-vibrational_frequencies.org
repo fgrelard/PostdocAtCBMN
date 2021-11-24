@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       f7452c04-a7cd-4d83-8b4d-b2f5c0681153
+:END:
+#+title: Vibrational frequencies
+
+#+ATTR_ORG: :width 500
+[[file:/home/fgrelard/org/fig/captures/yanked_2021-11-24T09_43_30.png]]
