@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       9a753b0f-254a-42cf-8ef4-9b139a0bd14f
+:END:
+#+title: Raman imaging
+#+filetags: :raman:
+
+[[id:14c33ce6-5427-4900-ae3d-0e00e286385d][Raman]] image: pixelized image.
+- Pixel size depends on intrinsic limitations (e.g. diffraction limit). Can be improved by image processing.
+- Pixel color: monochromatic image. Can be band frequency, band intensity, band shape (width, Lorentzian, Gaussian).
+
+_Pros_:
+- Good spatial resolution
+
+_Limitations:_
+- acquisition time can be long (~10h).
