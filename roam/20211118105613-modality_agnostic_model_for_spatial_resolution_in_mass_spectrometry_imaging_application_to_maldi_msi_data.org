@@ -3,9 +3,9 @@
 :ROAM_REFS: cite:Metodiev_2021
 :END:
 #+title: Modality agnostic model for spatial resolution in mass spectrometry imaging: application to maldi msi data
-#+filetags: :spatialresolution:★★☆☆☆:
+#+filetags: :★★☆☆☆:
 
-[[id:e28dff04-92c1-46c1-9649-1215749d4542][literature]]
+[[id:e28dff04-92c1-46c1-9649-1215749d4542][literature]] [[id:55127251-aa8c-4efc-8462-ad9786f3f59b][Spatial resolution]]
 
 _Aim:_ to determine spatial resolution of MS images.
 The spatial resolution is understood as something different than the pixel size, here. The matrix is consumed: the information can overlap between pixels. When the pixel size is lower than the laser crater diameter, the spatial resolution is greater than the pixel size. Lowering the pixel size comes with a signal loss, due to overlapping spectra. A number reflecting the actual measurable signal is necessary. It is called /spatial resolution/ in the following, but also called /lateral resolution/ in other works.
