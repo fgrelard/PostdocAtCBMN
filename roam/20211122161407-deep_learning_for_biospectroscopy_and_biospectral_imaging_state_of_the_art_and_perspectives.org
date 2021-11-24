@@ -3,8 +3,8 @@
 :ROAM_REFS: cite:He2021
 :END:
 #+title: Deep learning for biospectroscopy and biospectral imaging: state-of-the-art and perspectives
-#+filetags: :raman:deeplearning:★★★★☆:
-[[id:e28dff04-92c1-46c1-9649-1215749d4542][literature]] [[id:ef751aa5-1f1b-4667-bd43-e2aae07ad7ae][review]]
+#+filetags: :★★★★☆:
+[[id:e28dff04-92c1-46c1-9649-1215749d4542][literature]] [[id:ef751aa5-1f1b-4667-bd43-e2aae07ad7ae][review]] [[id:b08807ac-d9e3-4987-8b42-be4ec686d94c][Deep learning]] [[id:9a753b0f-254a-42cf-8ef4-9b139a0bd14f][Raman imaging]]
 
 _Limitations of chemometrics methods:_
 - Not suited for high throughput
