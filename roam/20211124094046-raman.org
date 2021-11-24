@@ -2,6 +2,7 @@
 :ID:       14c33ce6-5427-4900-ae3d-0e00e286385d
 :END:
 #+title: Raman
+#+filetags: :raman:
 
 Inelastic scattering of photons: incoming light undergoes a change in color and is scattered with a *different energy*.
 
@@ -10,12 +11,12 @@ Inelastic scattering of photons: incoming light undergoes a change in color and 
 
 
 Photon diffusion (energy exchange between photons and sample):
-- elastic (classical)
+- elastic (Rayleigh)
 - inelastic : Stokes and Anti-Stokes
 
 [[id:f7452c04-a7cd-4d83-8b4d-b2f5c0681153][Vibrational frequencies]] tell about the chemical group nature.
 
 The Raman intensity depend on incident intensity of photons, molecular polarizability.
-Simplified as $\sigma$, Raman cross section (intensity+polarizability), $F$ Factor depending on the measurements conditions, $C$ scatterers density (probed volume).
+Simplified as the product of $\sigma$ Raman cross section (intensity+polarizability), $F$ Factor depending on the measurements conditions, $C$ scatterers density (probed volume).
 
-Raman image: pixelized image.
+
