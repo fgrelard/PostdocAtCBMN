@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       e28dff04-92c1-46c1-9649-1215749d4542
-:END:
-#+title: literature
-
-* review
-:PROPERTIES:
-:ID:       ef751aa5-1f1b-4667-bd43-e2aae07ad7ae
-:END:
