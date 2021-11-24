@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       2aa79d0d-5782-40e7-bd5f-78f946890a88
+:END:
+#+title: Group meeting Novembre
+#+filetags: :group_meeting:meeting:
+
