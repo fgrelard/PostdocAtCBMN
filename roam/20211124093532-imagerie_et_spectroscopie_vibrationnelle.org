@@ -11,7 +11,7 @@ Raman [[id:14c33ce6-5427-4900-ae3d-0e00e286385d][spectroscopy]] and [[id:9a753b0
 * Apport de la résolution numérique de problèmes inverses à l'imagerie et la spectroscopie vibrationnelle
 Saïd Moussaoui - LS2N
 
-[[id:086dbae6-8f19-47b8-9543-782e16adcd00][Inverse problems]]
+[[id:086dbae6-8f19-47b8-9543-782e16adcd00][Inverse problems]] [[id:74e38001-568b-42ec-a8f2-bb8a4f39013a][Statistical analysis]]
 
 ** One signal
 *** Denoising
