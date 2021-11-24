@@ -42,4 +42,11 @@ Baseline modelled as a polynom.
 #+ATTR_ORG: :width 500
 [[file:/home/fgrelard/org/fig/captures/yanked_2021-11-24T11_38_02.png]]
 
+** Multiple signals
+*** Signal analysis
+Multiple sources, mixed where each has its own noise.
+
+Mixing matrices.
+
+_Methods_: [[id:71035313-ca28-4397-8084-15dc5840e0c7][PCA, ICA, NMF]].
 
