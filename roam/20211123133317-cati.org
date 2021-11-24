@@ -9,7 +9,7 @@
 :ID:       5343a1a6-6c81-40b4-8828-1e863d25572a
 :ROAM_ALIASES: "CATI Novembre"
 :END:
-
+[[id:74e38001-568b-42ec-a8f2-bb8a4f39013a][Statistical analysis]] [[id:ac8d4e14-61f1-4b37-8829-186b6938f4ca][Multiblock]]
 ** Présentation de Marion Brandolini
 Présentation générale.
 
@@ -88,5 +88,6 @@ _Problème_: variabilité biologique: expérimentale, physiologie, instrumentale
 → Suppression de la variabilité orthogonale (non corrélée).
 
 Méthode DIABLO, extension de sGCCA à la classification.
+
 
 
