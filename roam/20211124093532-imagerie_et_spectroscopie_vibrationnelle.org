@@ -22,4 +22,9 @@ Linear model: convolution (image restoration), mix (source separation), Radon tr
 
 Inversion: 3 conditions: stability, unicity, solution existence.
 
-
+Regularized inversion: add hypotheses or information.
+- Bayesian inference: (likelihood $\times$ /a priori/): *statistics*
+- Minimization of a composite criterion (adjustment + penalization): *energy, variational*
+  
+  
+  
