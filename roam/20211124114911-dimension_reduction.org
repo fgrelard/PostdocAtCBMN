@@ -3,7 +3,6 @@
 :END:
 
 #+title: Dimension reduction
-#+filetags: :statisticalanalysis:
 
 [[id:74e38001-568b-42ec-a8f2-bb8a4f39013a][Statistical analysis]]
 
