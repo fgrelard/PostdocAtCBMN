@@ -6,6 +6,14 @@
 [[id:34d764c4-4aad-4f1a-8194-fbceda6f6112][Conference]]
 
 * Introduction Imagerie Raman
-Raman spectroscopy and imaging.
+Raman [[id:14c33ce6-5427-4900-ae3d-0e00e286385d][spectroscopy]] and [[id:9a753b0f-254a-42cf-8ef4-9b139a0bd14f][imaging]].
+
+* Apport de la résolution numérique de problèmes inverses à l'imagerie et la spectroscopie vibrationnelle
+Saïd Moussaoui - LS2N
+
+Inverse problems: acquisition system → measured signal.
+There are perturbations.
+
+Inverse problem: to go back from the measured signal to the information of interest.
 
 
