@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       74e38001-568b-42ec-a8f2-bb8a4f39013a
+:END:
+#+title: Statistical analysis
+
