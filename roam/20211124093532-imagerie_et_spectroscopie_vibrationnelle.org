@@ -25,6 +25,14 @@ Inversion: 3 conditions: stability, unicity, solution existence.
 Regularized inversion: add hypotheses or information.
 - Bayesian inference: (likelihood $\times$ /a priori/): *statistics*
 - Minimization of a composite criterion (adjustment + penalization): *energy, variational*
-  
-  
-  
+
+_Bayesian inference_:
+Which probabilistic models? Which strategy of statistical estimation (large datasets)? How to reduce computation time?
+
+_Mathematical optimization_:
+Convergence speed and computation cost? Global optimum vs local optimum? Evolution of computation tools?
+
+** One signal
+Denoising. Which hypotheses on the noise?
+Usually, gaussian distribution of noise. Independent samples, identically distributed.
+
