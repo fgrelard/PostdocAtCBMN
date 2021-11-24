@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       71035313-ca28-4397-8084-15dc5840e0c7
+:END:
+
+#+title: Dimension reduction
+#+filetags: :statisticalanalysis:
+
+[[id:74e38001-568b-42ec-a8f2-bb8a4f39013a][Statistical analysis]]
+
+* PCA
+
+* ICA
+
+* NMF
