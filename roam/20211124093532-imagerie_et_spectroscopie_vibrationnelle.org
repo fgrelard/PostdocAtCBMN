@@ -11,29 +11,11 @@ Raman [[id:14c33ce6-5427-4900-ae3d-0e00e286385d][spectroscopy]] and [[id:9a753b0
 * Apport de la résolution numérique de problèmes inverses à l'imagerie et la spectroscopie vibrationnelle
 Saïd Moussaoui - LS2N
 
-Inverse problems: acquisition system → measured signal.
-There are perturbations in the measured signal.
-
-Inverse problem: to go back from the measured signal to the information of interest.
-
-$y = \kappa(x, e)$ ou $y = Kx + e$, $y$ measured signal, $e$ errors, $x$ information to recover. $K$ linear application.
-
-Linear model: convolution (image restoration), mix (source separation), Radon transform (tomography)
-
-Inversion: 3 conditions: stability, unicity, solution existence.
-
-Regularized inversion: add hypotheses or information.
-- Bayesian inference: (likelihood $\times$ /a priori/): *statistics*
-- Minimization of a composite criterion (adjustment + penalization): *energy, variational*
-
-_Bayesian inference_:
-Which probabilistic models? Which strategy of statistical estimation (large datasets)? How to reduce computation time?
-
-_Mathematical optimization_:
-Convergence speed and computation cost? Global optimum vs local optimum? Evolution of computation tools?
+[[id:086dbae6-8f19-47b8-9543-782e16adcd00][Inverse problems]]
 
 ** One signal
-Denoising. Which hypotheses on the noise?
+*** Denoising
+Which hypotheses on the noise?
 Usually, gaussian distribution of noise. Independent samples, identically distributed.
 
 Estimation by maximization of likelihood. How to find the value of $x$, usually log transform to avoid exponential in the gaussian model.
@@ -47,3 +29,17 @@ Minimization of (innovations + previous modelization of noise).
 Balance between fitting to data and the time derivative tending to zero.
 
 Resolution by Fourier transform: low-pass filter.
+
+*** Parametric decomposition of the signal
+Non linear Least squares (NNLS).
+
+#+ATTR_ORG: :width 500
+[[file:/home/fgrelard/org/fig/captures/yanked_2021-11-24T11_36_04.png]]
+
+*** Baseline subtraction
+Baseline modelled as a polynom.
+
+#+ATTR_ORG: :width 500
+[[file:/home/fgrelard/org/fig/captures/yanked_2021-11-24T11_38_02.png]]
+
+
