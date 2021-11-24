@@ -12,8 +12,14 @@ Raman [[id:14c33ce6-5427-4900-ae3d-0e00e286385d][spectroscopy]] and [[id:9a753b0
 Saïd Moussaoui - LS2N
 
 Inverse problems: acquisition system → measured signal.
-There are perturbations.
+There are perturbations in the measured signal.
 
 Inverse problem: to go back from the measured signal to the information of interest.
+
+$y = \kappa(x, e)$ ou $y = Kx + e$, $y$ measured signal, $e$ errors, $x$ information to recover. $K$ linear application.
+
+Linear model: convolution (image restoration), mix (source separation), Radon transform (tomography)
+
+Inversion: 3 conditions: stability, unicity, solution existence.
 
 
