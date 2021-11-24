@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       2d7a5dea-9a2e-4bca-8543-e002c0f5f6ea
+:END:
+#+title: Group meeting December
+#+filetags: :group_meeting:meeting:
+
