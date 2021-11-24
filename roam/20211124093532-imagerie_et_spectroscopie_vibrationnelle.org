@@ -2,7 +2,6 @@
 :ID:       1dfd714a-3b4c-4ef6-868b-aeeee112d68d
 :END:
 #+title: Imagerie et Spectroscopie Vibrationnelle
-#+filetags: :raman:
 [[id:34d764c4-4aad-4f1a-8194-fbceda6f6112][Conference]]
 
 * Introduction Imagerie Raman
