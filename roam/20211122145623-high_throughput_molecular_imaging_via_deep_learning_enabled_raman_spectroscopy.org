@@ -4,7 +4,7 @@
 :END:
 #+title: High-throughput molecular imaging via deep-learning-enabled raman spectroscopy
 #+filetags: :literature:★★★★☆:
-[[id:e28dff04-92c1-46c1-9649-1215749d4542][literature]] [[id:9a753b0f-254a-42cf-8ef4-9b139a0bd14f][Raman imaging]] [[id:b08807ac-d9e3-4987-8b42-be4ec686d94c][Deep learning]]
+[[id:9a753b0f-254a-42cf-8ef4-9b139a0bd14f][Raman imaging]] [[id:b08807ac-d9e3-4987-8b42-be4ec686d94c][Deep learning]]
 
 _DeepeR_:
 1. Denoising, reconstruction of low signal-to-noise ratio images
