@@ -1,14 +1,16 @@
-:PROPERTIES:
+b:PROPERTIES:
 :ID:       c1a28ecf-7ee3-4946-a9c0-6c483b7fece5
 :END:
 #+bibliography: bib/main.bib
 #+TITLE: Postdoc at CBMN
 
-#+attr_org: :width 500px :align left
+#+ATTR_ORG: :width 500px :align left
 [[file:fig/rate.png]]
 
 * Meetings
 ** Conferences
+*** [[id:1dfd714a-3b4c-4ef6-868b-aeeee112d68d][Imagerie et Spectroscopie Vibrationnelle]]
+<2021-11-24 Wed>
 ** Group meetings
 *** [[id:f3954d31-5bca-4475-824a-343e02906519][Meeting November]]
 <2021-11-19 Fri>
