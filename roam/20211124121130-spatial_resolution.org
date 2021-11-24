@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       55127251-aa8c-4efc-8462-ad9786f3f59b
+:END:
+#+title: Spatial resolution
+
