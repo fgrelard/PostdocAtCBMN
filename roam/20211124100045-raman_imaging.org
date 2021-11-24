@@ -2,7 +2,6 @@
 :ID:       9a753b0f-254a-42cf-8ef4-9b139a0bd14f
 :END:
 #+title: Raman imaging
-#+filetags: :raman:
 
 Acquisition with a confocal microscope.
 The resulting image is the convolution of the original image with the [[id:6d4bc759-16e3-46f6-9629-efb4702cd47b][PSF]]. Possible to deconvolute image to obtain better spatial resolution.
