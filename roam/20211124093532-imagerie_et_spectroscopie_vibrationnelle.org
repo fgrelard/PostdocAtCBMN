@@ -36,3 +36,14 @@ Convergence speed and computation cost? Global optimum vs local optimum? Evoluti
 Denoising. Which hypotheses on the noise?
 Usually, gaussian distribution of noise. Independent samples, identically distributed.
 
+Estimation by maximization of likelihood. How to find the value of $x$, usually log transform to avoid exponential in the gaussian model.
+_Solution_: $\hat{x} = y$ → instable solution.
+
+One way of improving: the signal has a temporal nature, regularity over time. We are looking to use this information.
+
+Derivatives over time. /Innovations/: difference between $x_t$ et $x_{t-1}$. Innovations are defined as gaussian distributions as well.
+
+Minimization of (innovations + previous modelization of noise).
+Balance between fitting to data and the time derivative tending to zero.
+
+Resolution by Fourier transform: low-pass filter.
