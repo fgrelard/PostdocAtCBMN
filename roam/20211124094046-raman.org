@@ -2,7 +2,6 @@
 :ID:       14c33ce6-5427-4900-ae3d-0e00e286385d
 :END:
 #+title: Raman
-#+filetags: :raman:
 
 Inelastic scattering of photons: incoming light undergoes a change in color and is scattered with a *different energy*.
 
