@@ -12,8 +12,7 @@ b:PROPERTIES:
 *** [[id:1dfd714a-3b4c-4ef6-868b-aeeee112d68d][Imagerie et Spectroscopie Vibrationnelle]]
 <2021-11-24 Wed>
 ** Group meetings
-*** [[id:f3954d31-5bca-4475-824a-343e02906519][Meeting November]]
-<2021-11-19 Fri>
+*** [[id:f3954d31-5bca-4475-824a-343e02906519][Group meeting November]]
 *** [[id:c1602a52-a313-4c62-9e24-808884e445e4][Meeting December]]
 ** Scientific days
 *** [[id:e844da5b-57a7-4888-b9ab-6bbeccc8dc9c][Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN)]]
