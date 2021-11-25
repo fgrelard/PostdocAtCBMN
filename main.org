@@ -9,11 +9,18 @@ b:PROPERTIES:
 
 * Meetings
 ** Conferences
-*** [[id:1dfd714a-3b4c-4ef6-868b-aeeee112d68d][Imagerie et Spectroscopie Vibrationnelle]]
+*** Imagerie et Spectroscopie Vibrationnelle
 <2021-11-24 Wed>
+**** [[id:8a3b9523-cdfd-457f-b512-ee0fdc78f812][Introduction Imagerie Raman]]
+
+
+**** [[id:bede1d3a-06b6-4e95-945b-d1796eb6670e][Apport de la résolution numérique de problèmes inverses à l'imagerie et la spectroscopie vibrationnelle]]
+
+**** [[id:77154906-1c69-4990-84e8-0669e1e9f9ad][La microscopie moyen infrarouge: Théorie et applications dans le domaine pharmaceutique et biomédical.]]
+
 ** Group meetings
 *** [[id:f3954d31-5bca-4475-824a-343e02906519][Group meeting November]]
-*** [[id:c1602a52-a313-4c62-9e24-808884e445e4][Meeting December]]
+*** [[id:2d7a5dea-9a2e-4bca-8543-e002c0f5f6ea][Group meeting December]]
 ** Scientific days
 *** [[id:e844da5b-57a7-4888-b9ab-6bbeccc8dc9c][Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN)]]
 <2021-11-05 Fri>
