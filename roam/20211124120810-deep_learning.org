@@ -65,6 +65,16 @@ _Examples_: cross entropy, mean squared error, dice loss...
 The loss function is typically optimized by gradient descent.
 ** Dataset
 Choose an appropriate training dataset representative of the future predictions.
+
+_Problems_:
+- underfitting: no global optimum found
+- overfitting: good fitting on the training dataset but with poor generalizability on testing dataset.
+
+_Several regularization methods_:
+- L2 regularization: add second order penalty term to the loss function to help render the distribution of  weights more uniform
+- dropout: randomly turns off neurons to avoid them to carry too much importance during the training
+- batch normalization: normalize each layer's input.
+
 * _Pros_:
 - Architecture suited to extract *complex information* → performs better than other classification algorithms
 - *Data-driven nature* suited to process expanding big-data
