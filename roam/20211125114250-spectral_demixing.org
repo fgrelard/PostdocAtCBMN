@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       5230ce33-2fa9-4849-ae76-09432695a6ae
+:END:
+#+title: Spectral demixing
+
