@@ -4,6 +4,8 @@
 :END:
 #+title: Learning Representations By Back-Propagating Errors
 
-Multiple layers: layers of neurons.
+MLP: Multiple Layer [[id:77579a0f-b93f-40ad-8653-c0f80439496e][Perceptron]]
 
-Activation function: sigmoid, in order to activate each neuron non linearly.
+Multiple layers: layers of neurons. Each layer is fully connected to the next.
+
+Activation function: sigmoid, in order to map the node's output non linearly in the range $[0, 1]$.
