@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       c3c6f310-1f3d-43e9-b1a4-74578a2ebf37
-:ROAM_REFS: cite:Rosenblatt1958
-:END:
-#+title: The perceptron: a probabilistic model for information storage and organization in the brain.
-
