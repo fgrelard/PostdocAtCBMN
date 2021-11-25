@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       a3381a85-388a-455c-8070-2738d2a3321a
+:ROAM_REFS: cite:Rumelhart1986-learn
+:END:
+#+title: Learning Representations By Back-Propagating Errors
+
+Multiple layers: layers of neurons.
+
+Activation function: sigmoid, in order to activate each neuron non linearly.
