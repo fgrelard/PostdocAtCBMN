@@ -6,7 +6,7 @@
 
 * Introduction
 ** Context
-Deep learning is a subset of methods in [[id:6df664eb-63ad-4ef6-af19-bfa17690d3a9][machine learning]], and more precisely [[id:8e1c9185-edd2-4acc-b8a3-08891175b304][supervised machine learning]], which aim at modelizing with a high data abstraction level, with an architecture involving several non-linear transformations.
+Deep learning is a subset of methods in [[id:6df664eb-63ad-4ef6-af19-bfa17690d3a9][machine learning]] (supervised or unsupervised). It aims at modelizing with a high data abstraction level, with an architecture involving several non-linear transformations.
 The architecture involves neural networks, such as [[id:9e280ff8-4335-46b9-b8d8-a5877a0d404b][Convolutional Neural Networks]]. 
 
 Models learn from annotated data. It usually requires a lot of input data.
@@ -54,11 +54,17 @@ Optional.
 
 ** Loss function
 Evaluates the performance of the deep learning model.
-Usually denoted $L(w)$, i.e. an implicit function on the model weights.
+Usually denoted $\mathcal{L}(w)$, i.e. an implicit function on the model weights.
 
 During training, the prediction is compared with the expected value to compute the loss.
+
+The loss is backward propagated through the network to compute the gradients of the loss function and update the model weights.
+
+_Examples_: cross entropy, mean squared error, dice loss...
 ** Optimization algorithm
+The loss function is typically optimized by gradient descent.
 ** Dataset
+Choose an appropriate training dataset representative of the future predictions.
 * _Pros_:
 - Architecture suited to extract *complex information* → performs better than other classification algorithms
 - *Data-driven nature* suited to process expanding big-data
