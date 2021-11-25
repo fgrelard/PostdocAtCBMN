@@ -10,4 +10,4 @@ _Limitations of chemometrics methods:_
 - Not suited for high throughput
 - Need for expertise
 
-  
+Focus on [[id:9e280ff8-4335-46b9-b8d8-a5877a0d404b][CNN]].
