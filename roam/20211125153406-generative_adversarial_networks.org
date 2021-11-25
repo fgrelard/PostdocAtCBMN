@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       09b69d44-80b9-4d77-a53f-eee08b0b2095
+:ROAM_REFS: cite:Goodfellow2014-generative
+:ROAM_ALIASES: GAN
+:END:
+#+title: Generative Adversarial Networks
+
+GAN
