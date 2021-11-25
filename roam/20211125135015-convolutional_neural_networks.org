@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       9e280ff8-4335-46b9-b8d8-a5877a0d404b
+:ROAM_ALIASES: CNN
 :END:
 #+title: Convolutional Neural Networks
  [[id:b08807ac-d9e3-4987-8b42-be4ec686d94c][Deep learning]]
