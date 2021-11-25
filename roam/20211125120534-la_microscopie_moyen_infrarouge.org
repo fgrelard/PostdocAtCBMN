@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       77154906-1c69-4990-84e8-0669e1e9f9ad
+:END:
+#+title: La microscopie moyen infrarouge
+Eric ZIEMONS, Université de Liège
+
+[[id:b0a93f17-8579-40eb-9ad9-2f6e5daad578][Infrared spectroscopy]]
+
+[[id:e82378e6-4dc9-4304-bcb1-129867ca0299][Infrared microscopy]]
