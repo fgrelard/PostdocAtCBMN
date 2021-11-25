@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       5edbbd59-853e-42ed-b750-87e292878ff8
+:END:
+#+title: Denoising
+
