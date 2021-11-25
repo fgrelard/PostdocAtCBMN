@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       fea5d4e8-a531-4e6f-b853-9f4dc18caf03
-:ROAM_REFS: cite:Krizhevsky2017-imagen
+:ROAM_REFS: [[cite:&Krizhevsky2017-imagen]]
 :END:
 #+title: Imagenet Classification With Deep Convolutional Neural Networks
 
