@@ -4,6 +4,18 @@
 #+title: Deep learning
 [[id:6df664eb-63ad-4ef6-af19-bfa17690d3a9][Machine learning]]
 
-Subset of machine learning.
+* Introduction
+Subset of [[id:6df664eb-63ad-4ef6-af19-bfa17690d3a9][machine learning]].
 Neural networks.
 
+** History
+
+#+ATTR_ORG: :width 500
+#+CAPTION: Evolution of Deep Learning (from [[cite:&He2021]])
+[[file:/home/fgrelard/org/fig/captures/yanked_2021-11-25T14_03_58.png]]
+
+
+* _Pros_:
+- Architecture suited to extract *complex information* → performs better than other classification algorithms
+- *Data-driven nature* suited to process expanding big-data
+- Reduce the impact of human errors
