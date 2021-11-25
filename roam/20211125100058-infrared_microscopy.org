@@ -4,6 +4,23 @@
 #+title: Infrared microscopy
 [[id:b0a93f17-8579-40eb-9ad9-2f6e5daad578][Infrared spectroscopy]]
 
+Imaging with infrared spectroscopy.
+
 Infrared measurements on different points of the sample. The stage is moving to get a spectre at different pixel positions.
 
-We get an image from this.
+The measurement is done on a region of interest on the sample.
+
+_Analysis_:
+- Univariate analysis
+- [[id:74e38001-568b-42ec-a8f2-bb8a4f39013a][Multivariate analysis]]: chemometrics
+
+_Processing_:
+1. Preprocessing: [[id:086dbae6-8f19-47b8-9543-782e16adcd00][inverse problems]], baseline subtraction, smoothing
+2. Exploration: [[id:71035313-ca28-4397-8084-15dc5840e0c7][PCA]]
+3. Resolution/regression: PLS-DA
+4. Segmentation: kNN, PLS-DA
+
+We get image and spectral signatures that are easier to interpret.
+   
+   
+
