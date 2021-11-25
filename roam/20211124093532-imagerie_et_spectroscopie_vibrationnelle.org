@@ -70,7 +70,10 @@ _Inversion_:
 *** Identify objects (shape recognition)
 *** Determine the spatial distribution of objects (pixel classification)
 *** Detect the presence of unusual objects (target detection, anomalies and changes) for temporal variations
-*** Intrapixel information: spectral information, source separation.
+*** Intrapixel information: spectral information, source separation, spectral demixing.
+Notion of "pure pixels" with only one constituent.
+PCA → convex hull. Vertices represent pixels with pure constituents.
+The convex hull can be computed by VCA or NFINDR.
 
 * La microscopie moyen infrarouge: Théorie et applications dans le domaine pharmaceutique et biomédical. 
 Eric ZIEMONS, Université de Liège
