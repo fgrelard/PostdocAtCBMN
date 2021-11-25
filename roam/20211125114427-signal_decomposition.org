@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       556d45d2-123e-4605-ae95-0e8e111224c3
+:END:
+#+title: Signal decomposition
+
