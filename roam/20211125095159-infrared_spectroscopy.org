@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       b0a93f17-8579-40eb-9ad9-2f6e5daad578
+:END:
+#+title: Infrared spectroscopy
+_Different types of vibrations:_
+- Elongation vibrations: atomes change positions along their axes. This change can be symmetric or asymmetric.
+- Déformation vibrations: angle variation between two atom bindings.
+Vibration number: $3n-6$ and $3n-5$ for a linear molecule.
+
+Qualitative analysis:
+#+ATTR_ORG: :width 500
+#+CAPTION: Different molecular vibrations for an infrared spectrum
+[[file:/home/fgrelard/org/fig/captures/yanked_2021-11-25T09_45_06.png]]
+
+Quantitative analysis: calibration curve based on the absorbance of a reference species.
+
+_Spectral range_: 4000 à 400 cm-1.
