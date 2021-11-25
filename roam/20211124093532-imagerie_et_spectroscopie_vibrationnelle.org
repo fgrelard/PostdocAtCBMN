@@ -64,7 +64,13 @@ Subsampling, or decimation, convolution.
 
 _Inversion_:
  $J(X) = || Y - MHX||_F^2 + \beta R(DX)$. où $M$ is the decimation operator.
-
+*** Carbon nanotube analysis
+** Hyperspectral image
+*** Dimension reduction: PCA
+*** Identify objects (shape recognition)
+*** Determine the spatial distribution of objects (pixel classification)
+*** Detect the presence of unusual objects (target detection, anomalies and changes) for temporal variations
+*** Intrapixel information: spectral information, source separation.
 
 * La microscopie moyen infrarouge: Théorie et applications dans le domaine pharmaceutique et biomédical. 
 Eric ZIEMONS, Université de Liège
