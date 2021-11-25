@@ -22,9 +22,7 @@ _Architecture evolution over time_:
 [[file:/home/fgrelard/org/fig/captures/yanked_2021-11-25T14_06_19.png]]
 
 1) Perceptron [[cite:&Rosenblatt1958]]: inputs $(x_1, \dots, x_n)$ are multiplied by weights $(w_1, \dots, w_n)$ and summed together to generate the output with a step function.
-   
-
-
+  
 
 * _Pros_:
 - Architecture suited to extract *complex information* → performs better than other classification algorithms
