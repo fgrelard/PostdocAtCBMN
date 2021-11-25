@@ -49,7 +49,21 @@ Multiple sources, mixed where each has its own noise.
 Mixing matrices.
 
 _Methods_: [[id:71035313-ca28-4397-8084-15dc5840e0c7][PCA, ICA, NMF]].
+** One image
+*** Deconvolution
+Spreading due to [[id:6d4bc759-16e3-46f6-9629-efb4702cd47b][Point Spread Function]].
+
+_Inversion_: minimisation  de $J(X) = || Y - HX||_F^2 + \beta R(DX)$.
+#+ATTR_ORG: :width 500
+[[file:/home/fgrelard/org/fig/captures/yanked_2021-11-25T11_07_50.png]]
+*** Super-resolution
+_Goal_: to improve [[id:55127251-aa8c-4efc-8462-ad9786f3f59b][spatial resolution]].
+
+
 * La microscopie moyen infrarouge: Théorie et applications dans le domaine pharmaceutique et biomédical. 
 Eric ZIEMONS, Université de Liège
 
-Spectroscopie [[id:a58e0df7-684f-407d-a479-9149af0c79eb][infrarouge]]
+[[id:b0a93f17-8579-40eb-9ad9-2f6e5daad578][Infrared spectroscopy]]
+
+[[id:e82378e6-4dc9-4304-bcb1-129867ca0299][Infrared microscopy]]
+
