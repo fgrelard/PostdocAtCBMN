@@ -28,6 +28,7 @@ _Architecture evolution over time_:
 3) [[cite:&Lecun1989-backp]]: First CNN model.
 4) [[cite:&Krizhevsky2017-imagen]]: AlexNet, GPU usage, ReLU for activation function.
 5) [[cite:&Hu2018-squeez]]: SENet, integrates channel attention layer.
+6) [[cite:&Ronneberger2015-u-net]]: UNet: joint learning of localization and classification
    
    
    
