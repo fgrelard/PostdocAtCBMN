@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0521eb7a-8cdd-4644-9eb3-adf09d75d1fd
+:ROAM_REFS: cite:Passarelli_2014
+:END:
+#+title: Development of an organic lateral resolution test device for imaging mass spectrometry
+#+filetags: :literature:★☆:
