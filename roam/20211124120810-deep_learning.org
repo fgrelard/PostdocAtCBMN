@@ -5,14 +5,24 @@
 [[id:6df664eb-63ad-4ef6-af19-bfa17690d3a9][Machine learning]]
 
 * Introduction
-Subset of [[id:6df664eb-63ad-4ef6-af19-bfa17690d3a9][machine learning]].
+Deep learning is a subset of [[id:6df664eb-63ad-4ef6-af19-bfa17690d3a9][machine learning]], and more precisely [[id:8e1c9185-edd2-4acc-b8a3-08891175b304][supervised machine learning]].
 Neural networks.
+
+Models learn from annotated data. It 
 
 ** History
 
 #+ATTR_ORG: :width 500
 #+CAPTION: Evolution of Deep Learning (from [[cite:&He2021]])
 [[file:/home/fgrelard/org/fig/captures/yanked_2021-11-25T14_03_58.png]]
+
+_Architecture evolution over time_:
+#+ATTR_ORG: :width 500
+#+CAPTION: Evolution of the architecture
+[[file:/home/fgrelard/org/fig/captures/yanked_2021-11-25T14_06_19.png]]
+
+1) Perceptron (1958): inputs $(x_1, \dots, x_n)$ are multiplied by weights $(w_1, \dots, w_n)$ and summed together to generate the output with a step function.
+
 
 
 * _Pros_:
