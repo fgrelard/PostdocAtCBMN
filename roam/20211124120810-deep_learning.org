@@ -6,7 +6,7 @@
 
 * Introduction
 ** Context
-Deep learning is a subset of methods in [[id:6df664eb-63ad-4ef6-af19-bfa17690d3a9][machine learning]] (supervised or unsupervised). It aims at modelizing with a high data abstraction level, with an architecture involving several non-linear transformations.
+Deep learning is a subset of methods in [[id:6df664eb-63ad-4ef6-af19-bfa17690d3a9][machine learning]] ([[id:8e1c9185-edd2-4acc-b8a3-08891175b304][supervised]] or [[id:403bc940-984d-4afd-b568-dd0d795ff9b3][unsupervised]]). It aims at modelizing with a high data abstraction level, with an architecture involving several non-linear transformations.
 The architecture involves neural networks, such as [[id:9e280ff8-4335-46b9-b8d8-a5877a0d404b][Convolutional Neural Networks]]. 
 
 Models learn from annotated data. It usually requires a lot of input data.
