@@ -49,4 +49,17 @@ Multiple sources, mixed where each has its own noise.
 Mixing matrices.
 
 _Methods_: [[id:71035313-ca28-4397-8084-15dc5840e0c7][PCA, ICA, NMF]].
+* sqfsdf
+** Spectroscopie infrarouge
+Vibrations d'élongation: variation de la position des atomes le long de leur axes. Elles peuvent être symétriques ou asymétriques
+Vibrations de déformations: variation de l'angle formé entre deux liaisons successives
+
+Nombre de vibrations: $3n-6$ et $3n-5$ pour une molécule linéaire.
+
+Analyse qualitative des spectres infrarouges:
+#+ATTR_ORG: :width 500
+#+CAPTION: Chaque image correspond aux vibrations moléculaires.
+[[file:/home/fgrelard/org/fig/captures/yanked_2021-11-25T09_45_06.png]]
+
+
 
