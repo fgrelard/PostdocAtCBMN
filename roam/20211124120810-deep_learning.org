@@ -35,14 +35,28 @@ Four components:
 ** Deep learning model
 Receives an input and outputs an answer.
 
+#+ATTR_ORG: :width 500
+#+CAPTION: Main components in a Deep Learning model (from [[cite:&He2021]])
+[[file:/home/fgrelard/org/fig/captures/yanked_2021-11-25T15_41_26.png]]
+
+
 In a CNN model, there are several layers:
 *** Convolution
-Extracts the feature maps from the inputs.
-***  Activation
+Extracts the feature maps from the inputs. The feature maps consists in convolution kernels with various weights. Those weights are updated during the training stage.
+*** Activation
 Defines the status of the neuron: activated or non activated.
 _Various functions_: sigmoid, ReLU, ELU (exponential linear unit), tanh.
-***  Pooling
+*** Pooling
+Subsampling strategy.
+_Various strategies_: max pooling, average pooling.
+*** Fully connected layers
+Optional.
+
 ** Loss function
+Evaluates the performance of the deep learning model.
+Usually denoted $L(w)$, i.e. an implicit function on the model weights.
+
+During training, the prediction is compared with the expected value to compute the loss.
 ** Optimization algorithm
 ** Dataset
 * _Pros_:
