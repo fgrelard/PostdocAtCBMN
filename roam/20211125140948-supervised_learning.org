@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       8e1c9185-edd2-4acc-b8a3-08891175b304
+:END:
+#+title: Supervised learning
+[[id:6df664eb-63ad-4ef6-af19-bfa17690d3a9][Machine learning]]
