@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       54acee21-cc56-4fed-b936-d40e6f1a0bcc
+:ROAM_REFS: cite:Ronneberger2015-u-net
+:ROAM_ALIASES: UNet
+:END:
+#+title: U-net: convolutional networks for biomedical image segmentation
+
+*Fully Convolutional* network.
+
+Architecture modified so the training requires less images.
+
+Pooling replaced by upsampling operators.
+
+U-shaped architecture:
+1. Contracting layers
+2. Expanding layers
