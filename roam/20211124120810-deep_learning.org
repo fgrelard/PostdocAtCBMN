@@ -58,7 +58,7 @@ Usually denoted $\mathcal{L}(w)$, i.e. an implicit function on the model weights
 
 During training, the prediction is compared with the expected value to compute the loss.
 
-The loss, or error, is backward propagated through the network by computing the gradients of the loss function to update the model weights.
+The loss, or error, is backward propagated through the network. This achieves by computing the gradients of the loss function. Finally, gradient descent is applied to update the model weights.
 
 _Examples_: cross entropy, mean squared error, dice loss...
 ** Optimization algorithm
