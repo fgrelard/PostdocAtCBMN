@@ -6,3 +6,9 @@
 #+title: Generative Adversarial Networks
 
 GAN
+
+Network composed of two adversarial networks. Both of them can be MLP or CNN:
+- Generator
+- Discriminator to distinguish between real and fake results.
+
+The purpose is to have a discriminator unable to distinguish between real and fake results, by training.
