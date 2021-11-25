@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e82378e6-4dc9-4304-bcb1-129867ca0299
+:END:
+#+title: Infrared microscopy
+[[id:b0a93f17-8579-40eb-9ad9-2f6e5daad578][Infrared spectroscopy]]
+
+Infrared measurements on different points of the sample. The stage is moving to get a spectre at different pixel positions.
+
+We get an image from this.
