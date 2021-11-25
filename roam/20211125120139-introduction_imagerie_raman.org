@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       8a3b9523-cdfd-457f-b512-ee0fdc78f812
+:END:
+#+title: Introduction Imagerie Raman
+#+filetags: :meeting:imagerie_spectro_vibrationnelle:conference:
+
+Raman [[id:14c33ce6-5427-4900-ae3d-0e00e286385d][spectroscopy]] and [[id:9a753b0f-254a-42cf-8ef4-9b139a0bd14f][imaging]].
