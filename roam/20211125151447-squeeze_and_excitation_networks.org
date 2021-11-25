@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       ff794fe5-1158-46c0-a36d-beb70fef94cb
+:ROAM_REFS: cite:Hu2018-squeez
+:END:
+#+title: Squeeze-and-excitation networks
+
