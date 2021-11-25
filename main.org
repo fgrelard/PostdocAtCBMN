@@ -1,4 +1,4 @@
-b:PROPERTIES:
+:PROPERTIES:
 :ID:       c1a28ecf-7ee3-4946-a9c0-6c483b7fece5
 :END:
 #+bibliography: bib/main.bib
@@ -12,7 +12,6 @@ b:PROPERTIES:
 *** Imagerie et Spectroscopie Vibrationnelle
 <2021-11-24 Wed>
 **** [[id:8a3b9523-cdfd-457f-b512-ee0fdc78f812][Introduction Imagerie Raman]]
-
 
 **** [[id:bede1d3a-06b6-4e95-945b-d1796eb6670e][Apport de la résolution numérique de problèmes inverses à l'imagerie et la spectroscopie vibrationnelle]]
 
