@@ -2,4 +2,8 @@
 :ID:       b08807ac-d9e3-4987-8b42-be4ec686d94c
 :END:
 #+title: Deep learning
+[[id:6df664eb-63ad-4ef6-af19-bfa17690d3a9][Machine learning]]
+
+Subset of machine learning.
+Neural networks.
 
