@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       fea5d4e8-a531-4e6f-b853-9f4dc18caf03
+:ROAM_REFS: cite:Krizhevsky2017-imagen
+:END:
+#+title: Imagenet Classification With Deep Convolutional Neural Networks
+
+_Introduced_:
+- Usage of the rectified linear unit (ReLU) as the activation function to mitigate the gradient vanishing effect.
+- Dropout: remove useless neurons, to reduce overfitting
+- Data augmentation: artificially augment the data by applying linear transformations, to reduce overfitting.
