@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       97aaee91-bd02-4cfa-b27a-cd7bda1d79e1
+:END:
+#+title: Deconvolution
+
+Spreading due to [[id:6d4bc759-16e3-46f6-9629-efb4702cd47b][Point Spread Function]].
+We want to remove restore the original image.
+
+#+ATTR_ORG: :width 500
+[[file:/home/fgrelard/org/fig/captures/yanked_2021-11-25T11_07_50.png]]
