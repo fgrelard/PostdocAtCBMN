@@ -59,6 +59,12 @@ _Inversion_: minimisation  de $J(X) = || Y - HX||_F^2 + \beta R(DX)$.
 *** Super-resolution
 _Goal_: to improve [[id:55127251-aa8c-4efc-8462-ad9786f3f59b][spatial resolution]].
 
+_Methods_:
+Subsampling, or decimation, convolution.
+
+_Inversion_:
+ $J(X) = || Y - MHX||_F^2 + \beta R(DX)$. où $M$ is the decimation operator.
+
 
 * La microscopie moyen infrarouge: Théorie et applications dans le domaine pharmaceutique et biomédical. 
 Eric ZIEMONS, Université de Liège
