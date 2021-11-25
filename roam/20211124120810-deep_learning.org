@@ -23,7 +23,8 @@ _Architecture evolution over time_:
 
 1) Perceptron [[cite:&Rosenblatt1958]]: inputs $(x_1, \dots, x_n)$ are multiplied by weights $(w_1, \dots, w_n)$ and summed together to generate the output with a step function.
 2) [[cite:&Rumelhart1986-learn]]: back-propagation and training of multi layer perceptron (MLP). 
-3) [[cite:&Lecun1989-backp]]: CNN model.
+3) [[cite:&Lecun1989-backp]]: First CNN model.
+4) [[cite:&Krizhevsky2017-imagen]]: AlexNet, GPU usage, ReLU for activation function.
    
    
    
