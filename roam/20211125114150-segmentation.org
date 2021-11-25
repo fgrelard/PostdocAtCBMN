@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       42cc18b8-69d4-439d-b5f5-f0b61862b79a
+:END:
+#+title: Segmentation
+
+Extract objects of interest in an image.
