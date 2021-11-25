@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       815cb301-3d98-4fd5-b663-48e33ee75332
+:END:
+#+title: Denoise
