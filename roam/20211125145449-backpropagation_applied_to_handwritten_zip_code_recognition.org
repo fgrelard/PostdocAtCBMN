@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       5d6e57f0-4afd-40ae-a81f-27e725b17173
+:ROAM_REFS: cite:Lecun1989-backp
+:END:
+#+title: Backpropagation Applied To Handwritten Zip Code Recognition
+
+Model:
+- Backpropagation
+- Weight sharing
+- Max pooling
+
+Convolutional and fully connected layers.
+
+_Problems_: gradient vanishing, overfitting.
