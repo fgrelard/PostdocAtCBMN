@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       653e275c-f673-42e6-8d8a-aef77460f932
+:ROAM_REFS: cite:Nimesh2013-curren
+:END:
+#+title: Current status and future perspectives of mass spectrometry imaging
+#+filetags: :review:literature:
+[[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]]
+
+_Purpose_: advances in methodology.
+
+* Advances in [[id:d2b9b7d4-9937-476e-9b37-7db31de14d23][sample preparation]]
