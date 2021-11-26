@@ -3,7 +3,7 @@
 :ROAM_REFS: cite:Addie2015-curren
 :END:
 #+title: Current state and future challenges of mass spectrometry imaging for clinical research
-#+filetags: :review:literature:
+#+filetags: :review:literature:★★☆☆☆:
 
 [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] 
 
@@ -19,4 +19,7 @@ Find molecules that are a signature for a disease.
 Creating annotation of tissues from molecular signatures in MSI.
 Mostly proteins. Other molecules begin to gain traction.
 ** Real time tissue classification
-DESI to classify brain tumor patients
+DESI to classify brain tumor patients (lipids)
+REIMS is also a good tool for tumor classification.
+** Drug Imaging
+
