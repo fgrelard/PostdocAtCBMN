@@ -3,6 +3,8 @@
 :ROAM_REFS: cite:Alexandrov2012-maldi
 :END:
 #+title: Maldi imaging mass spectrometry: statistical data analysis and current computational challenges
+#+filetags: :review:literature:
+[[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]]
 
 _Scope_: state of the art, as well as current computation challenges
 
@@ -13,3 +15,11 @@ Most acquisition, little statistical analysis.
 #+begin_quote
 /In-house developments are necessary/
 #+end_quote
+** Data analysis
+*** Large [[id:3da2a1bd-8e61-4872-af07-76853ee992e7][dimensionality]]
+Large datasets → need run time and memory efficient methods.
+*** [[id:b46c43ee-9b6d-4845-bd81-ceb93f9e1bad][Signal modelling]]
+It would help to have models that describe the signal. It would be easier to process the resulting signal.
+Allows for the usage of model-based [[id:e7bbf20a-26b0-4b82-9bfa-98fe5d47d547][classification]].
+** [[id:b962b560-9c85-4e67-849b-4f848e6376ec][Quality assurance]]
+Estimate the quality of an image or a spectrum.
