@@ -3,6 +3,7 @@
 :ROAM_REFS: cite:Lecun1989-backp
 :END:
 #+title: Backpropagation Applied To Handwritten Zip Code Recognition
+#+filetags: :literature:
 
 Model:
 - Backpropagation
