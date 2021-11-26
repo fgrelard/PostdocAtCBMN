@@ -4,3 +4,6 @@
 #+title: MSI
 
 Mass Spectrometry Imaging.
+#+ATTR_ORG: :width 500
+#+CAPTION: Different types of Mass Spectrometry Imaging (from [[cite:&Addie2015-curren]])
+[[file:/home/fgrelard/org/fig/captures/yanked_2021-11-26T11_10_18.png]]
