@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       50bc746a-483e-4beb-97fb-b96833b5cb46
+:END:
+#+title: Partial registration
+[[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]]
