@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b46c43ee-9b6d-4845-bd81-ceb93f9e1bad
+:END:
+#+title: Signal modelling
+
