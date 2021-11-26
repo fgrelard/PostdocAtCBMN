@@ -4,6 +4,7 @@
 :ROAM_ALIASES: UNet
 :END:
 #+title: U-net: convolutional networks for biomedical image segmentation
+#+filetags: :literature:
 
 *Fully Convolutional* network.
 
