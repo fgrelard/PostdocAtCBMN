@@ -19,12 +19,12 @@ New challenges in MALDI-MSI.
 ** Data processing
 *** [[id:818a1c5c-937a-40ab-b18d-92e1f49f8a75][Large size]]
 [[id:82fbac32-a53c-4862-bfe2-4ca99fbd93fe][Memory-mapped files]] seem like a promising approach.
-*** [[id:50bc746a-483e-4beb-97fb-b96833b5cb46][Partial registration]]
+*** [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]]
+[[id:50bc746a-483e-4beb-97fb-b96833b5cb46][Partial registration]], 3D MSI.
 *** [[id:5636efa1-0947-4ff7-a6de-e1e25631ec11][Normalization]]
 TIC insufficient → NIC
 *** [[id:6240f4e3-d85f-404f-823c-187cec75fce2][Statistical methods with uncertainty]]
-*** [[id:e1ff9683-0500-4c27-8d89-80377b282049][Kendrick Plot]]
-
+*** [[id:e1ff9683-0500-4c27-8d89-80377b282049][Kendrick Plot]][[cite:&Buchberger2017-mass]]
 *** Other optional talking-points
 **** [[id:b962b560-9c85-4e67-849b-4f848e6376ec][Quality assurance]]
 **** [[id:b46c43ee-9b6d-4845-bd81-ceb93f9e1bad][Signal modelling]]
