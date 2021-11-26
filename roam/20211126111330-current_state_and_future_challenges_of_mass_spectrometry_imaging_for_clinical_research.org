@@ -25,4 +25,10 @@ Mostly proteins. Other molecules begin to gain traction.
 DESI to classify brain tumor patients (lipids)
 REIMS is also a good tool for tumor classification.
 ** Drug Imaging
+Drug compound concentration
 
+* Emerging trends
+** Imaging Mass Cytometry
+** Standardization
+Need for reproducibility.
+Standardization of protocols.
