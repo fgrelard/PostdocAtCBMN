@@ -4,6 +4,7 @@
 :ROAM_ALIASES: GAN
 :END:
 #+title: Generative Adversarial Networks
+#+filetags: :literature:
 
 GAN
 
