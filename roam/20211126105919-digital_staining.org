@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       f39b6f59-c6fa-413e-98e3-eefffc05ed21
+:END:
+#+title: Digital staining
+
+Obtain an image resembling the histologically stained images from microscopy images. This avoids the acquisition of histological images which takes a long time.
