@@ -5,11 +5,16 @@
 [[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]]
 
 New challenges in MALDI-MSI.
-* Current state
-[[cite:&Qin2018-recen]] : recent advances for Plant Sciences.
-[[cite:&Alexandrov2012-maldi]] for data processing
-[[cite:&Nimesh2013-curren]] Status of MALDI-MSI. In 2013 → what changed since?
 
+* Current state
+- [[cite:&Qin2018-recen]]
+  Recent advances for Plant Sciences: more focused on the application and samples.
+- [[cite:&Alexandrov2012-maldi]]
+  For data processing
+- [[cite:&Nimesh2013-curren]]
+  Status of MALDI-MSI. In 2013 → what changed since?
+
+  Overall, current advances are dependent on the field of study, or the application. An overview of current advances pertaining to the technique is necessary.
 * Future challenges
 ** Data processing
 *** [[id:818a1c5c-937a-40ab-b18d-92e1f49f8a75][Large size]]
