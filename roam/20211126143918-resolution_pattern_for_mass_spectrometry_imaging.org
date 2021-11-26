@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       4bf3cff4-9290-43f4-8dab-0f23d1982231
+:ROAM_REFS: cite:Fagerer_2015
+:END:
+#+title: Resolution pattern for mass spectrometry imaging
