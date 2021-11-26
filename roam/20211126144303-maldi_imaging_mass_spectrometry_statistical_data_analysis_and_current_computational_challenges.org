@@ -3,12 +3,20 @@
 :ROAM_REFS: cite:Alexandrov2012-maldi
 :END:
 #+title: Maldi imaging mass spectrometry: statistical data analysis and current computational challenges
-#+filetags: :review:literature:
+#+filetags: :review:literature:★★★★★:
 [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]]
 
 _Scope_: state of the art, as well as current computation challenges
 
-* 
+* State-of-the-art
+[[id:5636efa1-0947-4ff7-a6de-e1e25631ec11][Spectra normalization]]
+[[id:5edbbd59-853e-42ed-b750-87e292878ff8][Denoising]]
+[[id:dc38a500-50fc-4c31-9c18-6445c85288d8][Baseline subtraction]]
+[[id:74e38001-568b-42ec-a8f2-bb8a4f39013a][Statistical analysis]]
+[[id:42cc18b8-69d4-439d-b5f5-f0b61862b79a][Segmentation]]
+[[id:2fc4674b-a17d-4ff8-bd0b-81cf59175e74][Clustering]]
+[[id:e7bbf20a-26b0-4b82-9bfa-98fe5d47d547][Classification]]
+[[id:bef83f14-66c4-4c3f-8adb-5d0084987f17][Visualization]]
 * Current computational challenges
 ** Available softwares
 Most acquisition, little statistical analysis.
