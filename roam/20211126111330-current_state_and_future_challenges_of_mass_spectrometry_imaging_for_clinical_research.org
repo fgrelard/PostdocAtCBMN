@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       f8690c81-6155-4800-9af5-a17ecee9fda5
+:ROAM_REFS: cite:Addie2015-curren
+:END:
+#+title: Current state and future challenges of mass spectrometry imaging for clinical research
+#+filetags: :review:literature:
+
+[[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] 
+
+Overview of the acquisition techniques.
+
+Present applications:
+- Compare molecular and cellular distributions
