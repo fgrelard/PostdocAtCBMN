@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       e1ff9683-0500-4c27-8d89-80377b282049
+:END:
+#+title: Kendrick Plot
+
