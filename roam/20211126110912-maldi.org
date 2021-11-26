@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       a259fda8-0eba-468f-b331-a33a4030074a
+:END:
+#+title: MALDI
+[[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]]
+
+Matrix Assisted Laser Desorption Ionization
