@@ -17,7 +17,7 @@ _Raman_: projet de stage → import/export fichiers, outils de pré-traitement R
 L'objectif est d'ajouter du Machine Learning, plus précisément du Deep Learning. Détection d'Aluminium dans des cellules. Les données initiales ne donnent aucune certitude quant à la présence d'Aluminium (signature spectrale incertaine). Besoin de s'en assurer: recours à une autre modalité d'imagerie.
 
 Autre blocage pour implémenter Deep Learning: quelle quantité de données? (SL insiste sur ce point)
-Pistes: utilisation de transfer learning (à partir d'autres réseaux tels que [[cite:&Horgan2021]].
+Pistes: utilisation de transfer learning (à partir d'autres réseaux tels que [[cite:&Horgan2021]]).
 
 _Ramanomique_: corrélation entre résultats de transcriptomique et spectre Raman.
 ⚠ Il ne s'agit plus d'imagerie.
