@@ -7,7 +7,11 @@
 
 [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] 
 
-Overview of the acquisition techniques.
+Overview of the acquisition techniques: MALDI, DESI, SIMS, LAESI...
 
-Present applications:
+* Present applications
 - Compare molecular and cellular distributions
+- Extraction of mass spectral profiles from known histological entities
+- Annotation of tissues based on molecular profiles
+
+  
