@@ -23,5 +23,15 @@ Using reporter ions is another possibility.
 
 "Relatively underdeveloped" at of the date of publication.
 * Data analysis
+The authors refer to the classical workflow, which involves:
+[[id:5edbbd59-853e-42ed-b750-87e292878ff8][Denoising]], [[id:dc38a500-50fc-4c31-9c18-6445c85288d8][Baseline subtraction]]
+[[id:d9dc2a84-ebc3-451a-b4e3-3390db9599aa][Peak picking]], [[id:5636efa1-0947-4ff7-a6de-e1e25631ec11][Spectra normalization]]
+[[id:42cc18b8-69d4-439d-b5f5-f0b61862b79a][Segmentation]]
+[[id:74e38001-568b-42ec-a8f2-bb8a4f39013a][Statistical analysis]]
+[[id:2fc4674b-a17d-4ff8-bd0b-81cf59175e74][Clustering]]
+[[id:650eb6c6-1bb3-4b3a-9669-e509e1379b39][Regression]]
+[[id:6df664eb-63ad-4ef6-af19-bfa17690d3a9][Machine learning]]
+
+They mention softwares and repositories.
 * Multimodal imaging
 * Biological applications
