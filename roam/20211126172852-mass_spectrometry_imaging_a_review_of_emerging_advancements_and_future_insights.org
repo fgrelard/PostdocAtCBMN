@@ -4,3 +4,18 @@
 :END:
 #+title: Mass spectrometry imaging: a review of emerging advancements and future insights
 #+filetags: :review:literature:
+[[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]]
+
+_Purpose_: overview of the state of MSI (2017).
+
+#+begin_quote
+/Overall, the aim of this review is to provide an informative resource for those in the MSI community who are interested in improving MSI data quality and analysis or using MSI for novel applications. Particularly, we discuss advances from the last 2 years in sample preparation, instrumentation, quantitation, statistics, and multimodal imaging that have allowed MSI to emerge as a powerful technique in various biomedical applications including clinical settings./
+#+end_quote
+
+* [[id:d2b9b7d4-9937-476e-9b37-7db31de14d23][Sample preparation]]
+Techniques that allowed for better reproducibility.
+* Developments in Instrumentalization
+* [[id:0f70126b-dac2-4373-8562-9a70355d4147][Quantitation]]
+* Data analysis
+* Multimodal imaging
+* Biological applications
