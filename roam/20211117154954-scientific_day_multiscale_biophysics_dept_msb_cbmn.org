@@ -2,6 +2,7 @@
 :ID:       e844da5b-57a7-4888-b9ab-6bbeccc8dc9c
 :END:
 #+title: Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN)
+#+filetags: :meeting:
 
 [[id:7cc690ab-ad4c-44ab-8e13-98f454fa8b2b][Scientific day]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]]
 
