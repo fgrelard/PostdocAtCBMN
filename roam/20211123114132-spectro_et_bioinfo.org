@@ -2,6 +2,7 @@
 :ID:       2ae9872a-5879-4c00-921c-aeffefd7e01d
 :END:
 #+title: Spectro et bioinfo
+#+filetags: :meeting:
 [[id:b08807ac-d9e3-4987-8b42-be4ec686d94c][Deep learning]] [[id:14805012-e9b8-491a-9b56-c4830c1d9685][image fusion]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:9a753b0f-254a-42cf-8ef4-9b139a0bd14f][Raman imaging]]
 
 _Participants_: Sophie Lecomte, Jean-Christophe Taveau, Nicolas Desbenoit, Raluca Uricaru, Patricia Thébault, Joris Sansen, Olivier Lambert.
