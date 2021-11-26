@@ -10,6 +10,9 @@
 Overview of the acquisition techniques: MALDI, DESI, SIMS, LAESI...
 
 * Present applications
+#+ATTR_ORG: :width 500
+[[file:/home/fgrelard/org/fig/captures/yanked_2021-11-26T11_55_35.png]]
+
 Two main approaches:
 - Histology driven: use histology images to delineate ROI and study spectral profiles in that region
 - Data driven: from the MSI data, get spectral signatures which can be used to annotate the sample
