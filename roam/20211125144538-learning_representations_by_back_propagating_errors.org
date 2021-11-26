@@ -3,6 +3,7 @@
 :ROAM_REFS: cite:Rumelhart1986-learn
 :END:
 #+title: Learning Representations By Back-Propagating Errors
+#+filetags: :literature:
 
 MLP: Multiple Layer [[id:77579a0f-b93f-40ad-8653-c0f80439496e][Perceptron]]
 
