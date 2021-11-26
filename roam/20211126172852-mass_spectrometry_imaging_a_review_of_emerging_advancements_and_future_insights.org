@@ -31,7 +31,9 @@ The authors refer to the classical workflow, which involves:
 [[id:2fc4674b-a17d-4ff8-bd0b-81cf59175e74][Clustering]]
 [[id:650eb6c6-1bb3-4b3a-9669-e509e1379b39][Regression]]
 [[id:6df664eb-63ad-4ef6-af19-bfa17690d3a9][Machine learning]]
-
-They mention softwares and repositories.
+[[id:71035313-ca28-4397-8084-15dc5840e0c7][Dimension reduction]]
+They mention softwares and repositories. Open source softwares and availability.
 * Multimodal imaging
+Mostly other modalities with which to combine.
+Big data problem → need for [[id:71035313-ca28-4397-8084-15dc5840e0c7][data reduction]].
 * Biological applications
