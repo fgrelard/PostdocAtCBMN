@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       186914fe-efbf-432c-b40a-8151a530eee3
+:ROAM_REFS: cite:Alexandrov2012-maldi
+:END:
+#+title: Maldi imaging mass spectrometry: statistical data analysis and current computational challenges
+
+_Scope_: state of the art, as well as current computation challenges
+
+* 
+* Current computational challenges
+** Available softwares
+Most acquisition, little statistical analysis.
+#+begin_quote
+/In-house developments are necessary/
+#+end_quote
