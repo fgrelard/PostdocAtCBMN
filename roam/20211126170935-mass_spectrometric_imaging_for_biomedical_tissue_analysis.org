@@ -10,4 +10,5 @@
 [[id:eba59f04-6102-4b3c-9965-96b06f4d992b][Ion Mobility]]
 * Applications
 * Future perspectives
-
+- [[id:b962b560-9c85-4e67-849b-4f848e6376ec][Quality assurance]], reproductibility: automation and robotic sample preparation.
+- Data generation: need for computational methods
