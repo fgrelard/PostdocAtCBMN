@@ -3,4 +3,5 @@
 :ROAM_REFS: cite:Hu2018-squeez
 :END:
 #+title: Squeeze-and-excitation networks
+#+filetags: :literature:
 
