@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       818a1c5c-937a-40ab-b18d-92e1f49f8a75
+:END:
+#+title: Dataset size
+
+Shape of the dataset.
