@@ -4,6 +4,7 @@
 :END:
 #+title: Mass spectrometric imaging for biomedical tissue analysis
 #+filetags: :review:literature:
+[[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]]
 
 * Overview of techniques
 * Methodological advances
