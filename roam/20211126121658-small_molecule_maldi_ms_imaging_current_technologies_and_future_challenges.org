@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       80154c08-b037-401b-b0b0-78a96486f9f3
+:ROAM_REFS: cite:Trim2016-small
+:END:
+#+title: Small molecule maldi ms imaging: current technologies and future challenges
+#+filetags: :review:literature:
+[[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]]
