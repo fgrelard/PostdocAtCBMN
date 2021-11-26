@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b962b560-9c85-4e67-849b-4f848e6376ec
+:END:
+#+title: Quality assurance
+
