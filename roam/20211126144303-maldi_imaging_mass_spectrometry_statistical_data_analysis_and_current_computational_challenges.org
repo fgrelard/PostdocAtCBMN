@@ -16,7 +16,7 @@ Most acquisition, little statistical analysis.
 /In-house developments are necessary/
 #+end_quote
 ** Data analysis
-*** Large [[id:3da2a1bd-8e61-4872-af07-76853ee992e7][dimensionality]]
+*** [[id:818a1c5c-937a-40ab-b18d-92e1f49f8a75][Large size]]
 Large datasets → need run time and memory efficient methods.
 *** [[id:b46c43ee-9b6d-4845-bd81-ceb93f9e1bad][Signal modelling]]
 It would help to have models that describe the signal. It would be easier to process the resulting signal.
