@@ -23,3 +23,6 @@ It would help to have models that describe the signal. It would be easier to pro
 Allows for the usage of model-based [[id:e7bbf20a-26b0-4b82-9bfa-98fe5d47d547][classification]].
 ** [[id:b962b560-9c85-4e67-849b-4f848e6376ec][Quality assurance]]
 Estimate the quality of an image or a spectrum.
+** [[id:6240f4e3-d85f-404f-823c-187cec75fce2][Classification noise]]
+Methods with high generalizability should be considered.
+** [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]]
