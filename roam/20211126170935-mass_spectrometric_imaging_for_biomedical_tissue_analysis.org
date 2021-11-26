@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       a78287f8-3fb1-4161-825d-7b7e45de67f1
+:ROAM_REFS: cite:Chughtai2010-mass
+:END:
+#+title: Mass spectrometric imaging for biomedical tissue analysis
+
+* Overview of techniques
+* Methodological advances
+[[id:d2b9b7d4-9937-476e-9b37-7db31de14d23][Sample preparation]], [[id:f39b6f59-c6fa-413e-98e3-eefffc05ed21][Digital staining]], Softwares
+[[id:eba59f04-6102-4b3c-9965-96b06f4d992b][Ion Mobility]]
+* Applications
+* Future perspectives
+
