@@ -18,6 +18,9 @@ Techniques that allowed for better reproducibility.
 * [[id:0f70126b-dac2-4373-8562-9a70355d4147][Quantitation]]
 Difference between relative (semi quantitative) and absolute quantitation (internal standard).
 
+Normalization is expected.
+Using reporter ions is another possibility.
+
 "Relatively underdeveloped" at of the date of publication.
 * Data analysis
 * Multimodal imaging
