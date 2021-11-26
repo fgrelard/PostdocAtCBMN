@@ -5,3 +5,15 @@
 #+title: Small molecule maldi ms imaging: current technologies and future challenges
 #+filetags: :review:literature:
 [[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]]
+
+Introduction about instrumentation and instrument differences.
+
+Other considerations such as [[id:55127251-aa8c-4efc-8462-ad9786f3f59b][spatial resolution]] and [[id:d2b9b7d4-9937-476e-9b37-7db31de14d23][sample preparation]], as well as [[id:0f70126b-dac2-4373-8562-9a70355d4147][quantification]].
+
+Nils Bohr said:
+#+begin_quote
+/Prediction is very difficult, especially if it’s about the future/
+#+end_quote
+
+Conclusions and futures perspectives:
+- 
