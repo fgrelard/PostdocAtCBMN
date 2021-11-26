@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       fe075e43-d63b-4df6-9227-b92b7b480d6c
+:ROAM_REFS: cite:Buchberger2017-mass
+:END:
+#+title: Mass spectrometry imaging: a review of emerging advancements and future insights
+#+filetags: :review:literature:
