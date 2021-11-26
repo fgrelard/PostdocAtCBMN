@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       12003665-4fe4-4ff6-bea2-e6f6c15710bb
+:END:
+#+title: Scale-space transformations
+#+filetags: :todo:
+
