@@ -3,10 +3,10 @@
 :ROAM_REFS: cite:Nimesh2013-curren
 :END:
 #+title: Current status and future perspectives of mass spectrometry imaging
-#+filetags: :review:literature:
+#+filetags: :review:literature:★★★☆☆:
 [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]]
 
-_Purpose_: advances in methodology.
+_Scope_: recent advances in methodology.
 
 * Advances in [[id:d2b9b7d4-9937-476e-9b37-7db31de14d23][sample preparation]]
 #+ATTR_ORG: :width 500
@@ -31,3 +31,6 @@ _Several analysis steps:_
    [[id:74e38001-568b-42ec-a8f2-bb8a4f39013a][Statistical analysis]], [[id:42cc18b8-69d4-439d-b5f5-f0b61862b79a][segmentation]], [[id:e7bbf20a-26b0-4b82-9bfa-98fe5d47d547][classification]].
 4. Post-processing
    [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]]
+
+* Application fields
+Reproductive biology, toxicology, drug metabolism, pathologies, systemic distribution of molecules.
