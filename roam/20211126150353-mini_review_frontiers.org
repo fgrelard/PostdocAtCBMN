@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       2c490269-aa92-47de-9619-614c147b5717
+:END:
+#+title: Mini-review Frontiers
+[[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]]
+
+New challenges in MALDI-MSI.
+
+* Data processing
+** Large size
+[[id:82fbac32-a53c-4862-bfe2-4ca99fbd93fe][Memory-mapped files]] seem like a promising approach.
+** [[id:50bc746a-483e-4beb-97fb-b96833b5cb46][Partial registration]]
