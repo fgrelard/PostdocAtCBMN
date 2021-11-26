@@ -12,8 +12,18 @@ _Limitations of chemometrics methods:_
 
 Focus on [[id:9e280ff8-4335-46b9-b8d8-a5877a0d404b][CNN]].
 
-Deep Learning applied to Raman imaging:
+Deep Learning applied to Raman imaging.
+
 * Data processing
 To improve quality of the image.
+** [[id:5edbbd59-853e-42ed-b750-87e292878ff8][Denoising]]
+** [[id:fc8784c1-b2bb-42ce-aebe-3811bd882dca][Super-resolution]]
 
-[[id:5edbbd59-853e-42ed-b750-87e292878ff8][Denoising]] [[id:fc8784c1-b2bb-42ce-aebe-3811bd882dca][Super-resolution]]
+* Feature detection
+** [[id:42cc18b8-69d4-439d-b5f5-f0b61862b79a][Segmentation]]
+** [[id:f39b6f59-c6fa-413e-98e3-eefffc05ed21][Digital staining]]
+
+
+* Modelling
+** [[id:650eb6c6-1bb3-4b3a-9669-e509e1379b39][Regression]]
+** [[id:e7bbf20a-26b0-4b82-9bfa-98fe5d47d547][Classification]]
