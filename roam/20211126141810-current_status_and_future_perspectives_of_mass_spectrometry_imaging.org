@@ -9,3 +9,15 @@
 _Purpose_: advances in methodology.
 
 * Advances in [[id:d2b9b7d4-9937-476e-9b37-7db31de14d23][sample preparation]]
+#+ATTR_ORG: :width 500
+[[file:/home/fgrelard/org/fig/captures/yanked_2021-11-26T14_23_26.png]]
+
+1. Freezing
+2. Sections
+3. Tissue loading on plates
+4. Fixation, rinsing
+5. On tissue digestion for proteomics analysis
+6. Matrix application
+
+* Data analysis
+
