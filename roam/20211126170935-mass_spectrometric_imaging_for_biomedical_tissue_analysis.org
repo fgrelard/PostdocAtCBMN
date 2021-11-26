@@ -3,6 +3,7 @@
 :ROAM_REFS: cite:Chughtai2010-mass
 :END:
 #+title: Mass spectrometric imaging for biomedical tissue analysis
+#+filetags: :review:literature:
 
 * Overview of techniques
 * Methodological advances
