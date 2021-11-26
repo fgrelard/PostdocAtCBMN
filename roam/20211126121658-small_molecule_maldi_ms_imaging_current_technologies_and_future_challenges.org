@@ -16,4 +16,7 @@ Nils Bohr said:
 #+end_quote
 
 Conclusions and futures perspectives:
-- 
+- Lipid imaging
+- Endogeneous small molecules
+- Xenobiotics
+  
