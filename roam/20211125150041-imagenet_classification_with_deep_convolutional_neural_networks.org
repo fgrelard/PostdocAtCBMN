@@ -3,6 +3,7 @@
 :ROAM_REFS: [[cite:&Krizhevsky2017-imagen]]
 :END:
 #+title: Imagenet Classification With Deep Convolutional Neural Networks
+#+filetags: :literature:
 
 _Introduced_:
 - Usage of the rectified linear unit (ReLU) as the activation function to mitigate the gradient vanishing effect.
