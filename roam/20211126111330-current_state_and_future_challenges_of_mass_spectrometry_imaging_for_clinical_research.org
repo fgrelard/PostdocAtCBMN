@@ -10,8 +10,13 @@
 Overview of the acquisition techniques: MALDI, DESI, SIMS, LAESI...
 
 * Present applications
-- Compare molecular and cellular distributions
-- Extraction of mass spectral profiles from known histological entities
-- Annotation of tissues based on molecular profiles
-
-  
+Two main approaches:
+- Histology driven: use histology images to delineate ROI and study spectral profiles in that region
+- Data driven: from the MSI data, get spectral signatures which can be used to annotate the sample
+** Biomarker discovery or identification
+Find molecules that are a signature for a disease.
+** Molecular histology
+Creating annotation of tissues from molecular signatures in MSI.
+Mostly proteins. Other molecules begin to gain traction.
+** Real time tissue classification
+DESI to classify brain tumor patients
