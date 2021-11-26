@@ -20,4 +20,14 @@ _Purpose_: advances in methodology.
 6. Matrix application
 
 * Data analysis
+Description of the MALDI image as a datacube or hyperspectral image.
 
+_Several analysis steps:_
+1. Preprocessing
+   [[id:dc38a500-50fc-4c31-9c18-6445c85288d8][Baseline removal]], [[id:5636efa1-0947-4ff7-a6de-e1e25631ec11][spectra normalization]], [[id:5edbbd59-853e-42ed-b750-87e292878ff8][noise reduction]].
+2. Data reduction
+   [[id:d9dc2a84-ebc3-451a-b4e3-3390db9599aa][Peak picking]], [[id:12003665-4fe4-4ff6-bea2-e6f6c15710bb][scale-space transformations]].
+3. Data presentation
+   [[id:74e38001-568b-42ec-a8f2-bb8a4f39013a][Statistical analysis]], [[id:42cc18b8-69d4-439d-b5f5-f0b61862b79a][segmentation]], [[id:e7bbf20a-26b0-4b82-9bfa-98fe5d47d547][classification]].
+4. Post-processing
+   [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]]
