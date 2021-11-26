@@ -14,8 +14,10 @@ New challenges in MALDI-MSI.
 ** [[id:5636efa1-0947-4ff7-a6de-e1e25631ec11][Normalization]]
 TIC insufficient → NIC
 ** [[id:6240f4e3-d85f-404f-823c-187cec75fce2][Statistical methods with uncertainty]]
+** [[id:e1ff9683-0500-4c27-8d89-80377b282049][Kendrick Plot]]
 
 ** Other talking-points
 *** [[id:b962b560-9c85-4e67-849b-4f848e6376ec][Quality assurance]]
 *** [[id:b46c43ee-9b6d-4845-bd81-ceb93f9e1bad][Signal modelling]]
 *** [[id:bef83f14-66c4-4c3f-8adb-5d0084987f17][Visualization]]
+*** [[id:b08807ac-d9e3-4987-8b42-be4ec686d94c][Deep learning]]
