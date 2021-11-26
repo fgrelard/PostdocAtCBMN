@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6240f4e3-d85f-404f-823c-187cec75fce2
+:END:
+#+title: Statistics with uncertainty
+
+Methods which account for uncertainty in the data. The uncertainty can be given from the signal, or estimated from it.
