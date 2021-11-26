@@ -15,3 +15,8 @@ Qualitative analysis:
 Quantitative analysis: calibration curve based on the absorbance of a reference species.
 
 _Spectral range_: 4000 à 400 cm-1.
+
+_Samples_:
+- Liquid
+- Gas
+- Solid

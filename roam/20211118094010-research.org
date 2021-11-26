@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       3a7c5686-ee67-409a-91df-05e146cecabc
-:END:
-#+title: research
-

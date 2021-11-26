@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       25ea27df-6151-474f-814c-d1b3657282fa
-:END:
-#+title: deep learning
-

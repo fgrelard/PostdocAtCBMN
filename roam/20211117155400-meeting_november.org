@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       b5d18fba-3604-41b1-8633-ea71161ed97b
-:END:
-#+title: Meeting November
-
-[[id:69538b05-8325-40ca-8365-f7fcd904ac41][Group meeting]]

@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       0ecfb458-8112-4937-b43f-22ad8cb0e15d
-:END:
-#+title: Meeting December
-
-[[id:69538b05-8325-40ca-8365-f7fcd904ac41][Group meeting]]

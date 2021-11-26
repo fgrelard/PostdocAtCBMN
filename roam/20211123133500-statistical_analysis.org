@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       99bf9725-eb93-4ec3-9c91-54eb9ad90686
-:END:
-#+title: statistical analysis
-

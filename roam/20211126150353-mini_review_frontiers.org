@@ -14,9 +14,10 @@ New challenges in MALDI-MSI.
 - [[cite:&Nimesh2013-curren]]
   Status of MALDI-MSI. In 2013 → what changed since?
 
-  Overall, current advances are dependent on the field of study, or the application. An overview of current advances of all related methods pertaining to the technique is necessary.
+  Overall, current advances are dependent on the field of study, or the application. An overview of current advances of all related methods pertaining to the technique is necessary, similar to [[cite:&Buchberger2017-mass]].
 * Future challenges
 ** Data processing
+*** [[id:55127251-aa8c-4efc-8462-ad9786f3f59b][Spatial resolution]] determination
 *** [[id:818a1c5c-937a-40ab-b18d-92e1f49f8a75][Large size]]
 [[id:82fbac32-a53c-4862-bfe2-4ca99fbd93fe][Memory-mapped files]] seem like a promising approach.
 *** [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]]

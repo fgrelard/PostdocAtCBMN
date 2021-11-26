@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       9e91390d-acd7-401b-994f-14a45419420c
-:END:
-#+title: image fusion
-

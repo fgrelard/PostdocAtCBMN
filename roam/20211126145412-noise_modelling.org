@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       91f4d1c8-fdc4-492b-ab0e-5f45ef2d9fc0
-:END:
-#+title: Noise modelling
-

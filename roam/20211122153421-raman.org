@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       e3a7eea4-ecbd-4426-a339-aa5f9bf2f565
-:END:
-#+title: raman
-
