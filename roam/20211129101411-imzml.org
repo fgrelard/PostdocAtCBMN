@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       5693a566-f4ec-42c1-8932-bdcbd35d68e5
+:END:
+#+title: imzML
+
+Imaging file format for [[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]].
