@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       22fc7fc0-dfb9-4cb0-aaeb-5666aa2271be
+:END:
+#+title: Efficient input/output
+
+[[id:82fbac32-a53c-4862-bfe2-4ca99fbd93fe][Memory-mapped files]]
+
+Centroided images with high spatial resolution still do not fit in memory.
+We need to read the images *on the fly*, in a time-efficient manner.
+
+Need to implement [[id:82fbac32-a53c-4862-bfe2-4ca99fbd93fe][Memory-mapped files]] for [[id:5693a566-f4ec-42c1-8932-bdcbd35d68e5][imzML]].
