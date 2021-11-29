@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       164fbdf1-c444-4acc-a5d1-0f777f5048c3
+:END:
+#+title: MSiReader
+#+filetags: :software:
+
+ [[https://msireader.wordpress.ncsu.edu/][Website]]
+   Creates a ~mat~ file (extension ~.ibh~) containing various information which allow for fast reloading of the data.
+   
+     #+begin_src octave
+       load("myfile.ibh")
+       size(scandat.ibdptrs)
+       scandat.ibdptrs
+       #+end_src
+
+   _Attributes:_
+   - ~ibdptrs~ (~width x height, 2~): 2D array of indices , begin indices in the ~ibd~ file for each peak, for /m/z/ and intensity values
+   - ~index~ (~width x height~): array of ones
+   - ~loc~ (~width, height~): 2D array of indices, pixel positions to flattened indices
+   - ~numpts~ (~width x height~): number of spectra points for each pixel position
+   - ~posX~, ~posY~ (~width x height~): x and y positions associated to spectra
+   - ~tic~ (~width x height~): Total Ion Count for each spectrum
+   - Various metadata information (number of columns, rows, scans, polarity, spacing, formats...)
+
