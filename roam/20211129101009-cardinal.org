@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       b8604cdb-14bc-4f26-a171-5118227f42da
+:END:
+#+title: Cardinal
+#+filetags: :software:
+[[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]]
+
+[[https://cardinalmsi.org/][Website]]
+
+   I/O strategy:
+   - ~readMSIData~
+     Read images on the fly without loading the whole image in memory. Access for one ion image is done through the ~imzML~ file. [[http://bioconductor.org/packages/release/bioc/manuals/Cardinal/man/Cardinal.pdf][Manual]].
+    _Pros:_
+     - Reduced memory usage
+    _Cons:_
+     - Slow access
+     - Not possible to process an entire dataset
+   - ~matter~
+     As of *version 2.0*, Cardinal uses the ~matter~ R package.
+     [[https://bioconductor.org/packages/release/bioc/vignettes/matter/inst/doc/matter.pdf][Official documentation]].
+
+     #+begin_quote
+     /matter is designed for rapid prototyping of new statistical methods when working with larger-than-memory datasets on disk./
+     #+end_quote
+
+     This package implements [[id:82fbac32-a53c-4862-bfe2-4ca99fbd93fe][memory-mapped files]] for  ~imzML~ images.
+
+     _Pros:_
+     - Reduced memory usage
+     _Cons_:
+     - Disk usage
+     - Long first-time image loading?
