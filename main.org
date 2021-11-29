@@ -36,7 +36,7 @@
 :PROPERTIES:
 :ID:       24e88f70-b939-46b0-9c3a-1e59f9f7d26a
 :END:
-Large centroided MS images cannot fit in memory. The majority of the values in the MS images are zeroes. One approach is to use /sparse matrices/, where only nonzero datapoints are stored.
+
 
 _Approach:_
 **** DONE Sparse matrices with same operations as numpy's ndarray
@@ -85,56 +85,7 @@ Choose the appropriate type for the MS image depending on whether the data is ce
             return MSImageImplementation(image, ...)
 #+end_src
 
-*** Efficient input/output
-Centroided images with high spatial resolution still do not fit in memory.
-We need to read the images *on the fly*, in a time-efficient manner.
-
-_State-of-the-art:_
-1. ~Cardinal~
-   [[https://cardinalmsi.org/][Website]]
-
-   I/O strategy:
-   - ~readMSIData~
-     Read images on the fly without loading the whole image in memory. Access for one ion image is done through the ~imzML~ file. [[http://bioconductor.org/packages/release/bioc/manuals/Cardinal/man/Cardinal.pdf][Manual]].
-    _Pros:_
-     - Reduced memory usage
-    _Cons:_
-     - Slow access
-     - Not possible to process an entire dataset
-   - ~matter~
-     As of *version 2.0*, Cardinal uses the ~matter~ R package.
-     [[https://bioconductor.org/packages/release/bioc/vignettes/matter/inst/doc/matter.pdf][Official documentation]].
-
-     #+begin_quote
-     /matter is designed for rapid prototyping of new statistical methods when working with larger-than-memory datasets on disk./
-     #+end_quote
-
-     This package implements memory-mapped files for  ~imzML~ images.
-
-     _Pros:_
-     - Reduced memory usage
-     _Cons_:
-     - Disk usage
-     - Long first-time image loading?
-2. ~MSiReader~
-   [[https://msireader.wordpress.ncsu.edu/][Website]]
-   Creates a ~mat~ file (extension ~.ibh~) containing various information which allow for fast reloading of the data.
-   
-     #+begin_src octave
-       load("myfile.ibh")
-       size(scandat.ibdptrs)
-       scandat.ibdptrs
-       #+end_src
-
-   _Attributes:_
-   - ~ibdptrs~ (~width x height, 2~): 2D array of indices , begin indices in the ~ibd~ file for each peak, for /m/z/ and intensity values
-   - ~index~ (~width x height~): array of ones
-   - ~loc~ (~width, height~): 2D array of indices, pixel positions to flattened indices
-   - ~numpts~ (~width x height~): number of spectra points for each pixel position
-   - ~posX~, ~posY~ (~width x height~): x and y positions associated to spectra
-   - ~tic~ (~width x height~): Total Ion Count for each spectrum
-   - Various metadata information (number of columns, rows, scans, polarity, spacing, formats...)
-
+*** [[id:22fc7fc0-dfb9-4cb0-aaeb-5666aa2271be][Efficient input/output]]
 _TODOs:_
 **** DONE Find efficient methods in the literature or in alternative softwares
 CLOSED: [2021-11-10 Wed 15:49]
