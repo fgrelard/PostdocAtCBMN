@@ -9,7 +9,7 @@
 
    I/O strategy:
    - ~readMSIData~
-     Read images on the fly without loading the whole image in memory. Access for one ion image is done through the ~imzML~ file. [[http://bioconductor.org/packages/release/bioc/manuals/Cardinal/man/Cardinal.pdf][Manual]].
+     Read images on the fly without loading the whole image in memory. Access for one ion image is done through the [[id:5693a566-f4ec-42c1-8932-bdcbd35d68e5][imzML]] file. [[http://bioconductor.org/packages/release/bioc/manuals/Cardinal/man/Cardinal.pdf][Manual]].
     _Pros:_
      - Reduced memory usage
     _Cons:_
