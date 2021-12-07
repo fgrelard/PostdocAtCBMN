@@ -15,7 +15,7 @@ _Approach_: *impute-then-regress*.
 The missing data are predicted, and then regular [[id:74e38001-568b-42ec-a8f2-bb8a4f39013a][statistical analysis]] is performed.
 
 Optimization problem:
-$Y = f(X) + \epsilon$, $Y$ incomplete data is a function of complete data $X$ plus some noise.
+$Y = f(X) + \epsilon$, $Y$ incomplete data is a function of complete data $X$ plus some noise $\epsilon$.
 
 Minimization:
 #+ATTR_ORG: :width 500
