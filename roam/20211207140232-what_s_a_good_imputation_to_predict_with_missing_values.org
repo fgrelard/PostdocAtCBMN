@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       0e6d1660-fe2d-40a2-8f7c-4e8e24783f0e
+:END:
+#+title: What's a good imputation to predict with missing values?
+#+filetags: :meeting:conference:isis_missing:
+#+author:  Marine Le Morvan (Soda, INRIA)
+#+date: <2021-12-07 Tue>
+
+[[id:6240f4e3-d85f-404f-823c-187cec75fce2][Statistics with uncertainty]]
+
+
+
