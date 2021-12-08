@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       47653b47-4e34-4f73-8928-546def73469a
+:ROAM_REFS: cite:Wehrli2020-spatial
+:END:
+#+title: Spatial chemometrics and comprehensive chemical imaging based molecular histopathology delineates anatomical heterogeneity at single pixel resolution
+#+filetags: :literature:
+
+[[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:bee298b2-9c52-4613-a8c2-4dbca24c15fc][H&E]] 
+
