@@ -5,5 +5,22 @@
 #+title: Spatial chemometrics and comprehensive chemical imaging based molecular histopathology delineates anatomical heterogeneity at single pixel resolution
 #+filetags: :literature:
 
-[[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:bee298b2-9c52-4613-a8c2-4dbca24c15fc][H&E]] 
+_Goal_: [[id:14805012-e9b8-491a-9b56-c4830c1d9685][Fusion]] of [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] and [[id:bee298b2-9c52-4613-a8c2-4dbca24c15fc][H&E]] images.
 
+* Semi-automatic [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][registration]]
+
+Using PCA score images as reference images for each modality.
+1. Images aligned manually coarsely
+2. Automatic iconic image registration:
+   - Optimizer: 1+1 evolutionary.
+   - Metric: MSE of Mattes Mutual information.
+   - Transformation: ?
+
+* [[id:74e38001-568b-42ec-a8f2-bb8a4f39013a][Statistical analysis]]
+
+Monoblock method:
+- PCA
+  
+[[id:ac8d4e14-61f1-4b37-8829-186b6938f4ca][Multiblock]] methods:
+- O2PLS: two way orthogonal partial least squares
+- OnPLS: multiblock orthogonal projections to latent structures 
