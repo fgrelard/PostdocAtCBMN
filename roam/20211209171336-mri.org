@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       844533cc-a7a1-4178-88a8-47eaeb023bb8
+:END:
+#+title: MRI
+
