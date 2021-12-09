@@ -40,4 +40,7 @@ OnPLS used to find correlations between different MSI datasets:
 #+ATTR_ORG: :width 500
 [[file:/home/fgrelard/org/fig/captures/yanked_2021-12-09T15_50_10.png]]
 
-And then used with microscopy:
+And then used with microscopy, for [[id:fc8784c1-b2bb-42ce-aebe-3811bd882dca][super-resolution]] images.
+
+#+ATTR_ORG: :width 500
+[[file:/home/fgrelard/org/fig/captures/yanked_2021-12-09T16_02_43.png]]
