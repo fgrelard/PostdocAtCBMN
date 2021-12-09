@@ -17,7 +17,6 @@ New challenges in MALDI-MSI.
   Overall, current advances are dependent on the field of study, or the application. An overview of current advances of all related methods pertaining to the technique is necessary, similar to [[cite:&Buchberger2017-mass]].
 * Future challenges
 ** Data processing
-*** [[id:55127251-aa8c-4efc-8462-ad9786f3f59b][Spatial resolution]] determination
 *** [[id:818a1c5c-937a-40ab-b18d-92e1f49f8a75][Large size]]
 [[id:82fbac32-a53c-4862-bfe2-4ca99fbd93fe][Memory-mapped files]] seem like a promising approach.
 *** [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]]
@@ -26,8 +25,11 @@ New challenges in MALDI-MSI.
 TIC insufficient → NIC
 *** [[id:6240f4e3-d85f-404f-823c-187cec75fce2][Statistical methods with uncertainty]]
 *** [[id:e1ff9683-0500-4c27-8d89-80377b282049][Kendrick Plot]][[cite:&Buchberger2017-mass]]
+*** [[id:ac8d4e14-61f1-4b37-8829-186b6938f4ca][Multiblock]]
 *** Other optional talking-points
 **** [[id:b962b560-9c85-4e67-849b-4f848e6376ec][Quality assurance]]
 **** [[id:b46c43ee-9b6d-4845-bd81-ceb93f9e1bad][Signal modelling]]
 **** [[id:bef83f14-66c4-4c3f-8adb-5d0084987f17][Visualization]]
 **** [[id:b08807ac-d9e3-4987-8b42-be4ec686d94c][Deep learning]]
+**** [[id:55127251-aa8c-4efc-8462-ad9786f3f59b][Spatial resolution]] determination
+
