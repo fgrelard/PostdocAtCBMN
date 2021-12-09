@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       da9ad3e6-ef56-4ff1-aec2-517892a4526b
+:ROAM_REFS: cite:Trede2012-explor
+:END:
+#+title: Exploring three-dimensional matrix-assisted laser desorption/ionization imaging mass spectrometry data: three-dimensional spatial segmentation of mouse kidney
+#+filetags: :literature:
+
