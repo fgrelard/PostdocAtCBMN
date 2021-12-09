@@ -39,4 +39,4 @@ TIC insufficient → NIC
 **** Correlation tools: [[id:bff5b127-ba4d-4d96-b125-4a892f587375][ROC]]
 **** [[id:6240f4e3-d85f-404f-823c-187cec75fce2][Statistical methods with uncertainty]]
 ** Prospects
-*** [[id:50bc746a-483e-4beb-97fb-b96833b5cb46][Partial registration]], 3D MSI.
+*** [[id:50bc746a-483e-4beb-97fb-b96833b5cb46][Partial registration]], [[id:13b1dba3-aa5c-453d-be49-a7c06687bb26][3D MSI]].
