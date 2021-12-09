@@ -6,6 +6,7 @@
 #+filetags: :literature:
 
 _Goal_: [[id:14805012-e9b8-491a-9b56-c4830c1d9685][Fusion]] of [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] and [[id:bee298b2-9c52-4613-a8c2-4dbca24c15fc][H&E]] images.
+Several MSI modalities for peptides, negative and positive lipids.
 
 * Semi-automatic [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][registration]]
 
@@ -23,4 +24,20 @@ Monoblock method:
   
 [[id:ac8d4e14-61f1-4b37-8829-186b6938f4ca][Multiblock]] methods:
 - O2PLS: two way orthogonal partial least squares
-- OnPLS: multiblock orthogonal projections to latent structures 
+- OnPLS: multiblock orthogonal projections to latent structures
+
+OnPLS components describe variation in globally joint, locally joint, and unique parts for each data block as follows:
+\[
+X_i = X_{global} + X_{local} + X_{unique} + E
+\]
+
+High resolution predictions of images were obtained using OPLS model based on a decomposition of the microscopy image and a low resolution image from the MSI.
+
+Microscopy: RGB images were extended with RGB transformation (YIQ, YCbCr, ...) and PCA scores. The reduced matrix was down sampled by affine transformation to the MSI resolution.
+
+OnPLS used to find correlations between different MSI datasets:
+
+#+ATTR_ORG: :width 500
+[[file:/home/fgrelard/org/fig/captures/yanked_2021-12-09T15_50_10.png]]
+
+And then used with microscopy:
