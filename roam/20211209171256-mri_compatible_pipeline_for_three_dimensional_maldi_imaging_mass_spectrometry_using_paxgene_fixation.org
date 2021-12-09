@@ -3,9 +3,15 @@
 :ROAM_REFS: cite:Oetjen2013-mri
 :END:
 #+title: Mri-compatible pipeline for three-dimensional maldi imaging mass spectrometry using paxgene fixation
+#+filetags: :literature:
 
 [[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:844533cc-a7a1-4178-88a8-47eaeb023bb8][MRI]] [[id:bee298b2-9c52-4613-a8c2-4dbca24c15fc][H&E]]
 
 In [[id:13b1dba3-aa5c-453d-be49-a7c06687bb26][3D]].
 
+* [[id:42cc18b8-69d4-439d-b5f5-f0b61862b79a][Segmentation]]
+See [[cite:&Trede2012-explor]]
+* [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]]
+
+Rigid, between optical images and MRI.
 Elastic registration to account for local deformations.
