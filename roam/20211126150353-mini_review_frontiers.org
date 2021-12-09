@@ -33,9 +33,10 @@ TIC insufficient → NIC
 ** Multimodal imaging
 *** [[id:42cc18b8-69d4-439d-b5f5-f0b61862b79a][Segmentation]]
 *** [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]]
-[[id:50bc746a-483e-4beb-97fb-b96833b5cb46][Partial registration]], 3D MSI.
 *** [[id:ba127266-5e70-4a55-ba15-76f57cee2376][Standardization]]
 *** [[id:74e38001-568b-42ec-a8f2-bb8a4f39013a][Statistical analysis]]
 **** [[id:ac8d4e14-61f1-4b37-8829-186b6938f4ca][Multiblock]]
 **** Correlation tools: [[id:bff5b127-ba4d-4d96-b125-4a892f587375][ROC]]
 **** [[id:6240f4e3-d85f-404f-823c-187cec75fce2][Statistical methods with uncertainty]]
+** Prospects
+*** [[id:50bc746a-483e-4beb-97fb-b96833b5cb46][Partial registration]], 3D MSI.
