@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       ba127266-5e70-4a55-ba15-76f57cee2376
+:END:
+#+title: Standardization
+Standardization consists in normalizing the data so that it matches the dynamic range of another dataset.
+
+_Example_: centering and reducing the data before PCA.
