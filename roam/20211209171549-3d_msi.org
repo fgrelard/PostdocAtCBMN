@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       13b1dba3-aa5c-453d-be49-a7c06687bb26
+:END:
+#+title: 3D MSI
+ [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]]
