@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       faa92672-8292-4c17-b4a3-cd60792b534a
+:ROAM_REFS: cite:Oetjen2013-mri
+:END:
+#+title: Mri-compatible pipeline for three-dimensional maldi imaging mass spectrometry using paxgene fixation
+
+[[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:844533cc-a7a1-4178-88a8-47eaeb023bb8][MRI]] [[id:bee298b2-9c52-4613-a8c2-4dbca24c15fc][H&E]]
+
+In [[id:13b1dba3-aa5c-453d-be49-a7c06687bb26][3D]].
+
+Elastic registration to account for local deformations.
