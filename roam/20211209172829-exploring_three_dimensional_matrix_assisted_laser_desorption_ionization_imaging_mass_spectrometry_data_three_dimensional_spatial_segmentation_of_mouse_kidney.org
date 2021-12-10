@@ -5,3 +5,4 @@
 #+title: Exploring three-dimensional matrix-assisted laser desorption/ionization imaging mass spectrometry data: three-dimensional spatial segmentation of mouse kidney
 #+filetags: :literature:
 
+[[id:13b1dba3-aa5c-453d-be49-a7c06687bb26][3D MSI]] [[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]]
