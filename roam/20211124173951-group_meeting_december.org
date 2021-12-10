@@ -34,3 +34,11 @@ Young Proteomic Society, organization from the lab during middle of April.
 
 * Human resources
 Master student coming in January and February.
+
+* Vaclav's presentation
+/In a flash of light: X-ray free electron lasers meet native mass spectrometry./
+
+Free electron laser (FEL): high energy pulses. Electrons undergo magnetic fields, undulate and emit photons.
+_Application_: similar to synchrotron, femtosecond crystallography.
+
+
