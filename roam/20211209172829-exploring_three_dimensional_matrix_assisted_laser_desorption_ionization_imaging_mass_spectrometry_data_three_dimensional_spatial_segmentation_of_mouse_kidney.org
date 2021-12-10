@@ -14,4 +14,16 @@ Serial sections in MS are registered on microscopy images by rigid registration.
 
 * [[id:5edbbd59-853e-42ed-b750-87e292878ff8][Denoising]]
 MSI suffers from strong spectrum to spectrum variability.
+_Problem_: raster scan of the data. The intensity of a pixel corresponds to a laser position. Requires adapted methods.
 
+_Solution_: distance-based denoising: calculate for each spot its spatial nearest neighbors.
+_Approach_:
+1. Median value of intensities of its six spatial neighbors.
+2. Total variation (TV) minimizing method.
+   TV is defined as the sum of absolute differences of intensities between neighboring spots.
+
+* [[id:42cc18b8-69d4-439d-b5f5-f0b61862b79a][Segmentation]]
+
+Spatial segmentation by [[id:2fc4674b-a17d-4ff8-bd0b-81cf59175e74][clustering]].
+
+Algorithm called bisecting k-means.
