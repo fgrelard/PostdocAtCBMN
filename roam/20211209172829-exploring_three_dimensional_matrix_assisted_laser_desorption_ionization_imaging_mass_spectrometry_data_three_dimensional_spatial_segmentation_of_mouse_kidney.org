@@ -33,3 +33,8 @@ This produces a binary search tree.
 #+ATTR_ORG: :width 500
 [[file:/home/fgrelard/org/fig/captures/yanked_2021-12-10T16_30_30.png]]
 
+* Limitations of the proposed workflow
+
+- [[id:818a1c5c-937a-40ab-b18d-92e1f49f8a75][Large dataset size]], cannot use methods that load the entire 3D MS images into memory.
+  Here, processed in chunks.
+- Reliance on clustering. Some spectra might be attributed to several clusters → fuzzy clustering could be interesting.
