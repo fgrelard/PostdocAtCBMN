@@ -27,3 +27,9 @@ _Approach_:
 Spatial segmentation by [[id:2fc4674b-a17d-4ff8-bd0b-81cf59175e74][clustering]].
 
 Algorithm called bisecting k-means.
+First iteration: division of the dataset into two clusters. Then, each cluster is divided into two subclusters. The iterations continue until each cluster contains only one spectrum.
+This produces a binary search tree.
+
+#+ATTR_ORG: :width 500
+[[file:/home/fgrelard/org/fig/captures/yanked_2021-12-10T16_30_30.png]]
+
