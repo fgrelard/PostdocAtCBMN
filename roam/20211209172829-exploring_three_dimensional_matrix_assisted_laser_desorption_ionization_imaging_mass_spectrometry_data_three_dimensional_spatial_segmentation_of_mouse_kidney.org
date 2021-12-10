@@ -6,3 +6,12 @@
 #+filetags: :literature:
 
 [[id:13b1dba3-aa5c-453d-be49-a7c06687bb26][3D MSI]] [[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]]
+
+* [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]]
+Image segmentation, automatic prealignment using PCA, registration.
+
+Serial sections in MS are registered on microscopy images by rigid registration.
+
+* [[id:5edbbd59-853e-42ed-b750-87e292878ff8][Denoising]]
+MSI suffers from strong spectrum to spectrum variability.
+
