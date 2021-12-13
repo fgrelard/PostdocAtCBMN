@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       b5856f88-3991-47ae-a7b4-2ef58a5b3e9f
+:END:
+#+title: HDF5
+
+File with various chunks, where intermediate computation steps can be stored.
+The full file is not loaded in memory, and each independent dataset can be loaded at runtime.
