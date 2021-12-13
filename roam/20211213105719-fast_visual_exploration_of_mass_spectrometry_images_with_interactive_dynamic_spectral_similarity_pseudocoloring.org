@@ -11,9 +11,11 @@ Two new tools:
 - ProVIM: processing of MSI dataset
   - Spectra alignment and normalization
   - Hotspot and matrix removal
-    Done by dimension reduction, more specifically UMAP:
+    Done by dimension reduction, more specifically UMAP. Important to remove hotspots since they have a large distance in the UMAP embedding wrt to other points.
+    _Approach_:
     1. UMAP decomposition
-    2. Artifacts and matrix signals are detected either automatically or manually.
+    2. Artifacts and matrix signals are detected either automatically or manually. Automatic detection involves using clustering by k-nearest neighbors and radius neighbor search. If the number of connected components is greater than two, then the smaller component correspond to matrix pixels.
+    3. Subtract the mean spectrum of matrix pixels from other spectrum.
     
 - QUIMBI: interactive visualization tool
 
