@@ -38,5 +38,10 @@ Results:
 
 - New distribution patterns
   Complement the information given by [[id:bee298b2-9c52-4613-a8c2-4dbca24c15fc][H&E]] staining.
+  The similarities which are found are not detectable from  single m/z ratios: comparing spectra highlights new patterns.
+  #+ATTR_ORG: :width 500
+  #+CAPTION: (a) new patterns, (b) histology, (c) mean image of all m/z in (a) and (d-f) individual m/z where pattern is not visible.
+   [[file:/home/fgrelard/org/fig/captures/yanked_2021-12-13T12_43_20.png]]
+
 
 
