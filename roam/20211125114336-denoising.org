@@ -3,3 +3,4 @@
 :END:
 #+title: Denoising
 
+Remove or reduce the noise in the signal. 
