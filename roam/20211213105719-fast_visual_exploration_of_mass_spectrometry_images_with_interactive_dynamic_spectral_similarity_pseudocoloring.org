@@ -7,6 +7,8 @@
 
 [[id:bef83f14-66c4-4c3f-8adb-5d0084987f17][Visualization]] of [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] dataset encompassing spectral similarities or dissimilarities.
 
+Conversion from [[id:5693a566-f4ec-42c1-8932-bdcbd35d68e5][imzML]] to [[id:b5856f88-3991-47ae-a7b4-2ef58a5b3e9f][HDF5]].
+
 Two new tools:
 - ProVIM: processing of MSI dataset
   - Spectra alignment and normalization
