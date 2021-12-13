@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       487a0644-4a16-4488-a67c-a18925645080
+:ROAM_REFS: cite:Wuellems2021-fast
+:END:
+#+title: Fast visual exploration of mass spectrometry images with interactive dynamic spectral similarity pseudocoloring
+#+filetags: :literature:
+
+[[id:bef83f14-66c4-4c3f-8adb-5d0084987f17][Visualization]] of [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] dataset encompassing spectral similarities or dissimilarities.
+
+Two new tools: ProVIM and QUIMBI.
+
+
+
+
