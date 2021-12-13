@@ -7,7 +7,15 @@
 
 [[id:bef83f14-66c4-4c3f-8adb-5d0084987f17][Visualization]] of [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] dataset encompassing spectral similarities or dissimilarities.
 
-Two new tools: ProVIM and QUIMBI.
+Two new tools:
+- ProVIM: processing of MSI dataset
+  - Spectra alignment and normalization
+  - Hotspot and matrix removal
+    Done by dimension reduction, more specifically UMAP:
+    1. UMAP decomposition
+    2. Artifacts and matrix signals are detected either automatically or manually.
+    
+- QUIMBI: interactive visualization tool
 
 
 
