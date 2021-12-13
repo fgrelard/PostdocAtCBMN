@@ -6,7 +6,7 @@
 
 New challenges in MALDI-MSI.
 
-* Current state
+* Introduction
 - [[cite:&Qin2018-recen]]
   Recent advances for Plant Sciences: more focused on the application and samples.
 - [[cite:&Alexandrov2012-maldi]]
@@ -15,7 +15,7 @@ New challenges in MALDI-MSI.
   Status of MALDI-MSI. In 2013 → what changed since?
 
   Overall, current advances are dependent on the field of study, or the application. An overview of current advances of all related methods pertaining to the technique is necessary, similar to [[cite:&Buchberger2017-mass]].
-* Future challenges
+* Current challenges
 ** Data processing
 *** [[id:818a1c5c-937a-40ab-b18d-92e1f49f8a75][Large size]]
 [[id:82fbac32-a53c-4862-bfe2-4ca99fbd93fe][Memory-mapped files]] seem like a promising approach.
@@ -31,12 +31,24 @@ TIC insufficient → NIC
 **** [[id:b08807ac-d9e3-4987-8b42-be4ec686d94c][Deep learning]]
 **** [[id:55127251-aa8c-4efc-8462-ad9786f3f59b][Spatial resolution]] determination
 ** Multimodal imaging
+*** Different types of images
+1. One-channel image
+2. Multi-channel image
+3. Hyperspectral image
 *** [[id:42cc18b8-69d4-439d-b5f5-f0b61862b79a][Segmentation]]
+Different approaches:
+**** Classification
+**** Clustering
+**** Dimension reduction methods: PCA, t-SNE...
+**** Select an ion image manually
+**** DL?
 *** [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]]
+Different methods depending on the image type.
 *** [[id:ba127266-5e70-4a55-ba15-76f57cee2376][Standardization]]
 *** [[id:74e38001-568b-42ec-a8f2-bb8a4f39013a][Statistical analysis]]
 **** [[id:ac8d4e14-61f1-4b37-8829-186b6938f4ca][Multiblock]]
 **** Correlation tools: [[id:bff5b127-ba4d-4d96-b125-4a892f587375][ROC]]
 **** [[id:6240f4e3-d85f-404f-823c-187cec75fce2][Statistical methods with uncertainty]]
+**** Classical dimension reduction methods: PCA, NMF, ICA...
 ** Prospects
 *** [[id:50bc746a-483e-4beb-97fb-b96833b5cb46][Partial registration]], [[id:13b1dba3-aa5c-453d-be49-a7c06687bb26][3D MSI]].
