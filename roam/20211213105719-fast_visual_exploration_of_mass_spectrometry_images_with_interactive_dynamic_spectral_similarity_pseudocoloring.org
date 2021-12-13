@@ -22,13 +22,21 @@ Two new tools:
     Combination of local maxima and threshold based values.
     The number of available peaks increase by 1.2 to 2.2 times if the matrix is subtracted before.
 - QUIMBI: interactive visualization tool
-Different visualization modes: similarity, browsing, and grouping.
-1. Similarity
-   Select a reference pixel, then other pixels are compared to the reference using the inverse angular distancec between both spectra (=inverse of the cosine distance?)
-2. Browsing
-   Select a /m/z/ ratio in the mass spectrum
-3. Grouping
-   Select *several* /m/z/ ratio in the mass spectrum, the mean intensities are displayed.
+  Different visualization modes: similarity, browsing, and grouping.
+  1. Similarity
+     Select a reference pixel, then other pixels are compared to the reference using the inverse angular distancec between both spectra (=inverse of the cosine distance?)
+  2. Browsing
+     Select a /m/z/ ratio in the mass spectrum
+  3. Grouping
+     Select *several* /m/z/ ratio in the mass spectrum, the mean intensities are displayed.
 
+Results:
+- Similar regions
+  #+ATTR_ORG: :width 500
+  #+CAPTION: Similar pixels to the reference selected pixel (white dot), highlight meaningful region (see (b) histological image).
+   [[file:/home/fgrelard/org/fig/captures/yanked_2021-12-13T12_34_10.png]]
+
+- New distribution patterns
+  Complement the information given by [[id:bee298b2-9c52-4613-a8c2-4dbca24c15fc][H&E]] staining.
 
 
