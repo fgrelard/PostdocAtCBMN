@@ -16,9 +16,16 @@ Two new tools:
     1. UMAP decomposition
     2. Artifacts and matrix signals are detected either automatically or manually. Automatic detection involves using clustering by k-nearest neighbors and radius neighbor search. If the number of connected components is greater than two, then the smaller component correspond to matrix pixels.
     3. Subtract the mean spectrum of matrix pixels from other spectrum.
-    
+  - Peak picking and deisotoping
+    Combination of local maxima and threshold based values.
 - QUIMBI: interactive visualization tool
-
+Different visualization modes: similarity, browsing, and grouping.
+1. Similarity
+   Select a reference pixel, then other pixels are compared to the reference using the inverse angular distancec between both spectra (=inverse of the cosine distance?)
+2. Browsing
+   Select a /m/z/ ratio in the mass spectrum
+3. Grouping
+   Select *several* /m/z/ ratio in the mass spectrum, the mean intensities are displayed.
 
 
 
