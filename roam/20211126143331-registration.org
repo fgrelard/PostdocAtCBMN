@@ -3,4 +3,20 @@
 :END:
 #+title: Registration
 
-Align two or more images.
+Find the geometrical transformation which aligns two or more images.
+
+* Automatic methods
+They involve different components:
+1. the geometrical transform: rigid, affine, deformable.
+2. similarity metric: quantitative comparison of the two images.
+3. optimization: minimization of the metric.
+
+   Find the best transformation parameters iteratively. The transformation parameters are found by optimization of the similarity metric. Two categories of similarity metric exist:
+   1) geometrical: based on the shape of the object.
+
+   2) intensity: *iconic* registration methods. Based on the sum of squared differences, Mattes mutual information...
+
+      The optimization can be done by various algorithms, such as the gradient descent, one plus one evolutionary...
+
+* Semi-automatic methods
+Landmarks, etc.
