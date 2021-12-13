@@ -43,5 +43,9 @@ Results:
   #+CAPTION: (a) new patterns, (b) histology, (c) mean image of all m/z in (a) and (d-f) individual m/z where pattern is not visible.
    [[file:/home/fgrelard/org/fig/captures/yanked_2021-12-13T12_43_20.png]]
 
+- Effect of matrix subtract and peak picking
+  #+ATTR_ORG: :width 500
+  #+CAPTION: (g) matrix subtraction and peak picking, (h) no matrix subtraction but peak picking, (i) no peak picking, no matrix subtraction. The patterns highlighted in (g) are not visible without processing.
+   [[file:/home/fgrelard/org/fig/captures/yanked_2021-12-13T12_47_18.png]]
 
 
