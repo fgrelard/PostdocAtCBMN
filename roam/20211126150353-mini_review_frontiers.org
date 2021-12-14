@@ -28,6 +28,7 @@ Discussion about imzML.
   
 **** Visualization
 - [[id:e1ff9683-0500-4c27-8d89-80377b282049][Kendrick Plot]][[cite:&Buchberger2017-mass]]
+- Similarity, see [[cite:&Wuellems2021-fast]]
   
 *** [[id:5636efa1-0947-4ff7-a6de-e1e25631ec11][Normalization]]
 TIC insufficient → NIC
