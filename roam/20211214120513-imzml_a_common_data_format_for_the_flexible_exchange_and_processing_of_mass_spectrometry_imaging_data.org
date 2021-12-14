@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       967d47f7-a5e3-425d-a5d3-feec2bf5914e
+:ROAM_REFS: cite:Schramm2012-imzml
+:END:
+#+title: Imzml - a common data format for the flexible exchange and processing of mass spectrometry imaging data
+#+filetags: :literature:
+
+[[id:5693a566-f4ec-42c1-8932-bdcbd35d68e5][imzML]]
+
+Specification for the file format.
+
+The imaging binary data file (*.ibd) contains the mass spectral data of the MS imaging measurement.
+The XML file (*.imzML) contains all relevant information about the MS imaging experiment (metadata + spectre position).
