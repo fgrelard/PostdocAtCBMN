@@ -9,3 +9,13 @@
 
 _Sergii_: backend developer
 _Lucas_: frontend developer.
+
+Work on the full dataset initially.
+R should be a parameter that the user could input.
+- Free choice
+- Guided choices
+
+In imzML browser: average spectrum on the left, ion image on the right.
+On the average spectrum, it would highlight which peaks are annotated, with different colors or shape.
+
+Different colors for annotated ions, for in-sample and out-sample ions.
