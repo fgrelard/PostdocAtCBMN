@@ -11,8 +11,8 @@ _Sergii_: backend developer
 _Lucas_: frontend developer.
 
 Work on the full dataset initially.
-R should be a parameter that the user could input.
-- Free choice
+/R/ should be a parameter that the user could input.
+- Free choices
 - Guided choices
 
 In imzML browser: average spectrum on the left, ion image on the right.
@@ -27,3 +27,4 @@ TODOs:
 Next steps:
 - Implementation: most of the job on Lucas.
 - Beta testing of the imzML Browser.
+- Application note, need figures.
