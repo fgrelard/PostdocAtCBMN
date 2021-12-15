@@ -18,18 +18,19 @@
 **** [[id:77154906-1c69-4990-84e8-0669e1e9f9ad][La microscopie moyen infrarouge: Théorie et applications dans le domaine pharmaceutique et biomédical.]]
 
 ** Group meetings
-*** [[id:f3954d31-5bca-4475-824a-343e02906519][Group meeting November]]
-*** [[id:2d7a5dea-9a2e-4bca-8543-e002c0f5f6ea][Group meeting December]]
+*** [[id:2d7a5dea-9a2e-4bca-8543-e002c0f5f6ea][Group meeting December]] <2021-12-10 Fri>
 ** Scientific days
 *** [[id:e844da5b-57a7-4888-b9ab-6bbeccc8dc9c][Scientific *day* Multiscale Biophysics Dept. (MSB-CBMN)]]
 <2021-11-05 Fri>
 ** Trainings
 ** Research
-*** [[id:2ae9872a-5879-4c00-921c-aeffefd7e01d][Spectro et bioinfo]]
-**** [[id:1de4915d-229e-420d-bf9a-a2901a191f07][Spectro et bioinfo Novembre]] <2021-11-23 Tue>
+*** Spectro et bioinfo
+**** [[id:2ae9872a-5879-4c00-921c-aeffefd7e01d][Spectro et bioinfo]] <2021-11-23 Tue>
 ***** TODO Raman and MSI dataset
-*** [[id:a0cf98b4-cd90-49fc-ba0a-60896e2770db][CATI Empreinte]]
-**** [[id:5343a1a6-6c81-40b4-8828-1e863d25572a][CATI Novembre]] <2021-11-23 Tue>
+*** CATI Empreinte
+**** [[id:a0cf98b4-cd90-49fc-ba0a-60896e2770db][CATI Novembre]] <2021-11-23 Tue>
+*** Kendrick Mass Defect
+**** [[id:ce684465-12dd-412c-9099-e27bc8d6b9ab][Kendrick Mass Defect 2 - T. Alexandrov]] <2021-12-15 Wed>
 * Research
 ** Input/Output
 *** Sparse matrices :ATTACH:
