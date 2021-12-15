@@ -19,3 +19,11 @@ In imzML browser: average spectrum on the left, ion image on the right.
 On the average spectrum, it would highlight which peaks are annotated, with different colors or shape.
 
 Different colors for annotated ions, for in-sample and out-sample ions.
+
+TODOs:
+- Give intuitive /R/ values
+- Give datasets to evaluate methods
+
+Next steps:
+- Implementation: most of the job on Lucas.
+- Beta testing of the imzML Browser.
