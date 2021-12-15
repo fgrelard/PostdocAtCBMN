@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       ce684465-12dd-412c-9099-e27bc8d6b9ab
+:END:
+#+title: Kendrick Mass Defect 2 - T. Alexandrov
+#+filetags: :meeting:
+#+date: <2021-12-15 Wed>
+
+[[id:e1ff9683-0500-4c27-8d89-80377b282049][Kendrick Plot]]
