@@ -4,4 +4,4 @@
 #+title: Revue de direction
 #+filetags: :meeting:group_meeting:
 
-Réunion de 
+Réunion pour vérifier les processus qualité.
