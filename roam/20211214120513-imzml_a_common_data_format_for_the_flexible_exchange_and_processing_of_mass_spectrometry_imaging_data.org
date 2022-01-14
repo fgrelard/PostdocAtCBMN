@@ -11,4 +11,5 @@ Specification for the file format.
 
 The imaging binary data file (*.ibd) contains the mass spectral data of the MS imaging measurement.
 The XML file (*.imzML) contains all relevant information about the MS imaging experiment (metadata + spectre position).
+
 [[id:ce684465-12dd-412c-9099-e27bc8d6b9ab][Kendrick Mass Defect 2 - T. Alexandrov]]
