@@ -69,7 +69,7 @@ The images need to be on the same intensity scale.
 * Detailed outline
 
 ** Generic methods
-*** Formats
+*** Formats and data representation
 A lot of different imaging formats. Sometimes specific to the imaging technique. Difficulty to handle proprietary formats: multiple converters.
 
 imzML is established as the most common format for mass spectrometry imaging datasets. See [[cite:&Schramm2012-imzml]].
@@ -80,9 +80,16 @@ Problem caused by the large dataset size of  hyperspectral images such as MSI an
 Need for a unique format.
 
 *** Reduction
-Various approaches:
-- Preprocessing: binning, peak picking, alignment (centroiding)...
-- Dimension reduction: PCA, tSNE, ... [[cite:&Abdelmoula_2019]] and [[cite:&Verbeeck_2017]]
-- Spectral clustering: hierarchical clustering, k-means, 
+The large dataset size makes the MSI datasets difficult to analyze in a multimodal setting.
 
+Various approaches are designed to reduce the complexity of the datasets:
+- _Preprocessing_: binning, peak picking, alignment (centroiding)...
+- _Dimension reduction_: PCA, tSNE, ... [[cite:&Abdelmoula_2019]] and [[cite:&Verbeeck_2017]]
+- _Spectral clustering_: hierarchical clustering, k-means, method integrating noise by [[cite:&Alexandrov_2011]]
+  
+*** Visualization
+The nature of the MSI data is complex.
+- Mean, max, min spectrum
+- [[id:e1ff9683-0500-4c27-8d89-80377b282049][Kendrick Plot]][[cite:&Buchberger2017-mass]]
+- Similarity, see [[cite:&Wuellems2021-fast]]
 ** Multimodal methods
