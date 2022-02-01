@@ -84,13 +84,20 @@ The nature of the MSI data is complex. Before further processing and choose appr
 - Mean, max, min spectrum
 - [[id:e1ff9683-0500-4c27-8d89-80377b282049][Kendrick Plot]][[cite:&Buchberger2017-mass]]
 - Similarity, see [[cite:&Wuellems2021-fast]]
-*** Reduction
+*** Reduction/Segmentation
+The purpose is to have images which are comparable in different modalities.
+In this section, we focus on methods which are compatible with MSI datasets.
+
 The large dataset size makes the MSI datasets difficult to analyze in a multimodal setting.
+
+ The choice of the method depends on the content of the image.
 
 Various approaches are designed to reduce the complexity of the datasets:
 - _Preprocessing_: binning, peak picking, alignment (centroiding)...
+- _Select_ an ion image manually
 - _Dimension reduction_: PCA, tSNE, ... [[cite:&Abdelmoula_2019]] and [[cite:&Verbeeck_2017]]
-- _Spectral clustering_: hierarchical clustering, k-means, method integrating noise by [[cite:&Alexandrov_2011]]
+- _Spectral clustering_: hierarchical clustering, k-means, method integrating noise by [[cite:&Alexandrov_2011]]. _Issue:_ how to compare spectra?
+- Deep Learning techniques
   
 ** Multimodal methods
 *** Different types of images
@@ -106,6 +113,9 @@ _Number of channels_:
    
 *** [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]]
 Different methods depending on the image type, and the previous segmentation step.
+
+Which images to register: usually the one with the lowest resolution.
+Increasing the resolution of a low-resolution hyperspectral image might cause memory issues. See discussion in "Reduction".
 
 If the intensities of the object are similar → iconic approaches.
 Else if the shape of the object are similar → geometrical based approaches.

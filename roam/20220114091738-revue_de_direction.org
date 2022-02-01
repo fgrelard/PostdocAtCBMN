@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       9936c0ec-6675-4045-a16b-5a99717e646b
-:END:
-#+title: Revue de direction
-#+filetags: :meeting:group_meeting:
-
-Réunion de 
