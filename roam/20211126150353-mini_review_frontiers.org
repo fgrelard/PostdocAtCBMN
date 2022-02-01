@@ -65,3 +65,24 @@ The images need to be on the same intensity scale.
 **** Classical dimension reduction methods: PCA, NMF, ICA...
 ** Prospects
 *** [[id:50bc746a-483e-4beb-97fb-b96833b5cb46][Partial registration]], [[id:13b1dba3-aa5c-453d-be49-a7c06687bb26][3D MSI]].
+
+* Detailed outline
+
+** Generic methods
+*** Formats
+A lot of different imaging formats. Sometimes specific to the imaging technique. Difficulty to handle proprietary formats: multiple converters.
+
+imzML is established as the most common format for mass spectrometry imaging datasets. See [[cite:&Schramm2012-imzml]].
+
+Problem caused by the large dataset size of  hyperspectral images such as MSI and Raman.
+[[id:82fbac32-a53c-4862-bfe2-4ca99fbd93fe][Memory-mapped files]] seem like a promising approach. Yet, no development made by the MSI community on these approaches. Involve a lot of work to rewrite libraries.
+
+Need for a unique format.
+
+*** Reduction
+Various approaches:
+- Preprocessing: binning, peak picking, alignment (centroiding)...
+- Dimension reduction: PCA, tSNE, ... [[cite:&Abdelmoula_2019]] and [[cite:&Verbeeck_2017]]
+- Spectral clustering: hierarchical clustering, k-means, 
+
+** Multimodal methods
