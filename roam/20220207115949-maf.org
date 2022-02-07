@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       8208b43a-a961-42d8-a878-4ba7b70837f0
+:ROAM_ALIASES: "Maximum Autocorrelation Factors"
+:END:
+#+title: MAF
+In the MAF analysis we seek a transformation that maximizes the autocorrelation between neighbouring observations (i.e. pixels). The basic assumption of
+the MAF analysis is that the interesting signal exhibits high autocorrelation, whereas the xnoise exhibits low autocorrelation. By building the additional information of the structure of the observations into the model application examples show a more satisfying ordering
+and compression of the data. This is particularly the case when some noise components have higher variance than some signal components. In this case the principal components will fail to give an intuitive order of image quality. The MAF analysis requires knowledge of or estimation of the variance-covariance matrix of the data as
+well as the variance-covariance matrix of the difference between the original data and a spatially shifted version of the data. It may be formulated as a canonical correlation analysis problem.
