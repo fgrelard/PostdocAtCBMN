@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       bc12621e-4ba9-43f7-ac9d-99ed69b4346f
+:END:
+#+title: Haar wavelet
+
+In 1D:
+#+ATTR_ORG: :width 500
+[[file:/home/fgrelard/org/fig/captures/yanked_2022-02-07T12_36_29.png]]
+
+In 2D:
+| - |  - |
+|+ | +|
+
+Allows to compute edge image (image features).
+If resolution is high, captures noise.
