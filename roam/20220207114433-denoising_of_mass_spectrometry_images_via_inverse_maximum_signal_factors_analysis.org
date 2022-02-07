@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       5dc44257-c394-4234-bb72-00b893eb3e3d
+:ROAM_REFS: cite:tyler22_denois_mass_spect_images_via
+:END:
+#+title: Denoising of mass spectrometry images via inverse maximum signal factors analysis
+#+filetags: :★★★★☆:literature:
+
+[[id:5edbbd59-853e-42ed-b750-87e292878ff8][Denoising]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]]
+
+State-of-the-art methods based on MVA (Multivariate Analysis): PCA, NMF...
+Remove the component images that represent noise from all ion images.
+_Problem_: not always well defined (orthogonality constraint), number of components to choose...
+
+
