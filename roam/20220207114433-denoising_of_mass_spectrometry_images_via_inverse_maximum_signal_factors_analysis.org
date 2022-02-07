@@ -22,9 +22,14 @@ Si le signal et le bruit sont indépendants, on peut écrire: $C_{total} = C_{si
 
 Dans l'analyse MSF, une estimation de $C_{bruit}$ est utilisée pour résoudre le problème de generalized eigenvalues:
 \[
-C_{total}w = \lambda C_{noise} w
+C_{total}w = \lambda C_{bruit} w
 \]
 où $\lambda$ eigenvalues, $w$ eigenvectors
+$\lambda$ = squared signal to noise ratio
+
+La matrice débruitée $Y_k$ est donnée par:
+\[
+Y_k = S_i(C_{bruit}
 
 Problem: select the appropriate number of factors.
 The authors propose five global and local criterion to assess the lack or goodness of fit metrics with different number of factors.
