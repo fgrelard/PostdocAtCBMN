@@ -11,4 +11,6 @@ State-of-the-art methods based on MVA (Multivariate Analysis): PCA, NMF...
 Remove the component images that represent noise from all ion images.
 _Problem_: not always well defined (orthogonality constraint), number of components to choose...
 
-
+_Proposed approach_: MSF (Maximal Signal Factors Analysis) based on [[id:8208b43a-a961-42d8-a878-4ba7b70837f0][MAF]]
+Problem: select the appropriate number of factors.
+The authors propose five global and local criterion to assess the lack or goodness of fit metrics with different number of factors.
