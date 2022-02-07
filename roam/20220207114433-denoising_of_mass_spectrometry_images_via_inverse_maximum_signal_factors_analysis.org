@@ -12,5 +12,19 @@ Remove the component images that represent noise from all ion images.
 _Problem_: not always well defined (orthogonality constraint), number of components to choose...
 
 _Proposed approach_: MSF (Maximal Signal Factors Analysis) based on [[id:8208b43a-a961-42d8-a878-4ba7b70837f0][MAF]]
+
+MS image as matrix $X$. La matrice de covariance peut s'écrire:
+\[
+C_{total} = \frac{1}{n} (X - \mu) (X - \mu)^T
+\]
+
+Si le signal et le bruit sont indépendants, on peut écrire: $C_{total} = C_{signal} + C_{bruit}$.
+
+Dans l'analyse MSF, une estimation de $C_{bruit}$ est utilisée pour résoudre le problème de generalized eigenvalues:
+\[
+C_{total}w = \lambda C_{noise} w
+\]
+où $\lambda$ eigenvalues, $w$ eigenvectors
+
 Problem: select the appropriate number of factors.
 The authors propose five global and local criterion to assess the lack or goodness of fit metrics with different number of factors.
