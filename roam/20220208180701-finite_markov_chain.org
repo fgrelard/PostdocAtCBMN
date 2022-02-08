@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       11b8645b-bed4-4d32-981b-24fd5a993bb2
+:ROAM_ALIASES: FMC
+:END:
+#+title: Finite Markov Chain
+
+A Finite Markov Chain is a random process that undergoes transitions from one state to another in a state space.
