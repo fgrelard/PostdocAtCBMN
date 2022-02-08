@@ -8,3 +8,7 @@
 
 _Previous works_: Traditional dimension reduction techniques (PCA, NMF) are limited because of their linearity constraint which highlights differences between consecutive slices.
 Motivates the need for non-linear dimensionality reduction techniques, such as [[id:e95fd377-dd05-4363-8eca-b00b003524ff][SNE]]. 
+
+→ Working with [[id:e48f89e0-263b-4dbe-ab29-70bd981d2312][HSNE]].
+
+
