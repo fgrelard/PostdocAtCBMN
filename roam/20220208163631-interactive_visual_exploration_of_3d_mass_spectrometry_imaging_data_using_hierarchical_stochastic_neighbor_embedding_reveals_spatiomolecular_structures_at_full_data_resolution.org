@@ -7,4 +7,4 @@
 [[id:bef83f14-66c4-4c3f-8adb-5d0084987f17][Visualization]] [[id:13b1dba3-aa5c-453d-be49-a7c06687bb26][3D MSI]]
 
 _Previous works_: Traditional dimension reduction techniques (PCA, NMF) are limited because of their linearity constraint which highlights differences between consecutive slices.
-Motivates the need for non-linear dimensionality reduction techniques, such as Stochastic Neighbor Embedding (SNE).
+Motivates the need for non-linear dimensionality reduction techniques, such as [[id:e95fd377-dd05-4363-8eca-b00b003524ff][SNE]]. 
