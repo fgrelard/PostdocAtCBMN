@@ -11,4 +11,8 @@ Motivates the need for non-linear dimensionality reduction techniques, such as [
 
 → Working with [[id:e48f89e0-263b-4dbe-ab29-70bd981d2312][HSNE]].
 
+The HSNE is used to:
+1. Identify anatomical structures by clustering in the HSNE scatter plot 
+2. Identify ions which are most associated to each segmentation map (i.e. cluster)
+
 
