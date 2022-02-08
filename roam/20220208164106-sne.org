@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e95fd377-dd05-4363-8eca-b00b003524ff
+:ROAM_ALIASES: "Stochastic Neighbor Embedding"
+:END:
+#+title: SNE
+
+_Goal_: preserve local structures of high-dimensional data in a low map representation.
+
+_Examples_:
+- t-SNE
+- HSNE (hierarchical SNE), see [[cite:&Abdelmoula2018-inter]]
