@@ -3,7 +3,3 @@
 :ROAM_ALIASES: "Hierarchical Stochastic Neighbor Embedding"
 :END:
 #+title: HSNE
-
-t-SNE problem: computationally intractable for large datasets.
-
-HSNE creates a hierarchical representation of the non linear data: broad features on higher levels of the hierarchy, and finer details on the lower levels.
