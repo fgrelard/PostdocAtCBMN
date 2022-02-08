@@ -15,4 +15,6 @@ The HSNE is used to:
 1. Identify anatomical structures by clustering in the HSNE scatter plot 
 2. Identify ions which are most associated to each segmentation map (i.e. cluster)
 
+_Problem_: manual delineating in the lower dimensional representations. Difficulty to cluster?
+
 
