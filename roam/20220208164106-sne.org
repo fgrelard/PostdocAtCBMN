@@ -4,6 +4,8 @@
 :END:
 #+title: SNE
 
+Intuitively, SNE techniques encode small-neighborhood relationships in the high-dimensional space and in the embedding as probability distributions. These techniques aim at preserving neighborhoods of small size for each data point. The embeddings are defined via an iterative minimization of the loss of information when placing the point in the embedding. 
+
 _Goal_: preserve local structures of high-dimensional data in a low map representation.
 
 _Examples_:
