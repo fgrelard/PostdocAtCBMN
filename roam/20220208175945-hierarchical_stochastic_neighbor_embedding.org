@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       e48f89e0-263b-4dbe-ab29-70bd981d2312
+:ROAM_REFS: cite:Pezzotti_2016
+:ROAM_ALIASES: HSNE
+:END:
+#+title: Hierarchical Stochastic Neighbor Embedding
+
+t-SNE problem: computationally intractable for large datasets.
+
+HSNE creates a hierarchical representation of the non linear data: broad features on higher levels of the hierarchy, and finer details on the lower levels.
+Keeps both memory and computational complexities manageable.
+
+Method:
+Computes first level of hierarchy, by building a Finite Markov Chain (FMC) from a k-nearest neighbor graph to encode similarities between landmarks.
+An "area of influence" is computed for each landmark and the overlap between these areas indicates similarities and serves as a basis for new FMC encodings. These new encodings are used to compute the next scale in the hierarchy.
