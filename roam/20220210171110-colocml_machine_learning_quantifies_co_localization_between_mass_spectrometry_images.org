@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       09999440-0d6f-4936-8c07-4c3472e3e36c
+:ROAM_REFS: cite:Ovchinnikova_2020
+:END:
+#+title: ColocML: machine learning quantifies co-localization between mass spectrometry images
+
+[[id:6df664eb-63ad-4ef6-af19-bfa17690d3a9][Machine learning]] on [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] to find colocalized ions.
+
+
