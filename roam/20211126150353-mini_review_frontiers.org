@@ -84,6 +84,7 @@ The nature of the MSI data is complex. Before further processing and choose appr
 - Mean, max, min spectrum
 - [[id:e1ff9683-0500-4c27-8d89-80377b282049][Kendrick Plot]][[cite:&Buchberger2017-mass]]
 - Similarity, see [[cite:&Wuellems2021-fast]]
+- HSNE, see [[cite:&Abdelmoula2018-inter]]
 *** Reduction/Segmentation
 The purpose is to have images which are comparable in different modalities.
 In this section, we focus on methods which are compatible with MSI datasets.
@@ -128,5 +129,6 @@ The images need to be on the same intensity scale.
 **** Classical dimension reduction methods: PCA, NMF, ICA...
 **** [[id:6240f4e3-d85f-404f-823c-187cec75fce2][Statistical methods with uncertainty]]
 **** [[id:ac8d4e14-61f1-4b37-8829-186b6938f4ca][Multiblock]]
+**** [[id:6df664eb-63ad-4ef6-af19-bfa17690d3a9][Machine learning]]
 ** Prospects
 *** [[id:50bc746a-483e-4beb-97fb-b96833b5cb46][Partial registration]], [[id:13b1dba3-aa5c-453d-be49-a7c06687bb26][3D MSI]].
