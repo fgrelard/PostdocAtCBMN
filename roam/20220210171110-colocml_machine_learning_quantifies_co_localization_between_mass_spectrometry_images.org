@@ -4,6 +4,24 @@
 :END:
 #+title: ColocML: machine learning quantifies co-localization between mass spectrometry images
 
-[[id:6df664eb-63ad-4ef6-af19-bfa17690d3a9][Machine learning]] on [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] to find colocalized ions.
+[[id:6df664eb-63ad-4ef6-af19-bfa17690d3a9][Machine learning]] on [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] to find [[id:8d07df0d-3aac-4797-8253-751aa8bfd7b7][colocalized]] ions.
+
+Collection of annotated datasets (~2000 images annotated by experts).
+
+Usage of the Pi model.
+
+_Conclusion_: results with deep learning are very similar to cosine similarity
+
+#+begin_quote
+/We would like to note other specifics of the considered problem
+which potentially do not allow to capitalize on the full potential of
+the deep learning methods: ion images from the same dataset have
+the same size and structure and can be compared pixel-by-pixel after
+flattening. Ion images also do not undergo changes in the view angle
+or brightness or other non-linear deformations that would apply to,
+e.g. photos used in computer vision where deep learning significant-
+ly benefits from its capacity to extract abstract visual features thus
+allowing comparison of different images showing the same object./
+#+end_quote
 
 
