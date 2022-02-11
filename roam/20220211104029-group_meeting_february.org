@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6019175d-a66f-4049-9f41-f5eb946776b5
+:END:
+#+title: Group meeting February
+#+filetags: :group_meeting:meeting:
+
