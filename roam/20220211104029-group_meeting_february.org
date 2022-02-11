@@ -4,3 +4,16 @@
 #+title: Group meeting February
 #+filetags: :group_meeting:meeting:
 
+Anne-Marie is asking the group if she can have a smoke.
+
+* Human resources
+
+Corinne leaves the 1st of June for the group of Valerie Gabelica.
+
+* Equipment
+
+Nicolas: Oven to prepare sample for /in situ/ digestion.
+Caroline: difficulties related to the gas delivery with new instrument.
+Install gas network.
+
+Mass spec: electricity. Intervention on Monday: stop the supply of the ondulation. Stop at 1:30pm.
