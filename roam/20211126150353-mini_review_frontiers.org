@@ -127,8 +127,8 @@ Else if nothing else: fiducial. Works for [[id:50bc746a-483e-4beb-97fb-b96833b5c
 The images need to be on the same intensity scale.
 **** Correlation tools: [[id:bff5b127-ba4d-4d96-b125-4a892f587375][ROC]], Spearman or Pearson's correlation coefficient, cosine similarity...
 **** Classical dimension reduction methods: PCA, NMF, ICA...
-**** [[id:6240f4e3-d85f-404f-823c-187cec75fce2][Statistical methods with uncertainty]]
-**** [[id:ac8d4e14-61f1-4b37-8829-186b6938f4ca][Multiblock]]
-**** [[id:6df664eb-63ad-4ef6-af19-bfa17690d3a9][Machine learning]]
+**** [[id:6240f4e3-d85f-404f-823c-187cec75fce2][Statistical methods with uncertainty]] [[cite:&Alexandrov2012-maldi]]
+**** [[id:ac8d4e14-61f1-4b37-8829-186b6938f4ca][Multiblock]] [[cite:&Wehrli2020-spatial]]
+**** [[id:6df664eb-63ad-4ef6-af19-bfa17690d3a9][Machine learning]] [[cite:&Ovchinnikova_2020]]
 ** Prospects
 *** [[id:50bc746a-483e-4beb-97fb-b96833b5cb46][Partial registration]], [[id:13b1dba3-aa5c-453d-be49-a7c06687bb26][3D MSI]].
