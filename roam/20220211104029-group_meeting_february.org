@@ -17,3 +17,10 @@ Caroline: difficulties related to the gas delivery with new instrument.
 Install gas network.
 
 Mass spec: electricity. Intervention on Monday: stop the supply of the ondulation. Stop at 1:30pm.
+
+* Audit
+
+Some actions to perform before the next external audit:
+- skill tables: anticipate people who leave the lab, adjust training plan
+- organization of the new gouvernance of the platform
+- Office License
