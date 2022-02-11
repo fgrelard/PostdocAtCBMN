@@ -4,6 +4,8 @@
 #+title: Group meeting February
 #+filetags: :group_meeting:meeting:
 
+<2022-02-11 Fri>
+
 Anne-Marie is asking the group if she can have a smoke.
 
 * Human resources
@@ -23,4 +25,22 @@ Mass spec: electricity. Intervention on Monday: stop the supply of the ondulatio
 Some actions to perform before the next external audit:
 - skill tables: anticipate people who leave the lab, adjust training plan
 - organization of the new gouvernance of the platform
-- Office License
+- Update on Windows and Office License
+  
+* Organization
+
+- Desk plan. Put numbers on desks.
+  
+* GdR-MSI
+GdR: national network on Mass Spectrometry Imaging topics.
+
+Validation a few weeks early.
+Several groups.
+Mini symposium: 20th-21st on the Victoire campus.
+Second day on ION TOF user meeting, MALDI, DESI.
+
+Website: DR15 from CNRS.
+
+Club Jeunes: events.
+
+
