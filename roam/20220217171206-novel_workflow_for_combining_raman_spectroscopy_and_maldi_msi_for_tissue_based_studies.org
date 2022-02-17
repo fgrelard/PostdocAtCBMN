@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       5e2845c0-a469-4199-8be5-ed9274c19c71
+:ROAM_REFS: cite:Bocklitz_2015
+:END:
+#+title: Novel workflow for combining raman spectroscopy and MALDI-MSI for tissue based studies
+#+filetags: :literature:
+
+[[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:9a753b0f-254a-42cf-8ef4-9b139a0bd14f][Raman imaging]] [[id:fb2a0e54-4e16-48ad-b23e-4a783d2013d2][Multimodal imaging]] [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]]
+
+Registration done by PCA scores of PCA (fixed image).
+H&E image aligned on the MS image.
+Same transformation applied to Raman image.
+
+No information given as the type of transformation, metric, etc...
+Actually builds on [[cite:&Bocklitz_2013]].
