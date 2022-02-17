@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       da46f35f-4d63-47b4-bc93-aa39974cee14
+:END:
+#+title: Fiducial
+
