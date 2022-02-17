@@ -7,6 +7,9 @@
 
 [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:fb2a0e54-4e16-48ad-b23e-4a783d2013d2][Multimodal imaging]] [[id:2f5b4142-dd57-466e-9dab-851bb492ee93][SIMS]] [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]]
 
+SIMS more resoluted, but fragmentation, spectral dimension more difficult to analyze.
+
+_Goal_: to improve MALDI resolution.
 Registration is done by fiducial markers done by the laser.
 
 [[id:0e94cff9-50fa-425c-b0fc-a35bdb16cd0d][Statistical analysis]] done by NMF, and CCA to find correlations between the two MSI techniques.
