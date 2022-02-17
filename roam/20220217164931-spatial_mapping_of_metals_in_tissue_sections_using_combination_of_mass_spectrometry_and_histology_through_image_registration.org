@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4f6ab4b0-ae77-4f09-9c3d-50d8e8e20a0e
+:ROAM_REFS: cite:Anyz_2017
+:END:
+#+title: Spatial mapping of metals in tissue-sections using combination of mass-spectrometry and histology through image registration
+#+filetags: :literature:
+
+[[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:bee298b2-9c52-4613-a8c2-4dbca24c15fc][H&E]] [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]] [[id:fb2a0e54-4e16-48ad-b23e-4a783d2013d2][Multimodal imaging]]
+
+The authors segment a binary mask in both images. The registration is done on these masks.
+Parameters:
+- Transformation: affine
+- Optimization: iterative gradient algorithm
+- Metric: SSD on masks
+
+_Problem_: Do not register regions of the tissue.
+
+#+ATTR_ORG: :width 500
+[[file:/home/fgrelard/org/fig/captures/yanked_2022-02-17T16_50_30.png]]
