@@ -3,4 +3,8 @@
 :ROAM_REFS: cite:Verbeeck_2017
 :END:
 #+title: Connecting imaging mass spectrometry and magnetic resonance imaging-based anatomical atlases for automated anatomical interpretation and differential analysis
+#+filetags: :literature:
 
+ They build a brain atlas by co-registering MSI and MRI images. First, the brain in the MS image is segmented by extracting a representative image. This image corresponds to a manually selected score image from the principal component analysis (PCA) decomposition of the MS image. Then, the representative image is registered onto the MRI image using a deformable method. 
+
+ ⚠ Manual step in selecting the appropriate ion image.
