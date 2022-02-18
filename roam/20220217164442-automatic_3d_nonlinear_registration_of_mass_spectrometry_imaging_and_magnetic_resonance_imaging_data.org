@@ -9,7 +9,7 @@
 
 _Goal_: to obtain a 3D MSI dataset in which to find spectral  signatures.
 
-* Registration
+* [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]]
 The authors combine MRI and MSI data in order to identify the molecular distribution in different cell compartments in 3D. The shape is segmented in the MALDIMS image by a hierarchical version of the t-[[id:e95fd377-dd05-4363-8eca-b00b003524ff][SNE ]]algorithm, which builds different levels of detail across several ion images. This segmented shape is registered onto the MRI image with a [[id:f886a4c4-e7ce-4363-9cd8-829a71ce5ee2][deformable registration]] method. Correspondences with the MRI are established *visually*.
 
 ⚠ Manual step
