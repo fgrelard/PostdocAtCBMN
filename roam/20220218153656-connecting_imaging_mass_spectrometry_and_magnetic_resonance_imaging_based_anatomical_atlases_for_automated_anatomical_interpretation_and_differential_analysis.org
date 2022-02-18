@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       b43afdf7-3f7a-4e75-9675-a39612e57cc9
+:ROAM_REFS: cite:Verbeeck_2017
+:END:
+#+title: Connecting imaging mass spectrometry and magnetic resonance imaging-based anatomical atlases for automated anatomical interpretation and differential analysis
+
