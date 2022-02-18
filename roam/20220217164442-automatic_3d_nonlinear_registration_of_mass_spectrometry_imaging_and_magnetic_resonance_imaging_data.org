@@ -10,10 +10,14 @@
 _Goal_: to obtain a 3D MSI dataset in which to find spectral  signatures.
 
 * [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]]
-The authors combine MRI and MSI data in order to identify the molecular distribution in different cell compartments in 3D. The shape is segmented in the MALDIMS image by a hierarchical version of the t-[[id:e95fd377-dd05-4363-8eca-b00b003524ff][SNE ]]algorithm, which builds different levels of detail across several ion images. This segmented shape is registered onto the MRI image with a [[id:f886a4c4-e7ce-4363-9cd8-829a71ce5ee2][deformable registration]] method. Correspondences with the MRI are established *visually*.
+The authors combine MRI and MSI data in order to identify the molecular distribution in different cell compartments in 3D. The shape is segmented in the MALDIMS image by  the t-[[id:e95fd377-dd05-4363-8eca-b00b003524ff][SNE ]]algorithm. This segmented shape is registered onto the MRI image with a [[id:f886a4c4-e7ce-4363-9cd8-829a71ce5ee2][deformable registration]] method. Correspondences with the MRI are established *visually*.
 
 ⚠ Manual step
 
 The registration is done from the MSI onto the MR image.
 
+Evaluation of registration by the [[id:f6a0f50e-d1fa-4108-9073-4be739a832af][DICE]] metric.
+
 * [[id:0e94cff9-50fa-425c-b0fc-a35bdb16cd0d][Statistical analysis]]
+Segmentation maps are obtained by [[id:e48f89e0-263b-4dbe-ab29-70bd981d2312][HSNE]], a hierarchical version of the t-[[id:e95fd377-dd05-4363-8eca-b00b003524ff][SNE]].
+Then correlations are established by Pearson's correlation coefficient between the segmentation map (=cluster) and the ion images. Those with higher Pearson's coefficient should be spatially disitributed in this cluster.
