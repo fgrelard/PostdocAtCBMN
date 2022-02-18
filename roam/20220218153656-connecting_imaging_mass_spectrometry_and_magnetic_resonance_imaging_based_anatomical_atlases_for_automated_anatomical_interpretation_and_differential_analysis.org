@@ -5,6 +5,14 @@
 #+title: Connecting imaging mass spectrometry and magnetic resonance imaging-based anatomical atlases for automated anatomical interpretation and differential analysis
 #+filetags: :literature:
 
- They build a brain atlas by co-registering MSI and MRI images. First, the brain in the MS image is segmented by extracting a representative image. This image corresponds to a manually selected score image from the principal component analysis (PCA) decomposition of the MS image. Then, the representative image is registered onto the MRI image using a deformable method. 
+[[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:844533cc-a7a1-4178-88a8-47eaeb023bb8][MRI]] [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]] [[id:fb2a0e54-4e16-48ad-b23e-4a783d2013d2][Multimodal imaging]]
+
+Brain atlas in MRI.
+
+* [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]]
+ They build a brain atlas by co-registering MSI and MRI images. First, the brain in the MS image is segmented by extracting a representative image. This image corresponds to a manually selected score image from the principal component analysis (PCA) decomposition of the MS image. Then, the representative image is registered onto the MRI image using a [[id:f886a4c4-e7ce-4363-9cd8-829a71ce5ee2][deformable]] method. 
 
  ⚠ Manual step in selecting the appropriate ion image.
+
+*  [[id:0e94cff9-50fa-425c-b0fc-a35bdb16cd0d][Statistical analysis]]
+Wilcoxon rank sum test to find differently expressed ions over healthy and diseases brain hemispheres.
