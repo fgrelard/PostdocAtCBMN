@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a79b5810-cc53-4687-aaf4-c9c59c894e96
+:END:
+#+title: Org
+#+filetags: :software:
+
+Hotkeys:
+- ~C-c f~: finalize buffer
+- ~C-c C-o~: Visit link
+- ~C-c n f~: Visit org roam node
+- ~C-c n i~: Insert (and create) org roam node
+- ~C-c n t~: Insert tag
+- ~C-c n a~: Insert aliases
+- ~C-c n l~: Roam buffer with backlinks
+- ~C-c n y~: Paste image from buffer
+
+_Org workflow from Org to LaTeX_:
+1. Select region to export
+2. ~M-x org-ref-export/body~, ~e~, ~L l~
+3. Copy/paste document's appropriate parts in LaTeX document
+4. ~M-x org-ref-extract-bibtex-entries~
+5. Copy/paste in Bib file

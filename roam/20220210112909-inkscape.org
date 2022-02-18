@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8a489e3a-57fb-444a-b936-43039c66b873
+:END:
+#+title: Inkscape
+#+filetags: :software:
+
+Inkscape yields:
+#+begin_src bash
+  Wrong __data_start/_end pair
+  Aborted (core dumped)
+#+end_src
+
+_Fix:_
+Add the following to ~.bashrc~:
+
+#+begin_src bash
+  export _INKSCAPE_GC="disable"
+#+end_src
+

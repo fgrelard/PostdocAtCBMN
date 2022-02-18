@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c2242bf2-f1ca-49da-b0aa-ace7ca214425
+:ROAM_REFS: cite:Balluff_2022
+:END:
+#+title: An overview of image registration for aligning mass spectrometry imaging with clinically relevant imaging modalities
+#+filetags: :literature:review:
+
+[[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]] [[id:fb2a0e54-4e16-48ad-b23e-4a783d2013d2][Multimodal imaging]]
+
+Classification of modalities accordings to /in vivo/ (MSI, microscopy) or /ex vivo/ (MRI, CT).
+
+Distinction between manual and automatic methods.
+
+Evaluation of registration through:
+- Dice
+- Hausdorff distance
+- Point to point comparison
+      

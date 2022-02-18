@@ -1,0 +1,56 @@
+:PROPERTIES:
+:ID:       6019175d-a66f-4049-9f41-f5eb946776b5
+:END:
+#+title: Group meeting February
+#+filetags: :group_meeting:meeting:
+
+<2022-02-11 Fri>
+
+Anne-Marie is asking the group if she can have a smoke.
+
+* Human resources
+
+Corinne leaves the 1st of June for the group of Valerie Gabelica.
+
+* Equipment
+
+Nicolas: Oven to prepare sample for /in situ/ digestion.
+Caroline: difficulties related to the gas delivery with new instrument.
+Install gas network.
+
+Mass spec: electricity. Intervention on Monday: stop the supply of the ondulation. Stop at 1:30pm.
+
+* Audit
+
+Some actions to perform before the next external audit:
+- skill tables: anticipate people who leave the lab, adjust training plan
+- organization of the new gouvernance of the platform
+- Update on Windows and Office License
+  
+* Organization
+
+- Desk plan. Put numbers on desks.
+  
+* GdR-MSI
+GdR: national network on Mass Spectrometry Imaging topics.
+
+Validation a few weeks early.
+Several groups.
+Mini symposium: 20th-21st on the Victoire campus.
+Second day on ION TOF user meeting, MALDI, DESI.
+
+Website: DR15 from CNRS.
+
+Club Jeunes: events.
+
+* Summer school
+Organization in Fall (September or October)
+
+Three days of workshops, two days of conference
+
+Ask for abstracts for posters or oral presentation
+
+* Club Jeunes of FPS
+People in charge of communication, orgnization of days in April.
+
+* ARCHE Website

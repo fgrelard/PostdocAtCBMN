@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       5fdb1c80-8a75-4974-ae68-a5c5da028946
+:ROAM_REFS: cite:Bocklitz_2013
+:END:
+#+title: Deeper understanding of biological tissue: quantitative correlation of MALDI-TOF and raman imaging
+#+filetags: :literature:
+
+[[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:9a753b0f-254a-42cf-8ef4-9b139a0bd14f][Raman imaging]] [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]] [[id:da46f35f-4d63-47b4-bc93-aa39974cee14][Fiducial]] [[id:fb2a0e54-4e16-48ad-b23e-4a783d2013d2][Multimodal imaging]]
+
+Registration of Raman onto MSI. Lose resolution power of Raman.
+
+Selection of fiducial markers manually in the tissues. Affine transformation.

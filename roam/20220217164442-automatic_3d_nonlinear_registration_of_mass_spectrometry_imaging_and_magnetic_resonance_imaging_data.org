@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       e27b38ac-449a-4c63-b30c-2e96e94509d1
+:ROAM_REFS: cite:Abdelmoula_2019
+:END:
+#+title: Automatic 3d nonlinear registration of mass spectrometry imaging and magnetic resonance imaging data
+#+filetags: :literature:
+
+[[id:13b1dba3-aa5c-453d-be49-a7c06687bb26][3D MSI]] [[id:9a753b0f-254a-42cf-8ef4-9b139a0bd14f][Raman imaging]] [[id:fb2a0e54-4e16-48ad-b23e-4a783d2013d2][Multimodal imaging]] [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]]
