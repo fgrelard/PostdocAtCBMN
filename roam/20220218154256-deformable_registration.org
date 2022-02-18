@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       f886a4c4-e7ce-4363-9cd8-829a71ce5ee2
+:ROAM_ALIASES: "Nonlinear registration"
+:END:
+#+title: Deformable registration
+[[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]] 
+
+Registration which allows to model local deformations and discrepancies between the fixed and moving image.
