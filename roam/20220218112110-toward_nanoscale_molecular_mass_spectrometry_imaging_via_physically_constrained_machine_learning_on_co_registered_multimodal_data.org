@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       a3a0d40e-7fbb-4db5-be3f-59d105d7efd5
-:ROAM_REFS: cite:Borodinov_2020
-:END:
-#+title: Toward nanoscale molecular mass spectrometry imaging via physically constrained machine learning on co-registered multimodal data

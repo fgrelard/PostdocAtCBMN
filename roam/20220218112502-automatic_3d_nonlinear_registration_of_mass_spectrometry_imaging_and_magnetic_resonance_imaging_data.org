@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       219c7472-e482-43fa-a23a-657ba4870ffd
-:ROAM_REFS: cite:Abdelmoula_2019
-:END:
-#+title: Automatic 3d nonlinear registration of mass spectrometry imaging and magnetic resonance imaging data
