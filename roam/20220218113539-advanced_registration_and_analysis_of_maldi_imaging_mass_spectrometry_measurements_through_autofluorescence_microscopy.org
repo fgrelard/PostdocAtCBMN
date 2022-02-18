@@ -7,6 +7,7 @@
 
 [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:8263eb3b-3e34-43b7-b0dc-826dff618fea][Microscopy]] [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]] [[id:fb2a0e54-4e16-48ad-b23e-4a783d2013d2][Multimodal imaging]]
 
+* Registration
 Microscopy to IMS using autofluorescence as an intermediate image.
 Two autofluorescence images before /and/ after MSI acquisition.
 
@@ -25,3 +26,13 @@ For step 4, landmarks are selected using laser ablation marks.
 This is done to:
 - avoid artefacts induced in MSI during registration
 - preserve the resolution of microscopy images
+
+  
+* [[id:0e94cff9-50fa-425c-b0fc-a35bdb16cd0d][Statistical analysis]]
+Adds another deformable registration step between AutoFluorescence image.
+
+This deformation is then applied to the MSI ion images.
+
+Then two different MSI datasets can be compared.
+
+Overlap (definition?) is computed to establish [[id:8d07df0d-3aac-4797-8253-751aa8bfd7b7][spatial correlations]]. Ions are ranked according to their degree of overlap.
