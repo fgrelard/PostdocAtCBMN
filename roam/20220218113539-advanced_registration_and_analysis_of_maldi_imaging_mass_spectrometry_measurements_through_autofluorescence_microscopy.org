@@ -13,6 +13,15 @@ Two autofluorescence images before /and/ after MSI acquisition.
 Several steps:
 1. Registration from microscopy onto pre-acquisition AF
 2. Registration of pre-acquisition AF onto post-acquisition AF
-3. Registration of MSI onto microscopy modalities
+3. Upsampling of the MSI image
+4. Registration of microscopy modalities onto MSI.
 
-After step 2., the microscopy modalities are all aligned on the same grid.
+After step 2, the microscopy modalities are all aligned on the same grid.
+
+For step 2, the images come from the same modality, so they share the same type of information. They are registered using iconic registration methods (linear gradient descent).
+
+For step 4, landmarks are selected using laser ablation marks.
+
+This is done to:
+- avoid artefacts induced in MSI during registration
+- preserve the resolution of microscopy images
