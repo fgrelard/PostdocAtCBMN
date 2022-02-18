@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       a24fffbd-bcf7-44d4-81d5-0617170bbff4
+:ROAM_REFS: cite:Wang_2018
+:END:
+#+title: Deep learning enables cross-modality super-resolution in fluorescence microscopy
+#+filetags: :literature:
+
+[[id:8263eb3b-3e34-43b7-b0dc-826dff618fea][Microscopy]] [[id:b08807ac-d9e3-4987-8b42-be4ec686d94c][Deep learning]] [[id:fc8784c1-b2bb-42ce-aebe-3811bd882dca][Super-resolution]]
+
+Aims at obtaining a super resoluted fluorescence image using different microscopy modalities. The authors use several modalities with different resolution and can improve the resolution of low-resolution images.
