@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       913d03df-5ae7-4f6c-aa86-a3763b20cbd1
+:ROAM_REFS: cite:Castellanos_Garcia_2021
+:END:
+#+title: LA-ICP-MS and MALDI-MS image registration for correlating nanomaterial biodistributions and their biochemical effects
+
+[[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:b8bfa3cc-72ec-4d79-905b-8de40914ca22][LA-ICP]] [[id:fb2a0e54-4e16-48ad-b23e-4a783d2013d2][Multimodal imaging]]
+
+Registration using ion images selected manually.
+
+Iconic registration.
+
+Validation using [[id:f6a0f50e-d1fa-4108-9073-4be739a832af][DICE]] coefficient.
