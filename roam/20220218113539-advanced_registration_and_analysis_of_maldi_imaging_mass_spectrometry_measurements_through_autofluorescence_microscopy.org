@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       55c3cfdc-8f4d-4bbc-b171-d2f14f11b271
+:ROAM_REFS: cite:Patterson_2018
+:END:
+#+title: Advanced registration and analysis of MALDI imaging mass spectrometry measurements through autofluorescence microscopy
+#+filetags: :literature:
+
+[[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:8263eb3b-3e34-43b7-b0dc-826dff618fea][Microscopy]] [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]] [[id:fb2a0e54-4e16-48ad-b23e-4a783d2013d2][Multimodal imaging]]
+
+Microscopy to IMS using autofluorescence as an intermediate image.
+Two autofluorescence images before /and/ after MSI acquisition.
+
+Several steps:
+1. Registration from microscopy onto pre-acquisition AF
+2. Registration of pre-acquisition AF onto post-acquisition AF
+3. Registration of MSI onto microscopy modalities
+
+After step 2., the microscopy modalities are all aligned on the same grid.
