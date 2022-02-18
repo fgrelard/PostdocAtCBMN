@@ -7,11 +7,16 @@
 
 [[id:9a753b0f-254a-42cf-8ef4-9b139a0bd14f][Raman imaging]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]] [[id:fb2a0e54-4e16-48ad-b23e-4a783d2013d2][Multimodal imaging]]
 
-Fiducial points.
+Fiducial points identified manually.
 Registration of Raman image onto the MS image.
 
 [[id:0e94cff9-50fa-425c-b0fc-a35bdb16cd0d][Statistical analysis]] by PCA on weighted data to attribute the same importance to both datasets.
 
+Both data highlight the change in lipid distribution (third PCA component).
+
 #+ATTR_ORG: :width 500
 [[file:/home/fgrelard/org/fig/captures/yanked_2022-02-18T15_25_36.png]]
 
+We can get a correlation map afterwards:
+#+ATTR_ORG: :width 500
+[[file:/home/fgrelard/org/fig/captures/yanked_2022-02-18T15_29_43.png]]
