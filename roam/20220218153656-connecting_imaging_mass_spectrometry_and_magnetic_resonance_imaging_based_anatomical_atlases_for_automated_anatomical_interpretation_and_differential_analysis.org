@@ -16,3 +16,8 @@ Brain atlas in MRI.
 
 *  [[id:0e94cff9-50fa-425c-b0fc-a35bdb16cd0d][Statistical analysis]]
 Wilcoxon rank sum test to find differently expressed ions over healthy and diseases brain hemispheres.
+
+Automated anatomical interpretation automatically identifies the
+spatial distributions observed in any registered ion image as a combination of the anatomical structures described in the atlas. Each ion image is the weighted sum of anatomical images. Optimization problem.
+Details in: [[cite:&Lein_2006]]
+
