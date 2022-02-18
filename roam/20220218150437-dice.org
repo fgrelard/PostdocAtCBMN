@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       f6a0f50e-d1fa-4108-9073-4be739a832af
+:END:
+#+title: DICE
+
+\[
+DICE(X,Y) = \dfrac{2 |X \cap Y |}{|X| + |Y|}
+\]
