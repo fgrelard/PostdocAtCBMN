@@ -5,4 +5,6 @@
 #+title: Automatic 3d nonlinear registration of mass spectrometry imaging and magnetic resonance imaging data
 #+filetags: :literature:
 
-[[id:13b1dba3-aa5c-453d-be49-a7c06687bb26][3D MSI]] [[id:9a753b0f-254a-42cf-8ef4-9b139a0bd14f][Raman imaging]] [[id:fb2a0e54-4e16-48ad-b23e-4a783d2013d2][Multimodal imaging]] [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]]
+[[id:13b1dba3-aa5c-453d-be49-a7c06687bb26][3D MSI]] [[id:fb2a0e54-4e16-48ad-b23e-4a783d2013d2][Multimodal imaging]] [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]] [[id:844533cc-a7a1-4178-88a8-47eaeb023bb8][MRI]]
+
+The authors combine MRI and MSI data in order to identify the molecular distribution in different cell compartments. The shape is segmented in the MALDIMS image by a hierarchical version of the t-[[id:e95fd377-dd05-4363-8eca-b00b003524ff][SNE ]]algorithm ([[id:e48f89e0-263b-4dbe-ab29-70bd981d2312][HSNE]]), which builds different levels of detail across several ion images. This segmented shape is registered onto the MRI image with a deformable registration method. Correspondences with the MRI are established visually. 
