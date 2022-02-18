@@ -123,7 +123,7 @@ Else if the shape of the object are similar → geometrical based approaches.
 Else if nothing else: fiducial. Works for [[id:50bc746a-483e-4beb-97fb-b96833b5cb46][partial registration]].
 
 Raman, MRI, Microscopy, CT + MALDI, SIMS, DESI, LA
-1. Fiducial:  [[cite:&Bocklitz_2013]] (Raman/H&E). [[cite:&Borodinov_2020]] (SIMS), [[cite:&Patterson_2018]] (Microscopy)
+1. Fiducial:  [[cite:&Bocklitz_2013]] (Raman/H&E). [[cite:&Borodinov_2020]] (SIMS), [[cite:&Patterson_2018]] (Microscopy), [[cite:&Ryabchykov_2018]] (Raman)
 2. Iconic: [[cite:&Patterson_2018]] (Microscopy), [[cite:&Castellanos_Garcia_2021]] (LA-ICP)
 3. Geometrical/shape: [[cite:&Abdelmoula_2019]]  (MRI), [[cite:&Wehrli2020-spatial]] (H&E), [[cite:&Anyz_2017]] (H&E),
    
