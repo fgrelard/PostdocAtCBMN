@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       92b0161b-0099-43e8-9674-a97f458d2802
+:ROAM_REFS: cite:Bocklitz_2013
+:END:
+#+title: Deeper understanding of biological tissue: quantitative correlation of MALDI-TOF and raman imaging
