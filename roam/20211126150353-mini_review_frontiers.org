@@ -139,7 +139,8 @@ The images need to be on the same intensity scale.
 * Writing
 ** Registration
 
-Registration is usually the first step of multimodal image integration. It consists in aligning two or more images, such that the enclosed objects are superimposed. Registration methods aim at estimating the transformation which maps a moving, or deformable image onto a fixed, or reference image. They can be classified in two categories, depending on the information they use: (a) landmarks, or (b) pixel intensities. 
+Registration is usually the first step of multimodal image integration. It consists in aligning two or more images, such that the enclosed objects are superimposed. Registration methods aim at estimating the transformation which maps a moving, or deformable image onto a fixed, or reference image. They can be classified in two categories, depending on the information they use: (a) landmarks, or (b) pixel intensities.
+Landmarks are features in the image that are salient and easily recognizable. They can be selected manually or automatically. For instance, [[cite:&Borodinov_2020]] register MALDI images onto a SIMS image by selecting matching pairs of fiducial markers. 
 
 Convention is that the image with the higher
 spatial resolution takes the role of the fixed image
