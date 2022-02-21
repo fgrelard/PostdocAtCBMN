@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       114a8746-c1c0-4595-b1f7-fbc4e18c1732
+:END:
+#+title: Dice
+
