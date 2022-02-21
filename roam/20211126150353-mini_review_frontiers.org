@@ -143,7 +143,8 @@ Registration is usually the first step of multimodal image integration. It consi
 
 Registration methods can be classified in two categories, depending on the information they use: (a) landmarks, or (b) pixel intensities.
 
-Landmarks are features in the image that are salient and easily recognizable. Landmarks can be features added extraneously during sample preparation or during acquisition, or unique features visible in both images. They can be selected automatically or manually.Automatic methods identify and match landmark points based on local image descriptors, such as SIFT ([[cite:&Lowe_1999]]) or SURF ([[cite:&Bay_2006]]). These methods are generally not suited to a multimodal task since the images enclose different types of information.
-Manual methods involve the user intervention in selecting landmarks. are interesting to match [[cite:&Borodinov_2020]] register MALDI images onto a SIMS image by manually selecting matching pairs of fiducial markers. 
+Landmarks are features in the image that are salient and easily recognizable. Landmarks can be features added extraneously during sample preparation or during acquisition, or unique features visible in both images. They can be selected automatically or manually.
+Automatic methods identify and match landmark points based on local image descriptors, such as SIFT ([[cite:&Lowe_1999]]) or SURF ([[cite:&Bay_2006]]). These methods are generally not suited to a multimodal task since the images enclose different types of information.
+Manual methods involve the user intervention in selecting landmarks. They are used in the case of images with a large difference in terms of resolutions, or when it is not trivial to find similarities through the segmentation step. It is also the preferred method for partial registration, that it to say the registration of an image enclosing a subset of the tissue onto an image depicting a larger part of the tissue. [[cite:&Borodinov_2020]] register MALDI images onto a SIMS image by manually selecting matching pairs of fiducial markers. 
 
 
