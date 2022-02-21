@@ -137,4 +137,5 @@ The images need to be on the same intensity scale.
 ** Prospects
 *** [[id:50bc746a-483e-4beb-97fb-b96833b5cb46][Partial registration]], [[id:13b1dba3-aa5c-453d-be49-a7c06687bb26][3D MSI]].
 * Writing
+** Registration
 
