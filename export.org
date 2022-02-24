@@ -1,8 +1,9 @@
 #+OPTIONS: title:nil
+#+OPTIONS: prop:nil
 
 * cite:&Bocklitz_2013
 
-#+INCLUDE: "/home/fgrelard/org/roam/20220217173806-deeper_understanding_of_biological_tissue_quantitative_correlation_of_maldi_tof_and_raman_imaging.org" :only-contents t
+#+INCLUDE: "/home/fgrelard/org/roam/20220217173806-deeper_understanding_of_biological_tissue_quantitative_correlation_of_maldi_tof_and_raman_imaging.org"
 
 * cite:&Borodinov_2020
 
@@ -10,7 +11,7 @@
 
 * cite:&Patterson_2018
 
-#+INCLUDE: /home/fgrelard/org/roam/20220218113539-advanced_registration_and_analysis_of_maldi_imaging_mass_spectrometry_measurements_through_autofluorescence_microscopy.org
+#+INCLUDE: /home/fgrelard/org/roam/20220218113539-advanced_registration_and_analysis_of_maldi_imaging_mass_spectrometry_measurements_through_autofluorescence_microscopy.org 
 
 * cite:&Ryabchykov_2018
 
