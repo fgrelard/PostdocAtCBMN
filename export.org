@@ -1,4 +1,7 @@
 #+TITLE: Export
+#+OPTIONS: title
+#+OPTIONS: toc
+#+OPTIONS: tags
 
 #+INCLUDE: "/home/fgrelard/org/roam/20220217173806-deeper_understanding_of_biological_tissue_quantitative_correlation_of_maldi_tof_and_raman_imaging.org"
 
