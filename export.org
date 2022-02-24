@@ -1,5 +1,4 @@
 #+OPTIONS: title:nil
-#+OPTIONS: prop:nil
 
 * cite:&Bocklitz_2013
 
