@@ -1,0 +1,41 @@
+#+OPTIONS: title:nil
+
+* cite:&Bocklitz_2013
+
+#+INCLUDE: "/home/fgrelard/org/roam/20220217173806-deeper_understanding_of_biological_tissue_quantitative_correlation_of_maldi_tof_and_raman_imaging.org" :lines "5-"
+
+* cite:&Borodinov_2020
+
+#+INCLUDE: "/home/fgrelard/org/roam/20220217174713-toward_nanoscale_molecular_mass_spectrometry_imaging_via_physically_constrained_machine_learning_on_co_registered_multimodal_data.org" :lines "5-"
+
+* cite:&Patterson_2018
+
+#+INCLUDE: "/home/fgrelard/org/roam/20220218113539-advanced_registration_and_analysis_of_maldi_imaging_mass_spectrometry_measurements_through_autofluorescence_microscopy.org" :lines "5-"
+
+* cite:&Ryabchykov_2018
+
+#+INCLUDE: "/home/fgrelard/org/roam/20220218151841-fusion_of_maldi_spectrometric_imaging_and_raman_spectroscopic_data_for_the_analysis_of_biological_samples.org" :lines "5-"
+
+* cite:&Patterson_2018
+
+#+INCLUDE: "/home/fgrelard/org/roam/20220218113539-advanced_registration_and_analysis_of_maldi_imaging_mass_spectrometry_measurements_through_autofluorescence_microscopy.org" :lines "5-"
+
+* cite:&Castellanos_Garcia_2021
+
+#+INCLUDE: "/home/fgrelard/org/roam/20220218150208-la_icp_ms_and_maldi_ms_image_registration_for_correlating_nanomaterial_biodistributions_and_their_biochemical_effects.org" :lines "5-"
+
+* cite:&Verbeeck_2017
+
+#+INCLUDE: "/home/fgrelard/org/roam/20220218153656-connecting_imaging_mass_spectrometry_and_magnetic_resonance_imaging_based_anatomical_atlases_for_automated_anatomical_interpretation_and_differential_analysis.org" :lines "5-"
+
+* cite:&Abdelmoula_2019
+
+#+INCLUDE: "/home/fgrelard/org/roam/20220217164442-automatic_3d_nonlinear_registration_of_mass_spectrometry_imaging_and_magnetic_resonance_imaging_data.org" :lines "5-"
+
+* cite:&Wehrli2020-spatial
+
+#+INCLUDE: "/home/fgrelard/org/roam/20211208151804-spatial_chemometrics_and_comprehensive_chemical_imaging_based_molecular_histopathology_delineates_anatomical_heterogeneity_at_single_pixel_resolution.org" :lines "5-"
+
+* cite:&Anyz_2017
+
+#+INCLUDE: "/home/fgrelard/org/roam/20220217164931-spatial_mapping_of_metals_in_tissue_sections_using_combination_of_mass_spectrometry_and_histology_through_image_registration.org" :lines "5-"
