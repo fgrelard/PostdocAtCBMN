@@ -20,3 +20,9 @@ _Org workflow from Org to LaTeX_:
 3. Copy/paste document's appropriate parts in LaTeX document
 4. ~M-x org-ref-extract-bibtex-entries~
 5. Copy/paste in Bib file
+
+_Org notes to PDF_:
+1. Use custom function ~M-x org-ref-export/notes~. This creates a temporary buffer called ~EXPORT_TMP.org~.
+2. Switch to ~EXPORT_TMP.org~. Write it to file.
+3. Run ~M-x org-export-dispatch~ or ~C-c C-e~, then Org-ref export/PDF: ~r p~.
+   
