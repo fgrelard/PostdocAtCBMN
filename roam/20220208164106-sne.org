@@ -9,5 +9,5 @@ Intuitively, SNE techniques encode small-neighborhood relationships in the high-
 _Goal_: preserve local structures of high-dimensional data in a low map representation.
 
 _Examples_:
-- t-SNE
+- [[id:c7e8f09f-de86-47c4-90d0-0d7fd58d348a][t-SNE]]
 - [[id:e48f89e0-263b-4dbe-ab29-70bd981d2312][HSNE]] (hierarchical SNE)
