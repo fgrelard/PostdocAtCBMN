@@ -14,6 +14,8 @@ The authors combine MRI and MSI data in order to identify the molecular distribu
 
 ⚠ Manual step
 
+Similarity: Mutual information
+
 The registration is done from the MSI onto the MR image.
 
 Evaluation of registration by the [[id:f6a0f50e-d1fa-4108-9073-4be739a832af][DICE]] metric.
