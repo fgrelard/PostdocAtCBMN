@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c7e8f09f-de86-47c4-90d0-0d7fd58d348a
+:ROAM_REFS: cite:Vandermaaten_08a
+:ROAM_ALIASES: TSNE t-SNE
+:END:
+#+title: Visualizing data using t-sne
