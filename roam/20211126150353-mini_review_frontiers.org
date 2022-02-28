@@ -153,6 +153,6 @@ Iconic methods are used in numerous MALDI-MSI registration tasks.  [[cite:&Anyz_
 
 Hybrid approaches use both iconic and landmark-based registration methods. [[cite:&Patterson_2018]] register microscopy and MALDI-MS images. Two microscopy images, before and after MALDI-MS imaging, are acquired. Since, they come from the same modality, the authors use iconic approaches to register them. The microscopy images are then registered onto an upsampled version of the MALDI-MS image using laser ablation marks as landmarks. This workflow avoids introducing deformation artefacts in the MSI datasets, and preserves the resolution of microscopy images.
 
-The quality of the registration can be evaluated by various metrics, such as the Dice coefficient, or the F-measure, which measure the proportion of shared pixels.
+The quality of the registration can be evaluated by various metrics, such as the Dice coefficient, or the F-measure, which estimate the proportion of overlapping pixels between the two images after registration. When using non-linear transformations, it is important to obtain a good compromise between shape matching and intensity fidelity. For instance, [[cite:&Grelard_2021]] estimate the intensity fidelity by computing the mutual information between both images.
 
 
