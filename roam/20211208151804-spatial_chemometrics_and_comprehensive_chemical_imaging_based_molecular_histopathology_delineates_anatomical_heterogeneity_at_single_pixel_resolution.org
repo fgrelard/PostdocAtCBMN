@@ -15,7 +15,7 @@ Using PCA score images as reference images for each modality.
 2. Automatic iconic image registration:
    - Optimizer: 1+1 evolutionary.
    - Metric: MSE of Mattes Mutual information.
-   - Transformation: ?
+   - Transformation: Affine
      
 * [[id:74e38001-568b-42ec-a8f2-bb8a4f39013a][Statistical analysis]]
 
