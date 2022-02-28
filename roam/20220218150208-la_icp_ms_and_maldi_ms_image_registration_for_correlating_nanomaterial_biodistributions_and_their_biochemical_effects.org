@@ -12,4 +12,6 @@ t-SNE or heme ion image for MALDI.
 
 Iconic registration.
 
+Linear and nonlinear transformation.
+
 Validation using [[id:f6a0f50e-d1fa-4108-9073-4be739a832af][DICE]] coefficient.
