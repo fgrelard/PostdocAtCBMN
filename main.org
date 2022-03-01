@@ -37,8 +37,6 @@
 :PROPERTIES:
 :ID:       24e88f70-b939-46b0-9c3a-1e59f9f7d26a
 :END:
-
-
 _Approach:_
 **** DONE Sparse matrices with same operations as numpy's ndarray
 CLOSED: <2021-10-01 Fri 12:05>
