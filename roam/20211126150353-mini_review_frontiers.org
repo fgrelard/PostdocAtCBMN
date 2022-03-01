@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       2c490269-aa92-47de-9619-614c147b5717
 :END:
+#+csl-style: ../bib/frontiers-in-chemistry.csl
 #+title: Mini-review Frontiers
 [[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]]
 
@@ -170,5 +171,4 @@ Hybrid approaches use both iconic and landmark-based registration methods. [[cit
 
 The quality of the registration can be evaluated by various metrics, such as the Dice coefficient or the F-measure, which both estimate the proportion of overlapping pixels between the deformed and fixed images. When using non-linear transformations, it is important to select parameters such as to obtain a good compromise between shape matching and intensity fidelity. For instance, [[cite:&Grelard_2021]] estimate the shape matching by F-measure, and the intensity fidelity by computing the mutual information between the images before and after applying the non-linear registration.
 
-bibliographystyle:unsrt
 bibliography:/home/fgrelard/org/bib/main.bib
