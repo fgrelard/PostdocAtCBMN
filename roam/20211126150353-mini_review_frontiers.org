@@ -138,9 +138,10 @@ The images need to be on the same intensity scale.
 *** [[id:50bc746a-483e-4beb-97fb-b96833b5cb46][Partial registration]], [[id:13b1dba3-aa5c-453d-be49-a7c06687bb26][3D MSI]].
 * Writing
 ** Pre-processing
-There are multiple methods for pre-processing the images, which are often dependent on the modality. In this section, we focus on common pre-processing tasks which facilitate the registration process.
+There are multiple methods for pre-processing the images, which are often dependent on the modality. In this section, we focus on MALDI-MS and common pre-processing tasks which facilitate the registration process.
 
 The large dataset size makes the MALDI-MSI datasets difficult to analyze in a multimodal setting.  Various approaches are designed to reduce the complexity of the datasets. For instance, peak picking and alignment reduce the dataset size while preserving the relevant information. The dataset can be further reduced by dimension reduction techniques, such as PCA, NMF (non-negative matrix factorization) or t-SNE ([[cite:&Vandermaaten_08a]]). PCA and NMF are matrix decomposition techniques where the original, large, MALDI-MS image is approximated by the product of two smaller matrices. Common information across ion images are stored inside so-called component images. The component images usually highlight important structures in the tissue. PCA and NMF are linear matrix decomposition techniques, whereas t-SNE is a probabilistic, non-linear dimension reduction technique.
+
 - _Preprocessing_: binning, peak picking, alignment (centroiding)...
 - _Select_ an ion image manually
 - _Dimension reduction_: PCA, tSNE, ... [[cite:&Abdelmoula_2019]] and [[cite:&Verbeeck_2017]]
