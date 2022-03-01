@@ -1,7 +1,8 @@
 :PROPERTIES:
 :ID:       2c490269-aa92-47de-9619-614c147b5717
 :END:
-#+csl-style: ../bib/frontiers-in-chemistry.csl
+#+options: toc:nil
+#+csl-style: chicago-author-date-16th-edition.csl
 #+title: Mini-review Frontiers
 [[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]]
 
