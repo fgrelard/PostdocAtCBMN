@@ -3,5 +3,13 @@
 :ROAM_REFS: cite:Alexandrov_2011
 :END:
 #+title: Efficient spatial segmentation of large imaging mass spectrometry datasets with spatially aware clustering
+#+filetags: :literature:
 
-Uses fastmap: distance preserving projection (linear)
+_Goal_: get rid of noise.
+_Approach_: use a neighborhood around each point, with a gaussian weighting function.
+
+Uses [[id:01d316b0-1af3-4a59-9ac2-df5e4e3cff7d][Fastmap]] to reduce redundancy in the spectra.
+
+1. Create vectors for each spectra taking into account a weighted neighborhood
+2. Project each spectrum using FastMap and a given number of components
+3. Cluster the projected spectra using k-means.
