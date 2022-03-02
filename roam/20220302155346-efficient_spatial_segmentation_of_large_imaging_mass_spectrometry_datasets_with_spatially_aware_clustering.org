@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       5c8cf7c3-c5f6-4e3c-b5a5-b839084d2846
+:ROAM_REFS: cite:Alexandrov_2011
+:END:
+#+title: Efficient spatial segmentation of large imaging mass spectrometry datasets with spatially aware clustering
+
+Uses fastmap: distance preserving projection (linear)
