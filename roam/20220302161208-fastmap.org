@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       01d316b0-1af3-4a59-9ac2-df5e4e3cff7d
+:END:
+#+title: Fastmap
+
+Distance preserving projection (linear dimension reduction method)
