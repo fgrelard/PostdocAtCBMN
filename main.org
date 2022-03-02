@@ -92,6 +92,7 @@ CLOSED: [2021-11-10 Wed 15:49]
 CLOCK: [2021-11-10 Wed 14:00]--[2021-11-10 Wed 15:49] =>  1:49
 :END:
 **** TODO Implementation of memory-mapped files for ~imzML~ [1/2]
+Won't continue further development as it involves rewriting a lot of the existing matrix manipulation algorithms.
 ***** DONE Memory map ~ibd~ files
 CLOSED: [2021-11-10 Wed 16:51]
 ~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::81894f0d504709559aefb59e0b55d7dc1f8892de][81894f0 Memory mapped ibd parsing]]
@@ -109,10 +110,16 @@ CLOCK: [2021-11-15 Mon 16:43]--[2021-11-15 Mon 17:30] =>  0:47
 CLOCK: [2021-11-15 Mon 09:57]--[2021-11-15 Mon 11:44] =>  1:47
 :END:
 
-Won't continue further development as it involves rewriting a lot of the existing matrix manipulation algorithms.
 **** DONE Implementation of on-the-fly read function similarly to ~MSiReader~.
 CLOSED: [2022-03-02 Wed 11:05]
-Create index files with all relevant information from the ~imzML~.
+***** DONE Implementation using ~pyimzML~ parser
+CLOSED: [2022-03-02 Wed 11:18]
+~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::93cff8c02a007161a360abe3e229ed1e5d2b7bcd][93cff8c GUI: MS image on the fly]]
+***** TODO Bug fixes [0/3]
+****** TODO Maximum bug
+****** TODO ROI integration
+****** TODO Profile spectrum
+
 *** General functionalities
 _TODOs_:
 **** DONE Fix input of ~unsigned_char(1)~ images, i.e. exported by ~GIMP~.
