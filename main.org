@@ -108,7 +108,10 @@ CLOCK: [2021-11-16 Tue 09:28]--[2021-11-16 Tue 11:26] =>  1:58
 CLOCK: [2021-11-15 Mon 16:43]--[2021-11-15 Mon 17:30] =>  0:47
 CLOCK: [2021-11-15 Mon 09:57]--[2021-11-15 Mon 11:44] =>  1:47
 :END:
-**** TODO Implementation of on-the-fly read function similarly to ~MSiReader~.
+
+Won't continue further development as it involves rewriting a lot of the existing matrix manipulation algorithms.
+**** DONE Implementation of on-the-fly read function similarly to ~MSiReader~.
+CLOSED: [2022-03-02 Wed 11:05]
 Create index files with all relevant information from the ~imzML~.
 *** General functionalities
 _TODOs_:
@@ -216,7 +219,13 @@ CLOCK: [2021-11-04 Thu 15:27]--[2021-11-04 Thu 17:51] =>  2:24
 :END:
 1) Generating a simpler image with reduced spectral dimension
 2) Try on reduced image
-   
+*** /m/z/ difference image
+Perform difference image in /m/z/: for a given /m/z/ ratio, compute the difference in /m/z/ for each pixel w.r.t to the reference /m/z/.
+
+_TODOs:_
+**** TODO On-the-fly image
+**** TODO Sparse image
+
 * Teaching
 * Papers
 bibliographystyle:unsrt
