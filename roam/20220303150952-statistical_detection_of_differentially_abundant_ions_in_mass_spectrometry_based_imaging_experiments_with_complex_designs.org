@@ -6,3 +6,5 @@
 #+filetags: :literature:
 
 [[id:0e94cff9-50fa-425c-b0fc-a35bdb16cd0d][Statistical analysis]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]]
+
+Statistical analysis must match the research goal
