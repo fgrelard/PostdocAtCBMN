@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       e221714d-4812-48b2-b4f2-f83fec6d333f
+:ROAM_REFS: cite:Bemis_2019
+:END:
+#+title: Statistical detection of differentially abundant ions in mass spectrometry-based imaging experiments with complex designs
+#+filetags: :literature:
+
+[[id:0e94cff9-50fa-425c-b0fc-a35bdb16cd0d][Statistical analysis]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]]
