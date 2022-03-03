@@ -156,10 +156,9 @@ As a last step of data analysis, univariate analysis can be used to find statist
 :PROPERTIES:
 :ID:       e44916fd-cee4-48a8-845d-a4b51fd5a6d8
 :END:
-There are multiple methods for pre-processing the images, which are often dependent on the modality. In this section, we focus on common pre-processing tasks which facilitate the registration process.
+There are multiple methods for pre-processing the images, which are often dependent on the modality. In this section, we focus on common processing tasks which facilitate the registration process.
 
-Denoising is commonly applied to remove spurious signal from images. Generic methods, such as median or gaussian filtering, can help to get rid of general intensity irregularities.
-Before registration, images should be comparable and in the same dimensionality. This implies that hyperspectral images must be processed. Involved images can be selected manually (e.g. ion image in MALDI) or come from a pre-processing step: component image from dimension reduction techniques, cluster image (see Section [[*Data analysis/statistics][Data analysis/statistics]]). Other traditional or modality-specific segmentation algorithms can be used.
+Before registration, images should be comparable and have the same number of dimensions. This implies that hyperspectral images must be processed. Involved images can be used directly (e.g. ion image in MALDI) or come from a pre-processing step: component image from dimension reduction techniques, cluster image (see Section [[*Data analysis/statistics][Data analysis/statistics]]). Other traditional or modality-specific segmentation algorithms can be used.
 
 ** Registration
 Registration is usually the first step of multimodal image integration. It consists in aligning two or more images, such that the enclosed objects are superimposed. Registration methods aim at estimating the transformation which maps a moving, or deformable image onto a fixed, or reference image. Usually, the moving image is chosen as the one with the lowest resolution, so as to preserve the data from the fixed image with higher resolution. The transformation can be rigid (translation and rotation), affine (rigid with scaling, and shearing), projective (affine with perspective) or non-linear. Non-linear models account for local deformations in the image. They are necessary to accurately model the deformations induced during sample preparation, such as slicing or enzymatic digestion of the tissue.
