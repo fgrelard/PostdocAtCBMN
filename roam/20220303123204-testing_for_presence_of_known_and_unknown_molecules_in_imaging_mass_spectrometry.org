@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       aae16ce7-a4ca-4dc3-a612-7be5667a3dbb
+:ROAM_REFS: cite:Alexandrov_2013
+:ROAM_ALIASES: "Spatial chaos"
+:END:
+#+title: Testing for presence of known and unknown molecules in imaging mass spectrometry
+
+[[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:42cc18b8-69d4-439d-b5f5-f0b61862b79a][Segmentation]]
+
+Introduce a new measure called spatial chaos, which quantifies abrupt intensity variations in an image. This measure characterizes how points with high intensity values are spread, using various binarized versions of the image. The spatial chaos values are generally low for relevant ion images, and high for noisy images. This does not hold for noisy images with intensity artefacts, and when the variance noise is low.
