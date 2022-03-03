@@ -29,9 +29,7 @@ _Architecture evolution over time_:
 5) [[cite:&Hu2018-squeez]]: SENet, integrates channel attention layer.
 6) [[cite:&Ronneberger2015-u-net]]: UNet: joint learning of localization and classification
 7) [[cite:&Goodfellow2014-generative]]: GAN: data generation.
-
    
-
 * Concepts
 Four components: 
 ** Deep learning model
