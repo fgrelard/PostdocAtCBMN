@@ -9,4 +9,6 @@
 
 _Aim:_ to remove signal from background, or out-of-sample (=offsample)
 
-Datasets: 87 public MS imaging datasets.
+Datasets: 87 public MS imaging datasets (various technologies and samples)
+
+Annotation: tagging ON or OFF-sample ion images by experts.
