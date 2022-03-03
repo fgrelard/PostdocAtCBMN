@@ -13,7 +13,7 @@ Usage of the Pi model.
 _Conclusion_: results with deep learning are very similar to cosine similarity
 
 #+begin_quote
-/We would like to note other specifics of the considered problem
+We would like to note other specifics of the considered problem
 which potentially do not allow to capitalize on the full potential of
 the deep learning methods: ion images from the same dataset have
 the same size and structure and can be compared pixel-by-pixel after
@@ -21,7 +21,7 @@ flattening. Ion images also do not undergo changes in the view angle
 or brightness or other non-linear deformations that would apply to,
 e.g. photos used in computer vision where deep learning significant-
 ly benefits from its capacity to extract abstract visual features thus
-allowing comparison of different images showing the same object./
+allowing comparison of different images showing the same object.
 #+end_quote
 
 
