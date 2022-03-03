@@ -12,3 +12,10 @@ _Aim:_ to remove signal from background, or out-of-sample (=offsample)
 Datasets: 87 public MS imaging datasets (various technologies and samples)
 
 Annotation: tagging ON or OFF-sample ion images by experts.
+
+Then 3 methods:
+- spatiomolecular biclustering: clustering according to both spatial and spectral info. Spatial=offsample molecules have similar distribution. Spectral=offsample pixels have similar molecular distributions.
+- molecular colocalization methods: cosine distance on ion images, then clustering.
+- deep residual learning method: ResNet50. Residual learning=faster training.
+
+  Deep learning outperforms the others.
