@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       397eebd3-f424-4145-ab15-0fb99aa3cd0a
+:ROAM_REFS: cite:Zhang_2021
+:END:
+#+title: Spatially aware clustering of ion images in mass spectrometry imaging data using deep learning
+#+filetags: :literature:
+
+[[id:2fc4674b-a17d-4ff8-bd0b-81cf59175e74][Clustering]] [[id:b08807ac-d9e3-4987-8b42-be4ec686d94c][Deep learning]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]]
+
+Basis: hard to choose an appropriate distance metric to measure similarity in clustering.
+
+Solution: use Deep Learning to solve that for us, pairing similar ion images together.
+
+Usage of Xception network, trained on the ImageNet Database. [[id:1ccd73a4-82bb-4466-9a4c-d73620291faf][Transfer learning]] from that network. The aim is to group ion image with high visual similarity close together → embeddings are called "neural ion images".
+
+Then [[id:2fc4674b-a17d-4ff8-bd0b-81cf59175e74][clustering]] of neural ion images with kmeans and UMAP.
+Visualization by mean image of each cluster.
+
+#+ATTR_ORG: :width 500
+[[file:/home/fgrelard/org/fig/captures/yanked_2022-03-03T14_20_42.png]]
