@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       6d63cb50-80fd-4775-92f2-773d1e215d2e
+:ROAM_REFS: cite:Ovchinnikova_2020b
+:END:
+#+title: OffsampleAI: artificial intelligence approach to recognize off-sample mass spectrometry images
+#+filetags: :literature:
+
+[[id:b08807ac-d9e3-4987-8b42-be4ec686d94c][Deep learning]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]]
+
+_Aim:_ to remove signal from background, or out-of-sample (=offsample)
+
+Datasets: 87 public MS imaging datasets.
