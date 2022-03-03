@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       9c85c263-bbb5-4ad7-9538-29834b5465f4
+:ROAM_REFS: cite:Bemis_2017
+:END:
+#+title: Matter: an r package for rapid prototyping with larger-than-memory datasets on disk
+#+filetags: :literature:
+
+[[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:818a1c5c-937a-40ab-b18d-92e1f49f8a75][Dataset size]] [[id:82fbac32-a53c-4862-bfe2-4ca99fbd93fe][Memory-mapped files]]
+
+Usage of memory mapped files in [[id:b8604cdb-14bc-4f26-a171-5118227f42da][Cardinal]]. 
