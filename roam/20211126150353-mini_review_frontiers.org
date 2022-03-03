@@ -153,9 +153,7 @@ Clustering methods give simplified representations of the datasets, where simila
 As a last step of data analysis, univariate analysis can be used to find statistical differences between spatial distributions of molecules, or regions in the image. The choice of the method depends on the MSI dataset and the hypothesis of the experiment. T-test is used to highlight statistical differences for a specific m/z between two different samples [[cite:&Yajima_2018]], or regions within a tissue section, whereas the analysis of variance (ANOVA) test can be used to compare three or more regions [[cite:&Blanc_2018]]. When the normality assumption is not verified, as is often the case for MSI datasets, Mann-Whitney U-Test should be used [[cite:&Guo_2014]]. To determine if an ion is a good biomarker to distinguish different conditions, ROC curve analysis can be applied [[cite:&Hoo_2017]].
 
 ** Pre-processing
-There are multiple methods for pre-processing the images, which are often dependent on the modality. In this section, we focus on common processing tasks which facilitate the registration process.
-
-Before registration, images should be comparable and have the same number of dimensions. Involved images can be used directly (e.g. ion image in MALDI) or come from segmentation methods, which extract objects of interest in images. For instance, segmentation maps from dimension reduction techniques (e.g. component image), or clustering can be used (see Section [[*Data analysis/statistics][Data analysis/statistics]]).
+Before registration, images should be comparable and have the same number of dimensions. Involved images can be used directly (e.g. ion image in MALDI) or come from segmentation methods, which extract objects of interest in images. For instance, segmentation maps from dimension reduction techniques (e.g. component image), or clustering, can be used (see Section [[*Data analysis/statistics][Data analysis/statistics]]).
 Segmentation methods are usually based on pixel intensities or use the geometrical properties of the objects. In a multimodal setting involving MALDI-MSI, common methods involve simple thresholding ([[cite:&Anyz_2017]]), region growing ([[cite:&Grelard_2021]]), methods assisting in selecting spatially coherent ion images ([[cite:&Alexandrov_2013]]), or machine learning
 
 ** Registration
@@ -176,5 +174,7 @@ Hybrid approaches use both iconic and landmark-based registration methods. [[cit
 The quality of the registration can be evaluated by various metrics, such as the Dice coefficient or the F-measure, which both estimate the proportion of overlapping pixels between the deformed and fixed images. When using non-linear transformations, it is important to select parameters such as to obtain a good compromise between shape matching and intensity fidelity. For instance, [[cite:&Grelard_2021]] estimate the shape matching by F-measure, and the intensity fidelity by computing the mutual information between the images before and after applying non-linear registration.
 
 ** Statistical analysis
-
+- class discovery (segmentation)
+- class prediction (classification)
+- class comparison (same tissue or different tissue): differentially abundant ions
 bibliography:/home/fgrelard/org/bib/main.bib
