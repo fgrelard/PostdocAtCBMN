@@ -8,7 +8,10 @@
 [[id:0e94cff9-50fa-425c-b0fc-a35bdb16cd0d][Statistical analysis]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]]
 
 _Goal_:  class comparison. Detect analytes that have different intensities across different conditions. Differentially abundant ions.
+
 Statistical analysis must match the research goal.
+Statistical analysis must match the experimental design.
+Statistical analysis must match the existing sources of variation.
 
 *Class comparison* is usually done by [[id:8e1c9185-edd2-4acc-b8a3-08891175b304][supervised learning]].
  
