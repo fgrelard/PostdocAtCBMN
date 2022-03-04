@@ -3,5 +3,7 @@
 :ROAM_REFS: cite:Abdelmoula_2022
 :END:
 #+title: MassNet: integrated processing and classification of spatially resolved mass spectrometry data using deep learning for rapid tumor delineation
+#+filetags: :literature:
 
 [[id:b08807ac-d9e3-4987-8b42-be4ec686d94c][Deep learning]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:42cc18b8-69d4-439d-b5f5-f0b61862b79a][Segmentation]]
+
