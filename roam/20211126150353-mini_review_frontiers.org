@@ -150,11 +150,11 @@ The dataset can be further reduced by dimension reduction techniques, such as PC
 
 Clustering methods give simplified representations of the datasets, where similar spectra are grouped together. The output can be visualized as a 2D image where each pixel has an intensity equal to its cluster number. Similarities between spectra can be estimated by various metrics, such as the Euclidean distance, which captures similarities among raw intensities, or the cosine distance, which captures similar trends in the spectra. The k-means algorithm groups spectra according to a predefined number of clusters ([[cite:&Palmer_2014]]), whereas hierarchical clustering yields a hierarchy of clusters, arranged from broad structures to finer details ([[cite:&Urbini_2017]]). [[cite:&Alexandrov_2011]] propose a clustering algorithm which limits the impact of noise in MALDI-MS images, where pixels are grouped by the similarity between their neighborhoods.
 
-As a last step of data analysis, univariate analysis can be used to find statistical differences between spatial distributions of molecules, or regions in the image. The choice of the method depends on the MSI dataset and the hypothesis of the experiment. T-test is used to highlight statistical differences for a specific m/z between two different samples [[cite:&Yajima_2018]], or regions within a tissue section, whereas the analysis of variance (ANOVA) test can be used to compare three or more regions [[cite:&Blanc_2018]]. When the normality assumption is not verified, as is often the case for MSI datasets, Mann-Whitney U-Test should be used [[cite:&Guo_2014]]. To determine if an ion is a good biomarker to distinguish different conditions, ROC curve analysis can be applied [[cite:&Hoo_2017]].
-
 ** Pre-processing
 Before registration, images should be comparable and have the same number of dimensions. Involved images can be used directly (e.g. ion image in MALDI) or come from segmentation methods, which extract objects of interest in images. For instance, segmentation maps from dimension reduction techniques (e.g. component image), or clustering, can be used (see Section [[*Data analysis/statistics][Data analysis/statistics]]).
 Segmentation methods are usually based on pixel intensities or use the geometrical properties of the objects. In a multimodal setting involving MALDI-MSI, common methods involve simple thresholding ([[cite:&Anyz_2017]]), region growing ([[cite:&Grelard_2021]]), methods assisting in selecting spatially coherent ion images ([[cite:&Alexandrov_2013]]), or deep learning ([[cite:&Abdelmoula_2022]]).
+
+The images should be in the same intensity range.
 
 ** Registration
 Registration is usually the first step of multimodal image integration. It consists in aligning two or more images, such that the enclosed objects are superimposed. Registration methods aim at estimating the transformation which maps a moving, or deformable image onto a fixed, or reference image. Usually, the moving image is chosen as the one with the lowest resolution, so as to preserve the data from the fixed image with higher resolution. The transformation can be rigid (translation and rotation), affine (rigid with scaling, and shearing), projective (affine with perspective) or non-linear. Non-linear models account for local deformations in the image. They are necessary to accurately model the deformations induced during sample preparation, such as slicing or enzymatic digestion of the tissue.
@@ -174,7 +174,20 @@ Hybrid approaches use both iconic and landmark-based registration methods. [[cit
 The quality of the registration can be evaluated by various metrics, such as the Dice coefficient or the F-measure, which both estimate the proportion of overlapping pixels between the deformed and fixed images. When using non-linear transformations, it is important to select parameters such as to obtain a good compromise between shape matching and intensity fidelity. For instance, [[cite:&Grelard_2021]] estimate the shape matching by F-measure, and the intensity fidelity by computing the mutual information between the images before and after applying non-linear registration.
 
 ** Statistical analysis
-- class discovery (segmentation)
-- class prediction (classification)
-- class comparison (same tissue or different tissue): differentially abundant ions
+
+The last step of a multimodal workflow is usually the joint statistical analysis of the images. This involves using the information from both modalities to evidence complementarities and correlations. The algorithms can be grouped according to the scientific goal: (1) class discovery, i.e. find commonalities without any /a priori/ information, (2) class prediction, using annotations from other datasets to infer the and (3) class comparison, using annotations or complementary information to find differentially abundant ions.
+
+Class discovery can be achieved by data dimension reduction methods or clustering.
+
+[[cite:&Abdelmoula_2019]] Segmentation maps are obtained by [[id:e48f89e0-263b-4dbe-ab29-70bd981d2312][HSNE]], a hierarchical version of the t-[[id:e95fd377-dd05-4363-8eca-b00b003524ff][SNE]].
+Then correlations are established by Pearson's correlation coefficient between the segmentation map (=cluster) and the ion images. Those with higher Pearson's coefficient should be spatially disitributed in this cluster.
+[[cite:&Verbeeck_2017]] Wilcoxon rank sum test to find differently expressed ions over healthy and diseases brain hemispheres.
+Automated anatomical interpretation automatically identifies the
+spatial distributions observed in any registered ion image as a combination of the anatomical structures described in the atlas. Each ion image is the weighted sum of anatomical images. Optimization problem.
+Details in: [[cite:&Lein_2006]]
+[[cite:&Bemis_2019]] 
+[[cite:&Ryabchykov_2018]]  Raman and MALDI: by PCA on weighted data to attribute the same importance to both datasets.
+Both data highlight the change in lipid distribution (third PCA component) + correlation map
+[[cite:&Wehrli2020-spatial]] Multiblock
+[[cite:&Patterson_2018]] Overlap (definition?) is computed to establish [[id:8d07df0d-3aac-4797-8253-751aa8bfd7b7][spatial correlations]]. Ions are ranked according to their degree of overlap.
 bibliography:/home/fgrelard/org/bib/main.bib
