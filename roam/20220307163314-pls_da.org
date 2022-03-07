@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       ed808952-1930-4db2-ab26-1df365c0c7f6
+:ROAM_ALIASES: "Discriminant analysis" "Partial least squares regression"
+:END:
+#+title: PLS-DA
+
