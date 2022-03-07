@@ -13,3 +13,4 @@ _Goal_: to improve MALDI resolution.
 Registration is done by fiducial markers done by the laser.
 
 [[id:0e94cff9-50fa-425c-b0fc-a35bdb16cd0d][Statistical analysis]] done by NMF, and CCA to find correlations between the two MSI techniques.
+[[id:fc8784c1-b2bb-42ce-aebe-3811bd882dca][Super-resolution]] images by NMF + CCA.
