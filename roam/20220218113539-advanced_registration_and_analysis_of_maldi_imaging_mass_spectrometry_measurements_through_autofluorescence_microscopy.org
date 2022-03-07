@@ -36,3 +36,6 @@ This deformation is then applied to the MSI ion images.
 Then two different MSI datasets can be compared.
 
 Overlap (definition?) is computed to establish [[id:8d07df0d-3aac-4797-8253-751aa8bfd7b7][spatial correlations]]. Ions are ranked according to their degree of overlap.
+
+#+ATTR_ORG: :width 500
+[[file:/home/fgrelard/org/fig/captures/yanked_2022-03-07T17_00_07.png]]

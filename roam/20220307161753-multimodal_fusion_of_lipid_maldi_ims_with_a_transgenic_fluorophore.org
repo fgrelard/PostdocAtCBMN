@@ -11,5 +11,15 @@ Immunofluorescence and H&E and emission fluorescence microscopy.
 * Registration 
 Affine [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][registration]]. Usage of laser ablation marks + landmarks outside the tissue to reduce inaccuracy of determination of laser ablation marks.
 * [[id:0e94cff9-50fa-425c-b0fc-a35bdb16cd0d][Statistical analysis]]
+** Manual interpretation
+Select ions that colocalize with regions in areas. Only those that colocalize are selected.
+** Segmentation
+Spatial shrunken centroids: segmentation until the structure of interest appears in the clustering. Then analyze ions in this cluster.
+** Data driven analysis
+[[id:ed808952-1930-4db2-ab26-1df365c0c7f6][PLS-DA]] with MALDI MSI and fluorescence microscopy. Identify ions that correlate to a channel in fluorescence microscopy.
+#+ATTR_ORG: :width 500
+[[file:/home/fgrelard/org/fig/captures/yanked_2022-03-07T16_58_00.png]]
 
-
+** Class comparison
+Weighted average in the ROI.
+t-test between each region of interest.
