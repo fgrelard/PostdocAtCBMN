@@ -5,4 +5,11 @@
 #+title: Multimodal fusion of lipid MALDI IMS with a transgenic fluorophore
 #+filetags: :literature:
 
-[[id:fb2a0e54-4e16-48ad-b23e-4a783d2013d2][Multimodal imaging]] [[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]] [[id:8263eb3b-3e34-43b7-b0dc-826dff618fea][Microscopy]] 
+[[id:fb2a0e54-4e16-48ad-b23e-4a783d2013d2][Multimodal imaging]] [[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]] [[id:8263eb3b-3e34-43b7-b0dc-826dff618fea][Microscopy]]
+Immunofluorescence and H&E and emission fluorescence microscopy.
+
+* Registration 
+Affine [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][registration]]. Usage of laser ablation marks + landmarks outside the tissue to reduce inaccuracy of determination of laser ablation marks.
+* [[id:0e94cff9-50fa-425c-b0fc-a35bdb16cd0d][Statistical analysis]]
+
+
