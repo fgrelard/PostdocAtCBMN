@@ -174,6 +174,8 @@ The last step of a multimodal workflow is usually the joint statistical analysis
 
 Class discovery can be achieved by data dimension reduction methods or clustering (see Section [[*Data analysis/statistics][Data analysis/statistics]]).
 
+[[cite:&Abdelmoula_2019]] find segmentation maps of registered MALDI-MS images with the hierarchical variant of the t-SNE algorithm. Then, correlations are established by Pearson correlation coefficient between the segmentation map and the ion images. Those with higher Pearson coefficient are spatially distributed within this cluster.
+
 
 
 [[cite:&Borodinov_2020]] TOF+MALDI: pan sharpening by NMF + CCA (Canonical correlation analysis)
