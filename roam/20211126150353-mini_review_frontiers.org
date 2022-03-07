@@ -170,13 +170,13 @@ The quality of the registration can be evaluated by various metrics, such as the
 
 ** Statistical analysis
 
-The last step of a multimodal workflow is usually the joint statistical analysis of the images. This involves using the information from both modalities to evidence complementarities and correlations. The algorithms can be grouped according to the scientific goal: (1) class discovery, i.e. find commonalities without any /a priori/ information, (2) class prediction, using extraneous information to infer the and (3) class comparison, using extraneous information to find differentially abundant ions.
+The last step of a multimodal workflow is usually the joint statistical analysis of the images. This involves using the information from both modalities to evidence complementarities and correlations. The algorithms can be grouped according to the scientific goal: (1) class discovery, i.e. find commonalities without any /a priori/ information, (2) class prediction, using extraneous information to infer spatial or biological knowledge, and (3) class comparison, using extraneous information to find differentially abundant ions.
 
 Class discovery can be achieved by data dimension reduction methods or clustering (see Section [[*Data analysis/statistics][Data analysis/statistics]]).
 
 
 
-
+[[cite:&Borodinov_2020]] TOF+MALDI: pan sharpening by NMF + CCA (Canonical correlation analysis)
 
 [[cite:&Abdelmoula_2019]] Segmentation maps are obtained by [[id:e48f89e0-263b-4dbe-ab29-70bd981d2312][HSNE]], a hierarchical version of the t-[[id:e95fd377-dd05-4363-8eca-b00b003524ff][SNE]].
 Then correlations are established by Pearson's correlation coefficient between the segmentation map (=cluster) and the ion images. Those with higher Pearson's coefficient should be spatially disitributed in this cluster.
