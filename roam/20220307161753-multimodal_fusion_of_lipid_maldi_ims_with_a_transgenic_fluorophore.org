@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       c3c21624-29e0-4454-ae73-43a93bddb996
+:ROAM_REFS: cite:Jones_2019
+:END:
+#+title: Multimodal fusion of lipid MALDI IMS with a transgenic fluorophore
+#+filetags: :literature:
+
+[[id:fb2a0e54-4e16-48ad-b23e-4a783d2013d2][Multimodal imaging]] [[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]] [[id:8263eb3b-3e34-43b7-b0dc-826dff618fea][Microscopy]] 
