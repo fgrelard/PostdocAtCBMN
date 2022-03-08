@@ -174,8 +174,7 @@ The last step of a multimodal workflow is usually the joint statistical analysis
 
 Class discovery can be achieved by data dimension reduction methods or clustering (see Section [[*Data analysis/statistics][Data analysis/statistics]]). [[cite:&Abdelmoula_2019]] find segmentation maps of registered MALDI-MS images by a hierarchical variant of the t-SNE algorithm. Then, spatial correlations are established by Pearson correlation coefficient between the segmentation map and the ion images.  [[cite:&Ryabchykov_2018]]  find spatial correlations between Raman and MALDI-MS images by analyzing PCA scores and loadings. This analysis highlights changes in lipid distributions.
 
-Class prediction can be achieved by supervised methods. 
-[[cite:&Borodinov_2020]] TOF+MALDI: pan sharpening by NMF + CCA (Canonical correlation analysis)
+Class prediction can be achieved by supervised methods, that is to say methods that use annotated datasets. [[cite:&Borodinov_2020]] obtain MALDI-MS images with high resolution by combining them with TOF-SIMS images. They use Canonical Correlation Analysis (CCA) on NMF component images to find similarities and reconstruct MALDI ion images from the information from TOF-SIMS.
 [[cite:&Wehrli2020-spatial]] Multiblock class prediction
 High resolution predictions of images were obtained using OPLS model based on a decomposition of the microscopy image and a low resolution image from the MSI.
 
