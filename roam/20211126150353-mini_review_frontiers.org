@@ -183,10 +183,7 @@ Microscopy: RGB images were extended with RGB transformation (YIQ, YCbCr, ...) a
 
 And then used with microscopy, for [[id:fc8784c1-b2bb-42ce-aebe-3811bd882dca][super-resolution]] images.
 
-[[cite:&Jones_2019]] introduce various statistical analyses.
-- Manual interpretation
-Select ions that colocalize with regions in areas. Only those that colocalize are selected.
-- Segmentation
+[[cite:&Jones_2019]] introduce various statistical analyses covering class discovery, prediction and comparison. They combine MALDI-MS images with various microscopy images (fluorescence and H&E). First, they manually select ions that visibly colocalize with regions of interest in the tissue. This approach is insufficient as it leads to subjective results, and is not tractable on large datasets. They perform class discovery by the spatially shrunken centroid clustering algorithm, and analyze the clustering results further by looking up ions that are representative of a cluster of interest. Class prediction is achieved by Partial Least Squares (PLS), which allows to perform image fusion on ion images and a channel in fluorescence microscopy. The resulting fusion makes it easy to find biomarkers that are specifically distributed in this channel.
 Spatial shrunken centroids: segmentation until the structure of interest appears in the clustering. Then analyze ions in this cluster.
 - Data driven analysis
 [[id:ed808952-1930-4db2-ab26-1df365c0c7f6][PLS-DA]] with MALDI MSI and fluorescence microscopy. Identify ions that correlate to a channel in fluorescence microscopy.
