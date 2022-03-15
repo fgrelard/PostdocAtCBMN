@@ -37,7 +37,7 @@ TIC insufficient → NIC
 **** [[id:b962b560-9c85-4e67-849b-4f848e6376ec][Quality assurance]]
 **** [[id:b46c43ee-9b6d-4845-bd81-ceb93f9e1bad][Signal modelling]]
 **** [[id:b08807ac-d9e3-4987-8b42-be4ec686d94c][Deep learning]]
-**** [[id:55127251-aa8c-4efc-8462-ad9786f3f59b][Spatial resolution]] determination]
+**** [[id:55127251-aa8c-4efc-8462-ad9786f3f59b][Spatial resolution]] determination
 ** Multimodal imaging
 *** Different types of images
 1. One-channel image
@@ -192,3 +192,6 @@ Class discovery, prediction and comparison can be integrated in the same workflo
 
 
 bibliography:/home/fgrelard/org/bib/main.bib
+
+** Perspectives
+The capabilities achieved by multimodal imaging workflows are numerous, and many are yet to be fully exploited. The technical progress enacting higher spatial resolution for MALDI-MS images is met with larger dataset sizes. These datasets do not necessarily fit in memory, thus memory requirements become a bottleneck to several research groups. [[cite:&Bemis_2017]] developed an R package which loads larger-than-memory datasets, using disk operations. This effort should be made in other programming languages as well, but involves a lot of work to make existing data analysis algorithms compliant. 
