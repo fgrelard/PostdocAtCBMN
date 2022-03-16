@@ -5,4 +5,8 @@
 :END:
 #+title: Peak learning of mass spectrometry imaging data using artificial neural networks
 
-Encoder for variational inference
+- Encoder for variational inference (~dimension reduction?), yields generative model's parameters.
+
+- Decoder for unsupervised learning and data reconstruction given only the the generative model's parameters.
+
+
