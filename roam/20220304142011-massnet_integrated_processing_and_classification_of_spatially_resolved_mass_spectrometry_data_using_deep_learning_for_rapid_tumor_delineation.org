@@ -5,10 +5,16 @@
 #+title: MassNet: integrated processing and classification of spatially resolved mass spectrometry data using deep learning for rapid tumor delineation
 #+filetags: :literature:
 
-[[id:b08807ac-d9e3-4987-8b42-be4ec686d94c][Deep learning]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:42cc18b8-69d4-439d-b5f5-f0b61862b79a][Segmentation]]
+[[id:b08807ac-d9e3-4987-8b42-be4ec686d94c][Deep learning]] [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:42cc18b8-69d4-439d-b5f5-f0b61862b79a][Segmentation]] [[id:fb2a0e54-4e16-48ad-b23e-4a783d2013d2][Multimodal imaging]] [[id:bee298b2-9c52-4613-a8c2-4dbca24c15fc][H&E]]
 
 Deep learning on the full dataset without having to peak pick before.
+Use H&E to transfer the annotations onto MSI images manually.
+
+X = spectra
+Y = annotation, i.e. normal and tumor.
 
 massNet: two main modules:
-- class prediction
-- variational autoencoder to find a lower dimensional representation of the dataset.
+- variational autoencoder to find a lower dimensional representation of the dataset, with encoder and decoder, see [[cite:&Abdelmoula_2021]]
+- class prediction: tumor or normal
+
+  Classification (class prediction) is achieved by.
