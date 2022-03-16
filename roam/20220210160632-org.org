@@ -15,6 +15,8 @@ Hotkeys:
 - ~C-c n y~: Paste image from buffer
 
 _Org workflow from Org to LaTeX_:
+⚠ Set ~bibtex-dialect~ to ~biblatex~!
+
 1. Select region to export
 2. ~M-x org-ref-export/body~, ~e~, ~L l~
 3. Copy/paste document's appropriate parts in LaTeX document
