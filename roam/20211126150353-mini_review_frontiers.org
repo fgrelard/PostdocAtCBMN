@@ -170,10 +170,6 @@ Class comparison can be typically achieved by univariate analysis.  [[cite:&Verb
 [[cite:&Bemis_2019]] propose several models based on hierarchical Bayesian spatial models to find differently abundant ions. They model the fact that neighboring pixels have similar spectra, which retrieves differently abundant ions that are missed by other models.
 
 Class discovery, prediction and comparison can be integrated in the same workflow. [[cite:&Jones_2019]] introduce various statistical analyses encompassing all these analyses. They combine MALDI-MS images with various microscopy images (fluorescence and H&E). First, they manually select ions that visibly colocalize with regions of interest in the tissue. This approach is insufficient as it leads to subjective results, and is not tractable on large datasets. They perform class discovery by the spatially shrunken centroid clustering algorithm, and analyze the clustering results further by looking up ions that are representative of a cluster of interest. Class prediction is achieved by Partial Least Squares (PLS), which allows to perform image fusion on ion images and a channel in fluorescence microscopy. The resulting fusion makes it easy to find biomarkers that are specifically distributed in the fluorescence channel. Finally, they perform class comparison on weighted averages in regions of interest by Student t-test.
-
-
-
-
 ** Perspectives
 The capabilities achieved by multimodal imaging workflows are numerous, and many are yet to be fully exploited. The technical progress enacting higher spatial resolution for MALDI-MS images is met with larger dataset sizes. These datasets do not necessarily fit in memory, thus memory requirements become a bottleneck to several research groups. [[cite:&Bemis_2017]] developed an R package which loads larger-than-memory datasets, using disk operations. This effort should be furthered in other programming languages as well, however making existing data analysis algorithms compliant requires a lot of work.
 Registration errors can remain when comparing images from modalities with different spatial resolutions. These errors directly impact the quality of the subsequent data analysis. [[cite:&Gortler_2020]] propose a PCA variant which models uncertainties for each datapoint. For the MALDI-MSI case, each pixel could be associated with an uncertainty measure depending on the intensity variance in its neighborhood, or on intensities from another modality. This method could help resolve discrepancies in the spatial distributions.
@@ -181,3 +177,5 @@ The variety of processing algorithms makes it difficult to pick suitable methods
 
 bibliographystyle:unsrt
 bibliography:/home/fgrelard/org/bib/main.bib
+** Figure caption
+Typical processing and analysis workflow for multimodal MALDI-MSI. Top-row: the MALDI image (on the left), and the complementary images (on the right) are processed so as to have comparable shapes, through various specific processing steps, and segmentation. Middle-row: the images are spatially aligned through registration. Bottom-row: once the images are registered, they can be visualized on-top of each other to reveal similar spatial distributions (on the right). Patterns can be objectified by a joint statistical analysis to e.g. find spatial correlations, biomarkers or differently-abundant analytes (on the left). 
