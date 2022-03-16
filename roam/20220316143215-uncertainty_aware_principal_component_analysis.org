@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       0814a437-b42c-451e-a250-66922961ffca
+:ROAM_REFS: cite:Gortler_2020
+:END:
+#+title: Uncertainty-Aware Principal Component Analysis
+#+filetags: :literature:
+
+[[id:0e94cff9-50fa-425c-b0fc-a35bdb16cd0d][Statistical analysis]] [[id:6240f4e3-d85f-404f-823c-187cec75fce2][Statistics with uncertainty]]
