@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       4ef9d486-452a-4b1b-88ba-c830c354d0d5
+:ROAM_REFS: cite:Abdelmoula_2021
+:ROAM_ALIASES: msiPL
+:END:
+#+title: Peak learning of mass spectrometry imaging data using artificial neural networks
+
+Encoder for variational inference
