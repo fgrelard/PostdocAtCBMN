@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       58c97312-9efa-4d92-b028-cbcf5e077e6e
+:END:
+#+title: Mendeley
+
+#+begin_src bash
+bib2xml main.bib | xml2ris > output.ris
+#+end_src
