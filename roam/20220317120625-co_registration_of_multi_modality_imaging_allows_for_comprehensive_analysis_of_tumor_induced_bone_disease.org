@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a39a488e-71b1-42c6-a1e4-6ac3c5db3a17
+:ROAM_REFS: cite:Seeley_2014
+:END:
+#+title: Co-registration of multi-modality imaging allows for comprehensive analysis of tumor-induced bone disease
+#+filetags: :literature:
+
+[[id:fb2a0e54-4e16-48ad-b23e-4a783d2013d2][Multimodal imaging]] [[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]] [[id:844533cc-a7a1-4178-88a8-47eaeb023bb8][MRI]] [[id:13b1dba3-aa5c-453d-be49-a7c06687bb26][3D MSI]]
+
+Bone metastases.
+Mouse tibia.
