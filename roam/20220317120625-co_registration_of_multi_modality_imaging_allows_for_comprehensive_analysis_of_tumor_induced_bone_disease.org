@@ -21,3 +21,5 @@ Finally, rigid registration of MRI onto optical 3D image.
 Genetic algorithm classification (~clustering)
 Evolutionary algorithm.
 
+Look at average spectra in those regions.
+
