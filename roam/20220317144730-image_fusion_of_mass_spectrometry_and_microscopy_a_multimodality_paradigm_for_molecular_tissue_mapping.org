@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       85433268-630c-4f28-ba8d-ca43d42d716b
+:ROAM_REFS: cite:Van_de_Plas_2015
+:END:
+#+title: Image fusion of mass spectrometry and microscopy: a multimodality paradigm for molecular tissue mapping
+#+filetags: :literature:
+
+[[id:fb2a0e54-4e16-48ad-b23e-4a783d2013d2][Multimodal imaging]] [[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]] [[id:8263eb3b-3e34-43b7-b0dc-826dff618fea][Microscopy]] [[id:fc8784c1-b2bb-42ce-aebe-3811bd882dca][Super-resolution]] 
+
+Sharpen MALDI-MS images by microscopy images using Partial Least Squares (PLS) regression. They use these images to find anatomical distributions of ions in the sample, as well as predict distributions out of the sample. 
