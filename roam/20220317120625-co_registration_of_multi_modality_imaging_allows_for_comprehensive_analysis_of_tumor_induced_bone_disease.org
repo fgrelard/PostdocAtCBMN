@@ -9,3 +9,11 @@
 
 Bone metastases.
 Mouse tibia.
+
+Proteins.
+
+* [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]]
+2D optical images registered rigidly to create 3D volume (intraslice registration).
+Then, manual registration between 2D MALDI slices and each corresponding 2D optical image.
+Finally, rigid registration of MRI onto optical 3D image.
+
