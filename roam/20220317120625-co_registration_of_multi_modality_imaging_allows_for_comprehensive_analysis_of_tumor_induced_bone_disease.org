@@ -14,6 +14,10 @@ Proteins.
 
 * [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]]
 2D optical images registered rigidly to create 3D volume (intraslice registration).
-Then, manual registration between 2D MALDI slices and each corresponding 2D optical image.
+Then, manual registration between 2D MALDI slices and each corresponding 2D optical image (interslice registration).
 Finally, rigid registration of MRI onto optical 3D image.
+
+* [[id:0e94cff9-50fa-425c-b0fc-a35bdb16cd0d][Statistical analysis]]
+Genetic algorithm classification (~clustering)
+Evolutionary algorithm.
 
