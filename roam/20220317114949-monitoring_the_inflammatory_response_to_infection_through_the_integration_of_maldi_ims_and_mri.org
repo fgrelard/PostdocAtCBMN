@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       7b557bbe-54c5-4c65-af88-ef8226f7394d
+:ROAM_REFS: cite:Attia_2012
+:END:
+#+title: Monitoring the inflammatory response to infection through the integration of MALDI IMS and MRI
+#+filetags: :literature:
+
