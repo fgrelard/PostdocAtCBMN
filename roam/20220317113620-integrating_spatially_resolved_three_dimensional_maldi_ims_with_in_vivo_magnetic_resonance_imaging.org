@@ -3,6 +3,14 @@
 :ROAM_REFS: cite:Sinha_2007
 :END:
 #+title: Integrating spatially resolved three-dimensional MALDI IMS with in vivo magnetic resonance imaging
+#+filetags: :literature:
 [[id:fb2a0e54-4e16-48ad-b23e-4a783d2013d2][Multimodal imaging]] [[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]] [[id:844533cc-a7a1-4178-88a8-47eaeb023bb8][MRI]] [[id:13b1dba3-aa5c-453d-be49-a7c06687bb26][3D MSI]]
 
+Brain tumor mouse.
+Proteomics.
 
+* [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]]
+Iconic registration using Mutual information between MRI and optical image (blockface volume).
+* [[id:0e94cff9-50fa-425c-b0fc-a35bdb16cd0d][Statistical analysis]]
+Unpaired t-test.
+Difference between normal and tumor tissue in intensities in both MALDI and MRI.
