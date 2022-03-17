@@ -4,10 +4,12 @@
 :END:
 #+title: Monitoring the inflammatory response to infection through the integration of MALDI IMS and MRI
 #+filetags: :literature:
-[[id:fb2a0e54-4e16-48ad-b23e-4a783d2013d2][Multimodal imaging]] [[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]] [[id:844533cc-a7a1-4178-88a8-47eaeb023bb8][MRI]]
+[[id:fb2a0e54-4e16-48ad-b23e-4a783d2013d2][Multimodal imaging]] [[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]] [[id:844533cc-a7a1-4178-88a8-47eaeb023bb8][MRI]] [[id:13b1dba3-aa5c-453d-be49-a7c06687bb26][3D MSI]]
 
 Proteins for inflammatory response.
 Mouse kidneys + whole mouse.
 
 * [[id:08e9482a-8139-41ee-bac5-ce37fbb4b335][Registration]]
 Iconic, rigid with mutual information.
+
+Get a 3D volume.
