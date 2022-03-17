@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       ef201898-22e1-4da9-a978-01b57d9d61bc
+:ROAM_REFS: cite:Sinha_2007
+:END:
+#+title: Integrating spatially resolved three-dimensional MALDI IMS with in vivo magnetic resonance imaging
+[[id:fb2a0e54-4e16-48ad-b23e-4a783d2013d2][Multimodal imaging]] [[id:a259fda8-0eba-468f-b331-a33a4030074a][MALDI]] [[id:844533cc-a7a1-4178-88a8-47eaeb023bb8][MRI]] [[id:13b1dba3-aa5c-453d-be49-a7c06687bb26][3D MSI]]
+
+
