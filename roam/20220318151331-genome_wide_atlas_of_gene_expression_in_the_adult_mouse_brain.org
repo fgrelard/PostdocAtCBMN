@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       a36f560d-0a44-4f71-9e2c-4add430ca2d1
+:ROAM_REFS: cite:Lein_2006
+:ROAM_ALIASES: AMBA
+:END:
+#+title: Genome-wide atlas of gene expression in the adult mouse brain
+
+Automated anatomical interpretation automatically identifies the
+spatial distributions observed in any registered ion image as a combination of the anatomical structures described in the atlas. Each ion image is the weighted sum of anatomical images. Optimization problem.
