@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       ef708a84-e3df-4938-900d-5d367a286d6e
+:ROAM_REFS: cite:Lein_2006
+:END:
+#+title: Genome-wide atlas of gene expression in the adult mouse brain
+

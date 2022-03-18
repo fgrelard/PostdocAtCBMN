@@ -17,4 +17,4 @@ massNet: two main modules:
 - variational autoencoder to find a lower dimensional representation of the dataset, with encoder and decoder, see [[cite:&Abdelmoula_2021]]
 - class prediction: tumor or normal
 
-  Classification (class prediction) is achieved by.
+  Classification (class prediction) is achieved with fully connected layers with sigmoid activation.
