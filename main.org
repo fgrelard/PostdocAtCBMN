@@ -125,6 +125,10 @@ CLOSED: [2022-03-21 Mon 12:02]
 ****** DONE ROI integration
 CLOSED: [2022-03-21 Mon 12:11]
 ~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::8ea06578d60844a611909e45ce2c4803460cb936][8ea0657 MSImageFly: ROI integration with plot spectra]]
+**** TODO Implement hierarchical alignment [0/2]
+To reduce the number of points in the spectra and find a common /m/z/ axis.
+***** TODO Group hierarchy
+***** TODO Intensive testing
 *** General functionalities
 _TODOs_:
 **** DONE Fix input of ~unsigned_char(1)~ images, i.e. exported by ~GIMP~.
@@ -189,7 +193,7 @@ CLOSED: [2021-10-31 Sun 16:29]
 
 *** Functionality frames
 *** Progress bars
-Rework the code to integrate the  ~yield~ statement in order to avoid rewriting the library.
+**** TODO Rework the code to integrate the  ~yield~ statement in order to avoid rewriting the library.
 
 ** Segmentation
 We wish to extract regions or subsets of an image to apply on the MS images.
