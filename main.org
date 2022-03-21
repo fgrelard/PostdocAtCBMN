@@ -188,7 +188,18 @@ CLOSED: [2021-10-26 Tue 16:30]
 CLOSED: [2021-10-31 Sun 16:29]
 
 *** Functionality frames
+*** Progress bars
+Rework the code to integrate the  ~yield~ statement in order to avoid rewriting the library.
 
+** Segmentation
+We wish to extract regions or subsets of an image to apply on the MS images.
+*** Basic segmentation algorithms
+**** TODO Extract channels
+Use a channel as a reference image
+**** TODO Thresholding
+Basic thresholding with update on the image.
+*** Advanced algorithms
+**** Distance maps
 ** Registration
 *** Fiducial landmarks :ATTACH:
 :PROPERTIES:
