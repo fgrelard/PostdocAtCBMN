@@ -117,8 +117,10 @@ CLOSED: [2022-03-02 Wed 11:05]
 ***** DONE Implementation using ~pyimzML~ parser
 CLOSED: [2022-03-02 Wed 11:18]
 ~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::93cff8c02a007161a360abe3e229ed1e5d2b7bcd][93cff8c GUI: MS image on the fly]]
-***** TODO Bug fixes [0/3]
-****** TODO Maximum bug
+***** TODO Bug fixes [1/3]
+****** DONE Maximum bug
+CLOSED: [2022-03-21 Mon 12:02]
+~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::9a7d8e824dabd9ead917656461f04094a258a7e0][9a7d8e8 MSImageFly: Fix maximum bug]]
 ****** TODO ROI integration
 ****** TODO Profile spectrum
 
