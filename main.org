@@ -117,126 +117,14 @@ CLOSED: [2022-03-02 Wed 11:05]
 ***** DONE Implementation using ~pyimzML~ parser
 CLOSED: [2022-03-02 Wed 11:18]
 ~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::93cff8c02a007161a360abe3e229ed1e5d2b7bcd][93cff8c GUI: MS image on the fly]]
-***** TODO Bug fixes [1/3]
+***** DONE Bug fixes [2/2]
+CLOSED: [2022-03-21 Mon 12:13]
 ****** DONE Maximum bug
 CLOSED: [2022-03-21 Mon 12:02]
 ~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::9a7d8e824dabd9ead917656461f04094a258a7e0][9a7d8e8 MSImageFly: Fix maximum bug]]
-****** TODO ROI integration
-****** TODO Profile spectrum
-
-*** General functionalities
-_TODOs_:
-**** DONE Fix input of ~unsigned_char(1)~ images, i.e. exported by ~GIMP~.
-CLOSED: [2021-11-10 Wed 12:41]
-~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::0ef1e8c5e0ef7d41220c549ec0f6780fdba3e510][0ef1e8c Fix bug with three channel unsigned char images]]
-:LOGBOOK:
-CLOCK: [2021-11-10 Wed 12:18]--[2021-11-10 Wed 12:41] =>  0:23
-:END:
-** Graphical User Interface
-*** Displaying images
-We need an efficient viewer allowing to display image stacks.
-We use the ~pyqtgraph~ library. 
-
-_TODOs:_
-**** DONE Display and navigate through ion images
-CLOSED: [2021-09-22 Wed 16:14]
-**** DONE Display the mean spectrum associated to the MS image
-CLOSED: [2021-10-14 Thu 16:27]
-**** DONE Interact with the mean spectrum to select ion images
-CLOSED: [2021-10-19 Tue 16:15]
-**** DONE Interaction with ~TextEdit~ to select the appropriate m/z value with tolerance
-CLOSED: [2021-10-19 Tue 16:22]
-**** DONE Hover on image to display pixel information
-CLOSED: [2021-10-24 Sun 16:24]
-**** Bug fixes [4/4]
-***** DONE Fix ~Combobox~ selection
-CLOSED: [2021-11-09 Tue 11:52]
-~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::417d0fac05187b46dd879af13d21e6b03a8bb2d7][417d0fa Fix combobox]]
-:LOGBOOK:
-CLOCK: [2021-11-09 Tue 11:32]--[2021-11-09 Tue 11:52] =>  0:20
-:END:
-***** DONE Open new image on the left view only, when gridmode is activated
-CLOSED: [2021-11-09 Tue 14:24]
-~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::eb501bfc50def363aca301772750a0e9891b4ffa][eb501bf GUI: Only open image in first view]]
-:LOGBOOK:
-CLOCK: [2021-11-09 Tue 14:22]--[2021-11-09 Tue 14:24] =>  0:02
-:END:
-***** DONE Avoid duplicating images in views
-CLOSED: [2021-11-10 Wed 10:59]
-~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::c61fb842c43cee15075b3cf8ea23b92cae928786][c61fb84 Avoid duplicating images in views (static attribute)]]
-:LOGBOOK:
-CLOCK: [2021-11-10 Wed 10:03]--[2021-11-10 Wed 10:59] =>  0:56
-CLOCK: [2021-11-09 Tue 14:25]--[2021-11-09 Tue 17:26] =>  3:01
-:END:
-***** DONE Link image views when the image sizes are the same
-CLOSED: [2021-11-10 Wed 11:41]
-~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::5702a484a2862ba640cfcc70539f445db23115fb][5702a48 Add shortcut to link views]]
-:LOGBOOK:
-CLOCK: [2021-11-10 Wed 11:00]--[2021-11-10 Wed 11:41] =>  0:41
-:END:
-
-*** Region-of-Interest management
-Regions of interest (ROI) are interesting to analyze an area of pixels. We use them in several use-cases.
-
- _Use-cases:_
-**** DONE Compute the average spectrum of the pixels inside the ROI
-CLOSED: [2021-10-25 Mon 16:29]
-**** DONE Compute the average pixel intensity inside the ROI
-CLOSED: [2021-10-26 Tue 16:30]
-**** DONE Control intensity thresholds
-CLOSED: [2021-10-31 Sun 16:29]
-
-*** Functionality frames
-
-** Registration
-*** Fiducial landmarks :ATTACH:
-:PROPERTIES:
-:ID:       4cdcd21a-38f1-4848-ab6f-46d8675e9c3e
-:END:
-
-_TODOs:_
-**** DONE Registration with RGB images
-CLOSED: [2021-11-08 Mon 16:11]
-:LOGBOOK:
-CLOCK: [2021-11-08 Mon 15:25]--[2021-11-08 Mon 16:11] =>  0:46
-:END:
-**** DONE Fix transformation issues with incorrect parameters (position, scale, ...) during partial registration
-CLOSED: [2021-11-08 Mon 18:05]
-:LOGBOOK:
-CLOCK: [2021-11-08 Mon 16:50]--[2021-11-08 Mon 18:05] =>  1:15
-:END:
-
-*** Partial registration
-** Correlation
-Joint statistical analysis
-** Miscellaneous
-*** Crop MS images
-Some data might be missing from MS images, /i.e./ there are abnormal artefacts where no data is recorded. The image should be cropped to retain only the *valuable information*.
-
-_Approach:_
-1) Specify a list of values where data is missing
-2) Compute the complementary coordinates where data is present
-3) Export the image with the information from those coordinates
-
-_Second approach:_
-Modify the ~imzML~ file directly, by removing unnecessary lines and updating the ~XML~ fields of the subsequent spectra.
-
-_Bug fixes:_
-**** DONE Removing lines induces undesirable offset of data
-CLOSED: [2021-11-08 Mon 16:07]
-:LOGBOOK:
-CLOCK: [2021-11-05 Fri 15:24]--[2021-11-05 Fri 17:15] =>  1:51
-CLOCK: [2021-11-04 Thu 15:27]--[2021-11-04 Thu 17:51] =>  2:24
-:END:
-1) Generating a simpler image with reduced spectral dimension
-2) Try on reduced image
-*** /m/z/ difference image
-Perform difference image in /m/z/: for a given /m/z/ ratio, compute the difference in /m/z/ for each pixel w.r.t to the reference /m/z/.
-
-_TODOs:_
-**** TODO On-the-fly image
-**** TODO Sparse image
-
+****** DONE ROI integration
+CLOSED: [2022-03-21 Mon 12:11]
+~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::8ea06578d60844a611909e45ce2c4803460cb936][8ea0657 MSImageFly: ROI integration with plot spectra]]
 * Teaching
 * Papers
 bibliographystyle:unsrt
