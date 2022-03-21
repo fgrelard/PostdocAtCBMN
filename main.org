@@ -128,7 +128,7 @@ CLOSED: [2022-03-21 Mon 12:11]
 **** TODO Implement hierarchical alignment [0/2]
 To reduce the number of points in the spectra and find a common /m/z/ axis.
 ***** TODO Group hierarchy
-***** TODO Intensive testing
+***** TODO Extensive testing
 *** General functionalities
 _TODOs_:
 **** DONE Fix input of ~unsigned_char(1)~ images, i.e. exported by ~GIMP~.
@@ -225,6 +225,17 @@ CLOCK: [2021-11-08 Mon 16:50]--[2021-11-08 Mon 18:05] =>  1:15
 *** Partial registration
 ** Correlation
 Joint statistical analysis
+*** Univariate analysis
+Class comparison: compare two regions and find if they are statistically different in terms of intensities, for a given ion.
+**** Extract intensities in delineated regions
+**** Volcano plot
+*** Class discovery
+**** PCA
+**** NMF
+**** Clustering algorithms
+*** Class prediction
+**** PLS
+Predict MSI with other modality
 ** Miscellaneous
 *** Crop MS images
 Some data might be missing from MS images, /i.e./ there are abnormal artefacts where no data is recorded. The image should be cropped to retain only the *valuable information*.
