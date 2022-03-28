@@ -229,17 +229,32 @@ CLOCK: [2021-11-08 Mon 16:50]--[2021-11-08 Mon 18:05] =>  1:15
 *** Partial registration
 ** Correlation
 Joint statistical analysis
+*** Class discovery
+**** Dimension reduction
+Implement dimension reduction methods in the GUI. Need for interaction:
+1. Interaction with a component image
+   Click on pixel, or region => shows associated spectra.
+2. Interaction with score plot
+   Click on /m/z/, displays associated image.
+3. Linked views score/loadings
+
+   Possibly a lot of component images. Create 3D image/3D spectra?
+   The resulting spectra must be interactive. Selecting a /m/z/ ratio must display the associated image.
+***** TODO PCA
+***** TODO NMF
+**** Clustering algorithms
+Implement clustering algorithms.
+Interaction: click on a pixel cluster => shows spectral signature.
+***** k-means
+***** [[id:5c8cf7c3-c5f6-4e3c-b5a5-b839084d2846][Spatially aware clustering]]
+***** Hierarchical clustering
+*** Class prediction
+**** PLS
+Predict MSI with other modality
 *** Univariate analysis
 Class comparison: compare two regions and find if they are statistically different in terms of intensities, for a given ion.
 **** Extract intensities in delineated regions
 **** Volcano plot
-*** Class discovery
-**** PCA
-**** NMF
-**** Clustering algorithms
-*** Class prediction
-**** PLS
-Predict MSI with other modality
 ** Miscellaneous
 *** Crop MS images
 Some data might be missing from MS images, /i.e./ there are abnormal artefacts where no data is recorded. The image should be cropped to retain only the *valuable information*.
