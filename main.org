@@ -202,7 +202,9 @@ We wish to extract regions or subsets of an image to apply on the MS images.
 CLOSED: [2022-03-21 Mon 17:45]
 ~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::5594dcf80d60a0db8bc9503692914249194bf223][5594dcf Segmentation: extract channel]]
 Use a channel as a reference image
-**** TODO Thresholding
+**** DONE Thresholding
+CLOSED: [2022-03-28 Mon 13:59]
+~COMMIT~: [[orgit-rev:~/src/Esmraldi/.git/::11a5bdbbf51f6edadead5b7f194afe1fc30bda5f][11a5bdb Thresholding with slider ranges]]
 Basic thresholding with update on the image.
 *** Advanced algorithms
 **** Distance maps
