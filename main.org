@@ -265,6 +265,11 @@ Perform difference image in /m/z/: for a given /m/z/ ratio, compute the differen
 _TODOs:_
 **** TODO On-the-fly image
 **** TODO Sparse image
+*** Flat field correction
+**** DONE ~imflatfield~
+CLOSED: [2022-03-30 Wed 11:35]
+Perform flat field correction by dividing image by gaussian blurred version of the image.
+~COMMIT~: [[orgit-rev:~/src/Esmraldi/.git/::d35e191c652aa9e6def197880b6cbddcf75fb595][d35e191 Pseudo flat field correction]]
 * Teaching
 * Papers
 bibliographystyle:unsrt
