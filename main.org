@@ -155,7 +155,9 @@ CLOSED: [2021-10-19 Tue 16:22]
 CLOSED: [2021-10-24 Sun 16:24]
 **** DONE Link views
 CLOSED: [2022-03-30 Wed 13:50]
-**** TODO Synchronize cursor position when views are linked
+**** DONE Synchronize cursor position when views are linked
+CLOSED: [2022-03-30 Wed 16:08]
+~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::fd45577ace9ada747dd8703a38f16be97f00ba6a][fd45577 Update crosshair when linking views]]
 **** Bug fixes [4/4]
 ***** DONE Fix ~Combobox~ selection
 CLOSED: [2021-11-09 Tue 11:52]
