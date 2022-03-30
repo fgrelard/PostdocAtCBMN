@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       ea5a8880-662e-415a-aa2a-b23d12ed7d19
-:ROAM_REFS: cite:Trindade_2018a
-:END:
-#+title: A time-of-flight secondary ion mass spectrometry/multivariate analysis (ToF-SIMS/MVA) approach to identify phase segregation in blends of incompatible but extremely similar resins
