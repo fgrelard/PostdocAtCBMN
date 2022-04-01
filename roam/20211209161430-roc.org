@@ -3,3 +3,21 @@
 :END:
 #+title: ROC
 Receiver Operating Characteristic
+
+Univariate analysis.
+
+Graph plotting the true positive rate (TPR) as a function of false positive rate (FPR)
+TPR=pixels inside ROI (1) correctly identified
+FPR=pixels outside ROI (0) incorrectly identified
+
+Usually, the intensities are partitioned in bins.
+
+For each bin, we have a pixel value associated to it.
+I.e. 0, 50, 100, 150,, 250...
+
+We check whether each pixel is above this value. This gives a binary array (True or False).
+We compare this array to the binary mask corresponding to the ROI, using FPR and TPR.
+Then we plot TPR=f(FPR) = ROC Curve.
+
+
+
