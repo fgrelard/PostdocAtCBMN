@@ -14,10 +14,9 @@ Usually, the intensities are partitioned in bins.
 
 For each bin, we have a pixel value associated to it.
 I.e. 0, 50, 100, 150,, 250...
-
 We check whether each pixel is above this value. This gives a binary array (True or False).
 We compare this array to the binary mask corresponding to the ROI, using FPR and TPR.
 Then we plot TPR=f(FPR) = ROC Curve.
 
-
+Then we can obtain the [[id:4b382e44-cf4e-4ca2-8559-36facd18f213][AUC]], giving ions that are specifically distributed in the area.
 
