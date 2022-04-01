@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       4b382e44-cf4e-4ca2-8559-36facd18f213
+:ROAM_ALIASES: "Area under curve"
+:END:
+#+title: AUC
+
+Usually computed using the trapezoidal rule.
+
+The integral is approximated as:
+\[
+\int_a^b f(x)dx = (b - a) \cdot \frac{1}{2} (f(a) + f(b))
+\]
+
+Assuming f(a) < f(b):
+The area between point a and b is given as the sum of the area of the rectangle with f(a) and the area of the triangle given by f(a) f(b) and (b, f(a)).
