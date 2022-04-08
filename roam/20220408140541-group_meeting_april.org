@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       3694c230-3456-420a-beb9-f9e123f60d6e
+:END:
+#+title: Group meeting April
+#+filetags: :meeting:group_meeting:
+
+* Séminaires
+Société française Protéomique Amphi CGFB
+Du 25 au 27 avril. Différents orateurs, dont Caroline, Stéphane Chaignepain.
+Présentation des jeunes de l'AFPS.
+Visite du laboratoire à prévoir: quand? A déterminer lorsque le planning sera établi.
+
+* Projets
+Projet entre CNRS et Université de Copenhague, en partenariat avec Matthew Collins. Travaux sur des produits protéiques et lipidiques.
+Financement pour fonctionnement + thèse(s).
+
+Infraanalytics: infrastructure CNRS qui regroupe les équipements (RMN, FTICE). Caroline fait partie du conseil scientifique de cette infrastructure.
+
+Nicolas: Projet STS pour collaboration avec différents labos du département STS.
+Imagerie multimodale avec MRI + MSI avec regénération de tissus.
+Partenaires
+Sylvain Miraux
+Marlène Durand
+Nicolas + Florent
+
+Demande de 15k€
+
+* Équipements
+
