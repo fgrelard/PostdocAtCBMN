@@ -11,23 +11,42 @@ Présentation des jeunes de l'AFPS.
 Visite du laboratoire à prévoir: quand? A déterminer lorsque le planning sera établi.
 
 * Projets
-Projet entre CNRS et Université de Copenhague, en partenariat avec Matthew Collins. Travaux sur des produits protéiques et lipidiques.
-Financement pour fonctionnement + thèse(s).
+- Projet entre CNRS et Université de Copenhague, en partenariat avec Matthew Collins.
+  
+  Travaux sur des produits protéiques et lipidiques.
+  Financement pour fonctionnement + thèse(s).
 
-Infraanalytics: infrastructure CNRS qui regroupe les équipements (RMN, FTICE, ...). Caroline fait partie du conseil scientifique de cette infrastructure.
+- Infranalytics
+  
+  Infrastructure CNRS qui regroupe les équipements (RMN, FTICE, ...). Caroline fait partie du conseil scientifique de cette infrastructure.
 
-Nicolas: Projet STS pour collaboration avec différents labos du département STS.
-Imagerie multimodale avec MRI + MSI pour étudier la regénération de tissus.
-_Partenaires:_
-Sylvain Miraux
-Marlène Durand
-ND + FG
+- Projet STS (Nicolas)
+  
+  Collaboration avec différents labos du département STS.
+  Imagerie multimodale avec MRI + MSI pour étudier la regénération de tissus.
+  
+  _Partenaires:_
+  Sylvain Miraux,  Marlène Durand,  ND + FG
 
-Demande de 15k€
+  Demande de 15k€
 
 * Équipements
-Orbitrap Fusion Lumos:
-précédemment: pompe primaire défectueuse. Changée et résolu depuis.
+- Orbitrap Fusion Lumos
+  
+  Précédemment: pompe primaire défectueuse. Changée et résolu depuis.
+  Désormais: problème de sensibilité de l'instrument. Hypothèse: problème de transmission de certains ions. Nettoyage du quadrupôle en cours.
+  
+- Eclipse
+  
+  Tests en cours. Configuration de top-down vers bottom-up en transition.
+  Problèmes de performance par rapport au standard. Problème de colonnes et d'injecteur résolus.
+  À résoudre: origine du problème instrumental ou échantillons?
+  
+- Machine à eau
+  
+  Remplacement demandé par Stéphane (20 ans).
+  Devis demandé à Véolia.
+  Montant de la réparation élevé en regard du coût d'une nouvelle machine.
 
-Désormais: problème de sensibilité de l'instrument. Hypothèse: problème de transmission de certains ions. Nettoyage du quadrupôle en cours.
+Réunion terminée à 14:20.
 
