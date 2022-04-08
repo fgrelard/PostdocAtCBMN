@@ -6,7 +6,7 @@
 
 * Séminaires
 Société française Protéomique Amphi CGFB
-Du 25 au 27 avril. Différents orateurs, dont Caroline, Stéphane Chaignepain.
+Du 25 au 27 avril 2022. Différents orateurs, dont Caroline, Stéphane Chaignepain.
 Présentation des jeunes de l'AFPS.
 Visite du laboratoire à prévoir: quand? A déterminer lorsque le planning sera établi.
 
@@ -14,16 +14,20 @@ Visite du laboratoire à prévoir: quand? A déterminer lorsque le planning sera
 Projet entre CNRS et Université de Copenhague, en partenariat avec Matthew Collins. Travaux sur des produits protéiques et lipidiques.
 Financement pour fonctionnement + thèse(s).
 
-Infraanalytics: infrastructure CNRS qui regroupe les équipements (RMN, FTICE). Caroline fait partie du conseil scientifique de cette infrastructure.
+Infraanalytics: infrastructure CNRS qui regroupe les équipements (RMN, FTICE, ...). Caroline fait partie du conseil scientifique de cette infrastructure.
 
 Nicolas: Projet STS pour collaboration avec différents labos du département STS.
-Imagerie multimodale avec MRI + MSI avec regénération de tissus.
-Partenaires
+Imagerie multimodale avec MRI + MSI pour étudier la regénération de tissus.
+_Partenaires:_
 Sylvain Miraux
 Marlène Durand
-Nicolas + Florent
+ND + FG
 
 Demande de 15k€
 
 * Équipements
+Orbitrap Fusion Lumos:
+précédemment: pompe primaire défectueuse. Changée et résolu depuis.
+
+Désormais: problème de sensibilité de l'instrument. Hypothèse: problème de transmission de certains ions. Nettoyage du quadrupôle en cours.
 
