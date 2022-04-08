@@ -158,6 +158,12 @@ CLOSED: [2022-03-30 Wed 13:50]
 **** DONE Synchronize cursor position when views are linked
 CLOSED: [2022-03-30 Wed 16:08]
 ~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::fd45577ace9ada747dd8703a38f16be97f00ba6a][fd45577 Update crosshair when linking views]]
+**** TODO Normalization [2/3]
+***** DONE TIC
+CLOSED: [2022-04-08 Fri 10:54]
+***** DONE Ion
+CLOSED: [2022-04-08 Fri 10:54]
+***** TODO Normalization cut-off
 **** Bug fixes [4/4]
 ***** DONE Fix ~Combobox~ selection
 CLOSED: [2021-11-09 Tue 11:52]
@@ -196,10 +202,11 @@ CLOSED: [2021-10-26 Tue 16:30]
 **** DONE Control intensity thresholds
 CLOSED: [2021-10-31 Sun 16:29]
 **** TODO Overlay a ROI from another image
+**** TODO Image overlay without removing all intensities
 
 *** Functionality frames
 *** Progress bars
-**** TODO Rework the code to integrate the  ~yield~ statement in order to avoid rewriting the library.
+**** TODO Rework the code to integrate the ~yield~ statement in order to avoid rewriting the library.
 
 ** Segmentation
 We wish to extract regions or subsets of an image to apply on the MS images.
