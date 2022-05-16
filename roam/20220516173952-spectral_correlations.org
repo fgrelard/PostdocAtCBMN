@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       e9dcd5c0-e0e9-487c-86a0-d5da6e9f2e5f
+:END:
+#+title: Spectral correlations
+
+Can use cosine distance, euclidean distance or Pearson correlation.
+
+Euclidean distance reflects differences in terms of intensities. More intense ions will be different from low ones, even though they have a similar profile.
+
+Cosine distance captures similar trends between vectors. It is not dependent on the raw difference between intensity values. However, it is sensitive to shifts.
+$x \cdot y \neq x+1 \cdot y$.
+
+Pearson correlation is the cosine distance on centered vectors. It is not sensitive to shifts and scale.
