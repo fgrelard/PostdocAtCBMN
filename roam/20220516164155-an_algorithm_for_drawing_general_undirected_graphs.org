@@ -13,15 +13,18 @@ Each node is considered as a spring which shouldn't be stretched or condensed to
 Optimization algorithm, i.e. minimize the following energy:
 
 \[
-E = \sum_{i=1}^{n-1} \sum_{j=i+1}^n \frac{1}{2} k_{ij} \left( \| p_i - p_j \| - l_{ij} \right)^2
+E = \sum_{i=1}^{n-1} \sum_{j=i+1}^n \frac{1}{2} k_{ij} \left( | p_i - p_j | - l_{ij} \right)^2
 \]
 
-The original length $l_{ij}$ corresponds to the desirable length between nodes in the drawing.
-Let $d_{ij}$ be the shortest-path distance between two points $p_i$ et $p_j$ in the graph.
+The difference between $p_{i}$ and $p_{j}$ is the optimized value: it should be close to the original length between nodes.
 
+The original length $l_{ij}$ corresponds to the length between nodes.
+Let $d_{ij}$ be the shortest-path distance between two points $p_i$ et $p_j$ in the graph.
 Then:
 \[
  l_{ij} = L \times d_{ij}
-\].
+\], where $L$ is the desirable length of a single edge in the graph.
+
+$k_{ij}$ is the strength of the spring. It is given by $k_{ij} = \frac{K}{d_{ij}^2}$, where $K$ is a constant.
 
 
