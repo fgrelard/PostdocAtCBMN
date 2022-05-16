@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       eb12824f-eadd-47fa-9258-e9e26193f9c4
+:ROAM_REFS: cite:Kamada_1989
+:END:
+#+title: An algorithm for drawing general undirected graphs
+#+filetags: :literature:
+
+Force directed layout for graphs.
+
+Each node is considered as a spring which shouldn't be stretched or condensed too much away from its relaxed state.
+
+Optimization algorithm.
