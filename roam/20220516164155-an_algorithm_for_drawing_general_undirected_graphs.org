@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       eb12824f-eadd-47fa-9258-e9e26193f9c4
 :ROAM_REFS: cite:Kamada_1989
+:ROAM_ALIASES: Kamada-Kawai
 :END:
 #+title: An algorithm for drawing general undirected graphs
 #+filetags: :literature:
@@ -9,4 +10,18 @@ Force directed layout for graphs.
 
 Each node is considered as a spring which shouldn't be stretched or condensed too much away from its relaxed state.
 
-Optimization algorithm.
+Optimization algorithm, i.e. minimize the following energy:
+
+\[
+E = \sum_{i=1}^{n-1} \sum_{j=i+1}^n \frac{1}{2} k_{ij} \left( \| p_i - p_j \| - l_{ij} \right)^2
+\]
+
+The original length $l_{ij}$ corresponds to the desirable length between nodes in the drawing.
+Let $d_{ij}$ be the shortest-path distance between two points $p_i$ et $p_j$ in the graph.
+
+Then:
+\[
+ l_{ij} = L \times d_{ij}
+\].
+
+
