@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2d3cbfa7-8639-4714-b1b6-4ab09782439b
+:END:
+#+title: Graph-based visualization
+[[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:bef83f14-66c4-4c3f-8adb-5d0084987f17][Visualization]]
+
+Visualization of correlation matrices. Ions having similar spatial distributions should be grouped.
+
+1. Compute distance matrices using [[id:e9dcd5c0-e0e9-487c-86a0-d5da6e9f2e5f][Pearson correlation coefficient]].
+2. Visualize them using a graph layout, such as [[id:eb12824f-eadd-47fa-9258-e9e26193f9c4][Kamada-Kawai]].
+   
