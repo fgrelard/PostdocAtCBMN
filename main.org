@@ -195,7 +195,8 @@ CLOSED: [2021-10-25 Mon 16:29]
 CLOSED: [2021-10-26 Tue 16:30]
 **** DONE Control intensity thresholds
 CLOSED: [2021-10-31 Sun 16:29]
-**** TODO Overlay a ROI from another image
+**** DONE Overlay a ROI from another image
+CLOSED: [2022-05-24 Tue 14:41]
 
 *** Functionality frames
 *** Progress bars
