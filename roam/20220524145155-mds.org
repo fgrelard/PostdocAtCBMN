@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       8afb91f5-3b99-4c66-8a0e-cec6f9b6534e
+:ROAM_ALIASES: "Multidimensional scaling"
+:END:
+#+title: MDS
+
+Means of visualizing the level of similarity in individual cases of a dataset.
+Non-linear [[id:71035313-ca28-4397-8084-15dc5840e0c7][dimensionality reduction technique]].
+
+Given a distance matrix between each pair of objects, and a given desired $N$ number of dimensions, an MDS algorithm places each object nto N-dimensional space such that the between-distance object distances are preserved.
+
+Given distances $d_{ij}$, we want to find MDS coordinates to minimize the following function:
+\[
+\text{Stress}(x_1, x_2, \dots, x_n) = \sqrt{\sum_{i \neq j} (d_{ij} - \| x_i - x_j \|)^2
+\]
