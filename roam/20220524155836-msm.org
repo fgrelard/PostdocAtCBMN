@@ -10,15 +10,23 @@ Combines spectral and spatial measures.
 2. Extract ion images associated to all isotopic peaks.
 
 MSM is computed by multiplying:
-1. measure of [[id:aae16ce7-a4ca-4dc3-a612-7be5667a3dbb][spatial chaos]]: spatial informativeness within the principal peak.
+1. Variant of [[id:aae16ce7-a4ca-4dc3-a612-7be5667a3dbb][spatial chaos]]: spatial informativeness within the principal peak.
 2. Spectral isotope measure: quantifies spectral similarity between a theoretical isotopic patten and relative sampled isotopic intensities
 3. Spatial isotope measure: quantifies spatial colocalization between isotopic ion images.
 
 The MSM of 1 quantifies the maximal likelihood of the signal to correspond to the ion.
 
    
-Spatial chaos is a modified version of [[cite:&Alexandrov_2013]]. Several thresholds. Extract objects. Objects shrink in size as threshold increases. Inspired by persistent homology.
+* Spatial chaos
+Modified version of [[cite:&Alexandrov_2013]]. Several thresholds. Extract objects. Objects shrink in size as threshold increases. Inspired by persistent homology.
 
 Count the number of objects with 4 connectivity.
 
 Then $\rho_{chaos} = 1 - \dfrac{\sum_{nlevels} n_{objects}}{n_{pixels} * n_{levels}}$
+
+* Spectral isotope measure
+
+* Spatial isotope measure
+Weighted average of Pearson correlation between ion image of most intense peak $b_1$ and all others $b_i$. Correlation is weighted by $\alpha_i$ the relative abundance of the peak (w.r.t. the largest peak?)
+
+$\rho_{spatial} = \dfrac{1}{\sum{\alpha_i}} \sum \alpha_i corr(b_1, b_i)$
