@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       819750c4-d04c-41db-982b-8e8a68f98b1e
+:ROAM_REFS: cite:Palmer_2016
+:ROAM_ALIASES: MSM
+:END:
+#+title: FDR-controlled metabolite annotation for high-resolution imaging mass spectrometry
+#+filetags: :literature:
+[[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:42bcad0d-947c-4c7a-81b6-a3476084b802][Metaspace]]
+
+Combines spectral and spatial measures.
+
+1. For an ion, generate its isotopic pattern.
+2. Extract ion images associated to all isotopic peaks.
+
+MSM is computed by multiplying:
+1. Variant of [[id:aae16ce7-a4ca-4dc3-a612-7be5667a3dbb][spatial chaos]]: spatial informativeness within the principal peak.
+2. Spectral isotope measure: quantifies spectral similarity between a theoretical isotopic patten and relative sampled isotopic intensities
+3. Spatial isotope measure: quantifies spatial colocalization between isotopic ion images.
+
+The MSM of 1 quantifies the maximal likelihood of the signal to correspond to the ion.
+
+   
+* Spatial chaos
+Modified version of [[cite:&Alexandrov_2013]]. Several thresholds. Extract objects. Objects shrink in size as threshold increases. Inspired by persistent homology.
+
+Count the number of objects with 4 connectivity.
+
+Then $\rho_{chaos} = 1 - \dfrac{\sum_{levels} n_{objects}}{n_{pixels} * n_{levels}}$
+
+* Spectral isotope measure
+Average difference between normalized predicted isotope ratios and normalized measured intensities. First, vectors are normalized by their L2-norm. Then, the average of the ion image associated is computed.
+Vectors theoretical: $T = [t_1, t_2, ..., t_n]$
+Vectors measured: $O = [o_1, o_2, ..., o_n]$
+
+Then $\rho_{spectral} = 1 - \frac{1}{n} \sum \| O - T \|_1$
+
+* Spatial isotope measure
+Weighted average of Pearson correlation between ion image of most intense peak $b_1$ and all others $b_i$. Correlation is weighted by $\alpha_i$ the relative abundance of the peak (w.r.t. the largest peak?)
+
+$\rho_{spatial} = \dfrac{1}{\sum{\alpha_i}} \sum \alpha_i corr(b_1, b_i)$
+
+* MSM
+Combination of the measures:
+\[
+MSM = \rho_{chaos} * \rho_{spectral} * \rho_{spatial}
+\]
