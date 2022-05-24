@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       8372d36e-f00b-4ed6-b212-1483038d99e3
-:END:
-#+title: MSI
-
