@@ -44,3 +44,15 @@ Combination of the measures:
 \[
 MSM = \rho_{chaos} * \rho_{spectral} * \rho_{spatial}
 \]
+
+* FDR
+Target-decoy approach.
+_Target set_: set of molecular ions from a metabolite database with a given adduct type (H+, Na+, ...)
+_Decoy set_: Set of ions for the same formulas but with implausible ion adduct types.
+
+Compute MSM for each ion of each set.
+Combine and sort MSM values = $MSM'$.
+Estimate the number of values below threshold, for each set. Threshold starting at $MSM'_{n-1}$, then decreasing at each iteration $MSM'_{n-2}$ etc..
+Compute the $FDR = \dfrac{n_{decoy}}{n_{target}}$.
+The lowest threshold giving FDR < Desired FDR is kept.
+
