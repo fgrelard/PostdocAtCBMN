@@ -3,7 +3,6 @@
 :END:
 #+title: Spectra normalization
 [[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:bef83f14-66c4-4c3f-8adb-5d0084987f17][Visualization]]
-
 TIC, NIC, or ions.
 
 _Negative mode_: 703.669 or 746.711
