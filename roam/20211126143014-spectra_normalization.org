@@ -2,4 +2,14 @@
 :ID:       5636efa1-0947-4ff7-a6de-e1e25631ec11
 :END:
 #+title: Spectra normalization
+[[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:bef83f14-66c4-4c3f-8adb-5d0084987f17][Visualization]]
 
+TIC, NIC, or ions.
+
+_Negative mode_: 703.669 or 746.711
+
+_Positive mode_:
+- H+: 790.773
+- Na+: 812.7540
+- K+: 828.7287
+  
