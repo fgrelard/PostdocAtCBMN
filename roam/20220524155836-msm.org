@@ -25,8 +25,19 @@ Count the number of objects with 4 connectivity.
 Then $\rho_{chaos} = 1 - \dfrac{\sum_{nlevels} n_{objects}}{n_{pixels} * n_{levels}}$
 
 * Spectral isotope measure
+Average difference between normalized predicted isotope ratios and normalized measured intensities. First, vectors are normalized by their L2-norm. Then, the average of the ion image associated is computed.
+Vectors theoretical: $T = [t_1, t_2, ..., t_n]$
+Vectors measured: $O = [o_1, o_2, ..., o_n]$
+
+Then $\rho_{spectral} = 1 - \frac{1}{n} \sum \| O - T \|_1$
 
 * Spatial isotope measure
 Weighted average of Pearson correlation between ion image of most intense peak $b_1$ and all others $b_i$. Correlation is weighted by $\alpha_i$ the relative abundance of the peak (w.r.t. the largest peak?)
 
 $\rho_{spatial} = \dfrac{1}{\sum{\alpha_i}} \sum \alpha_i corr(b_1, b_i)$
+
+* MSM
+Combination of the measures:
+\[
+MSM = \rho_{chaos} * \rho_{spectral} * \rho_{spatial}
+\]
