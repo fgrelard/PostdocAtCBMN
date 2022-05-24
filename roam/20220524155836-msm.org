@@ -22,7 +22,7 @@ Modified version of [[cite:&Alexandrov_2013]]. Several thresholds. Extract objec
 
 Count the number of objects with 4 connectivity.
 
-Then $\rho_{chaos} = 1 - \dfrac{\sum_{nlevels} n_{objects}}{n_{pixels} * n_{levels}}$
+Then $\rho_{chaos} = 1 - \dfrac{\sum_{levels} n_{objects}}{n_{pixels} * n_{levels}}$
 
 * Spectral isotope measure
 Average difference between normalized predicted isotope ratios and normalized measured intensities. First, vectors are normalized by their L2-norm. Then, the average of the ion image associated is computed.
