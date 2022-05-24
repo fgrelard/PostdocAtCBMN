@@ -17,3 +17,8 @@ MSM is computed by multiplying:
 The MSM of 1 quantifies the maximal likelihood of the signal to correspond to the ion.
 
    
+Spatial chaos is a modified version of [[cite:&Alexandrov_2013]]. Several thresholds. Extract objects. Objects shrink in size as threshold increases. Inspired by persistent homology.
+
+Count the number of objects with 4 connectivity.
+
+Then $\rho_{chaos} = 1 - \dfrac{\sum_{nlevels} n_{objects}}{n_{pixels} * n_{levels}}$
