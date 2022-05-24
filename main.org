@@ -158,6 +158,14 @@ CLOSED: [2022-03-30 Wed 13:50]
 **** DONE Synchronize cursor position when views are linked
 CLOSED: [2022-03-30 Wed 16:08]
 ~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::fd45577ace9ada747dd8703a38f16be97f00ba6a][fd45577 Update crosshair when linking views]]
+**** TODO Normalization [2/3]
+***** DONE TIC
+CLOSED: [2022-04-08 Fri 10:54]
+~COMMIT~: [[orgit-rev:~/src/Esmraldi/.git/::28aaee0da41f2ba6a78370b9afd26106a912c502][28aaee0 TIC normalization]]
+***** DONE Ion
+CLOSED: [2022-04-08 Fri 10:54]
+~COMMIT:~  [[orgit-rev:~/src/Esmraldi/.git/::88a87a2a66db577083e5788150c5cef14526947a][88a87a2 Normalization image]]
+***** TODO Normalization cut-off
 **** Bug fixes [4/4]
 ***** DONE Fix ~Combobox~ selection
 CLOSED: [2021-11-09 Tue 11:52]
@@ -196,11 +204,13 @@ CLOSED: [2021-10-26 Tue 16:30]
 **** DONE Control intensity thresholds
 CLOSED: [2021-10-31 Sun 16:29]
 **** DONE Overlay a ROI from another image
-CLOSED: [2022-05-24 Tue 14:41]
+CLOSED: [2022-04-08 Fri 10:59]
+~COMMIT:~ [[orgit-rev:~/src/Esmraldi/.git/::1881bb86508505fcf9b79a0a0db7302559ff7988][1881bb8 Image as ROI]]
+**** TODO Image overlay without removing all intensities
 
 *** Functionality frames
 *** Progress bars
-**** TODO Rework the code to integrate the  ~yield~ statement in order to avoid rewriting the library.
+**** TODO Rework the code to integrate the ~yield~ statement in order to avoid rewriting the library.
 
 ** Segmentation
 We wish to extract regions or subsets of an image to apply on the MS images.
@@ -258,6 +268,7 @@ Interaction: click on a pixel cluster => shows spectral signature.
 ***** k-means
 ***** [[id:5c8cf7c3-c5f6-4e3c-b5a5-b839084d2846][Spatially aware clustering]]
 ***** Hierarchical clustering
+**** Find new distributions
 *** Class prediction
 **** PLS
 Predict MSI with other modality
