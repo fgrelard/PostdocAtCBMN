@@ -237,6 +237,9 @@ CLOCK: [2021-11-08 Mon 16:50]--[2021-11-08 Mon 18:05] =>  1:15
 ** Correlation
 Joint statistical analysis
 *** Class discovery
+**** Visualization
+Visualize ion distributions using [[id:2d3cbfa7-8639-4714-b1b6-4ab09782439b][graph layouts]].
+***** TODO Compare with MDS representation.
 **** Dimension reduction
 Implement dimension reduction methods in the GUI. Need for interaction:
 1. Interaction with a component image
