@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7e8d705b-b24a-4602-b684-3efacf146414
+:ROAM_ALIASES: "Metabolite-Signal Match"
+:END:
+#+title: MSM
+
+Combines spectral and spatial measures.
+
+1. For an ion, generate its isotopic pattern.
+2. Extract ion images associated to all isotopic peaks.
+
+MSM is computed by multiplying:
+1. measure of [[id:aae16ce7-a4ca-4dc3-a612-7be5667a3dbb][spatial chaos]]: spatial informativeness within the principal peak.
+2. Spectral isotope measure: quantifies spectral similarity between a theoretical isotopic patten and relative sampled isotopic intensities
+3. Spatial isotope measure: quantifies spatial colocalization between isotopic ion images.
+
+The MSM of 1 quantifies the maximal likelihood of the signal to correspond to the ion.
+
+   
