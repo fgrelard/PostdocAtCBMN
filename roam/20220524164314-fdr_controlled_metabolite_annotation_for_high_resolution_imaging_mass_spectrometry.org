@@ -52,7 +52,8 @@ _Decoy set_: Set of ions for the same formulas but with implausible ion adduct t
 
 Compute MSM for each ion of each set.
 Combine and sort MSM values = $MSM'$.
-Estimate the number of values below threshold, for each set. Threshold starting at $MSM'_{n-1}$, then decreasing at each iteration $MSM'_{n-2}$ etc..
+Estimate the number of values below threshold, for each set $MSM_{decoy}$ and $MSM_{target}$. Threshold starting at $MSM'_{n-1}$, then decreasing at each iteration $MSM'_{n-2}$ etc..
 Compute the $FDR = \dfrac{n_{decoy}}{n_{target}}$.
-The lowest threshold giving FDR < Desired FDR is kept.
+The lowest threshold $t$ giving FDR < Desired FDR is kept.
+If $MSM_{target} > t$, then the associated ion is kept, and is supposed to be below the desired FDR.
 
