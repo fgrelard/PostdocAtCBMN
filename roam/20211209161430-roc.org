@@ -12,9 +12,8 @@ FPR=pixels outside ROI (0) incorrectly identified
 
 Usually, the intensities are partitioned in bins.
 
-We sort each value in ascending order.
-We check whether each pixel is above this value. This gives a binary array (True or False).
-We compare this array to the binary mask corresponding to the ROI, using FPR and TPR.
+We sort each value in ascending order. Each value is a threshold, and yields a binary array (below/above this threshold).
+We compute the FPR and TPR for each binary array, by using the theoretical mask (=ROI).
 Then we plot TPR=f(FPR) = ROC Curve.
 
 Then we can obtain the [[id:4b382e44-cf4e-4ca2-8559-36facd18f213][AUC]], giving ions that are specifically distributed in the area.
