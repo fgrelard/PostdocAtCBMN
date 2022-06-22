@@ -15,10 +15,8 @@ We want to extract only spatially coherent ion images.
 #+ATTR_ORG: :width 200
 [[file:~/org/fig/dispersion_noise-1.png]]  [[file:~/org/fig/dispersion_off-1.png]]  [[file:~/org/fig/dispersion_coherent-1.png]]
 
-Multiple thresholded versions of the images.
-
-
-Computation of the distances between center of mass and all thresholded points: $D$.
+1. Multiple thresholded versions of the images.
+2. Computation of the distances between center of mass and all thresholded points: $D$.
 
 On the binary images, two criterions:
 - *Dispersion* criterion: standard deviation of $D$.
