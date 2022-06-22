@@ -249,7 +249,11 @@ Joint statistical analysis
 *** Class discovery
 **** Visualization
 Visualize ion distributions using [[id:2d3cbfa7-8639-4714-b1b6-4ab09782439b][graph layouts]].
-***** TODO Compare with MDS representation.
+***** DONE Integration with hierarchical clustering
+CLOSED: [2022-06-22 Wed 11:20]
+***** DONE Compare with MDS representation.
+CLOSED: [2022-06-22 Wed 11:18]
+***** TODO Compare various similarity metrics: cosine, correlation, Euclidean distance
 **** Dimension reduction
 Implement dimension reduction methods in the GUI. Need for interaction:
 1. Interaction with a component image
@@ -267,14 +271,20 @@ Implement clustering algorithms.
 Interaction: click on a pixel cluster => shows spectral signature.
 ***** k-means
 ***** [[id:5c8cf7c3-c5f6-4e3c-b5a5-b839084d2846][Spatially aware clustering]]
-***** Hierarchical clustering
+***** DONE Hierarchical clustering
+CLOSED: [2022-06-22 Wed 11:20]
 **** Find new distributions
+Discriminate images based on a dispersion criterion.
+***** 
 *** Class prediction
 **** PLS
 Predict MSI with other modality
 *** Univariate analysis
 Class comparison: compare two regions and find if they are statistically different in terms of intensities, for a given ion.
-**** Extract intensities in delineated regions
+**** DONE Extract intensities in delineated regions
+CLOSED: [2022-06-22 Wed 11:20]
+**** DONE ROC analysis
+CLOSED: [2022-06-22 Wed 11:20]
 **** Volcano plot
 ** Miscellaneous
 *** Crop MS images
