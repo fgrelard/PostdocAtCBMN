@@ -3,7 +3,7 @@
 :END:
 #+title: Dispersion criterion
 
-[[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]]
+[[id:fc865bc6-4c84-4d9f-8d67-21980ff47424][MSI]] [[id:0e94cff9-50fa-425c-b0fc-a35bdb16cd0d][Statistical analysis]] 
 
 Criterion to discriminate ion images depending on the ion image type:
 - Offsample
@@ -15,4 +15,10 @@ We want to extract only spatially coherent ion images.
 #+ATTR_ORG: :width 200
 [[file:~/org/fig/dispersion_noise-1.png]]  [[file:~/org/fig/dispersion_off-1.png]]  [[file:~/org/fig/dispersion_coherent-1.png]]
 
+Multiple thresholded versions of the images.
 
+Computation of the distances between center of mass and all thresholded points: $D$.
+
+On the binary images, two criterions:
+- *Dispersion* criterion: standard deviation of $D$.
+- *Offsample* criterion: minmum distance in $D$.
