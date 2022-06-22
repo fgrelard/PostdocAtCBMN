@@ -17,8 +17,9 @@ We want to extract only spatially coherent ion images.
 
 Multiple thresholded versions of the images.
 
+
 Computation of the distances between center of mass and all thresholded points: $D$.
 
 On the binary images, two criterions:
 - *Dispersion* criterion: standard deviation of $D$.
-- *Offsample* criterion: minmum distance in $D$.
+- *Offsample* criterion: minimum distance in $D$.
